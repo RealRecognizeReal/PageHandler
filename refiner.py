@@ -4,12 +4,15 @@ def prepare(source):
     # erase style tag
     # \displaystyle, \scriptstyle
 
-    remv = ["\displaystyle", "\scriptstyle"]
+    remv = ["\displaystyle", "\scriptstyle", "\\textstyle"]
     for rem in remv:
         source = source.replace(rem, "")
+    source = source.replace("\\dfrac", "\\frac")
+    source = source.replace("\\tfrac", "\\frac")
     source = source.replace("  ", " ")
     source = source.replace("{ {", "{{")
     source = source.replace("} }", "}}")
+    source = source.replace("\\", "\\\\")
     return source 
 
 def handle(source):
