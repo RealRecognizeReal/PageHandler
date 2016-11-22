@@ -20,6 +20,7 @@ except:
 db = con.alan # db name
 dbdata = db.page # collection name
 dberr = db.errformula # collection name (for error)
+core = 10
 
 # function declaration
 
@@ -89,7 +90,7 @@ def doWork(_id, _jobQ):
             except:
                 continue
 
-        print("<<<< jworker (" + str(_id) + ") has finished one task >>>")
+        print("<<<< jworker (" + str(_id) + ") has finished one task >>>>")
 
     print("<<< jworker (" + str(_id) + ") has finished completely >>")
 
@@ -126,39 +127,37 @@ except:
     fp.write(str(0))
     fp.close()
 
-idx = 0
-
-while idx < 1:
+while idx < 10:
     # _id, formulas(latex), mathml, pageUrl(url), pageTitle(title), formulasNumber
-    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*5).limit(5);
+    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*40).limit(40);
 
     rawQ = getRawQ(data)
     jobQ = Queue.Queue()
-    qworker = [myQWorker]*4
+    qworker = [myQWorker]*core
 
     print("<<< make job Q >>>")
 
-    for i in range(0, 4):
+    for i in range(0, core):
         qworker[i] = myQWorker(i+1, rawQ, jobQ)
         qworker[i].start()
 
     while rawQ.empty() == False:
         continue
 
-    for i in range(0, 4):
+    for i in range(0, core):
         qworker[i].join()
 
     print("<<< " + str(idx) + " Job is started")
  
-    jworker = [myJWorker]*4
-    for i in range(0, 4):
+    jworker = [myJWorker]*core
+    for i in range(0, core):
         jworker[i] = myJWorker(i+1, jobQ)
         jworker[i].start()
 
     while jobQ.empty() == False:
        continue
 
-    for i in range(0, 4):
+    for i in range(0, core):
        jworker[i].join()
 
     print("<<< " + str(idx) + " Job is finished")
