@@ -20,7 +20,8 @@ except:
 db = con.alan # db name
 dbdata = db.page # collection name
 dberr = db.errformula # collection name (for error)
-core = 10
+core = 12
+limit = 120
 
 # function declaration
 
@@ -52,7 +53,7 @@ def doMakeJobQ(_id, _rawQ, _jobQ):
     print("<<<< qworker (" + str(_id) + ") is started >>>>")
 
     task = 0
-    formula = 0
+    tformula = 0
 
     while _rawQ.empty() == False:
         datum = _rawQ.get()
@@ -71,9 +72,9 @@ def doMakeJobQ(_id, _rawQ, _jobQ):
             _jobQ.put(element)
             _fid = _fid + 1
 
-            formula = formula + 1
+            tformula = tformula + 1
 
-    print("<<<< qworker (" + str(_id) + ") is has finished " + str(task) + " tasks(total " + str(formula) + " formula(s)) >>>>")
+    print("<<<< qworker (" + str(_id) + ") is has finished " + str(task) + " tasks(total " + str(tformula) + " formula(s)) >>>>")
 
 def doWork(_id, _jobQ):
 
@@ -140,11 +141,15 @@ except:
     fp.write(str(0))
     fp.close()
 
-while idx < 10:
+while idx < limit:
     # _id, formulas(latex), mathml, pageUrl(url), pageTitle(title), formulasNumber
     data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*40).limit(40);
 
     rawQ = getRawQ(data)
+
+    if rawQ.qsize() < 40:
+        break
+
     jobQ = Queue.Queue()
     qworker = [myQWorker]*core
 
