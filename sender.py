@@ -39,7 +39,7 @@ def doPost(_normalizedMathml, _pageTitle, _pageUrl, _content):
     _data = {"nomarlizedMathml" : _normalizedMathml, "pageTitle" : _pageTitle, "pageUrl" : _pageUrl, "content" : _content}
     _data = json.dumps(_data);
     res = requests.post(url, data=_data, headers=_headers)
-    return res.content
+    return res.status_code
 
 def getRawQ(_data):
     rawQ = Queue.Queue()
@@ -78,10 +78,11 @@ def doWork(_id, _jobQ):
         ltx = datum["ltx"]
         mathml = datum["mathml"]
         _fid = datum["_fid"]
+        content = datum["content"]
 
         try:
             doPost(latex2mathml.converter.convert(refiner.handle(ltx)), title, url, content)
-            doPost(formula["mathml"], title, url, content)
+            doPost(mathml, title, url, content)
         except:
             try:
                 dberr.insert({"url" : url, "title" : title, "ltx" : ltx, "_fid" : _fid})
@@ -125,9 +126,11 @@ except:
     fp.write(str(0))
     fp.close()
 
-while idx < 2:
+idx = 0
+
+while idx < 1:
     # _id, formulas(latex), mathml, pageUrl(url), pageTitle(title), formulasNumber
-    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*20).limit(20);
+    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*5).limit(5);
 
     rawQ = getRawQ(data)
     jobQ = Queue.Queue()
