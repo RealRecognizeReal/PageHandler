@@ -26,44 +26,70 @@ def doPost(_normalizedMathml, _pageTitle, _pageUrl, _content):
     res = requests.post(url, data=_data, headers=_headers)
     return res.content
 
-def getJobQ(_data):
-    JobQ = Queue.Queue()
+def getRawQ(_data):
+    rawQ = Queue.Queue()
     for datum in _data:
-        JobQ.put(datum)
-    return JobQ
+        rawQ.put(datum)
+    return rawQ
 
-def doWork(_jobQ, _id):
+def doMakeJobQ(_id, _rawQ, _jobQ):
+    print("<<< qworker (" + str(_id) + ") is started >>>")
 
-    print("<<< worker (" + str(_id) + ") is started >>>")
-
-    while _jobQ.empty() == False:
-        datum = _jobQ.get()
-        print(str(_id) + " allocated to " + str(datum["_id"]))
+    while _rawQ.empty() == False:
+        datum = _rawQ.get()
+        print(str(_id) + " is processing with " + str(datum["_id"]))
         url = datum["url"]
         title = datum["title"]
         formulas = datum["formulas"]
         content = getHtml(url)
         for formula in formulas:
             ltx = formula["latex"]
+            mathml = formula["mathml"]
+            element = {"url" : url, "title" : title, "ltx" : ltx, "mathml" : mathml, "content" : content}
+            _jobQ.put(element)
+ 
+    print("<<< qworker (" + str(_id) + ") is finished >>>")
+
+def doWork(_id, _jobQ):
+
+    print("<<< jworker (" + str(_id) + ") is started >>>")
+
+    while _jobQ.empty() == False:
+        datum = _jobQ.get()
+        url = datum["url"]
+        title = datum["title"]
+        ltx = datum["ltx"]
+        mathml = datum["mathml"]
+
+        try:
+            doPost(latex2mathml.converter.convert(refiner.handle(ltx)), title, url, content)
+            doPost(formula["mathml"], title, url, content)
+        except:
             try:
-                ltx = refiner.handle(ltx)
-                doPost(latex2mathml.converter.convert(ltx), title, url, content)
-                doPost(formula["mathml"], title, url, content)
+                dberror.insert({"url" : url, "title" : title, "ltx" : ltx})
             except:
-                try:
-                    dberror.insert({"url" : url, "title" : title, "ltx" : formula["latex"]})
-                except:
-                    continue
+                continue
 
-    print("<<< worker (" + str(_id) + ") is finished completely >>")
+        print("<<<< jworker (" + str(_id) + ") has finished one task >>>")
 
-class myWorker (threading.Thread):
+    print("<<< jworker (" + str(_id) + ") has finished completely >>")
+
+class myQWorker (threading.Thread):
+    def __init__(self, threadID, rawQ, jobQ):
+        threading.Thread.__init__(self)
+        self.threadID = threadID
+        self.rawQ = rawQ
+        self.jobQ = jobQ
+    def run(self):
+        doMakeJobQ(self.threadID, self.rawQ, self.jobQ)
+
+class myJWorker (threading.Thread):
     def __init__(self, threadID, jobQ):
         threading.Thread.__init__(self)
         self.threadID = threadID
         self.jobQ = jobQ
     def run(self):
-        doWork(jobQ, self.threadID)
+        doWork(self.threadID, self.jobQ)
 
 # for settings
 
@@ -93,38 +119,41 @@ except:
 
 while idx < 2:
     # _id, formulas(latex), mathml, pageUrl(url), pageTitle(title), formulasNumber
+    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*10).limit(10);
+
+    rawQ = getRawQ(data)
+    jobQ = Queue.Queue()
+    qworker = [myQWorker]*4
+
+    print("<<< make job Q >>>")
+
+    for i in range(0, 4):
+        qworker[i] = myQWorker(i+1, rawQ, jobQ)
+        qworker[i].start()
+
+    while rawQ.empty() == False:
+        continue
+
+    for i in range(0, 4):
+        qworker[i].join()
+
     print("<<< " + str(idx) + " Job is started")
-    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*6).limit(6);
-    jobQ = getJobQ(data)
-
-    worker1 = myWorker(1, jobQ)
-    worker2 = myWorker(2, jobQ)
-    worker3 = myWorker(3, jobQ)
-    worker4 = myWorker(4, jobQ)
-    worker5 = myWorker(5, jobQ)
-    worker6 = myWorker(6, jobQ)
-
-    worker1.start()
-    worker2.start()
-    worker3.start()
-    worker4.start()
-    worker5.start()
-    worker6.start()
+ 
+    jworker = [myJWorker]*4
+    for i in range(0, 4):
+        jworker[i] = myJWorker(i+1, jobQ)
+        jworker[i].start()
 
     while jobQ.empty() == False:
        continue
+
+    for i in range(0, 4):
+       jworker[i].join()
 
     print("<<< " + str(idx) + " Job is finished")
     idx = idx + 1
     fp = open("index.dat", "w")
     fp.write(str(idx))
     fp.close()
-
-    worker1.join()
-    worker2.join()
-    worker3.join()
-    worker4.join()
-    worker5.join()
-    worker6.join()
 
 con.close()
