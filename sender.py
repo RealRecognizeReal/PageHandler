@@ -49,7 +49,10 @@ def getRawQ(_data):
     return rawQ
 
 def doMakeJobQ(_id, _rawQ, _jobQ):
-    print("<<< qworker (" + str(_id) + ") is started >>>")
+    print("<<<< qworker (" + str(_id) + ") is started >>>>")
+
+    task = 0
+    formula = 0
 
     while _rawQ.empty() == False:
         datum = _rawQ.get()
@@ -58,6 +61,9 @@ def doMakeJobQ(_id, _rawQ, _jobQ):
         title = datum["title"]
         formulas = datum["formulas"]
         content = getHtml(url)
+
+        task = task + 1
+
         _fid = 0
         for formula in formulas:
             ltx = formula["latex"]
@@ -66,11 +72,13 @@ def doMakeJobQ(_id, _rawQ, _jobQ):
             _jobQ.put(element)
             _fid = _fid + 1
 
-    print("<<< qworker (" + str(_id) + ") is finished >>>")
+            formula = formula + 1
+
+    print("<<<< qworker (" + str(_id) + ") is has finished " + str(task) + " tasks(" + str(formula) + " formula(s) >>>>")
 
 def doWork(_id, _jobQ):
 
-    print("<<< jworker (" + str(_id) + ") is started >>>")
+    print("<<<< jworker (" + str(_id) + ") is started >>>>")
     task = 0
 
     while _jobQ.empty() == False:
@@ -98,7 +106,7 @@ def doWork(_id, _jobQ):
 
         task = task+1
 
-    print("<<< jworker (" + str(_id) + ") has finished " + str(task) + " task(s) completely >>")
+    print("<<<< jworker (" + str(_id) + ") has finished " + str(task) + " task(s) completely >>>>")
 
 # object declaration
 
@@ -133,7 +141,7 @@ except:
     fp.write(str(0))
     fp.close()
 
-while idx < 1:
+while idx < 10:
     # _id, formulas(latex), mathml, pageUrl(url), pageTitle(title), formulasNumber
     data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*40).limit(40);
 
@@ -153,7 +161,7 @@ while idx < 1:
     for i in range(0, core):
         qworker[i].join()
 
-    print("<<< " + str(idx) + " Job is started")
+    print("<<< " + str(idx) + " Job is started >>>")
 
     jworker = [myJWorker]*core
     for i in range(0, core):
@@ -166,7 +174,7 @@ while idx < 1:
     for i in range(0, core):
         jworker[i].join()
 
-    print("<<< " + str(idx) + " Job is finished")
+    print("<<< " + str(idx) + " Job is finished >>>")
     idx = idx + 1
     fp = open("index.dat", "w")
     fp.write(str(idx))
