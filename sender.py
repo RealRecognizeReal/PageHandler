@@ -71,6 +71,7 @@ def doMakeJobQ(_id, _rawQ, _jobQ):
 def doWork(_id, _jobQ):
 
     print("<<< jworker (" + str(_id) + ") is started >>>")
+    task = 0
 
     while _jobQ.empty() == False:
         datum = _jobQ.get()
@@ -90,9 +91,9 @@ def doWork(_id, _jobQ):
             except:
                 continue
 
-        print("<<<< jworker (" + str(_id) + ") has finished one task >>>>")
+        task = task+1
 
-    print("<<< jworker (" + str(_id) + ") has finished completely >>")
+    print("<<< jworker (" + str(_id) + ") has finished " + str(task) + " task(s) completely >>")
 
 # object declaration
 
