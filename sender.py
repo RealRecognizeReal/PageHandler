@@ -56,7 +56,6 @@ def doMakeJobQ(_id, _rawQ, _jobQ):
 
     while _rawQ.empty() == False:
         datum = _rawQ.get()
-        print(str(_id) + " is processing with " + str(datum["_id"]))
         url = datum["url"]
         title = datum["title"]
         formulas = datum["formulas"]
@@ -74,7 +73,7 @@ def doMakeJobQ(_id, _rawQ, _jobQ):
 
             formula = formula + 1
 
-    print("<<<< qworker (" + str(_id) + ") is has finished " + str(task) + " tasks(" + str(formula) + " formula(s) >>>>")
+    print("<<<< qworker (" + str(_id) + ") is has finished " + str(task) + " tasks(total " + str(formula) + " formula(s)) >>>>")
 
 def doWork(_id, _jobQ):
 
