@@ -2,19 +2,18 @@ import refiner
 import json
 import requests
 import pymongo
-import urllib
+import urllib2
 import latex2mathml.converter
 import Queue
 import threading
 import sys
-from bs4 import BeautifulSoup
 
 def getHtml(pageUrl):
     try:
-        fp = urllib.urlopen(pageUrl, timeout=5) # in 5 seconds
-        raw = fp.read()
+        fp = urllib2.urlopen(pageUrl, timeout=5)
+        source = fp.read()
         fp.close()
-        return BeautifulSoup(raw, "html.parser")
+        return source
     except:
         return "None"
     return "None"
@@ -94,7 +93,8 @@ except:
 
 while idx < 2:
     # _id, formulas(latex), mathml, pageUrl(url), pageTitle(title), formulasNumber
-    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*40).limit(40);
+    print("<<< " + str(idx) + " Job is started")
+    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*6).limit(6);
     jobQ = getJobQ(data)
 
     worker1 = myWorker(1, jobQ)
@@ -112,11 +112,19 @@ while idx < 2:
     worker6.start()
 
     while jobQ.empty() == False:
-        continue
+       continue
 
+    print("<<< " + str(idx) + " Job is finished")
     idx = idx + 1
-    fp = open("index.dat", "r")
+    fp = open("index.dat", "w")
     fp.write(str(idx))
     fp.close()
+
+    worker1.join()
+    worker2.join()
+    worker3.join()
+    worker4.join()
+    worker5.join()
+    worker6.join()
 
 con.close()
