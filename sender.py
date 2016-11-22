@@ -8,6 +8,21 @@ import Queue
 import threading
 import sys
 
+# for settings
+
+try:
+    con = pymongo.MongoClient("slb-283692.ncloudslb.com", 27017)
+    # con = pymongo.MongoClient("127.0.0.1", 30001)
+except:
+    print("<<< db connection error >>>")
+    sys.exit()
+
+db = con.alan # db name
+dbdata = db.page # collection name
+dberr = db.errformula # collection name (for error)
+
+# function declaration
+
 def getHtml(pageUrl):
     try:
         fp = urllib2.urlopen(pageUrl, timeout=5)
@@ -42,11 +57,13 @@ def doMakeJobQ(_id, _rawQ, _jobQ):
         title = datum["title"]
         formulas = datum["formulas"]
         content = getHtml(url)
+        _fid = 0
         for formula in formulas:
             ltx = formula["latex"]
             mathml = formula["mathml"]
-            element = {"url" : url, "title" : title, "ltx" : ltx, "mathml" : mathml, "content" : content}
+            element = {"url" : url, "title" : title, "ltx" : ltx, "mathml" : mathml, "content" : content, "_fid" : _fid}
             _jobQ.put(element)
+            _fid = _fid + 1
  
     print("<<< qworker (" + str(_id) + ") is finished >>>")
 
@@ -60,19 +77,22 @@ def doWork(_id, _jobQ):
         title = datum["title"]
         ltx = datum["ltx"]
         mathml = datum["mathml"]
+        _fid = datum["_fid"]
 
         try:
             doPost(latex2mathml.converter.convert(refiner.handle(ltx)), title, url, content)
             doPost(formula["mathml"], title, url, content)
         except:
             try:
-                dberror.insert({"url" : url, "title" : title, "ltx" : ltx})
+                dberr.insert({"url" : url, "title" : title, "ltx" : ltx, "_fid" : _fid})
             except:
                 continue
 
         print("<<<< jworker (" + str(_id) + ") has finished one task >>>")
 
     print("<<< jworker (" + str(_id) + ") has finished completely >>")
+
+# object declaration
 
 class myQWorker (threading.Thread):
     def __init__(self, threadID, rawQ, jobQ):
@@ -91,19 +111,7 @@ class myJWorker (threading.Thread):
     def run(self):
         doWork(self.threadID, self.jobQ)
 
-# for settings
-
-try:
-    con = pymongo.MongoClient("slb-283692.ncloudslb.com", 27017)
-    # con = pymongo.MongoClient("127.0.0.1", 30001)
-except:
-    print("<<< db connection error >>>")
-    sys.exit()
-
-
-db = con.alan # db name
-dbdata = db.page # collection name
-dberror = db.errpage # collection name (for error)
+# my logic
 
 idx = 0
 
@@ -119,7 +127,7 @@ except:
 
 while idx < 2:
     # _id, formulas(latex), mathml, pageUrl(url), pageTitle(title), formulasNumber
-    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*10).limit(10);
+    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*20).limit(20);
 
     rawQ = getRawQ(data)
     jobQ = Queue.Queue()
