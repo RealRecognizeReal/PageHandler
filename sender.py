@@ -65,7 +65,7 @@ def doMakeJobQ(_id, _rawQ, _jobQ):
             element = {"url" : url, "title" : title, "ltx" : ltx, "mathml" : mathml, "content" : content, "_fid" : _fid}
             _jobQ.put(element)
             _fid = _fid + 1
- 
+
     print("<<< qworker (" + str(_id) + ") is finished >>>")
 
 def doWork(_id, _jobQ):
@@ -83,6 +83,11 @@ def doWork(_id, _jobQ):
         content = datum["content"]
 
         try:
+            if content == "None": # request time out
+                try:
+                    dberr.insert({"url" : url, "title" : title, "ltx" : ltx, "_fid" : _fid})
+                except:
+                    continue
             doPost(latex2mathml.converter.convert(refiner.handle(ltx)), title, url, content)
             doPost(mathml, title, url, content)
         except:
@@ -128,7 +133,7 @@ except:
     fp.write(str(0))
     fp.close()
 
-while idx < 10:
+while idx < 1:
     # _id, formulas(latex), mathml, pageUrl(url), pageTitle(title), formulasNumber
     data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*40).limit(40);
 
@@ -149,17 +154,17 @@ while idx < 10:
         qworker[i].join()
 
     print("<<< " + str(idx) + " Job is started")
- 
+
     jworker = [myJWorker]*core
     for i in range(0, core):
         jworker[i] = myJWorker(i+1, jobQ)
         jworker[i].start()
 
     while jobQ.empty() == False:
-       continue
+        continue
 
     for i in range(0, core):
-       jworker[i].join()
+        jworker[i].join()
 
     print("<<< " + str(idx) + " Job is finished")
     idx = idx + 1
