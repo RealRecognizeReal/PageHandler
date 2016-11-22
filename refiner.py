@@ -29,9 +29,12 @@ def handle(source):
         if source[i] == '{':
             stk.append(i)
         elif source[i] == '}':
-            l = stk.pop()
-            r = i
-            pairs.append([l,r])
+            try:
+                l = stk.pop()
+                r = i
+                pairs.append([l,r])
+            except:
+                raise Exception
 
     plength = len(pairs)
 
