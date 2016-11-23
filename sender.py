@@ -94,6 +94,7 @@ def doWork(_id, _jobQ):
                     dberr.insert({"url" : url, "title" : title, "ltx" : ltx, "_fid" : _fid})
                 except:
                     continue
+                continue
             doPost(latex2mathml.converter.convert(refiner.handle(ltx)), title, url, content)
             doPost(mathml, title, url, content)
         except:
