@@ -20,8 +20,8 @@ except:
 db = con.alan # db name
 dbdata = db.page # collection name
 dberr = db.errformula # collection name (for error)
-core = 12
-limit = 120
+core = 16
+limit = 300
 
 # function declaration
 
@@ -50,7 +50,6 @@ def getRawQ(_data):
     return rawQ
 
 def doMakeJobQ(_id, _rawQ, _jobQ):
-    print("<<<< qworker (" + str(_id) + ") is started >>>>")
 
     task = 0
     tformula = 0
@@ -74,11 +73,10 @@ def doMakeJobQ(_id, _rawQ, _jobQ):
 
             tformula = tformula + 1
 
-    print("<<<< qworker (" + str(_id) + ") is has finished " + str(task) + " tasks(total " + str(tformula) + " formula(s)) >>>>")
+    print("qworker (" + str(_id) + ") is has finished " + str(task) + " tasks(total " + str(tformula) + " formula(s))")
 
 def doWork(_id, _jobQ):
 
-    print("<<<< jworker (" + str(_id) + ") is started >>>>")
     task = 0
 
     while _jobQ.empty() == False:
@@ -105,8 +103,6 @@ def doWork(_id, _jobQ):
                 continue
 
         task = task+1
-
-    print("<<<< jworker (" + str(_id) + ") has finished " + str(task) + " task(s) completely >>>>")
 
 # object declaration
 
@@ -153,8 +149,6 @@ while idx < limit:
     jobQ = Queue.Queue()
     qworker = [myQWorker]*core
 
-    print("<<< make job Q >>>")
-
     for i in range(0, core):
         qworker[i] = myQWorker(i+1, rawQ, jobQ)
         qworker[i].start()
@@ -165,7 +159,7 @@ while idx < limit:
     for i in range(0, core):
         qworker[i].join()
 
-    print("<<< " + str(idx) + " Job is started >>>")
+    print("Job " + str(idx) + " is started")
 
     jworker = [myJWorker]*core
     for i in range(0, core):
@@ -178,7 +172,7 @@ while idx < limit:
     for i in range(0, core):
         jworker[i].join()
 
-    print("<<< " + str(idx) + " Job is finished >>>")
+    print("Job " + str(idx) + " is finished")
     idx = idx + 1
     fp = open("index.dat", "w")
     fp.write(str(idx))
