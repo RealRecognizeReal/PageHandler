@@ -11,7 +11,8 @@ import sys
 # for settings
 
 try:
-    con = pymongo.MongoClient("slb-283692.ncloudslb.com", 27017)
+    con = pymongo.MongoClient("waps12b.iptime.org", 27017)
+    # con = pymongo.MongoClient("slb-283692.ncloudslb.com", 27017)
     # con = pymongo.MongoClient("127.0.0.1", 30001)
 except:
     print("<<< db connection error >>>")
