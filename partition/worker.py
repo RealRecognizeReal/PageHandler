@@ -3,7 +3,6 @@ import requester
 
 import latex2mathml.converter
 import pymongo
-
 import Queue
 import json
 import threading
@@ -12,8 +11,7 @@ import sys
 # for settings
 
 try:
-    con = pymongo.MongoClient("waps12b.iptime.org", 27017)
-    # con = pymongo.MongoClient("slb-283692.ncloudslb.com", 27017)
+    con = pymongo.MongoClient("slb-283692.ncloudslb.com", 27017)
     # con = pymongo.MongoClient("127.0.0.1", 30001)
 except:
     print("<<< db connection error >>>")
@@ -22,8 +20,8 @@ except:
 db = con.alan # db name
 dbdata = db.page # collection name
 dberr = db.errformula # collection name (for error)
-core = 32
-limit = 1
+core = 40
+limit = 50
 
 # function declaration
 
@@ -33,80 +31,84 @@ def getRawQ(_data):
         rawQ.put(datum)
     return rawQ
 
-def doMakeJobQ(_id, _rawQ, _jobQ):
-
-    task = 0
-    tformula = 0
-
-    while _rawQ.empty() == False:
-        datum = _rawQ.get()
-        url = datum["url"]
-        title = datum["title"]
-        formulas = datum["formulas"]
-        # content = requester.getHtml(url)
-
-        task = task + 1
-
-        _fid = 0
-        for formula in formulas:
-            ltx = formula["latex"]
-            mathml = formula["mathml"]
-            element = {"url" : url, "title" : title, "ltx" : ltx, "mathml" : mathml, "content" : content, "_fid" : _fid}
-            _jobQ.put(element)
-            _fid = _fid + 1
-
-            tformula = tformula + 1
-
-    print("qworker (" + str(_id) + ") is has finished " + str(task) + " tasks(total " + str(tformula) + " formula(s))")
-
-def doWork(_id, _jobQ):
-
-    task = 0
-
-    while _jobQ.empty() == False:
-        datum = _jobQ.get()
-        url = datum["url"]
-        title = datum["title"]
-        ltx = datum["ltx"]
-        mathml = datum["mathml"]
-        _fid = datum["_fid"]
-        content = datum["content"]
-
-        try:
-            if content == "None": # request time out
-                try:
-                    dberr.insert({"url" : url, "title" : title, "ltx" : ltx, "_fid" : _fid})
-                except:
-                    continue
-                continue
-            requester.doPost(latex2mathml.converter.convert(refiner.handle(ltx)), title, url, content)
-            requester.doPost(mathml, title, url, content)
-        except:
-            try:
-                dberr.insert({"url" : url, "title" : title, "ltx" : ltx, "_fid" : _fid})
-            except:
-                continue
-
-        task = task+1
-
 # object declaration
 
 class myQWorker (threading.Thread):
+
     def __init__(self, threadID, rawQ, jobQ):
         threading.Thread.__init__(self)
         self.threadID = threadID
         self.rawQ = rawQ
         self.jobQ = jobQ
+
+    def doWork(self, _id, _rawQ, _jobQ):
+
+        task = 0
+        tformula = 0
+
+        while _rawQ.empty() == False:
+            datum = _rawQ.get()
+            url = datum["url"]
+            title = datum["title"]
+            formulas = datum["formulas"]
+            task = task + 1
+            _fid = 0
+            tformula = tformula + datum["formulasNumber"]
+        
+            for formula in formulas:
+                ltx = formula["latex"]
+                mathml = formula["mathml"]
+                element = {"title" : title, "url" : url, "ltx" : ltx, "mathml" : mathml, "_fid" : _fid}
+                _jobQ.put(element)
+                _fid = _fid + 1
+
+            content = requester.getHtml(url)
+            try:
+                requester.doPagePost(title, url, content)
+            except:
+                try:
+                    dberr.insert({"title" : title, "url" : url, "content" : content, "type" : "P"})
+                except:
+                    continue
+
+        print("qworker (" + str(_id) + ") is has finished " + str(task) + " tasks(total " + str(tformula) + " formula(s))")
+
+    
     def run(self):
-        doMakeJobQ(self.threadID, self.rawQ, self.jobQ)
+        self.doWork(self.threadID, self.rawQ, self.jobQ)
 
 class myJWorker (threading.Thread):
+
     def __init__(self, threadID, jobQ):
         threading.Thread.__init__(self)
         self.threadID = threadID
         self.jobQ = jobQ
+   
+    def doWork(self, _id, _jobQ):
+
+        task = 0
+
+        while _jobQ.empty() == False:
+            datum = _jobQ.get()
+            url = datum["url"]
+            title = datum["title"]
+            ltx = datum["ltx"]
+            mathml = datum["mathml"]
+            _fid = datum["_fid"]
+
+            try:
+                requester.doFormulaPost(title, url, latex2mathml.converter.convert(refiner.handle(ltx)))
+                requester.doFormulaPost(title, url, mathml)
+            except:
+                try:
+                    dberr.insert({"title" : title, "url" : url, "ltx" : ltx, "_fid" : _fid, "type" : "F"})
+                except:
+                    continue
+
+            task = task+1
+
     def run(self):
-        doWork(self.threadID, self.jobQ)
+        self.doWork(self.threadID, self.jobQ)
 
 # my logic
 
@@ -124,7 +126,7 @@ except:
 
 while idx < limit:
     # _id, formulas(latex), mathml, pageUrl(url), pageTitle(title), formulasNumber
-    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*20).limit(20);
+    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*80).limit(80);
 
     rawQ = getRawQ(data)
 
