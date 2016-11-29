@@ -19,9 +19,9 @@ except:
 
 db = con.alan # db name
 dbdata = db.page # collection name
-dberr = db.errformula # collection name (for error)
-core = 40
-limit = 50
+dberr = db.errpage # collection name (for error)
+core = 20
+limit = 10
 
 # function declaration
 
@@ -126,7 +126,7 @@ except:
 
 while idx < limit:
     # _id, formulas(latex), mathml, pageUrl(url), pageTitle(title), formulasNumber
-    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*80).limit(80);
+    data = dbdata.find({"formulasNumber" : {"$gt" : 0}}).skip(idx*32).limit(32);
 
     rawQ = getRawQ(data)
 

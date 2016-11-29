@@ -27,5 +27,6 @@ def doPagePost(pageTitle, pageUrl, content):
     url = "http://127.0.0.1:9200/engine/page"
     _headers = {"content-type" : "application/json"}
     _data = {"pageTitle" : pageTitle, "pageUrl" : pageUrl, "content" : content}
+    _data = json.dumps(_data);
     res = requests.post(url, data=_data, headers=_headers)
     return res.status_code
