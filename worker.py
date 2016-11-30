@@ -145,7 +145,8 @@ while idx < limit:
         continue
 
     for i in range(0, core):
-        qworker[i].join()
+        if qworker[i].isAlive():
+            qworker[i].join()
 
     print("Job " + str(idx) + " is started")
 
@@ -158,7 +159,8 @@ while idx < limit:
         continue
 
     for i in range(0, core):
-        jworker[i].join()
+        if jworker[i].isAlive():
+            jworker[i].join()
 
     print("Job " + str(idx) + " is finished")
     idx = idx + 1
