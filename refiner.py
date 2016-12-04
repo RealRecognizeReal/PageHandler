@@ -4,7 +4,7 @@ from Naked.toolshed.shell import muterun_js
 def prepare(source):
     # erase style tag
 
-    remv = ["\displaystyle", "\scriptstyle", "\\textstyle"]
+    remv = ["\\displaystyle", "\\scriptstyle", "\\textstyle"]
     for rem in remv:
         source = source.replace(rem, "")
     source = source.replace("\\dfrac", "\\frac")

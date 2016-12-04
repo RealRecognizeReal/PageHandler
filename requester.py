@@ -16,7 +16,7 @@ def getHtml(pageUrl):
     return "None"
 
 def doFormulaPost(pageTitle, pageUrl, normalizedMathml):
-    url = "http://127.0.0.1:9200/engine/formula"
+    url = "http://my-ela:9200/engine/formula"
     _headers = {"content-type" : "application/json"}
     _data = {"pageTitle" : pageTitle, "pageUrl" : pageUrl, "normalizedMathml" : normalizedMathml}
     _data = json.dumps(_data);
@@ -24,7 +24,7 @@ def doFormulaPost(pageTitle, pageUrl, normalizedMathml):
     return res.status_code
 
 def doPagePost(pageTitle, pageUrl, content):
-    url = "http://127.0.0.1:9200/engine/page"
+    url = "http://my-ela:9200/engine/page" # 127.0.0.1 (local)
     _headers = {"content-type" : "application/json"}
     _data = {"pageTitle" : pageTitle, "pageUrl" : pageUrl, "content" : content}
     _data = json.dumps(_data);

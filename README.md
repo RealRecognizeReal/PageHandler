@@ -17,3 +17,8 @@ for useful information
 
 ## corrector
 error handling (err database)
+
+## settings (python, node)
+
+node (7.2.0v)
+pip install requests pymongo Naked

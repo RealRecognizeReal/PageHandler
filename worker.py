@@ -18,8 +18,8 @@ except:
 db = con.alan # db name
 dbdata = db.page # collection name
 dberr = db.errpage # collection name (for error)
-core = 16
-limit = 700
+core = 8
+limit = 1
 dsize = 40
 
 # function declaration
