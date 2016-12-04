@@ -88,7 +88,7 @@ class myJWorker (threading.Thread):
             try:
                 requester.doFormulaPost(title, url, ltx)
                 requester.doFormulaPost(title, url, mathml)
-                rltx = refiner.handle(ltx)
+                rltx = refiner.prepare(ltx)
                 requester.doFormulaPost(title, url, rltx)
                 requester.doFormulaPost(title, url, refiner.convertLtxToMathml(rltx))
             except:
