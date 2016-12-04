@@ -20,5 +20,5 @@ error handling (err database)
 
 ## settings (python, node)
 
-node (7.2.0v)
+node (6.8.1v)
 pip install requests pymongo Naked

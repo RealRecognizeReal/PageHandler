@@ -17,6 +17,7 @@ def prepare(source):
 
 def convertLtxToMathml(ltx):
     
+    ltx = "'" + ltx + "'"
     proc = muterun_js("./nodelib/converter.js", ltx)
     if proc.exitcode == 0:
         if "<merror>" in proc.stdout:
