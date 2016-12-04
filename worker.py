@@ -1,18 +1,16 @@
 import refiner
 import requester
 
-import latex2mathml.converter
 import pymongo
 import Queue
 import json
 import threading
 import sys
 
-# for settings
+# for db connection settings
 
 try:
     con = pymongo.MongoClient("slb-283692.ncloudslb.com", 27017)
-    # con = pymongo.MongoClient("127.0.0.1", 30001)
 except:
     print("<<< db connection error >>>")
     raise Exception # ServerSelectionTimeoutError
@@ -21,7 +19,7 @@ db = con.alan # db name
 dbdata = db.page # collection name
 dberr = db.errpage # collection name (for error)
 core = 16
-limit = 1000
+limit = 700
 dsize = 40
 
 # function declaration
@@ -44,17 +42,12 @@ class myQWorker (threading.Thread):
 
     def doWork(self, _id, _rawQ, _jobQ):
 
-        task = 0
-        tformula = 0
-
         while _rawQ.empty() == False:
             datum = _rawQ.get()
             url = datum["url"]
             title = datum["title"]
             formulas = datum["formulas"]
-            task = task + 1
             _fid = 0
-            tformula = tformula + datum["formulasNumber"]
         
             for formula in formulas:
                 ltx = formula["latex"]
@@ -72,9 +65,6 @@ class myQWorker (threading.Thread):
                 except:
                     continue
 
-        print("qworker (" + str(_id) + ") is has finished " + str(task) + " tasks(total " + str(tformula) + " formula(s))")
-
-    
     def run(self):
         self.doWork(self.threadID, self.rawQ, self.jobQ)
 
@@ -87,8 +77,6 @@ class myJWorker (threading.Thread):
    
     def doWork(self, _id, _jobQ):
 
-        task = 0
-
         while _jobQ.empty() == False:
             datum = _jobQ.get()
             url = datum["url"]
@@ -98,15 +86,16 @@ class myJWorker (threading.Thread):
             _fid = datum["_fid"]
 
             try:
-                requester.doFormulaPost(title, url, latex2mathml.converter.convert(refiner.handle(ltx)))
+                requester.doFormulaPost(title, url, ltx)
                 requester.doFormulaPost(title, url, mathml)
+                rltx = refiner.handle(ltx)
+                requester.doFormulaPost(title, url, rltx)
+                requester.doFormulaPost(title, url, refiner.convertLtxToMathml(rltx))
             except:
                 try:
                     dberr.insert({"title" : title, "url" : url, "ltx" : ltx, "_fid" : _fid, "type" : "F"})
                 except:
                     continue
-
-            task = task+1
 
     def run(self):
         self.doWork(self.threadID, self.jobQ)
