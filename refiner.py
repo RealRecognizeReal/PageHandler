@@ -12,7 +12,8 @@ def prepare(source):
     source = source.replace("\\tbinom", "\\binom")
     source = source.replace("\\dbinom", "\\binom")
     source = source.replace("\\mybinom", "\\binom")
-    return source 
+    source = source.replace("'", "'\\''") # for node
+    return source
 
 def convertLtxToMathml(ltx):
     
@@ -25,3 +26,6 @@ def convertLtxToMathml(ltx):
             return proc.stdout
     else:
         raise Exception
+
+print(prepare("\\lim_{t\\to 0^+}\\frac{f(g(t))-f(x_0)}{t} = u(g'(0))."))
+print(convertLtxToMathml(prepare("\\lim_{t\\to 0^+}\\frac{f(g(t))-f(x_0)}{t} = u(g'(0)).")))
