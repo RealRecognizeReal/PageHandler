@@ -12,7 +12,6 @@ def prepare(source):
     source = source.replace("\\tbinom", "\\binom")
     source = source.replace("\\dbinom", "\\binom")
     source = source.replace("\\mybinom", "\\binom")
-    source = source.replace("  ", " ")
     return source 
 
 def convertLtxToMathml(ltx):
