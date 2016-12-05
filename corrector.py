@@ -1,7 +1,6 @@
 import refiner
 import requester
 
-import latex2mathml.converter
 import pymongo
 import Queue
 import json
@@ -24,6 +23,7 @@ dberr = db.errpage # collection name (for error)
 data = dberr.find().limit(5);
 
 success = 0
+success2 = 0
 
 for datum in data:
     _id = datum["_id"]
@@ -34,7 +34,9 @@ for datum in data:
         ltx = datum["ltx"]
         _fid = datum["_fid"]
         try:
-            # incomplete (now)
+            rltx = refiner.prepare(ltx)
+            requester.doFormulaPost(title, url, rltx)
+            requester.doFormulaPost(title, url, refiner.convertLtxToMathml(rltx))
             dberr.remove({"_id" : _id})
             success = success + 1
         except:
@@ -50,9 +52,11 @@ for datum in data:
         try:
             requester.doPagePost(title, url, content)
             dberr.remove({"_id" : _id})
+            success2 = success2 + 1
         except:
             continue
 
 con.close()
 
 print("Success : " + str(success))
+print("Success2 : " + str(success2))
