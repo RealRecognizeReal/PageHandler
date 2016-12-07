@@ -1,0 +1,319 @@
+gm={\mu  \over R_{p}}
+\underbrace {\underbrace {\mathrm {root+suffix} } _{\mathrm {stem} }+\mathrm {ending} } _{\mathrm {word} }
+\qquad\qquad R = a + bv + cv^2 
+{\frac {1}{12}}
+T=k*(SLOC)^{(1+x)}
+L=k\;S\;V^{2}\;C_{L}
+t={\frac {cPd^{2}s}{D}}
+{\mathit  {Re}}={\rho u_{{s}}^{2}/L \over \mu u_{{s}}/L^{2}}={\rho u_{{s}}L \over \mu }={u_{{s}}L \over \nu }
+Y
+\omega _{0}
+P_{n}
+\text{Quality} = \frac{\text{Results of work efforts}}{\text{Total costs}}
+P(event)={\frac  {{\text{number of outcomes in event}}}{{\text{number of outcomes in sample space}}}}
+F(i)=\sum _{{j=1}}^{i}f(j).
+f(n;b,c)\propto n^{{-b}}\exp(-c(\log n)^{2}),
+{\sqrt {2}}
+N_{2}={\frac {4n}{2m+2n-mn}}
+{ \lambda =1-q}
+z_{i}=\Phi ^{{-1}}\left({\frac  {i-a}{n+1-2a}}\right),
+\varphi 
+ \int_\mbox{this} \qquad \int_\text{this} 
+\wp 
+{\frac  {2^{n}-1}{2^{n}}}
+\omega _{1}
+\|[x]\|_{X/M}=\inf _{m\in M}\|x-m\|_{X}.
+h\rightarrow 0
+{ \pi \approx {\frac {355}{113}}}
+S=R\cup \left\{(x,y):(y,x)\in R\right\}.\,
+A=B\triangle N=\left(B\setminus N\right)\cup \left(N\setminus B\right).
+\forall U\in T{\mbox{ s.t. }}U\neq \emptyset ,\mu (U)>0.
+\int _{a}^{b}f(x)g(x)=0
+A\mapsto \det(A)-1
+\left|{\frac {\sqrt {x^{2}+y^{2}}}{r}}\right|^{p}+\left|{\frac {z}{h}}\right|^{p}\leq 1
+{ x=v\cos u,\quad y=v\sin u,\quad z=c{\sqrt {a^{2}-b^{2}\cos ^{2}u}}.\,}
+W(M)=\int _{M}H^{2}\,dA.
+\begin{align}
+ x_k(\zeta) &{}= \Re \left\{ \int_{0}^{\zeta} \varphi_{k}(z) \, dz \right\} + c_k , \qquad k=1,2,3 \
+ \varphi_1 &{}= f(1-g^2)/2 \
+ \varphi_2 &{}= \bold{i} f(1+g^2)/2 \
+ \varphi_3 &{}= fg
+\end{align}
+{ \left(x^{2}+y^{2}\right)^{2}+ax^{2}+by^{2}+cx+dy+e=0.}
+{ {g-k+r \choose r}.}
+{ x^{6}+y^{6}+z^{6}+(x^{2}+y^{2}+z^{2})(x^{4}+y^{4}+z^{4})=12x^{2}y^{2}z^{2}}
+{\begin{aligned}r^{2}&=HA\times HD=HB\times HE=HC\times HF\&=-4R^{2}\cos A\cos B\cos C={\frac  {1}{2}}(a^{2}+b^{2}+c^{2})-4R^{2},\end{aligned}}
+{ D^{2}-{\frac {4}{9}}(a^{2}+b^{2}+c^{2}),}
+f'\circ f\colon f^{{-1}}(V\cap U')\to f'(V\cap U')
+{ 0=\mathbf {F} \left(\mathbf {x} ,\mathbf {y} ,{\frac {\partial y_{i}}{\partial x_{j}}},{\frac {\partial ^{2}y_{i}}{\partial x_{j}\partial x_{k}}},\ldots ,\mathbf {z} \right),}
+{\mathcal  {L}}(\phi _{1},\phi _{2},\ldots ,\phi _{n})=\sum _{{i=1}}^{n}\sum _{{j=1}}^{n}g_{{ij}}\;{\mathrm  {d}}\phi _{i}\wedge {*{\mathrm  {d}}\phi _{j}}
+{ \mu '=T_{*}(\mu )\approx \mu .}
+{\mbox{dom}}f=\left\{x:f(x)<\infty \right\}
+W = W_\mathrm{potential} + W_\mathrm{kinetic} = \int_V \frac{p^2}{2 \rho_0 c^2}\, \mathrm{d}V + \int_V \frac{\rho v^2}{2}\, \mathrm{d}V,
+\mathrm {v_{s}} ={\frac {c}{\sqrt {\varepsilon _{r}}}}\ 
+{ {\mbox{Energy of a flash in joules or watt-seconds}}={{\mbox{working voltage}}^{2}}*{\frac {\mbox{capacitance of the storage capacitor in farads}}{\mbox{2}}}}
+{ 1\,\mathrm {kW\cdot h} =1\,\mathrm {kW} \cdot 3600\,\mathrm {s} =3600\,\mathrm {kWs} =3600\,\mathrm {kJ} =3.6\,\mathrm {MJ} }
+K(m^2+n^2)
+W(p)={\frac  {(p-1)!+1}{p}}
+{\frac  {\Phi _{n}(2)}{gcd(n,\Phi _{n}(2))}}
+\mathbb {Z} /n\mathbb {Z} 
+\left\{\,k2^{n}-1:n\in {\mathbb  {N}}\,\right\}.
+{ \operatorname {Spec} (k)\to X}
+(b-4)b^{b-1}+2b^{b-2}+b^{b-3}+b^{3}
+\Gamma _{p}(s)=(-1)^{s}\prod _{{0<i<s,\ p\nmid i}}i
+\alpha _{{b,c}}=\sum _{{n=c^{k}>1}}{\frac  {1}{b^{n}n}}=\sum _{{k=1}}^{\infty }{\frac  {1}{b^{{c^{k}}}c^{k}}}
+A_R(R)\to A_K(K)
+{ P_{CO_{2}}=(1.5\times HCO_{3}^{-})+8\pm 2}
+clearance\ ratio\ of\ X={\frac  {C_{x}}{C_{{in}}}}
+A+B\rightleftharpoons AB:\log K_{{I}}=\log \left({\frac  {[AB]}{[A][B]}}\right)=pK_{I}
+E=E^{0}+{\frac  {RT}{nF}}\ln a_{{H^{{+}}}}
+{ I=\Sigma I_{a,i}+\Sigma I_{c,i}}
++1.0000000000+1.1913785723\cos(x)-0.0793018558\cos(2x)-0.2171442026\cos(3x)-0.0014526076\cos(4x)
+E'={\begin{cases}4.5E&0\leq E<\beta \,\!\\alpha \,\!E^{0.45}-(\alpha \,\!-1)&\beta \,\!\leq E\leq 1\end{cases}}
+d\geq 2
+{ \mathbb {R} ^{1,1}/{\text{boost}}}
+{ ds^{2}\,=g_{ab}(y)\,dy^{a}\,dy^{b}+f(y)g_{ij}(x)\,dx^{i}\,dx^{j}.}
+{ s{\begin{Bmatrix}6\4\end{Bmatrix}}}
+{ r{\begin{Bmatrix}8\4\end{Bmatrix}}}
+{ {\begin{Bmatrix}8\4\end{Bmatrix}}}
+{ t{\begin{Bmatrix}8\8\end{Bmatrix}}}
+{ s{\begin{Bmatrix}8\4\end{Bmatrix}}}
+{ r{\begin{Bmatrix}6\4\end{Bmatrix}}}
+{ t{\begin{Bmatrix}6\5\end{Bmatrix}}}
+{ s{\begin{Bmatrix}4\4\end{Bmatrix}}}
+{ t{\begin{Bmatrix}\infty \4\end{Bmatrix}}}
+{ t{\begin{Bmatrix}\infty \\infty \end{Bmatrix}}}
+{ \mathbf {v} :=1-{\frac {f_{m}}{N}},}
+{ W=\sum _{j=1}^{J}n_{j}V_{j}\,,}
+{ T_{n}={\hat {\rho }}{\sqrt {\frac {N-2}{1-{\hat {\rho }}^{2}}}}}
+\Omega (r)={\frac  {\int _{{r}}^{\infty }(1-F(x))\,dx}{\int _{{-\infty }}^{r}F(x)dx}}
+{\bar {x}}
+\langle \mathbf {v} ,\mathbf {w} \rangle 
+{ p_{n}={\frac {100}{N}}(n-{\frac {1}{2}})}
+f(x^{k})
+2\leq \lim _{{n\to \infty }}D(n){\Big /}{\binom  {n}{\lfloor n/2\rfloor }}\leq 2{\frac  {3}{11}}
+O(n^{2})
+{\bar {PP}}_{3}
+\lim _{{n\to \infty }}(~x^{{2n}}+y^{{2n}})=\lim _{{n\to \infty }}~a^{{2n}}
+{\frac {9}{5}}
+V = k\times A \times\sqrt{A}
+CP^{1}\times T
+s\left\{{\begin{array}{l}3\3\2\end{array}}\right\}
+T_{g}={\frac {H_{d}}{S_{d}+R\ln({\frac {1-f_{c}}{f_{c}}})}},
+{ {\ce {<=>>}}}
+ {\mathcal  {A}}_{q}^{n}
+{ c={\frac {n(n-1)}{2}}.\,}
+\zeta (s)=\sum _{{n=1}}^{{\infty }}{\frac  {1}{n^{s}}}.
+{ \int _{0}^{\infty }e^{x^{2}}\,dx}
+{\mbox{grade}}=1.0430{\sqrt  {{\mbox{number of polysyllables}}\times {30 \over {\mbox{number of sentences}}}}}+3.1291
+\sim 
+\cup \,
+{ e^{i\pi }}
+E_S = \frac{m_e^2 c^3}{q_e \hbar} \simeq 1.3 \times 10^{18} \, \mathrm{V} / \mathrm{m},
+{ \geq 4}
+F_m
+{ \rho =|\psi |^{2}}
+\operatorname {Pe}(x,y)=\int _{{-\infty }}^{\infty }\exp(i(t^{4}+xt^{2}+yt))\,dt.
+{{F}[X]}[Y]
+{ G=\langle x,y|xyx^{-1}y^{-1}\rangle .}
+\varphi ={1 \over {\sqrt  {2}}}\left({\begin{array}{c}\varphi ^{+}\\varphi ^{0}\end{array}}\right)\;
+\Leftrightarrow 
+{ X{\xrightarrow {\text{name of map!}}}Y}
+\forall 
+\chi 
+{\mathrm  {NDVI}}={{\mathrm  {NIR}}-{\mathrm  {red}} \over {\mathrm  {NIR}}+{\mathrm  {red}}}
+{ df=\left({\frac {\partial f}{\partial x}}\right)_{y}\,dx+\left({\frac {\partial f}{\partial y}}\right)_{x}\,dy}
+{ RT=P(V_{m}-b)+{\frac {a}{V_{m}(V_{m}+b)T^{\frac {1}{2}}}}(V_{m}-b)}
+{{\rm {d}}}S={\frac  {{{\rm {\delta }}}q}{T}}.
+{ (\partial T)_{P}}
+ (u,\phi) \mapsto E_{u,\phi} \quad u\in U(G), \phi\in\widehat{A(u)}, E_{u,\phi}\in\widehat{W} 
+{\begin{bmatrix}T\t\end{bmatrix}}={\begin{bmatrix}2&1\1&1\end{bmatrix}}{\begin{bmatrix}T\t\end{bmatrix}}
+{ {\sqrt[{4}]{1}}=1}
+{ {\textbf {Top}}_{*}}
+{ S_{Boltzmann}=k\ln(2)S_{Shannon}\,}
+{ h\to 0}
+{ \forall a,b\in X(aRb\Rightarrow \lnot (bRa))}
+\to 
+{ P_{n}(x;a\mid q)=a^{-n}e^{in\phi }{\frac {a^{2};q_{n}}{(q;q)_{n}}}{_{3}}\Phi _{2}(q^{-}n,ae^{i(\theta +2\phi )},ae^{-i\theta };a^{2},0\mid q;q)}
+{ L_{\omega }^{2}}
+{  c_{n}(q^{-x};a;q)={}_{2}\phi _{1}(q^{-n},q^{-x};0;q,-q^{n+1}/a)}
+ L_{n}^{{(\alpha )}}(x;q)={\frac  {(q^{{\alpha +1}};q)_{n}}{(q;q)_{n}}}{}_{1}\phi _{1}(q^{{-n}};q^{{\alpha +1}};q,-q^{{n+\alpha +1}}x)
+\nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}}
+{ \int _{-\pi }^{\pi }f(e^{i\theta }){\overline {g(e^{i\theta })}}\,d\mu }
+({\text{d}}R/{\text{d}}Q)(1+\mu )-\mu ({\text{d}}C/{\text{d}}Q)\leq 0,
+E_{{{\mathit  {kin}}}}={\frac  {1}{2}}mv^{2}
+{ {\frac {(a+b)+(a-d)-8}{2}}=(a-4)+0.5(b-d)}
+R_{crit} = - \frac{\pi M}{\sqrt{k - 1}}
+ \boldsymbol{g}=\lim_{m \to 0}\frac{\boldsymbol{F}}{m}
+\#SAT\leq _{T}Perm\leq _{T}\pm 1Perm\leq _{T}01
+{ y={\frac {x-minimum}{maximum-minimum}}}
+=
+\longrightarrow 
+{{\mathrm  {R={\sqrt[ {4}]{{\frac  { {{\mathrm  {\lambda ^{2}\,EIRP\,G_{R}/T\,\sigma }}}}{{{\mathrm  { 64\,\pi ^{3}\,k_{B}\,BW\,SNR}}}}}}}}}}
+{ (1-(millibars/1013.25)^{0.190284})*145366.45}
+P(m,r,M,T)
+{ --~~~~Insertformulahere}
+V=\left(\frac{h}{4}\pi\right)\left(r_b^2+r_b^\frac{4}{3}r_u^\frac{2}{3}+r_b^\frac{2}{3}r_u^\frac{4}{3}+r_u^2\right)
+{ \mathbb {Q} \times \mathbb {Z} }
+\Theta (\log \log n)
+{ {\frac {AF'}{F'B}}={\frac {AF}{FB}}}
+P_{7}=P_{1}
+{ r^{2}d\Omega ^{2}}
+(6^{6})^{6}
+{ \omega _{3}=-1-\omega _{2}}
+{ {\text{storage efficiency}}={\frac {{\text{effective capacity}}+{\text{free capacity}}}{\text{raw capacity}}}.}
+{ F_{i}={\frac {\partial L}{\partial q_{i}}}}
+{ L(C)\rho ={\frac {1}{2}}C^{\dagger }[\rho ,C]+{\frac {1}{2}}[C^{\dagger },\rho ]C=C^{\dagger }\rho C-{\frac {1}{2}}\left(C^{\dagger }C\rho +\rho C^{\dagger }C\right)}
+{ \Omega (2^{n}/n)}
+\mathbf{F} = q (\mathbf{E} + \mathbf{v} \times \mathbf{B}),
+A={\begin{matrix}1&2&3&4\2&1&4&3\3&4&1&2\4&3&2&1\end{matrix}}\quad B={\begin{matrix}1&2&3&4\2&1&4&3\3&4&2&1\4&3&1&2\end{matrix}}\quad C={\begin{matrix}1&2&3&4\2&3&4&1\3&4&1&2\4&1&2&3\end{matrix}}\quad D={\begin{matrix}1&2&3&4\2&4&1&3\3&1&4&2\4&3&2&1\end{matrix}}
+\mu :G\times G\to G\quad \mu (x,y)=xy
+(x,y)\mapsto x^{-1}y
+\operatorname {GL} (2,\mathbf {R} )=\left\{A={\begin{pmatrix}a&b\c&d\end{pmatrix}}:\det A=ad-bc\neq 0\right\}.
+\operatorname {SO} (2,\mathbf {R} )=\left\{{\begin{pmatrix}\cos \varphi &-\sin \varphi \\sin \varphi &\cos \varphi \end{pmatrix}}:\varphi \in \mathbf {R} /2\pi \mathbf {Z} \right\}.
+{\mathfrak {g}}.
+\phi \colon G\to H
+\phi _{*}
+\phi _{*}\colon {\mathfrak {g}}\to {\mathfrak {h}}
+\exp(A)=1+A+{\frac {A^{2}}{2!}}+{\frac {A^{3}}{3!}}+\cdots 
+c(s+t)=c(s)c(t)\ 
+\exp(v)=c(1).\ 
+\exp(u)\,\exp(v)=\exp \left(u+v+{\frac {1}{2}}[u,v]+{\frac {1}{12}}[\,[u,v],v]-{\frac {1}{12}}[\,[u,v],u]-\cdots \right),
+\phi :G\to H
+\phi _{*}:{\mathfrak {g}}\to {\mathfrak {h}}
+x\in {\mathfrak {g}}
+\phi (\exp(x))=\exp(\phi _{*}(x)).\,
+{ \mathbb {C} \to \mathbb {C} }
+p/q
+{ z\mapsto \Re (z)}
+{ z\mapsto |z|}
+{ z\mapsto {\bar {z}}}
+{ f:\mathbb {C} \to \mathbb {C} }
+{ f(z)=f(x+iy)=u(x,y)+iv(x,y)}
+{ x,y,u(x,y),v(x,y)\in \mathbb {R} }
+{ {\frac {\partial f}{\partial {\bar {z}}}}(z_{0})=0}
+{ z_{0}\in \Omega }
+{ {\frac {\partial }{\partial {\bar {z}}}}}
+{ {\frac {1}{2}}{\Big [}{\frac {\partial }{\partial x}}+i{\frac {\partial }{\partial y}}{\Big ]}}
+{ u_{x}=v_{y}}
+{ u_{y}=-v_{x}}
+D
+x_0\in D
+f(x)=\sum _{n=0}^{\infty }a_{n}\left(x-x_{0}\right)^{n}=a_{0}+a_{1}(x-x_{0})+a_{2}(x-x_{0})^{2}+a_{3}(x-x_{0})^{3}+\cdots 
+{ a_{0},a_{1},\dots }
+x_{0}
+T(x)=\sum _{n=0}^{\infty }{\frac {f^{(n)}(x_{0})}{n!}}(x-x_{0})^{n}
+{ C^{\,\omega }(D)}
+\left|{\frac {d^{k}f}{dx^{k}}}(x)\right|\leq C^{k+1}k!
+ A_{\infty }(\Omega )
+f(x)={\frac {1}{x^{2}+1}}.
+{ y\mapsto \int K(x,y)f(x)\,dx}
+{  \Gamma }
+\nabla |\Psi \rangle ,
+{ \mathbf {A} \mathbf {x} =\lambda \mathbf {x} }
+ECD=MW+{{\frac  {P_{a}}{0.052*TVD}}}
+{\frac  {d\sigma _{t}}{d\Omega }}\equiv \left({\frac  {q^{2}}{mc^{2}}}\right)^{2}{\frac  {1+\cos ^{2}\chi }{2}}=\left({\frac  {q^{2}}{4\pi \epsilon _{0}mc^{2}}}\right)^{2}{\frac  {1+\cos ^{2}\chi }{2}}
+{ V_{O}={\frac {V_{S}.(R_{2}||R_{load})}{R_{1}+(R_{2}||R_{load})}}}
+{ d\mathbf {B} ={\frac {\mu _{0}}{4\pi }}{\frac {Id\mathbf {l} \times \mathbf {\hat {r}} }{r^{2}}}}
+{ \sum _{k=1}^{b}W_{k}F_{k}=\mathbf {W^{T}} \mathbf {F} }
+e^{-x^{2}}
+{ q_{0},q_{1},q_{2}}
+u+H(x,\nabla u) = 0
+A\times B
+{\tilde {B}}_{3}
+{ {\begin{bmatrix}x'\y'\z'\1\end{bmatrix}}={\begin{bmatrix}\cos {\frac {\pi }{4}}&-\cos {\frac {\pi }{4}}&0&0\\sin {\frac {\pi }{4}}&-\sin {\frac {\pi }{4}}&1&0\0&0&0&0\0&0&0&1\end{bmatrix}}{\begin{bmatrix}x\y\z\1\end{bmatrix}}}
+{ \diagdown \!\!\!^{1.6}\!\!\!\diagup }
+{ f_{\text{r}}=A_{\text{r}}/A_{\text{g}}}
+a(t)
+{ a,\forall r:r\not \in \mathbb {M} _{c}\implies \lnot U(r,a)}
+{ \theta \rightarrow {\frac {\theta }{3}}\quad \theta \rightarrow {\frac {4\pi +\theta }{3}}}
+{ a/b+h+x^{y}}
+{ [[Media:Insertformulahere]][[Image:[[Image:Example.jpg]]]]}
+{ '''Insertformulahere'''}
+{ 3.1416}
+{ ThisgrandprixwillbeheldinSouthKoreawhichisseperatefromthemainland.}
+{ \left({\frac {1}{2}},{\frac {a-1}{4b}}\right)}
+TD_{T}=D_{{T^{*}}}T.
+{ \psi _{jk}=\psi ^{jk}}
+{ f(x)={\frac {x}{15}}+100}
+{ \int \operatorname {erf} ^{3}(x)\,\mathrm {d} x\,\!}
+{ {\frac {\log 8}{\log 0.25}}}
+{ f(z)=z\times (2+3i)\,}
+{ \operatorname {Aut} (G)\cong H}
+{ g'(0)\;\!}
+{ {\sqrt {\pi }}=\int _{-\infty }^{\infty }e^{-t^{2}}\,dt\,.}
+{ \mathrm {{\frac {1\;psi}{ft}}\times {\frac {1\;ft}{12\;in}}\times {\frac {1\;lb/in^{2}}{1\;psi}}\times {\frac {231\;in^{3}}{1\;US\;Gal}}=19.25000000\;lb/gal} }
+{ \gamma _{\mathrm {T} },\ }
+{ f(x)=f(x_{0})+a(x-x_{0})^{n+1}}
+{ 7\mid a\;\land \;0\leq a\leq 9\ \Rightarrow \ a\in \{0,7\}}
+{ \cos x=x}
+{ x^{3}\left({\frac {\operatorname {sgn}(x)+1}{2}}\right)+3x\left({\frac {\operatorname {sgn}(-x)+1}{2}}\right)}
+{ n^{-1}\log(\#{\mbox{ of vertices seperated by at most }}n{\mbox{ edges from some fiducial vertex }}f)\to d\qquad {\mbox{as}}\qquad n\to \infty }
+{ t_{0}t_{1}\cdots t_{n}(0)=b_{0}+{a_{1} \over b_{1}+{a_{2} \over b_{2}+\ldots +{a_{n} \over b_{n}}}}}
+\iff 
+\omega_1 = \omega_0\sqrt{1 - \zeta^2}.
+{ .04=(x/48)}
+{ E_{k}={\frac {mc^{2}}{\sqrt {1-(v/c)^{2}}}}-mc^{2}}
+{ U^{+}=T}
+{\mathrm  {R_{3}N+RCl\longrightarrow R_{4}N^{+}\ Cl^{-}}}
+{\frac  {1351}{780}}>{\sqrt  {3}}>{\frac  {265}{153}}\,.
+{ BigMath}
+{ a\log a+2b\log b+c\log c\geq 2[(a+b)\log(a+b)+(b+c)\log(b+c)]}
+{ (+\infty )\cdot (+\infty )=+\infty }
+ Y \ \stackrel{\mathrm{def}}{=}\ 1(y^* >0). 
+{ x=12n+y}
+{ {}_{3}^{6}}
+{ 2^{\frac {1}{12}}-1=5.95\%}
+10^{{29}}
+{ \mathrm {4\ KCo(CO)_{4}\ +\ [Ru(CO)_{3}Cl_{2}]_{2}\ \longrightarrow \ 2\ RuCo_{2}(CO)_{11}\ +\ 4\ KCl} }
+{ P(t)={\frac {\sum _{i}w_{i}P_{i}b_{i}(t)}{\sum _{i}w_{i}b_{i}(t)}}}
+K*l
+ m  \ge  2j - r \qquad \qquad \mathrm{(a)} 
+ m=2j - 3
+\nabla ^{2}
+4{\mathrm  {sup}}_{f}A\,
+4\sup _{f}A\,
+\langle x\rangle 
+\int _{{[0,1]}}f(x)\,dx\,
+(x-x_{0})F'_{x}(x_{0},y_{0})+(y-y_{0})F'_{y}(x_{0},y_{0}),
+y^{3}+2x^{2}y-x^{4}=0
+(y-x^2)(y+x^2) = 0.
+ (x^2+y^2-3x)^2 -4x^2(2-x) = 0.
+m\leq (\rho _{1}+\rho _{2})[K:{\mathbb  {Q}}].\,
+[\wp '(z)]^{2}=4[\wp (z)]^{3}-g_{2}\wp (z)-g_{3},\,
+H(t)=H_{0}e^{-(R/L)t}\,
+R\,
+\nabla ^{2}\mathbf {H} =\lambda ^{-2}\mathbf {H} \,
+{\frac {\partial \mathbf {j} _{s}}{\partial t}}={\frac {n_{s}e^{2}}{m}}\mathbf {E} ,\qquad \mathbf {\nabla } \times \mathbf {j} _{s}=-{\frac {n_{s}e^{2}}{m}}\mathbf {B} .
+L\;=\;L_{{\text{FSL}}}\;+\;A_{{\text{MU}}}\;-\;H_{{\text{MG}}}\;-\;H_{{\text{BG}}}\;-\;\sum {K_{{\text{correction}}}}\;
+{ L_{50\%}(dB)=LF+A_{mu}(f,d)-G(h_{te})-G(h_{re})-G_{area}}
+{\frac  {70{\text{ miles}}}{\sin D}}={\frac  {{\text{ritorno}}}{\sin 45}}={\frac  {{\text{avanzo}}}{\sin 90}}
+{\frac  {26}{100}}={\frac  {x}{65}}
+{ Q(s_{t},a_{t})\leftarrow Q(s_{t},a_{t})+\alpha _{t}(s_{t},a_{t})[r_{t}+\gamma \max _{a}Q(s_{t+1},a)-Q(s_{t},a_{t})]}
+{ Q(s_{t},a_{t})\leftarrow Q(s_{t},a_{t})+\alpha [r_{t+1}+\phi Q(s_{t+1},a_{t+1})-Q(s_{t},a_{t})]}
+X_{0}={\frac  {716.4\cdot A}{Z(Z+1)\ln {{\frac  {287}{{\sqrt  {Z}}}}}}}\;{\mathrm  g}\cdot {\mathrm  {cm}}^{{-2}}={\frac  {1432.8\cdot A}{Z(Z+1)(11.319-\ln {Z})}}\;{\mathrm  g}\cdot {\mathrm  {cm}}^{{-2}}
+{\frac  {1}{X_{0}}}={\frac  {4\alpha N_{A}Z(Z+1)r_{e}^{2}\log(183Z^{{-1/3}})}{A}}
+{ {\begin{aligned}C{\frac {dV}{dt}}&~=~I-g_{\mathrm {L} }(V-V_{\mathrm {L} })-g_{\mathrm {Ca} }M_{\mathrm {ss} }(V-V_{\mathrm {Ca} })-g_{\mathrm {K} }N(V-V_{\mathrm {K} })\{\frac {dN}{dt}}&~=~{\frac {N_{\mathrm {ss} }-N}{\tau _{N}}}\end{aligned}}}
+{ {\begin{aligned}M_{\mathrm {ss} }&~=~{\frac {1}{2}}\cdot (1+\tanh[{\frac {V-V_{1}}{V_{2}}}])\N_{\mathrm {ss} }&~=~{\frac {1}{2}}\cdot (1+\tanh[{\frac {V-V_{3}}{V_{4}}}])\\tau _{N}&~=~1/(\phi \cosh[{\frac {V-V_{3}}{2V_{4}}}])\end{aligned}}}
+{ \ell _{2}-\ell _{2}}
+{ D^{\alpha }\partial _{\alpha }u=0\,}
+{ P={\begin{pmatrix}A_{1}^{\ast }&A_{2}^{\ast }\A_{0}^{\ast }&A_{1}&A_{2}\&A_{0}&A_{1}&A_{2}\&&A_{0}&A_{1}&A_{2}\&&&\ddots &\ddots &\ddots \end{pmatrix}}}
+{ Q={\begin{pmatrix}B_{00}&B_{01}\B_{10}&A_{1}&A_{2}\&A_{0}&A_{1}&A_{2}\&&A_{0}&A_{1}&A_{2}\&&&A_{0}&A_{1}&A_{2}\&&&&\ddots &\ddots &\ddots \end{pmatrix}}}
+{ \left\{{\begin{array}{l}4\3,3\end{array}}\right\}}
+(0,\ \pm {\sqrt  {2}},\ \pm {\sqrt  {2}},\ \pm {\sqrt  {2}})
+{ {\ce {{Bu2SnCl2}+1/2LiAlH4->{Bu2SnH2}+1/2LiAlCl4}}}
+{ {\ce {{R-X}+R'-SnR''3->[{\ce {Pd\ catalyst}}]{R-R'}+XSnR''3}}}
+c_{p}={\frac {c_{p0}}{\sqrt {|1-{M_{\infty }}^{2}|}}}
+\lim _{M_{\infty }\to 1}c_{p}=\infty 
+{ y^{2}=x^{2}+x^{3}}
+y^{2}=x^{3}\ 
+{ {\begin{aligned}&E(x,v)E(u,y)\theta \left(z+\int _{u}^{x}\omega \right)\theta \left(z+\int _{v}^{y}\omega \right)\-&E(x,u)E(v,y)\theta \left(z+\int _{v}^{x}\omega \right)\theta \left(z+\int _{u}^{y}\omega \right)\=&E(x,y)E(u,v)\theta (z)\theta \left(z+\int _{u+v}^{x+y}\omega \right)\end{aligned}}}
+{ {\begin{aligned}&\int _{u+v}^{x+y}\omega =\int _{u}^{x}\omega +\int _{v}^{y}\omega =\int _{u}^{y}\omega +\int _{v}^{x}\omega \end{aligned}}}
+\left|p^{n}{\frac  {a}{b}}\right|_{p}=p^{{-n}}.
+|x/y|=|x|/|y|.\,
+[\bar p,\bar\xi, N(\bar\xi)]
+{ {\begin{pmatrix}1&0&0\0&1&0\0&0&1\end{pmatrix}}\,.}
+{ \eta _{\alpha \beta }={\begin{pmatrix}-c^{2}&0&0&0\0&1&0&0\0&0&1&0\0&0&0&1\end{pmatrix}}=\mathrm {diag} [-c^{2},+1,+1,+1]\,.}
+{ U=\{x:x=x\}}
+x=x
+\f
