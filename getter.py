@@ -4,7 +4,7 @@ import threading
 import multiprocessing
 import refiner
 
-CORE = 12
+CORE = 16
 class Counter(object):
     def __init__(self):
         self.cnt = multiprocessing.Value('i', 0)
@@ -52,25 +52,31 @@ class myJWorker (threading.Thread):
             
             start = idx*BUCKET_PAGE_SIZE
             data = self.dbp.find({"formulasNumber": {"$gt": 0}}).skip(start).limit(BUCKET_PAGE_SIZE)
+
+            if data is None:
+                break
+
             for datum in data:
                 formulas = datum["formulas"]
                 formulasNumber = datum["formulasNumber"]
+                url = datum["url"]
                 
                 cnt = 0
                 for formula in formulas:
                     latex = formula["latex"]
                     latex = refiner.prepare(latex)
 
-                    if latex in self.fsets:
+                    keys = (latex, url)
+
+                    if keys in self.fsets:
                         continue #exists
 
-                    self.fsets[latex] = 1
+                    self.fsets[keys] = 1
 
                     try:
-                        fp.write(latex+"\n")
+                        fp.write("1 " + latex+"\n2 "+url+"\n")
                         cnt += 1
                     except:
-                        print("err")
                         continue #error
                 
                 with self.lock:
