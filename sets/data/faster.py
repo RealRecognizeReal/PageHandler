@@ -1,4 +1,5 @@
 import threading
+import sys
 from difflib import SequenceMatcher
 from heapq import heappush, heappop
 
@@ -70,7 +71,7 @@ class mWorker (threading.Thread):
 
         self.doWork()
 
-goal = sys.argv[1]
+goal = str(sys.argv[1])
 pq = []
 mworker = [mWorker] * CORE
 st = 0
@@ -111,4 +112,5 @@ for urls in temp:
     if len(answer) == 10:
         break
 
-print(answer)
+for output in answer:
+    print(output)

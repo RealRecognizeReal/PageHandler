@@ -1,0 +1,61 @@
+1 [_{S}\ [_{\mathit {NP}}\ John]\ [_{\mathit {VP}}\ [_{V}\ hit]\ [_{\mathit {NP}}\ the\ [_{N}\ ball]]]]
+2 https://en.wikipedia.org/wiki/Parse_graph
+1 V_{t}\approx pq\left(1-\exp \left\{-{\frac {t}{2N_{e}}}\right\}\right).
+2 https://en.wikipedia.org/wiki/Population_genetics
+1 E={\begin{cases}x<y\y>x\x\ngeq y\y\nleq x\end{cases}}
+2 https://en.wikipedia.org/wiki/Relational_operator
+1 { x+y-1\leq z<{\frac {1}{2}}\quad {\text{and hence}}\quad x+y<{\frac {3}{2}}.}
+2 https://en.wikipedia.org/wiki/Voting_paradox
+1 (P \rightarrow Q) \and (P \rightarrow \neg Q) \leftrightarrow \neg P 
+2 https://en.wikipedia.org/wiki/Negation_introduction
+1 O(2^{0.386n})
+2 https://en.wikipedia.org/wiki/SAT_solver
+1 P(target) = \frac{A(target)}{\pi (dy)^2} = \frac{a r(target)^2 v^2}{(tp)^2 d^4}
+2 https://en.wikipedia.org/wiki/Panspermia
+1 { A^{2}(b^{2}+c^{2}-a^{2})+B^{2}(a^{2}+c^{2}-b^{2})+C^{2}(a^{2}+b^{2}-c^{2})\geq 16Ff,\,}
+2 https://en.wikipedia.org/wiki/Pedoe%27s_inequality
+1 C<r\times B
+2 https://en.wikipedia.org/wiki/W._D._Hamilton
+1 { \langle x,y\mid x^{2^{n-1}}=1,x^{2^{n-2}}=y^{2},yxy^{-1}=x^{-1}\rangle }
+2 https://en.wikipedia.org/wiki/Talk:Quaternion_group
+1 p(t)=\det(tI_{n}-A)\,
+2 https://en.wikipedia.org/wiki/User_talk:Ryan_Reich
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:RobHar
+1  \frac{\pi}{4} = 4 \arctan \left(\frac{1}{5} \right) - \arctan \left(\frac{1}{239} \right) 
+2 https://en.wikipedia.org/wiki/William_Shanks
+1 {\begin{aligned}{\mbox{E2}}\left[0,90^{\circ }\right]&={\mbox{Integral}}'s{\mbox{ divided difference}};\Pr&=a\times {\mbox{E2}}\left[0,90^{\circ }\right]\quad ({\mbox{perimetric radius}});\c&=2\pi \times Pr.\end{aligned}}\,\!
+2 https://en.wikipedia.org/wiki/Talk:Circumference
+1 { na+{\frac {n(n-1)}{1\cdot 2}}\Delta a+{\frac {n(n-1)(n-2)}{1\cdot 2\cdot 3}}\Delta ^{2}a+\cdots ,}
+2 https://en.wikipedia.org/wiki/Pierre_Raymond_de_Montmort
+1 {\frac  {\pi }{4}}=\arctan {\frac  {1}{2}}+\arctan {\frac  {1}{5}}+\arctan {\frac  {1}{8}}.
+2 https://en.wikipedia.org/wiki/Zacharias_Dase
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Tcnuk
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Topology_Expert
+1 {\overline {A}}
+2 https://en.wikipedia.org/wiki/Null_%28disambiguation%29
+1 \varnothing 
+2 https://en.wikipedia.org/wiki/Talk:%C3%98_%28disambiguation%29
+1 { \Delta H_{\text{sublimation}}=-U_{\text{lattice energy}}-2RT}
+2 https://en.wikipedia.org/wiki/Sublimation_%28phase_transition%29
+1 { \ Q=PIt}
+2 https://en.wikipedia.org/wiki/Thermoelectric_cooler
+1 \theta _{f}\approx \lambda /d
+2 https://en.wikipedia.org/wiki/Young%27s_interference_experiment
+1 \mathrm{Points}\ \mathrm{percentage} = \frac{\mathrm{Points}}{\mathrm{Total \ possible \ points}}
+= \frac{ \mathrm{Overtime \ Losses + (2 \times Wins)}}{\mathrm{ 2 \times Games \ Played }}
+2 https://en.wikipedia.org/wiki/Winning_percentage
+1 \hbar 
+2 https://en.wikipedia.org/wiki/Quantization_%28physics%29
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Transformation_theory_%28quantum_mechanics%29
+1 A_{\Sigma }=8\pi \ell _{\text{PL}}^{2}\gamma \sum _{i}{\sqrt {j_{i}(j_{i}+1)}}
+2 https://en.wikipedia.org/wiki/Spin_networks
+1 \geq 
+2 https://en.wikipedia.org/wiki/Segment_addition_postulate
+1 f = \frac{1.875^2}{2\pi} \frac{a}{l^2} \sqrt \frac{E}{12 \rho}
+2 https://en.wikipedia.org/wiki/Quartz_clock
+1 AN^2+BL^2+CM^2=NB^2+LC^2+MA^2.
+2 https://en.wikipedia.org/wiki/Pedal_triangle

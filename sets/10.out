@@ -1,1040 +1,1444 @@
-Population\ growth\ rate={\frac {P(t_{2})-P(t_{1})}{P(t_{1})(t_{2}-t_{1})}}
-\sharp \hat 4
-(\Omega ,{\mathcal {F}},P)
-E\in {\mathcal {F}}
-P[E]=1
-E
-P[E^C] = 0
-{\mathcal {F}}
-E^C
-N\in\mathcal F
-P[N]=0
-P
-(\{H,T\}, 2^{\{H, T\}}, \mathbb{P})
-\{\omega = H\}
-\{\omega=T\}
-\mathbb{P}[\omega = H] = p\in (0, 1)
-\mathbb{P}[\omega = T] = 1 - p
-\{X_i(\omega)\}_{i\in\mathbb{N}}
-X_i(\omega)=\omega_i
-X_{i}
-i
-\{H, H, H, \dots\}
-n
-\mathbb{P}[X_i = H, \ i=1,2,\dots,n]=\left(\mathbb{P}[X_1 = H]\right)^n = p^n
-n\rightarrow \infty 
-p\in (0,1)
-p
- \lim\limits_{n\to\infty}\frac{1}{n} = 0
-p^{1,000,000}\neq 0
-1 - p^{1,000,000}
-\frac{(1+\epsilon) \ln n}{n}
-\sin \theta 
-\cos \theta 
-\theta 
-e^{\sqrt {\ln \ln x}}+\ln \ln x+\sum _{j=0}^{\infty }e^{x}x^{-j},
-^{*}\mathbb {N} 
-\forall n\in \mathbb {N} ,\sin n\pi =0
-\forall n\in {}^{*}\mathbb {N} ,{}^{*}\!\!\sin n\pi =0
-\alpha 
-\delta _{\alpha }
-\int F(x)\delta _{\alpha }(x)=F(0)
- x^{2}\ -\ y^{2}\ =\ 1
- (\cosh \,a,\,\sinh \,a)
- a
- x
-\sinh x={\frac {e^{x}-e^{-x}}{2}}={\frac {e^{2x}-1}{2e^{x}}}={\frac {1-e^{-2x}}{2e^{-x}}}
-\cosh x={\frac {e^{x}+e^{-x}}{2}}={\frac {e^{2x}+1}{2e^{x}}}={\frac {1+e^{-2x}}{2e^{-x}}}
-\tanh x={\frac {\sinh x}{\cosh x}}={\frac {e^{x}-e^{-x}}{e^{x}+e^{-x}}}=
-={\frac {e^{2x}-1}{e^{2x}+1}}={\frac {1-e^{-2x}}{1+e^{-2x}}}
-{ x\not =0}
-\coth x={\frac {\cosh x}{\sinh x}}={\frac {e^{x}+e^{-x}}{e^{x}-e^{-x}}}=
-={\frac {e^{2x}+1}{e^{2x}-1}}={\frac {1+e^{-2x}}{1-e^{-2x}}}
-\operatorname {sech} \,x={\frac {1}{\cosh x}}={\frac {2}{e^{x}+e^{-x}}}=
-={\frac {2e^{x}}{e^{2x}+1}}={\frac {2e^{-x}}{1+e^{-2x}}}
-\operatorname {csch} \,x={\frac {1}{\sinh x}}={\frac {2}{e^{x}-e^{-x}}}=
-={\frac {2e^{x}}{e^{2x}-1}}={\frac {2e^{-x}}{1-e^{-2x}}}
-\sinh x=-i\sin(ix)
-\cosh x=\cos(ix)
-\tanh x=-i\tan(ix)
-\coth x=i\cot(ix)
-\operatorname {sech} x=\sec(ix)
-\operatorname {csch} x=i\csc(ix)
-{\text{area}}=\int _{a}^{b}{\cosh {(x)}}\ dx=\int _{a}^{b}{\sqrt {1+\left({\frac {d}{dx}}\cosh {(x)}\right)^{2}}}\ dx={\text{arc length}}
-f'=1-f^{2}
-{\frac {1}{2}}f''=f^{3}-f;\quad f(0)=f'(\infty )=0
-{\begin{aligned}\sinh(-x)&=-\sinh x\\cosh(-x)&=\cosh x\end{aligned}}
-{\begin{aligned}\tanh(-x)&=-\tanh x\\coth(-x)&=-\coth x\\operatorname {sech} (-x)&=\operatorname {sech} x\\operatorname {csch} (-x)&=-\operatorname {csch} x\end{aligned}}
-{\begin{aligned}\operatorname {arsech} x&=\operatorname {arcosh} {\frac {1}{x}}\\operatorname {arcsch} x&=\operatorname {arsinh} {\frac {1}{x}}\\operatorname {arcoth} x&=\operatorname {artanh} {\frac {1}{x}}\end{aligned}}
-{\begin{aligned}\cosh x+\sinh x&=e^{x}\\cosh x-\sinh x&=e^{-x}\\cosh ^{2}x-\sinh ^{2}x&=1\end{aligned}}
-{\begin{aligned}\operatorname {sech} ^{2}x&=1-\tanh ^{2}x\\operatorname {csch} ^{2}x&=\coth ^{2}x-1\end{aligned}}
-{ {\begin{aligned}\sinh(x+y)&=\sinh(x)\cosh(y)+\cosh(x)\sinh(y)\\cosh(x+y)&=\cosh(x)\cosh(y)+\sinh(x)\sinh(y)\\tanh(x+y)&={\frac {\tanh x+\tanh y}{1+\tanh x\tanh y}}\\end{aligned}}}
-{\begin{aligned}\cosh(2x)&=\sinh ^{2}{x}+\cosh ^{2}{x}=2\sinh ^{2}x+1=2\cosh ^{2}x-1\\sinh(2x)&=2\sinh x\cosh x\end{aligned}}
-{\begin{aligned}\sinh x+\sinh y&=2\sinh {\frac {x+y}{2}}\cosh {\frac {x-y}{2}}\\cosh x+\cosh y&=2\cosh {\frac {x+y}{2}}\cosh {\frac {x-y}{2}}\\end{aligned}}
-{\begin{aligned}\sinh(x-y)&=\sinh(x)\cosh(y)-\cosh(x)\sinh(y)\\cosh(x-y)&=\cosh(x)\cosh(y)-\sinh(x)\sinh(y)\\end{aligned}}
-{\begin{aligned}\sinh x-\sinh y&=2\cosh {\frac {x+y}{2}}\sinh {\frac {x-y}{2}}\\cosh x-\cosh y&=2\sinh {\frac {x+y}{2}}\sinh {\frac {x-y}{2}}\\end{aligned}}
-{ \sinh \left({\frac {x}{2}}\right)={\frac {\sinh(x)}{\sqrt {2(\cosh(x)+1)}}}=\operatorname {sgn}(x)\,{\sqrt {\frac {\cosh(x)-1}{2}}}}
-{ \cosh \left({\frac {x}{2}}\right)={\sqrt {\frac {\cosh(x)+1}{2}}}}
-{ \tanh \left({\frac {x}{2}}\right)={\frac {\sinh(x)}{\cosh(x)+1}}=\operatorname {sgn}(x)\,{\sqrt {\frac {\cosh(x)-1}{\cosh(x)+1}}}={\frac {e^{x}-1}{e^{x}+1}}}
-{ \tanh \left({\frac {x}{2}}\right)={\frac {\cosh(x)-1}{\sinh(x)}}=\coth(x)-\operatorname {csch} (x)}
-{ {\begin{aligned}\operatorname {arsinh} (x)&=\ln \left(x+{\sqrt {x^{2}+1}}\right)\\operatorname {arcosh} (x)&=\ln \left(x+{\sqrt {x^{2}-1}}\right);x\geq 1\\operatorname {artanh} (x)&={\frac {1}{2}}\ln \left({\frac {1+x}{1-x}}\right);\left|x\right|<1\\operatorname {arcoth} (x)&={\frac {1}{2}}\ln \left({\frac {x+1}{x-1}}\right);\left|x\right|>1\\operatorname {arsech} (x)&=\ln \left({\frac {1}{x}}+{\sqrt {{\frac {1}{x^{2}}}-1}}\right)=\ln \left({\frac {1+{\sqrt {1-x^{2}}}}{x}}\right);0<x\leq 1\\operatorname {arcsch} (x)&=\ln \left({\frac {1}{x}}+{\sqrt {{\frac {1}{x^{2}}}+1}}\right)=\ln \left({\frac {1+{\sqrt {x^{2}+1}}}{x}}\right);x\neq 0\end{aligned}}}
-{\frac {d}{dx}}\sinh x=\cosh x\,
-{\frac {d}{dx}}\cosh x=\sinh x\,
-{\frac {d}{dx}}\tanh x=1-\tanh ^{2}x=\operatorname {sech} ^{2}x=1/\cosh ^{2}x\,
-{\frac {d}{dx}}\coth x=1-\coth ^{2}x=-\operatorname {csch} ^{2}x=-1/\sinh ^{2}x\,
-{\frac {d}{dx}}\ \operatorname {sech} \,x=-\tanh x\ \operatorname {sech} \,x\,
-{\frac {d}{dx}}\ \operatorname {csch} \,x=-\coth x\ \operatorname {csch} \,x\,
-{\frac {d}{dx}}\,\operatorname {arsinh} \,x={\frac {1}{\sqrt {x^{2}+1}}}
-{ {\frac {d}{dx}}\,\operatorname {arcosh} \,x={\frac {1}{\sqrt {x^{2}-1}}}}
-{\frac {d}{dx}}\,\operatorname {artanh} \,x={\frac {1}{1-x^{2}}}
-{\frac {d}{dx}}\,\operatorname {arcoth} \,x={\frac {1}{1-x^{2}}}
-{\frac {d}{dx}}\,\operatorname {arsech} \,x=-{\frac {1}{x{\sqrt {1-x^{2}}}}}
-{ {\frac {d}{dx}}\,\operatorname {arcsch} \,x=-{\frac {1}{|x|{\sqrt {1+x^{2}}}}}}
-{\frac {d^{2}}{dx^{2}}}\sinh x=\sinh x\,
-{\frac {d^{2}}{dx^{2}}}\cosh x=\cosh x\,.
-e^{x}
-e^{-x}
-f(x)=0
-{\begin{aligned}\int \sinh(ax)\,dx&=a^{-1}\cosh(ax)+C\\int \cosh(ax)\,dx&=a^{-1}\sinh(ax)+C\\int \tanh(ax)\,dx&=a^{-1}\ln(\cosh(ax))+C\\int \coth(ax)\,dx&=a^{-1}\ln(\sinh(ax))+C\\int \operatorname {sech} (ax)\,dx&=a^{-1}\arctan(\sinh(ax))+C\\int \operatorname {csch} (ax)\,dx&=a^{-1}\ln \left(\tanh \left({\frac {ax}{2}}\right)\right)+C&=a^{-1}\ln \left|\operatorname {csch} (ax)-\coth(ax)\right|+C\end{aligned}}
-{\begin{aligned}\int {{\frac {1}{\sqrt {a^{2}+u^{2}}}}\,du}&=\operatorname {arsinh} \left({\frac {u}{a}}\right)+C\\int {{\frac {1}{\sqrt {u^{2}-a^{2}}}}\,du}&=\operatorname {arcosh} \left({\frac {u}{a}}\right)+C\\int {\frac {1}{a^{2}-u^{2}}}\,du&=a^{-1}\operatorname {artanh} \left({\frac {u}{a}}\right)+C;u^{2}<a^{2}\\int {\frac {1}{a^{2}-u^{2}}}\,du&=a^{-1}\operatorname {arcoth} \left({\frac {u}{a}}\right)+C;u^{2}>a^{2}\\int {{\frac {1}{u{\sqrt {a^{2}-u^{2}}}}}\,du}&=-a^{-1}\operatorname {arsech} \left({\frac {u}{a}}\right)+C\\int {{\frac {1}{u{\sqrt {a^{2}+u^{2}}}}}\,du}&=-a^{-1}\operatorname {arcsch} \left|{\frac {u}{a}}\right|+C\end{aligned}}
-\sinh x=x+{\frac {x^{3}}{3!}}+{\frac {x^{5}}{5!}}+{\frac {x^{7}}{7!}}+\cdots =\sum _{n=0}^{\infty }{\frac {x^{2n+1}}{(2n+1)!}}
-\cosh x=1+{\frac {x^{2}}{2!}}+{\frac {x^{4}}{4!}}+{\frac {x^{6}}{6!}}+\cdots =\sum _{n=0}^{\infty }{\frac {x^{2n}}{(2n)!}}
-{\begin{aligned}\tanh x&=x-{\frac {x^{3}}{3}}+{\frac {2x^{5}}{15}}-{\frac {17x^{7}}{315}}+\cdots =\sum _{n=1}^{\infty }{\frac {2^{2n}(2^{2n}-1)B_{2n}x^{2n-1}}{(2n)!}},\left|x\right|<{\frac {\pi }{2}}\\coth x&=x^{-1}+{\frac {x}{3}}-{\frac {x^{3}}{45}}+{\frac {2x^{5}}{945}}+\cdots =x^{-1}+\sum _{n=1}^{\infty }{\frac {2^{2n}B_{2n}x^{2n-1}}{(2n)!}},0<\left|x\right|<\pi \\operatorname {sech} \,x&=1-{\frac {x^{2}}{2}}+{\frac {5x^{4}}{24}}-{\frac {61x^{6}}{720}}+\cdots =\sum _{n=0}^{\infty }{\frac {E_{2n}x^{2n}}{(2n)!}},\left|x\right|<{\frac {\pi }{2}}\\operatorname {csch} \,x&=x^{-1}-{\frac {x}{6}}+{\frac {7x^{3}}{360}}-{\frac {31x^{5}}{15120}}+\cdots =x^{-1}+\sum _{n=1}^{\infty }{\frac {2(1-2^{2n-1})B_{2n}x^{2n-1}}{(2n)!}},0<\left|x\right|<\pi \end{aligned}}
-B_{n}\,
-E_{n}\,
-{\frac {r^{2}u}{2}},
-{\begin{aligned}\sinh(x+y)&=\sinh(x)\cosh(y)+\cosh(x)\sinh(y)\\cosh(x+y)&=\cosh(x)\cosh(y)+\sinh(x)\sinh(y)\\tanh(x+y)&={\frac {\tanh(x)+\tanh(y)}{1+\tanh(x)\tanh(y)}}\end{aligned}}
-{\begin{aligned}\sinh(2x)&=2\sinh x\cosh x\\cosh(2x)&=\cosh ^{2}x+\sinh ^{2}x=2\cosh ^{2}x-1=2\sinh ^{2}x+1\\tanh(2x)&={\frac {2\tanh x}{1+\tanh ^{2}x}}\\sinh(2x)&={\frac {2\tanh x}{1-\tanh ^{2}x}}\\cosh(2x)&={\frac {1+\tanh ^{2}x}{1-\tanh ^{2}x}}\end{aligned}}
-\sinh {\frac {x}{2}}={\sqrt {{\frac {1}{2}}(\cosh x-1)}}\,
-\cosh {\frac {x}{2}}={\sqrt {{\frac {1}{2}}(\cosh x+1)}}\,
-\tanh {\frac {x}{2}}={\sqrt {\frac {\cosh x-1}{\cosh x+1}}}={\frac {\sinh x}{\cosh x+1}}={\frac {\cosh x-1}{\sinh x}}=\coth x-\operatorname {csch} x.
-\coth {\frac {x}{2}}=\coth x+\operatorname {csch} x.
-e^{x}=\cosh x+\sinh x
-e^{-x}=\cosh x-\sinh x
-{\begin{aligned}e^{ix}&=\cos x+i\;\sin x\e^{-ix}&=\cos x-i\;\sin x\end{aligned}}
-{\begin{aligned}\cosh(ix)&={\frac {1}{2}}\left(e^{ix}+e^{-ix}\right)=\cos x\\sinh(ix)&={\frac {1}{2}}\left(e^{ix}-e^{-ix}\right)=i\sin x\\cosh(x+iy)&=\cosh(x)\cos(y)+i\sinh(x)\sin(y)\\sinh(x+iy)&=\sinh(x)\cos(y)+i\cosh(x)\sin(y)\\tanh(ix)&=i\tan x\\cosh x&=\cos(ix)\\sinh x&=-i\sin(ix)\\tanh x&=-i\tan(ix)\end{aligned}}
-2\pi i
-\pi i
-\operatorname {sinh} (z)
-\operatorname {cosh} (z)
-\operatorname {tanh} (z)
-\operatorname {coth} (z)
-\operatorname {sech} (z)
-\operatorname {csch} (z)
-A_{0}
-A_{1}
-
+1 Population\ growth\ rate={\frac {P(t_{2})-P(t_{1})}{P(t_{1})(t_{2}-t_{1})}}
+2 https://en.wikipedia.org/wiki/Population_growth
+1 \sharp \hat 4
+2 https://en.wikipedia.org/wiki/Help:Musical_symbols
+1 (\Omega ,{\mathcal {F}},P)
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 E\in {\mathcal {F}}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 P[E]=1
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 E
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 P[E^C] = 0
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 {\mathcal {F}}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 E^C
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 N\in\mathcal F
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 P[N]=0
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 P
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 (\{H,T\}, 2^{\{H, T\}}, \mathbb{P})
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \{\omega = H\}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \{\omega=T\}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \mathbb{P}[\omega = H] = p\in (0, 1)
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \mathbb{P}[\omega = T] = 1 - p
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \{X_i(\omega)\}_{i\in\mathbb{N}}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 X_i(\omega)=\omega_i
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 X_{i}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 i
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \{H, H, H, \dots\}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 n
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \mathbb{P}[X_i = H, \ i=1,2,\dots,n]=\left(\mathbb{P}[X_1 = H]\right)^n = p^n
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 n\rightarrow \infty 
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 p\in (0,1)
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 p
+2 https://en.wikipedia.org/wiki/Almost_surely
+1  \lim\limits_{n\to\infty}\frac{1}{n} = 0
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 p^{1,000,000}\neq 0
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 1 - p^{1,000,000}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \frac{(1+\epsilon) \ln n}{n}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \sin \theta 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \cos \theta 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \theta 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 e^{\sqrt {\ln \ln x}}+\ln \ln x+\sum _{j=0}^{\infty }e^{x}x^{-j},
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \mathbb {N} 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 ^{*}\mathbb {N} 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \forall n\in \mathbb {N} ,\sin n\pi =0
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \forall n\in {}^{*}\mathbb {N} ,{}^{*}\!\!\sin n\pi =0
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \alpha 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \delta _{\alpha }
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \int F(x)\delta _{\alpha }(x)=F(0)
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1  x^{2}\ -\ y^{2}\ =\ 1
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1  (\cosh \,a,\,\sinh \,a)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1  a
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1  x
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \sinh x={\frac {e^{x}-e^{-x}}{2}}={\frac {e^{2x}-1}{2e^{x}}}={\frac {1-e^{-2x}}{2e^{-x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \cosh x={\frac {e^{x}+e^{-x}}{2}}={\frac {e^{2x}+1}{2e^{x}}}={\frac {1+e^{-2x}}{2e^{-x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \tanh x={\frac {\sinh x}{\cosh x}}={\frac {e^{x}-e^{-x}}{e^{x}+e^{-x}}}=
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 ={\frac {e^{2x}-1}{e^{2x}+1}}={\frac {1-e^{-2x}}{1+e^{-2x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { x\not =0}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \coth x={\frac {\cosh x}{\sinh x}}={\frac {e^{x}+e^{-x}}{e^{x}-e^{-x}}}=
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 ={\frac {e^{2x}+1}{e^{2x}-1}}={\frac {1+e^{-2x}}{1-e^{-2x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {sech} \,x={\frac {1}{\cosh x}}={\frac {2}{e^{x}+e^{-x}}}=
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 ={\frac {2e^{x}}{e^{2x}+1}}={\frac {2e^{-x}}{1+e^{-2x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {csch} \,x={\frac {1}{\sinh x}}={\frac {2}{e^{x}-e^{-x}}}=
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 ={\frac {2e^{x}}{e^{2x}-1}}={\frac {2e^{-x}}{1-e^{-2x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \sinh x=-i\sin(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \cosh x=\cos(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \tanh x=-i\tan(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \coth x=i\cot(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {sech} x=\sec(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {csch} x=i\csc(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\text{area}}=\int _{a}^{b}{\cosh {(x)}}\ dx=\int _{a}^{b}{\sqrt {1+\left({\frac {d}{dx}}\cosh {(x)}\right)^{2}}}\ dx={\text{arc length}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 f'=1-f^{2}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {1}{2}}f''=f^{3}-f;\quad f(0)=f'(\infty )=0
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh(-x)&=-\sinh x\\cosh(-x)&=\cosh x\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\tanh(-x)&=-\tanh x\\coth(-x)&=-\coth x\\operatorname {sech} (-x)&=\operatorname {sech} x\\operatorname {csch} (-x)&=-\operatorname {csch} x\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\operatorname {arsech} x&=\operatorname {arcosh} {\frac {1}{x}}\\operatorname {arcsch} x&=\operatorname {arsinh} {\frac {1}{x}}\\operatorname {arcoth} x&=\operatorname {artanh} {\frac {1}{x}}\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\cosh x+\sinh x&=e^{x}\\cosh x-\sinh x&=e^{-x}\\cosh ^{2}x-\sinh ^{2}x&=1\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\operatorname {sech} ^{2}x&=1-\tanh ^{2}x\\operatorname {csch} ^{2}x&=\coth ^{2}x-1\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { {\begin{aligned}\sinh(x+y)&=\sinh(x)\cosh(y)+\cosh(x)\sinh(y)\\cosh(x+y)&=\cosh(x)\cosh(y)+\sinh(x)\sinh(y)\\tanh(x+y)&={\frac {\tanh x+\tanh y}{1+\tanh x\tanh y}}\\end{aligned}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\cosh(2x)&=\sinh ^{2}{x}+\cosh ^{2}{x}=2\sinh ^{2}x+1=2\cosh ^{2}x-1\\sinh(2x)&=2\sinh x\cosh x\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh x+\sinh y&=2\sinh {\frac {x+y}{2}}\cosh {\frac {x-y}{2}}\\cosh x+\cosh y&=2\cosh {\frac {x+y}{2}}\cosh {\frac {x-y}{2}}\\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh(x-y)&=\sinh(x)\cosh(y)-\cosh(x)\sinh(y)\\cosh(x-y)&=\cosh(x)\cosh(y)-\sinh(x)\sinh(y)\\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh x-\sinh y&=2\cosh {\frac {x+y}{2}}\sinh {\frac {x-y}{2}}\\cosh x-\cosh y&=2\sinh {\frac {x+y}{2}}\sinh {\frac {x-y}{2}}\\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { \sinh \left({\frac {x}{2}}\right)={\frac {\sinh(x)}{\sqrt {2(\cosh(x)+1)}}}=\operatorname {sgn}(x)\,{\sqrt {\frac {\cosh(x)-1}{2}}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { \cosh \left({\frac {x}{2}}\right)={\sqrt {\frac {\cosh(x)+1}{2}}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { \tanh \left({\frac {x}{2}}\right)={\frac {\sinh(x)}{\cosh(x)+1}}=\operatorname {sgn}(x)\,{\sqrt {\frac {\cosh(x)-1}{\cosh(x)+1}}}={\frac {e^{x}-1}{e^{x}+1}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { \tanh \left({\frac {x}{2}}\right)={\frac {\cosh(x)-1}{\sinh(x)}}=\coth(x)-\operatorname {csch} (x)}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { {\begin{aligned}\operatorname {arsinh} (x)&=\ln \left(x+{\sqrt {x^{2}+1}}\right)\\operatorname {arcosh} (x)&=\ln \left(x+{\sqrt {x^{2}-1}}\right);x\geq 1\\operatorname {artanh} (x)&={\frac {1}{2}}\ln \left({\frac {1+x}{1-x}}\right);\left|x\right|<1\\operatorname {arcoth} (x)&={\frac {1}{2}}\ln \left({\frac {x+1}{x-1}}\right);\left|x\right|>1\\operatorname {arsech} (x)&=\ln \left({\frac {1}{x}}+{\sqrt {{\frac {1}{x^{2}}}-1}}\right)=\ln \left({\frac {1+{\sqrt {1-x^{2}}}}{x}}\right);0<x\leq 1\\operatorname {arcsch} (x)&=\ln \left({\frac {1}{x}}+{\sqrt {{\frac {1}{x^{2}}}+1}}\right)=\ln \left({\frac {1+{\sqrt {x^{2}+1}}}{x}}\right);x\neq 0\end{aligned}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\sinh x=\cosh x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\cosh x=\sinh x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\tanh x=1-\tanh ^{2}x=\operatorname {sech} ^{2}x=1/\cosh ^{2}x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\coth x=1-\coth ^{2}x=-\operatorname {csch} ^{2}x=-1/\sinh ^{2}x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\ \operatorname {sech} \,x=-\tanh x\ \operatorname {sech} \,x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\ \operatorname {csch} \,x=-\coth x\ \operatorname {csch} \,x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\,\operatorname {arsinh} \,x={\frac {1}{\sqrt {x^{2}+1}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { {\frac {d}{dx}}\,\operatorname {arcosh} \,x={\frac {1}{\sqrt {x^{2}-1}}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\,\operatorname {artanh} \,x={\frac {1}{1-x^{2}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\,\operatorname {arcoth} \,x={\frac {1}{1-x^{2}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\,\operatorname {arsech} \,x=-{\frac {1}{x{\sqrt {1-x^{2}}}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { {\frac {d}{dx}}\,\operatorname {arcsch} \,x=-{\frac {1}{|x|{\sqrt {1+x^{2}}}}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d^{2}}{dx^{2}}}\sinh x=\sinh x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d^{2}}{dx^{2}}}\cosh x=\cosh x\,.
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 e^{x}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 e^{-x}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 f(x)=0
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\int \sinh(ax)\,dx&=a^{-1}\cosh(ax)+C\\int \cosh(ax)\,dx&=a^{-1}\sinh(ax)+C\\int \tanh(ax)\,dx&=a^{-1}\ln(\cosh(ax))+C\\int \coth(ax)\,dx&=a^{-1}\ln(\sinh(ax))+C\\int \operatorname {sech} (ax)\,dx&=a^{-1}\arctan(\sinh(ax))+C\\int \operatorname {csch} (ax)\,dx&=a^{-1}\ln \left(\tanh \left({\frac {ax}{2}}\right)\right)+C&=a^{-1}\ln \left|\operatorname {csch} (ax)-\coth(ax)\right|+C\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\int {{\frac {1}{\sqrt {a^{2}+u^{2}}}}\,du}&=\operatorname {arsinh} \left({\frac {u}{a}}\right)+C\\int {{\frac {1}{\sqrt {u^{2}-a^{2}}}}\,du}&=\operatorname {arcosh} \left({\frac {u}{a}}\right)+C\\int {\frac {1}{a^{2}-u^{2}}}\,du&=a^{-1}\operatorname {artanh} \left({\frac {u}{a}}\right)+C;u^{2}<a^{2}\\int {\frac {1}{a^{2}-u^{2}}}\,du&=a^{-1}\operatorname {arcoth} \left({\frac {u}{a}}\right)+C;u^{2}>a^{2}\\int {{\frac {1}{u{\sqrt {a^{2}-u^{2}}}}}\,du}&=-a^{-1}\operatorname {arsech} \left({\frac {u}{a}}\right)+C\\int {{\frac {1}{u{\sqrt {a^{2}+u^{2}}}}}\,du}&=-a^{-1}\operatorname {arcsch} \left|{\frac {u}{a}}\right|+C\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \sinh x=x+{\frac {x^{3}}{3!}}+{\frac {x^{5}}{5!}}+{\frac {x^{7}}{7!}}+\cdots =\sum _{n=0}^{\infty }{\frac {x^{2n+1}}{(2n+1)!}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \cosh x=1+{\frac {x^{2}}{2!}}+{\frac {x^{4}}{4!}}+{\frac {x^{6}}{6!}}+\cdots =\sum _{n=0}^{\infty }{\frac {x^{2n}}{(2n)!}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\tanh x&=x-{\frac {x^{3}}{3}}+{\frac {2x^{5}}{15}}-{\frac {17x^{7}}{315}}+\cdots =\sum _{n=1}^{\infty }{\frac {2^{2n}(2^{2n}-1)B_{2n}x^{2n-1}}{(2n)!}},\left|x\right|<{\frac {\pi }{2}}\\coth x&=x^{-1}+{\frac {x}{3}}-{\frac {x^{3}}{45}}+{\frac {2x^{5}}{945}}+\cdots =x^{-1}+\sum _{n=1}^{\infty }{\frac {2^{2n}B_{2n}x^{2n-1}}{(2n)!}},0<\left|x\right|<\pi \\operatorname {sech} \,x&=1-{\frac {x^{2}}{2}}+{\frac {5x^{4}}{24}}-{\frac {61x^{6}}{720}}+\cdots =\sum _{n=0}^{\infty }{\frac {E_{2n}x^{2n}}{(2n)!}},\left|x\right|<{\frac {\pi }{2}}\\operatorname {csch} \,x&=x^{-1}-{\frac {x}{6}}+{\frac {7x^{3}}{360}}-{\frac {31x^{5}}{15120}}+\cdots =x^{-1}+\sum _{n=1}^{\infty }{\frac {2(1-2^{2n-1})B_{2n}x^{2n-1}}{(2n)!}},0<\left|x\right|<\pi \end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 B_{n}\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 E_{n}\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {r^{2}u}{2}},
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh(x+y)&=\sinh(x)\cosh(y)+\cosh(x)\sinh(y)\\cosh(x+y)&=\cosh(x)\cosh(y)+\sinh(x)\sinh(y)\\tanh(x+y)&={\frac {\tanh(x)+\tanh(y)}{1+\tanh(x)\tanh(y)}}\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh(2x)&=2\sinh x\cosh x\\cosh(2x)&=\cosh ^{2}x+\sinh ^{2}x=2\cosh ^{2}x-1=2\sinh ^{2}x+1\\tanh(2x)&={\frac {2\tanh x}{1+\tanh ^{2}x}}\\sinh(2x)&={\frac {2\tanh x}{1-\tanh ^{2}x}}\\cosh(2x)&={\frac {1+\tanh ^{2}x}{1-\tanh ^{2}x}}\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \sinh {\frac {x}{2}}={\sqrt {{\frac {1}{2}}(\cosh x-1)}}\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \cosh {\frac {x}{2}}={\sqrt {{\frac {1}{2}}(\cosh x+1)}}\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \tanh {\frac {x}{2}}={\sqrt {\frac {\cosh x-1}{\cosh x+1}}}={\frac {\sinh x}{\cosh x+1}}={\frac {\cosh x-1}{\sinh x}}=\coth x-\operatorname {csch} x.
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \coth {\frac {x}{2}}=\coth x+\operatorname {csch} x.
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 e^{x}=\cosh x+\sinh x
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 e^{-x}=\cosh x-\sinh x
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}e^{ix}&=\cos x+i\;\sin x\e^{-ix}&=\cos x-i\;\sin x\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\cosh(ix)&={\frac {1}{2}}\left(e^{ix}+e^{-ix}\right)=\cos x\\sinh(ix)&={\frac {1}{2}}\left(e^{ix}-e^{-ix}\right)=i\sin x\\cosh(x+iy)&=\cosh(x)\cos(y)+i\sinh(x)\sin(y)\\sinh(x+iy)&=\sinh(x)\cos(y)+i\cosh(x)\sin(y)\\tanh(ix)&=i\tan x\\cosh x&=\cos(ix)\\sinh x&=-i\sin(ix)\\tanh x&=-i\tan(ix)\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 2\pi i
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \pi i
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {sinh} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {cosh} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {tanh} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {coth} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {sech} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {csch} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 A_{0}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 A_{1}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
 \begin{align}
     A^*_0 & = \{(1, 0), (2, 0), (3, 0)\} \
     A^*_1 & = \{(1, 1), (2, 1)\}
 \end{align}
   
-
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
     A_0 \sqcup A_1 = A^*_0 \cup A^*_1 = \{(1, 0), (2, 0), (3, 0), (1, 1), (2, 1)\}
   
-
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
     \bigsqcup_{i\in I}A_i = \bigcup_{i\in I}\{(x,i) : x \in A_i\}.
   
-
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
     A_i^* = \{(x,i) : x \in A_i\}.
   
-
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
     \bigsqcup_{i\in I}A_i = A \times I.
   
-
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
     \sum_{i\in I}A_i
   
-\biguplus _{{i\in I}}A_{i}
-{ \quad \cdot \!\!\!\!\!\bigcup _{i\in I}A_{i}}
-A_{i}^{*}
-A_{i}
-{\underset  {A\in C}{\,\,\bigcup \nolimits ^{{*}}\!}}A
- \coprod
- \bigsqcup
- f(t)
- {\hat {f}}(\omega )
- g(t)
- {\hat {g}}(\omega )
- t
- \omega 
-f(t)
-{\hat {f}}(\omega )
-\omega 
-g(t)
-f
-{\hat {f}}
-f:\mathbb {R} \rightarrow \mathbb {C} 
-{ {\hat {f}}(\xi )=\int _{-\infty }^{+\infty }f(x)\ e^{-2\pi ix\xi }\,dx,}
-{ f(x)=\int _{-\infty }^{+\infty }{\hat {f}}(\xi )\ e^{2\pi i\xi x}\,d\xi ,}
-L^{2}
-L^{1}
-L^{\infty }
-c_{n}={\frac {1}{T}}\int _{-T/2}^{T/2}f(x)\ e^{-2\pi i(n/T)x}\,dx.
-c_{n}=(1/T){\hat {f}}(n/T)
-f(x)=\sum _{n=-\infty }^{\infty }c_{n}\ e^{2\pi i(n/T)x}=\sum _{n=-\infty }^{\infty }{\hat {f}}(\xi _{n})\ e^{2\pi i\xi _{n}x}\Delta \xi ,
-{\hat {f}}(3)
-{\hat {f}}(5)
-\int _{-\infty }^{\infty }|f(x)|\,dx<\infty .
-{\hat {f}}(\xi )
-{\hat {g}}(\xi )
-{\hat {h}}(\xi )
-{\hat {h}}(\xi )=a\cdot {\hat {f}}(\xi )+b\cdot {\hat {g}}(\xi ).
-h(x)=f(x-x_{0}),
-{\hat {h}}(\xi )=e^{-i\,2\pi \,x_{0}\,\xi }{\hat {f}}(\xi ).
-h(x)=e^{i\,2\pi \,x\,\xi _{0}}f(x),
-{\hat {h}}(\xi )={\hat {f}}(\xi -\xi _{0}).
-{ h(x)=f(ax)}
-{\hat {h}}(\xi )={\frac {1}{|a|}}{\hat {f}}\left({\frac {\xi }{a}}\right).
-{\hat {h}}(\xi )={\hat {f}}(-\xi ).
-h(x)={\overline {f(x)}},
-{\hat {h}}(\xi )={\overline {{\hat {f}}(-\xi )}}.
-{\hat {f}}(-\xi )={\overline {{\hat {f}}(\xi )}}
-{\hat {f}}(-\xi )=-{\overline {{\hat {f}}(\xi )}}.
-\xi =0
-{\hat {f}}(0)=\int _{-\infty }^{\infty }f(x)\,dx.
-{\hat {f}}.
-{\mathcal {F}},
-{\mathcal {F}}(f):={\hat {f}},
-{\mathcal {F}}^{2}(f)(x)=f(-x),
-{\mathcal {F}}^{4}(f)=f,
-{\mathcal {F}}^{3}({\hat {f}})=f.
-{\mathcal {P}}
-{\mathcal {P}}[f]\colon t\mapsto f(-t),
-{\mathcal {F}}^{0}=\mathrm {Id} ,\qquad {\mathcal {F}}^{1}={\mathcal {F}},\qquad {\mathcal {F}}^{2}={\mathcal {P}},\qquad {\mathcal {F}}^{4}=\mathrm {Id} 
-{\mathcal {F}}^{3}={\mathcal {F}}^{-1}={\mathcal {P}}\circ {\mathcal {F}}={\mathcal {F}}\circ {\mathcal {P}}
-t
-\xi 
-2\pi 
-\omega =2\pi \xi 
-{\hat {x}}_{1}
-{\hat {x}}
-{\hat {x}}_{1}(\omega )={\hat {x}}\left({\omega  \over 2\pi }\right)=\int _{-\infty }^{\infty }x(t)e^{-i\omega t}\,dt
-x(t)={1 \over {2\pi }}\int _{-\infty }^{\infty }{\hat {x}}_{1}(\omega )e^{it\omega }\,d\omega .
-{\sqrt {2\pi }}
-{\hat {x}}_{2}(\omega )={\frac {1}{\sqrt {2\pi }}}\int _{-\infty }^{\infty }x(t)e^{-i\omega t}\,dt,
-x(t)={1 \over {\sqrt {2\pi }}}\int _{-\infty }^{\infty }{\hat {x}}_{2}(\omega )e^{it\omega }\,d\omega .
--i
-\phi 
-X
-\phi (\lambda )=\int _{-\infty }^{\infty }f(x)e^{i\lambda x}\,dx.
-\|{\hat {f}}\|_{\infty }\leq \|f\|_{1}
-{\hat {f}}(\xi )\to 0{\text{ as }}|\xi |\to \infty .
-f(x)=\int _{-\infty }^{\infty }{\hat {f}}(\xi )e^{2i\pi x\xi }\,d\xi 
-\int _{-\infty }^{\infty }f(x){\overline {g(x)}}\,{\rm {d}}x=\int _{-\infty }^{\infty }{\hat {f}}(\xi ){\overline {{\hat {g}}(\xi )}}\,d\xi ,
-\int _{-\infty }^{\infty }\left|f(x)\right|^{2}\,dx=\int _{-\infty }^{\infty }\left|{\hat {f}}(\xi )\right|^{2}\,d\xi .
-\sum _{n}{\hat {f}}(n)=\sum _{n}f(n).
-{\widehat {f'\;}}(\xi )=2\pi i\xi {\hat {f}}(\xi ).
-{\widehat {f^{(n)}}}(\xi )=(2\pi i\xi )^{n}{\hat {f}}(\xi ).
-f(x)
-|\xi |\to \infty 
-|x|\to \infty 
-h(x)=(f*g)(x)=\int _{-\infty }^{\infty }f(y)g(x-y)\,dy,
-{\hat {h}}(\xi )={\hat {f}}(\xi )\cdot {\hat {g}}(\xi ).
-{\hat {p}}(\xi )
-{\hat {q}}(\xi )
-h(x)=(f\star g)(x)=\int _{-\infty }^{\infty }{\overline {f(y)}}\,g(x+y)\,dy
-{\hat {h}}(\xi )={\overline {{\hat {f}}(\xi )}}\,\cdot \,{\hat {g}}(\xi ).
-h(x)=(f\star f)(x)=\int _{-\infty }^{\infty }{\overline {f(y)}}f(x+y)\,dy
-{\hat {h}}(\xi )={\overline {{\hat {f}}(\xi )}}\,{\hat {f}}(\xi )=|{\hat {f}}(\xi )|^{2}.
-{\psi }_{n}(x)={\frac {2^{1/4}}{\sqrt {n!}}}\,e^{-\pi x^{2}}\mathrm {He} _{n}(2x{\sqrt {\pi }}),
-\mathrm {He} _{n}(x)=(-1)^{n}e^{\frac {x^{2}}{2}}\left({\frac {d}{dx}}\right)^{n}e^{-{\frac {x^{2}}{2}}}
-{\hat {\psi }}_{n}(\xi )=(-i)^{n}{\psi }_{n}(\xi )
-{ L^{2}(\mathbb {R} )}
-{ (T_{y}f)(x)=f(x+y)}
-{ e^{2\pi ix\xi }}
-{ (M_{\xi }f)(x)=e^{2\pi ix\xi }f(x)}
-{ (M_{\xi }^{-1}T_{y}^{-1}M_{\xi }T_{y}f)(x)=e^{2\pi iy\xi }f(x)}
-{ e^{2\pi iy\xi }\in U(1)}
-{ (x,\xi ,z)\in \mathbb {R} ^{2}\times U(1)}
-{ (x_{1},\xi _{1},t_{1}).(x_{2},\xi _{2},t_{2})=(x_{1}+x_{2},\xi _{1}+\xi _{2},t_{1}t_{2}e^{2\pi i(x_{1}\xi _{1}+x_{2}\xi _{2}+x_{1}\xi _{2}}).}
-H_{1}
-{ \rho :H_{1}\to B(L^{2}(\mathbb {R} ))}
-\mathbb {R} ^{2}
-{ J{\begin{pmatrix}x\\xi \end{pmatrix}}={\begin{pmatrix}-\xi \x\end{pmatrix}}}
-J^{2}=-I
-J
-{ j(x,\xi ,t)=(-\xi ,x,te^{-2\pi ix\xi }).}
-\rho 
-{ \rho \circ j}
-{ W\in U(L^{2}(\mathbb {R} ))}
-{ \rho \circ j=W\rho W^{*}.}
-W^{2}
-{ (W^{2}f)(x)=f(-x)}
-{\hat {f}}(\xi )=\int _{-\infty }^{\infty }e^{-2\pi i\xi t}f(t)\,dt
-\xi =\sigma +i\tau 
-{\hat {f}}(\sigma +i\tau )
-a>0
-n\geq 0
-\vert \xi ^{n}{\hat {f}}(\xi )\vert \leq Ce^{a\vert \tau \vert }
-C
-[-a,a]
-\sigma 
-\tau 
-n=0
-t\geq 0
-\tau <0
-F(s)
-s
-\vert f(t)\vert <Ce^{a\vert t\vert }
-C,a\geq 0
-{\hat {f}}(i\tau )=\int _{-\infty }^{\infty }e^{2\pi \tau t}f(t)\,dt,
-2\pi \tau <-a
-F(s)=\int _{0}^{\infty }f(t)e^{-st}\,dt.
-{\hat {f}}(i\tau )=F(-2\pi \tau ).
-s=2\pi i\xi 
-a\leq \tau \leq b
-\int _{-\infty }^{\infty }{\hat {f}}(\sigma +ia)e^{2\pi i\xi t}\,d\sigma =\int _{-\infty }^{\infty }{\hat {f}}(\sigma +ib)e^{2\pi i\xi t}\,d\sigma 
-f(t)=0
-t<0
-C,a>0
-f(t)=\int _{-\infty }^{\infty }{\hat {f}}(\sigma +i\tau )e^{2\pi i\xi t}\,d\sigma ,
-\tau <-{a \over 2\pi }
-f(t)={\frac {1}{2\pi i}}\int _{b-i\infty }^{b+i\infty }F(s)e^{st}ds
-b>a
-f(t)e^{-at}
-{\hat {f}}({\boldsymbol {\xi }})={\mathcal {F}}(f)({\boldsymbol {\xi }})=\int _{\mathbb {R} ^{n}}f(\mathbf {x} )e^{-2\pi i\mathbf {x} \cdot {\boldsymbol {\xi }}}\,d\mathbf {x} 
-\left\langle \mathbf {x} ,{\boldsymbol {\xi }}\right\rangle 
-\int _{-\infty }^{\infty }|f(x)|^{2}\,dx=1.
-D_{0}(f)=\int _{-\infty }^{\infty }x^{2}|f(x)|^{2}\,dx.
-D_{0}(f)D_{0}({\hat {f}})\geq {\frac {1}{16\pi ^{2}}}
-f(x)=C_{1}\,e^{-\pi x^{2}/\sigma ^{2}}
-{\hat {f}}(\xi )=\sigma C_{1}\,e^{-\pi \sigma ^{2}\xi ^{2}}
-C_{1}={\sqrt[{4}]{2}}/{\sqrt {\sigma }}
-\left(\int _{-\infty }^{\infty }(x-x_{0})^{2}|f(x)|^{2}\,dx\right)\left(\int _{-\infty }^{\infty }(\xi -\xi _{0})^{2}|{\hat {f}}(\xi )|^{2}\,d\xi \right)\geq {\frac {1}{16\pi ^{2}}}
-H(|f|^{2})+H(|{\hat {f}}|^{2})\geq \log(e/2)
-H(p)=-\int _{-\infty }^{\infty }p(x)\log(p(x))\,dx
-\lambda 
-f(t)=\int _{0}^{\infty }\left[a(\lambda )\cos \left(2\pi \lambda t\right)+b(\lambda )\sin \left(2\pi \lambda t\right)\right]\,d\lambda .
-a
-b
-a(\lambda )=2\int _{-\infty }^{\infty }f(t)\cos \left(2\pi \lambda t\right)\,dt
-b(\lambda )=2\int _{-\infty }^{\infty }f(t)\sin \left(2\pi \lambda t\right)\,dt.
-f(t)=2\int _{0}^{\infty }\int _{-\infty }^{\infty }f(\tau )\cos \left(2\pi \lambda (\tau -t)\right)\,d\tau \,d\lambda .
-{\hat {f}}(\xi )=i^{-k}f(\xi )
-{\hat {f}}(\xi )=F_{0}(|\xi |)P(\xi )
-F_{0}(r)=2\pi i^{-k}r^{-(n+2k-2)/2}\int _{0}^{\infty }f_{0}(s)J_{(n+2k-2)/2}(2\pi rs)s^{(n+2k)/2}\,ds.
-f_{R}(x)=\int _{E_{R}}{\hat {f}}(\xi )e^{2\pi ix\cdot \xi }\,d\xi ,\quad x\in \mathbf {R} ^{n}.
-{\hat {f}}(\xi )=\int _{\mathbf {R} ^{n}}f(x)e^{-2\pi i\xi \cdot x}\,dx
-\vert {\hat {f}}(\xi )\vert \leq \int _{\mathbf {R} ^{n}}\vert f(x)\vert \,dx,
-{\hat {f}}(\xi )=\lim _{R\to \infty }\int _{|x|\leq R}f(x)e^{-2\pi ix\cdot \xi }\,dx
-\int _{\mathbf {R} ^{n}}f(x){\mathcal {F}}g(x)\,dx=\int _{\mathbf {R} ^{n}}{\mathcal {F}}f(x)g(x)\,dx.
-q=p/(p-1)
-{\hat {g}}
-\int _{\mathbf {R} ^{n}}{\hat {f}}(x)g(x)\,dx=\int _{\mathbf {R} ^{n}}f(x){\hat {g}}(x)\,dx.
-T_{f}(\varphi )=\int _{\mathbf {R} ^{n}}f(x)\varphi (x)\,dx
-{\hat {T}}_{f}
-{\hat {T}}_{f}(\varphi )=T_{f}({\hat {\varphi }})
-{ {\hat {\mu }}(\xi )=\int _{\mathbf {R} ^{n}}e^{-2\pi ix\cdot \xi }\,d\mu .}
-{\hat {G}}
-{\hat {f}}(\xi )=\int _{G}\xi (x)f(x)\,d\mu \qquad {\text{for any }}\xi \in {\hat {G}}.
-f^{*}(g)={\overline {f(g^{-1})}}.
-a\mapsto (\varphi \mapsto \varphi (a))
-\langle {\hat {\mu }}\xi ,\eta \rangle _{H_{\sigma }}=\int _{G}\langle {\overline {U}}_{g}^{(\sigma )}\xi ,\eta \rangle \,d\mu (g)
-{\overline {U}}^{(\sigma )}
-d\mu =f\,d\lambda 
-\mu \mapsto {\hat {\mu }}
-\|E\|=\sup _{\sigma \in \Sigma }\|E_{\sigma }\|
-f^{*}(g)={\overline {f(g^{-1})}},
-f(g)=\sum _{\sigma \in \Sigma }d_{\sigma }\operatorname {tr} ({\hat {f}}(\sigma )U_{g}^{(\sigma )})
-{\partial ^{2}y(x,t) \over \partial ^{2}x}={\partial y(x,t) \over \partial t}.
-{\partial ^{2}y(x,t) \over \partial ^{2}x}={\partial ^{2}y(x,t) \over \partial ^{2}t}.
-{ y(x,0)=f(x),{\partial y(x,0) \over \partial t}=g(x).}
-g
-y
-{\hat {y}}
-\cos \left(2\pi \xi (x\pm t)\right){\mbox{ or }}\sin \left(2\pi \xi (x\pm t)\right)
-{ {\begin{aligned}y(x,t)=\int _{0}^{\infty }&a_{+}(\xi )\cos \left(2\pi \xi (x+t)\right)+a_{-}(\xi )\cos \left(2\pi \xi (x-t)\right)\+\ &b_{+}(\xi )\sin \left(2\pi \xi (x+t)\right)+b_{-}(\xi )\sin \left(2\pi \xi (x-t)\right)\,d\xi \end{aligned}}}
-a_{+}
-a_{-}
-b_{+}
-b_{-}
-a_{\pm }
-b_{\pm }
-t=0
-2\int _{-\infty }^{\infty }y(x,0)\cos \left(2\pi \xi x\right)\,dx=a_{+}+a_{-}
-2\int _{-\infty }^{\infty }y(x,0)\sin \left(2\pi \xi x\right)\,dx=b_{+}+b_{-}.
-2\int _{-\infty }^{\infty }{\partial y(u,0) \over \partial t}\sin(2\pi \xi x)\,dx=(2\pi \xi )(-a_{+}+a_{-})
-2\int _{-\infty }^{\infty }{\partial y(u,0) \over \partial t}\cos(2\pi \xi x)\,dx=(2\pi \xi )(b_{+}-b_{-}).
-y(x,t)
-2\pi i\xi 
-2\pi if
-\xi ^{2}{\hat {y}}(\xi ,f)=f^{2}{\hat {y}}(\xi ,f).
-{\hat {y}}(\xi ,f)=0
-\xi =\pm f
-{\hat {f}}=\delta (\xi \pm f)
-\xi ^{2}-f^{2}=0
-\xi =f
-\xi =-f
-\int \int {\hat {y}}\phi (\xi ,f)\,d\xi \,df=\int s_{+}\phi (\xi ,\xi )\,d\xi +\int s_{-}\phi (\xi ,-\xi )\,d\xi ,
-s_{+}
-s_{-}
-\phi (\xi ,f)=e^{2\pi i(x\xi +tf)}
-y(x,0)=\int \{s_{+}(\xi )+s_{-}(\xi )\}e^{2\pi i\xi x+0}\,d\xi 
-{\partial y(x,0) \over \partial t}=\int \{s_{+}(\xi )-s_{-}(\xi )\}2\pi i\xi e^{2\pi i\xi x+0}\,d\xi .
-s_{\pm }
-q
-\phi (p)=\int \psi (q)e^{2\pi ipq \over h}dq.
-{\partial ^{2} \over \partial x^{2}}\psi (x,t)=i{\frac {h}{2\pi }}{\partial  \over \partial t}\psi (x,t).
-V(x)
-{\partial ^{2} \over \partial x^{2}}\psi (x,t)+V(x)\psi (x,t)=i{\frac {h}{2\pi }}{\partial  \over \partial t}\psi (x,t).
-\psi 
-{ \left({\partial ^{2} \over \partial x^{2}}+1\right)\psi (x,t)={\partial ^{2} \over \partial t^{2}}\psi (x,t).}
-R
-\mathbb {R} _{f}(\tau )=\lim _{T\rightarrow \infty }{1 \over 2T}\int _{-T}^{T}f(t)f(t+\tau )\,dt.
-\tau =
-P_{f}(\xi )=\int _{-\infty }^{\infty }R_{f}(\tau )e^{-2\pi i\xi \tau }\,d\tau .
-{\tilde {f}}(\xi ),\ {\tilde {f}}(\omega ),\ F(\xi ),\ {\mathcal {F}}\left(f\right)(\xi ),\ \left({\mathcal {F}}f\right)(\xi ),\ {\mathcal {F}}(f),\ {\mathcal {F}}(\omega ),\ F(\omega ),\ {\mathcal {F}}(j\omega ),\ {\mathcal {F}}\{f\},\ {\mathcal {F}}\left(f(t)\right),\ {\mathcal {F}}\{f(t)\}.
-{\hat {f}}(\xi )=A(\xi )e^{i\varphi (\xi )}
-A(\xi )=|{\hat {f}}(\xi )|,
-\varphi (\xi )=\arg {\big (}{\hat {f}}(\xi ){\big )},
-f(x)=\int _{-\infty }^{\infty }A(\xi )\ e^{i(2\pi \xi x+\varphi (\xi ))}\,d\xi ,
-{\mathcal {F}}(f)
-{\mathcal {F}}f
-{\mathcal {F}}f(\xi )
-({\mathcal {F}}f)(\xi )
-{\mathcal {F}}(f(x))
-{\mathcal {F}}(\mathrm {rect} (x))=\mathrm {sinc} (\xi )
-{\mathcal {F}}(f(x+x_{0}))={\mathcal {F}}(f(x))e^{2\pi i\xi x_{0}}
-\omega =2\pi \xi ,
-{\hat {f}}(\omega )=\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx.
-f(x)={\frac {1}{(2\pi )^{n}}}\int _{\mathbf {R} ^{n}}{\hat {f}}(\omega )e^{i\omega \cdot x}\,d\omega .
-{\hat {f}}(\omega )={\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx,
-f(x)={\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}{\hat {f}}(\omega )e^{i\omega \cdot x}\,d\omega .
- {\hat {f}}_{1}(\xi )\ {\stackrel {\mathrm {def} }{=}}\ \int _{\mathbf {R} ^{n}}f(x)e^{-2\pi ix\cdot \xi }\,dx={\hat {f}}_{2}(2\pi \xi )=(2\pi )^{n/2}{\hat {f}}_{3}(2\pi \xi )
- f(x)=\int _{\mathbf {R} ^{n}}{\hat {f}}_{1}(\xi )e^{2\pi ix\cdot \xi }\,d\xi 
- {\hat {f}}_{3}(\omega ){\stackrel {\mathrm {def} }{{}={}}}{\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx={\frac {1}{(2\pi )^{n/2}}}{\hat {f}}_{1}\!\left({\frac {\omega }{2\pi }}\right)={\frac {1}{(2\pi )^{n/2}}}{\hat {f}}_{2}(\omega )
- f(x)={\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}{\hat {f}}_{3}(\omega )e^{i\omega \cdot x}\,d\omega 
- {\hat {f}}_{2}(\omega )\ {\stackrel {\mathrm {def} }{=}}\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx={\hat {f}}_{1}\!\left({\frac {\omega }{2\pi }}\right)=(2\pi )^{n/2}{\hat {f}}_{3}(\omega )
- f(x)={\frac {1}{(2\pi )^{n}}}\int _{\mathbf {R} ^{n}}{\hat {f}}_{2}(\omega )e^{i\omega \cdot x}\,d\omega 
-E(e^{it\cdot X})=\int e^{it\cdot x}\,d\mu _{X}(x)
-{\hat {h}}
- f(x)\,
- {\hat {f}}(\xi )=
- \int _{-\infty }^{\infty }f(x)e^{-2\pi ix\xi }\,dx
- {\hat {f}}(\omega )=
- {\frac {1}{\sqrt {2\pi }}}\int _{-\infty }^{\infty }f(x)e^{-i\omega x}\,dx
- {\hat {f}}(\nu )=
- \int _{-\infty }^{\infty }f(x)e^{-i\nu x}\,dx
- a\cdot f(x)+b\cdot g(x)\,
- a\cdot {\hat {f}}(\xi )+b\cdot {\hat {g}}(\xi )\,
- a\cdot {\hat {f}}(\omega )+b\cdot {\hat {g}}(\omega )\,
- a\cdot {\hat {f}}(\nu )+b\cdot {\hat {g}}(\nu )\,
- f(x-a)\,
- e^{-2\pi ia\xi }{\hat {f}}(\xi )\,
- e^{-ia\omega }{\hat {f}}(\omega )\,
- e^{-ia\nu }{\hat {f}}(\nu )\,
-{  f(x)e^{iax}\,}
-{  {\hat {f}}\left(\xi -{\frac {a}{2\pi }}\right)\,}
-{  {\hat {f}}(\omega -a)\,}
-{  {\hat {f}}(\nu -a)\,}
- f(ax)\,
- {\frac {1}{|a|}}{\hat {f}}\left({\frac {\xi }{a}}\right)\,
- {\frac {1}{|a|}}{\hat {f}}\left({\frac {\omega }{a}}\right)\,
- {\frac {1}{|a|}}{\hat {f}}\left({\frac {\nu }{a}}\right)\,
- |a|\,
- {\hat {f}}(x)\,
- f(-\xi )\,
- f(-\omega )\,
- 2\pi f(-\nu )\,
- {\frac {d^{n}f(x)}{dx^{n}}}\,
- (2\pi i\xi )^{n}{\hat {f}}(\xi )\,
- (i\omega )^{n}{\hat {f}}(\omega )\,
- (i\nu )^{n}{\hat {f}}(\nu )\,
- x^{n}f(x)\,
- \left({\frac {i}{2\pi }}\right)^{n}{\frac {d^{n}{\hat {f}}(\xi )}{d\xi ^{n}}}\,
- i^{n}{\frac {d^{n}{\hat {f}}(\omega )}{d\omega ^{n}}}
- i^{n}{\frac {d^{n}{\hat {f}}(\nu )}{d\nu ^{n}}}
- (f*g)(x)\,
- {\hat {f}}(\xi ){\hat {g}}(\xi )\,
- {\sqrt {2\pi }}{\hat {f}}(\omega ){\hat {g}}(\omega )\,
- {\hat {f}}(\nu ){\hat {g}}(\nu )\,
- f*g\,
- f(x)g(x)\,
- ({\hat {f}}*{\hat {g}})(\xi )\,
-{ ({\hat {f}}*{\hat {g}})(\omega ) \over {\sqrt {2\pi }}\,}
- {\frac {1}{2\pi }}({\hat {f}}*{\hat {g}})(\nu )\,
- {\hat {f}}(-\xi )={\overline {{\hat {f}}(\xi )}}\,
- {\hat {f}}(-\omega )={\overline {{\hat {f}}(\omega )}}\,
- {\hat {f}}(-\nu )={\overline {{\hat {f}}(\nu )}}\,
- {\overline {z}}\,
- {\hat {f}}(\xi )
- {\hat {f}}(\nu )\,
- {\hat {f}}(\nu )
- {\overline {f(x)}}
- {\overline {{\hat {f}}(-\xi )}}
- {\overline {{\hat {f}}(-\omega )}}
- {\overline {{\hat {f}}(-\nu )}}
-{  f(x)\cos(ax)}
-{  {\frac { {\hat {f}}\left(\xi -{\frac {a}{2\pi }}\right)+{\hat {f}}\left(\xi +{\frac {a}{2\pi }}\right)}{2}}}
-{  {\frac {{\hat {f}}(\omega -a)+{\hat {f}}(\omega +a)}{2}}\,}
-{  {\frac {{\hat {f}}(\nu -a)+{\hat {f}}(\nu +a)}{2}}}
- \cos(ax)=
-(e^{iax}+e^{-iax})/2.
-{  f(x)\sin(ax)}
-{  {\frac { {\hat {f}}\left(\xi -{\frac {a}{2\pi }}\right)-{\hat {f}}\left(\xi +{\frac {a}{2\pi }}\right)}{2i}}}
-{  {\frac {{\hat {f}}(\omega -a)-{\hat {f}}(\omega +a)}{2i}}}
-{  {\frac {{\hat {f}}(\nu -a)-{\hat {f}}(\nu +a)}{2i}}}
- \sin(ax)=
-(e^{iax}-e^{-iax})/(2i).
- f(x)
- \operatorname {rect} (ax)\,
- {\frac {1}{|a|}}\cdot \operatorname {sinc} \left({\frac {\xi }{a}}\right)
- {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {sinc} \left({\frac {\omega }{2\pi a}}\right)
- {\frac {1}{|a|}}\cdot \operatorname {sinc} \left({\frac {\nu }{2\pi a}}\right)
- \operatorname {sinc} (ax)\,
- {\frac {1}{|a|}}\cdot \operatorname {rect} \left({\frac {\xi }{a}}\right)\,
- {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {rect} \left({\frac {\omega }{2\pi a}}\right)
- {\frac {1}{|a|}}\cdot \operatorname {rect} \left({\frac {\nu }{2\pi a}}\right)
- \operatorname {sinc} ^{2}(ax)
- {\frac {1}{|a|}}\cdot \operatorname {tri} \left({\frac {\xi }{a}}\right)
- {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {tri} \left({\frac {\omega }{2\pi a}}\right)
- {\frac {1}{|a|}}\cdot \operatorname {tri} \left({\frac {\nu }{2\pi a}}\right)
- \operatorname {tri} (ax)
- {\frac {1}{|a|}}\cdot \operatorname {sinc} ^{2}\left({\frac {\xi }{a}}\right)\,
- {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {sinc} ^{2}\left({\frac {\omega }{2\pi a}}\right)
- {\frac {1}{|a|}}\cdot \operatorname {sinc} ^{2}\left({\frac {\nu }{2\pi a}}\right)
- e^{-ax}u(x)\,
- {\frac {1}{a+2\pi i\xi }}
- {\frac {1}{{\sqrt {2\pi }}(a+i\omega )}}
- {\frac {1}{a+i\nu }}
- e^{-\alpha x^{2}}\,
- {\sqrt {\frac {\pi }{\alpha }}}\cdot e^{-{\frac {(\pi \xi )^{2}}{\alpha }}}
- {\frac {1}{\sqrt {2\alpha }}}\cdot e^{-{\frac {\omega ^{2}}{4\alpha }}}
- {\sqrt {\frac {\pi }{\alpha }}}\cdot e^{-{\frac {\nu ^{2}}{4\alpha }}}
- \operatorname {e} ^{-a|x|}\,
- {\frac {2a}{a^{2}+4\pi ^{2}\xi ^{2}}}
- {\sqrt {\frac {2}{\pi }}}\cdot {\frac {a}{a^{2}+\omega ^{2}}}
- {\frac {2a}{a^{2}+\nu ^{2}}}
- \operatorname {sech} (ax)\,
- {\frac {\pi }{a}}\operatorname {sech} \left({\frac {\pi ^{2}}{a}}\xi \right)
- {\frac {1}{a}}{\sqrt {\frac {\pi }{2}}}\operatorname {sech} \left({\frac {\pi }{2a}}\omega \right)
- {\frac {\pi }{a}}\operatorname {sech} \left({\frac {\pi }{2a}}\nu \right)
- e^{-{\frac {a^{2}x^{2}}{2}}}H_{n}(ax)\,
- {\frac {{\sqrt {2\pi }}(-i)^{n}}{a}}
-\cdot e^{-{\frac {2\pi ^{2}\xi ^{2}}{a^{2}}}}H_{n}\left({\frac {2\pi \xi }{a}}\right)
- {\frac {(-i)^{n}}{a}}
-\cdot e^{-{\frac {\omega ^{2}}{2a^{2}}}}H_{n}\left({\frac {\omega }{a}}\right)
- {\frac {(-i)^{n}{\sqrt {2\pi }}}{a}}
-\cdot e^{-{\frac {\nu ^{2}}{2a^{2}}}}H_{n}\left({\frac {\nu }{a}}\right)
-H_{n}
- 1
- \delta (\xi )
- {\sqrt {2\pi }}\cdot \delta (\omega )
- 2\pi \delta (\nu )
- \delta (x)\,
- {\frac {1}{\sqrt {2\pi }}}\,
- e^{iax}
- \delta \left(\xi -{\frac {a}{2\pi }}\right)
- {\sqrt {2\pi }}\cdot \delta (\omega -a)
- 2\pi \delta (\nu -a)
- \cos(ax)
- {\frac { \delta \left(\xi -{\frac {a}{2\pi }}\right)+\delta \left(\xi +{\frac {a}{2\pi }}\right)}{2}}
- {\sqrt {2\pi }}\cdot {\frac {\delta (\omega -a)+\delta (\omega +a)}{2}}\,
- \pi \left(\delta (\nu -a)+\delta (\nu +a)\right)
- \sin(ax)
- {\frac { \delta \left(\xi -{\frac {a}{2\pi }}\right)-\delta \left(\xi +{\frac {a}{2\pi }}\right)}{2i}}
- {\sqrt {2\pi }}\cdot {\frac {\delta (\omega -a)-\delta (\omega +a)}{2i}}
- -i\pi \left(\delta (\nu -a)-\delta (\nu +a)\right)
- \cos(ax^{2})
- {\sqrt {\frac {\pi }{a}}}\cos \left({\frac {\pi ^{2}\xi ^{2}}{a}}-{\frac {\pi }{4}}\right)
- {\frac {1}{\sqrt {2a}}}\cos \left({\frac {\omega ^{2}}{4a}}-{\frac {\pi }{4}}\right)
- {\sqrt {\frac {\pi }{a}}}\cos \left({\frac {\pi ^{2}\nu ^{2}}{a}}-{\frac {\pi }{4}}\right)
- \sin(ax^{2})\,
- -{\sqrt {\frac {\pi }{a}}}\sin \left({\frac {\pi ^{2}\xi ^{2}}{a}}-{\frac {\pi }{4}}\right)
- {\frac {-1}{\sqrt {2a}}}\sin \left({\frac {\omega ^{2}}{4a}}-{\frac {\pi }{4}}\right)
- -{\sqrt {\frac {\pi }{a}}}\sin \left({\frac {\pi ^{2}\nu ^{2}}{a}}-{\frac {\pi }{4}}\right)
- x^{n}\,
- \left({\frac {i}{2\pi }}\right)^{n}\delta ^{(n)}(\xi )\,
- i^{n}{\sqrt {2\pi }}\delta ^{(n)}(\omega )\,
- 2\pi i^{n}\delta ^{(n)}(\nu )\,
- \delta ^{(n)}(\xi )
- {\frac {1}{x}}
- -i\pi \operatorname {sgn}(\xi )
- -i{\sqrt {\frac {\pi }{2}}}\operatorname {sgn}(\omega )
- -i\pi \operatorname {sgn}(\nu )
- {\frac {1}{x^{n}}}:=
- {\frac {(-1)^{n-1}}{(n-1)!}}{\frac {d^{n}}{dx^{n}}}\log |x|
- -i\pi {\frac {(-2\pi i\xi )^{n-1}}{(n-1)!}}\operatorname {sgn}(\xi )
- -i{\sqrt {\frac {\pi }{2}}}\cdot {\frac {(-i\omega )^{n-1}}{(n-1)!}}\operatorname {sgn}(\omega )
- -i\pi {\frac {(-i\nu )^{n-1}}{(n-1)!}}\operatorname {sgn}(\nu )
- |x|^{\alpha }\,
- -2{\frac {\sin(\pi \alpha /2)\Gamma (\alpha +1)}{|2\pi \xi |^{\alpha +1}}}
- {\frac {-2}{\sqrt {2\pi }}}{\frac {\sin(\pi \alpha /2)\Gamma (\alpha +1)}{|\omega |^{\alpha +1}}}
- -2{\frac {\sin(\pi \alpha /2)\Gamma (\alpha +1)}{|\nu |^{\alpha +1}}}
-|x|^{\alpha }
- \alpha \mapsto |x|^{\alpha }
-{\frac {1}{\sqrt {|x|}}}\,
-{\frac {1}{\sqrt {|\xi |}}}
-{\frac {1}{\sqrt {|\omega |}}}
-{\frac {\sqrt {2\pi }}{\sqrt {|\nu |}}}
- \operatorname {sgn}(x)
- {\frac {1}{i\pi \xi }}
- {\sqrt {\frac {2}{\pi }}}{\frac {1}{i\omega }}
- {\frac {2}{i\nu }}
- u(x)
- {\frac {1}{2}}\left({\frac {1}{i\pi \xi }}+\delta (\xi )\right)
- {\sqrt {\frac {\pi }{2}}}\left({\frac {1}{i\pi \omega }}+\delta (\omega )\right)
- \pi \left({\frac {1}{i\pi \nu }}+\delta (\nu )\right)
- \sum _{n=-\infty }^{\infty }\delta (x-nT)
- {\frac {1}{T}}\sum _{k=-\infty }^{\infty }\delta \left(\xi -{\frac {k}{T}}\right)
- {\frac {\sqrt {2\pi }}{T}}\sum _{k=-\infty }^{\infty }\delta \left(\omega -{\frac {2\pi k}{T}}\right)
- {\frac {2\pi }{T}}\sum _{k=-\infty }^{\infty }\delta \left(\nu -{\frac {2\pi k}{T}}\right)
-\sum _{n=-\infty }^{\infty }e^{inx}=
-2\pi \sum _{k=-\infty }^{\infty }\delta (x+2\pi k)
- J_{0}(x)
- {\frac {2\,\operatorname {rect} (\pi \xi )}{\sqrt {1-4\pi ^{2}\xi ^{2}}}}
- {\sqrt {\frac {2}{\pi }}}\cdot {\frac {\operatorname {rect} \left( {\frac {\omega }{2}}\right)}{\sqrt {1-\omega ^{2}}}}
- {\frac {2\,\operatorname {rect} \left( {\frac {\nu }{2}}\right)}{\sqrt {1-\nu ^{2}}}}
- J_{n}(x)
- {\frac {2(-i)^{n}T_{n}(2\pi \xi )\operatorname {rect} (\pi \xi )}{\sqrt {1-4\pi ^{2}\xi ^{2}}}}
- {\sqrt {\frac {2}{\pi }}}{\frac {(-i)^{n}T_{n}(\omega )\operatorname {rect} \left( {\frac {\omega }{2}}\right)}{\sqrt {1-\omega ^{2}}}}
- {\frac {2(-i)^{n}T_{n}(\nu )\operatorname {rect} \left( {\frac {\nu }{2}}\right)}{\sqrt {1-\nu ^{2}}}}
- \log \left|x\right|
- -{\frac {1}{2}}{\frac {1}{\left|\xi \right|}}-\gamma \delta \left(\xi \right)
- -{\frac {\sqrt {\pi /2}}{\left|\omega \right|}}-{\sqrt {2\pi }}\gamma \delta \left(\omega \right)
- -{\frac {\pi }{\left|\nu \right|}}-2\pi \gamma \delta \left(\nu \right)
-\gamma 
- \left(\mp ix\right)^{-\alpha }
- {\frac {\left(2\pi \right)^{\alpha }}{\Gamma \left(\alpha \right)}}u\left(\pm \xi \right)\left(\pm \xi \right)^{\alpha -1}
- {\frac {\sqrt {2\pi }}{\Gamma \left(\alpha \right)}}u\left(\pm \omega \right)\left(\pm \omega \right)^{\alpha -1}
- {\frac {2\pi }{\Gamma \left(\alpha \right)}}u\left(\pm \nu \right)\left(\pm \nu \right)^{\alpha -1}
- f(x,y)
- {\hat {f}}(\xi _{x},\xi _{y})=
- \iint f(x,y)e^{-2\pi i(\xi _{x}x+\xi _{y}y)}\,dx\,dy
- {\hat {f}}(\omega _{x},\omega _{y})=
- {\frac {1}{2\pi }}\iint f(x,y)e^{-i(\omega _{x}x+\omega _{y}y)}\,dx\,dy
- {\hat {f}}(\nu _{x},\nu _{y})=
- \iint f(x,y)e^{-i(\nu _{x}x+\nu _{y}y)}\,dx\,dy
- e^{-\pi \left(a^{2}x^{2}+b^{2}y^{2}\right)}
- {\frac {1}{|ab|}}e^{-\pi \left(\xi _{x}^{2}/a^{2}+\xi _{y}^{2}/b^{2}\right)}
- {\frac {1}{2\pi \cdot |ab|}}e^{\frac {-\left(\omega _{x}^{2}/a^{2}+\omega _{y}^{2}/b^{2}\right)}{4\pi }}
- {\frac {1}{|ab|}}e^{\frac {-\left(\nu _{x}^{2}/a^{2}+\nu _{y}^{2}/b^{2}\right)}{4\pi }}
- \mathrm {circ} ({\sqrt {x^{2}+y^{2}}})
- {\frac {J_{1}\left(2\pi {\sqrt {\xi _{x}^{2}+\xi _{y}^{2}}}\right)}{\sqrt {\xi _{x}^{2}+\xi _{y}^{2}}}}
- {\frac {J_{1}\left({\sqrt {\omega _{x}^{2}+\omega _{y}^{2}}}\right)}{\sqrt {\omega _{x}^{2}+\omega _{y}^{2}}}}
- {\frac {2\pi J_{1}\left({\sqrt {\nu _{x}^{2}+\nu _{y}^{2}}}\right)}{\sqrt {\nu _{x}^{2}+\nu _{y}^{2}}}}
- f(\mathbf {x} )\,
- {\hat {f}}({\boldsymbol {\xi }})=
- \int _{\mathbf {R} ^{n}}f(\mathbf {x} )e^{-2\pi i\mathbf {x} \cdot {\boldsymbol {\xi }}}\,d^{n}\mathbf {x} 
- {\hat {f}}({\boldsymbol {\omega }})=
- {\frac {1}{{(2\pi )}^{n/2}}}\int _{\mathbf {R} ^{n}}f(\mathbf {x} )e^{-i{\boldsymbol {\omega }}\cdot \mathbf {x} }\,d^{n}\mathbf {x} 
- {\hat {f}}({\boldsymbol {\nu }})=
- \int _{\mathbf {R} ^{n}}f(\mathbf {x} )e^{-i\mathbf {x} \cdot {\boldsymbol {\nu }}}\,d^{n}\mathbf {x} 
- \chi _{[0,1]}(|\mathbf {x} |)(1-|\mathbf {x} |^{2})^{\delta }
- \pi ^{-\delta }\Gamma (\delta +1)|{\boldsymbol {\xi }}|^{-n/2-\delta }
- \times J_{n/2+\delta }(2\pi |{\boldsymbol {\xi }}|)
- 2^{-\delta }\Gamma (\delta +1)\left|{\boldsymbol {\omega }}\right|^{-n/2-\delta }
- \times J_{n/2+\delta }(|{\boldsymbol {\omega }}|)
- \pi ^{-\delta }\Gamma (\delta +1)\left|{\frac {\boldsymbol {\nu }}{2\pi }}\right|^{-n/2-\delta }
- \times J_{n/2+\delta }(|{\boldsymbol {\nu }}|)
- |\mathbf {x} |^{-\alpha },\quad 0<\operatorname {Re} \alpha <n.
- c_{n-\alpha ,n}(2\pi )^{\alpha -n}|{\boldsymbol {\xi }}|^{-(n-\alpha )}
- c_{n-\alpha ,n}(2\pi )^{-n/2}|{\boldsymbol {\omega }}|^{-(n-\alpha )}
- c_{n-\alpha ,n}|{\boldsymbol {\nu }}|^{-(n-\alpha )}
- {\frac {1}{\left\|{\boldsymbol {\sigma }}\right\|\left(2\pi \right)^{n/2}}}e^{-{\frac {1}{2}}\mathbf {x} ^{\mathrm {T} }{\boldsymbol {\sigma }}^{-\mathrm {T} }{\boldsymbol {\sigma }}^{-1}\mathbf {x} }
- e^{-{\frac {1}{2}}{\boldsymbol {\nu }}^{\mathrm {T} }{\boldsymbol {\sigma }}{\boldsymbol {\sigma }}^{\mathrm {T} }{\boldsymbol {\nu }}}
- e^{-2\pi \alpha |\mathbf {x} |}
-c_{n}{\frac {\alpha }{(\alpha ^{2}+|\xi |^{2})^{(n+1)/2}}}
-c_{\alpha ,n}=\pi ^{n/2}2^{\alpha }{\frac {\Gamma (\alpha /2)}{\Gamma ((n-\alpha )/2)}}
-{\boldsymbol {\Sigma }}={\boldsymbol {\sigma }}{\boldsymbol {\sigma }}^{\mathrm {T} }
-{\boldsymbol {\Sigma }}^{-1}={\boldsymbol {\sigma }}^{-\mathrm {T} }{\boldsymbol {\sigma }}^{-1}
-c_{n}=\Gamma ((n+1)/2)/\pi ^{(n+1)/2}
- f(x) = \int_{c}^{x} R \left(t, \sqrt{P(t)} \right) \, dt, 
-\cos \varphi = \textrm{cn} \; u, \qquad \textrm{and} \qquad \sqrt{1 - m \sin^2 \varphi} = \textrm{dn}\; u.
- F(\varphi,k) = F(\varphi \,|\, k^2) = F(\sin \varphi ; k) = \int_0^\varphi \frac {d\theta}{\sqrt{1 - k^2 \sin^2 \theta}}.
- t=\sin \theta, x=\sin \varphi 
- F(x ; k) = \int_{0}^{x} \frac{dt}{\sqrt{(1 - t^2)(1 - k^2 t^2)}}.
- F(\varphi \setminus \alpha) = F(\varphi, \sin \alpha) = \int_0^\varphi \frac{d \theta}{\sqrt{1-(\sin \theta \sin \alpha)^2}}.
- F(\varphi, \sin \alpha) = F(\varphi \,|\, \sin^2 \alpha) = F(\varphi \setminus \alpha) = F(\sin \varphi ; \sin \alpha).
-x = \operatorname{sn}(u,k)
-F(x;k) = u;
-{ K(m)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{\sqrt {1-m\sin ^{2}\theta }}}}
- E(\varphi,k) = E(\varphi \,|\,k^2) =
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 \biguplus _{{i\in I}}A_{i}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 { \quad \cdot \!\!\!\!\!\bigcup _{i\in I}A_{i}}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 A_{i}^{*}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 A_{i}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 {\underset  {A\in C}{\,\,\bigcup \nolimits ^{{*}}\!}}A
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1  \coprod
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1  \bigsqcup
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1  f(t)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  g(t)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {g}}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  t
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \omega 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \omega 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 g(t)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f:\mathbb {R} \rightarrow \mathbb {C} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { {\hat {f}}(\xi )=\int _{-\infty }^{+\infty }f(x)\ e^{-2\pi ix\xi }\,dx,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { f(x)=\int _{-\infty }^{+\infty }{\hat {f}}(\xi )\ e^{2\pi i\xi x}\,d\xi ,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 L^{2}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 L^{1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 L^{\infty }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 c_{n}={\frac {1}{T}}\int _{-T/2}^{T/2}f(x)\ e^{-2\pi i(n/T)x}\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 c_{n}=(1/T){\hat {f}}(n/T)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)=\sum _{n=-\infty }^{\infty }c_{n}\ e^{2\pi i(n/T)x}=\sum _{n=-\infty }^{\infty }{\hat {f}}(\xi _{n})\ e^{2\pi i\xi _{n}x}\Delta \xi ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(3)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(5)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{-\infty }^{\infty }|f(x)|\,dx<\infty .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {g}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )=a\cdot {\hat {f}}(\xi )+b\cdot {\hat {g}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)=f(x-x_{0}),
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )=e^{-i\,2\pi \,x_{0}\,\xi }{\hat {f}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)=e^{i\,2\pi \,x\,\xi _{0}}f(x),
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\hat {f}}(\xi -\xi _{0}).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { h(x)=f(ax)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\frac {1}{|a|}}{\hat {f}}\left({\frac {\xi }{a}}\right).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\hat {f}}(-\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)={\overline {f(x)}},
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\overline {{\hat {f}}(-\xi )}}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(-\xi )={\overline {{\hat {f}}(\xi )}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(-\xi )=-{\overline {{\hat {f}}(\xi )}}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi =0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(0)=\int _{-\infty }^{\infty }f(x)\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}},
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}(f):={\hat {f}},
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}^{2}(f)(x)=f(-x),
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}^{4}(f)=f,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}^{3}({\hat {f}})=f.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {P}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {P}}[f]\colon t\mapsto f(-t),
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}^{0}=\mathrm {Id} ,\qquad {\mathcal {F}}^{1}={\mathcal {F}},\qquad {\mathcal {F}}^{2}={\mathcal {P}},\qquad {\mathcal {F}}^{4}=\mathrm {Id} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}^{3}={\mathcal {F}}^{-1}={\mathcal {P}}\circ {\mathcal {F}}={\mathcal {F}}\circ {\mathcal {P}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 t
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\pi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \omega =2\pi \xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {x}}_{1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {x}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {x}}_{1}(\omega )={\hat {x}}\left({\omega  \over 2\pi }\right)=\int _{-\infty }^{\infty }x(t)e^{-i\omega t}\,dt
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 x(t)={1 \over {2\pi }}\int _{-\infty }^{\infty }{\hat {x}}_{1}(\omega )e^{it\omega }\,d\omega .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\sqrt {2\pi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {x}}_{2}(\omega )={\frac {1}{\sqrt {2\pi }}}\int _{-\infty }^{\infty }x(t)e^{-i\omega t}\,dt,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 x(t)={1 \over {\sqrt {2\pi }}}\int _{-\infty }^{\infty }{\hat {x}}_{2}(\omega )e^{it\omega }\,d\omega .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 i
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 -i
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \phi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 X
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 x
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \phi (\lambda )=\int _{-\infty }^{\infty }f(x)e^{i\lambda x}\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \|{\hat {f}}\|_{\infty }\leq \|f\|_{1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )\to 0{\text{ as }}|\xi |\to \infty .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)=\int _{-\infty }^{\infty }{\hat {f}}(\xi )e^{2i\pi x\xi }\,d\xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{-\infty }^{\infty }f(x){\overline {g(x)}}\,{\rm {d}}x=\int _{-\infty }^{\infty }{\hat {f}}(\xi ){\overline {{\hat {g}}(\xi )}}\,d\xi ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{-\infty }^{\infty }\left|f(x)\right|^{2}\,dx=\int _{-\infty }^{\infty }\left|{\hat {f}}(\xi )\right|^{2}\,d\xi .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \sum _{n}{\hat {f}}(n)=\sum _{n}f(n).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\widehat {f'\;}}(\xi )=2\pi i\xi {\hat {f}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\widehat {f^{(n)}}}(\xi )=(2\pi i\xi )^{n}{\hat {f}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 |\xi |\to \infty 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 |x|\to \infty 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)=(f*g)(x)=\int _{-\infty }^{\infty }f(y)g(x-y)\,dy,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\hat {f}}(\xi )\cdot {\hat {g}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {p}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {q}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)=(f\star g)(x)=\int _{-\infty }^{\infty }{\overline {f(y)}}\,g(x+y)\,dy
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\overline {{\hat {f}}(\xi )}}\,\cdot \,{\hat {g}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)=(f\star f)(x)=\int _{-\infty }^{\infty }{\overline {f(y)}}f(x+y)\,dy
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\overline {{\hat {f}}(\xi )}}\,{\hat {f}}(\xi )=|{\hat {f}}(\xi )|^{2}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\psi }_{n}(x)={\frac {2^{1/4}}{\sqrt {n!}}}\,e^{-\pi x^{2}}\mathrm {He} _{n}(2x{\sqrt {\pi }}),
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \mathrm {He} _{n}(x)=(-1)^{n}e^{\frac {x^{2}}{2}}\left({\frac {d}{dx}}\right)^{n}e^{-{\frac {x^{2}}{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {\psi }}_{n}(\xi )=(-i)^{n}{\psi }_{n}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { L^{2}(\mathbb {R} )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (T_{y}f)(x)=f(x+y)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { e^{2\pi ix\xi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (M_{\xi }f)(x)=e^{2\pi ix\xi }f(x)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (M_{\xi }^{-1}T_{y}^{-1}M_{\xi }T_{y}f)(x)=e^{2\pi iy\xi }f(x)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { e^{2\pi iy\xi }\in U(1)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (x,\xi ,z)\in \mathbb {R} ^{2}\times U(1)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (x_{1},\xi _{1},t_{1}).(x_{2},\xi _{2},t_{2})=(x_{1}+x_{2},\xi _{1}+\xi _{2},t_{1}t_{2}e^{2\pi i(x_{1}\xi _{1}+x_{2}\xi _{2}+x_{1}\xi _{2}}).}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 H_{1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { \rho :H_{1}\to B(L^{2}(\mathbb {R} ))}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \mathbb {R} ^{2}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { J{\begin{pmatrix}x\\xi \end{pmatrix}}={\begin{pmatrix}-\xi \x\end{pmatrix}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 J^{2}=-I
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 J
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { j(x,\xi ,t)=(-\xi ,x,te^{-2\pi ix\xi }).}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \rho 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { \rho \circ j}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { W\in U(L^{2}(\mathbb {R} ))}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { \rho \circ j=W\rho W^{*}.}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 W^{2}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (W^{2}f)(x)=f(-x)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=\int _{-\infty }^{\infty }e^{-2\pi i\xi t}f(t)\,dt
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi =\sigma +i\tau 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 n
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\sigma +i\tau )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a>0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 n\geq 0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \vert \xi ^{n}{\hat {f}}(\xi )\vert \leq Ce^{a\vert \tau \vert }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 C
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 [-a,a]
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \sigma 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \tau 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 n=0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 t\geq 0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \tau <0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 F(s)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 s
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \vert f(t)\vert <Ce^{a\vert t\vert }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 C,a\geq 0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(i\tau )=\int _{-\infty }^{\infty }e^{2\pi \tau t}f(t)\,dt,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\pi \tau <-a
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 F(s)=\int _{0}^{\infty }f(t)e^{-st}\,dt.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(i\tau )=F(-2\pi \tau ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 s=2\pi i\xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a\leq \tau \leq b
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{-\infty }^{\infty }{\hat {f}}(\sigma +ia)e^{2\pi i\xi t}\,d\sigma =\int _{-\infty }^{\infty }{\hat {f}}(\sigma +ib)e^{2\pi i\xi t}\,d\sigma 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)=0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 t<0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 C,a>0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)=\int _{-\infty }^{\infty }{\hat {f}}(\sigma +i\tau )e^{2\pi i\xi t}\,d\sigma ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \tau <-{a \over 2\pi }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)={\frac {1}{2\pi i}}\int _{b-i\infty }^{b+i\infty }F(s)e^{st}ds
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b>a
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)e^{-at}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}({\boldsymbol {\xi }})={\mathcal {F}}(f)({\boldsymbol {\xi }})=\int _{\mathbb {R} ^{n}}f(\mathbf {x} )e^{-2\pi i\mathbf {x} \cdot {\boldsymbol {\xi }}}\,d\mathbf {x} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \left\langle \mathbf {x} ,{\boldsymbol {\xi }}\right\rangle 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{-\infty }^{\infty }|f(x)|^{2}\,dx=1.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 D_{0}(f)=\int _{-\infty }^{\infty }x^{2}|f(x)|^{2}\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 D_{0}(f)D_{0}({\hat {f}})\geq {\frac {1}{16\pi ^{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)=C_{1}\,e^{-\pi x^{2}/\sigma ^{2}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=\sigma C_{1}\,e^{-\pi \sigma ^{2}\xi ^{2}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 C_{1}={\sqrt[{4}]{2}}/{\sqrt {\sigma }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \left(\int _{-\infty }^{\infty }(x-x_{0})^{2}|f(x)|^{2}\,dx\right)\left(\int _{-\infty }^{\infty }(\xi -\xi _{0})^{2}|{\hat {f}}(\xi )|^{2}\,d\xi \right)\geq {\frac {1}{16\pi ^{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 H(|f|^{2})+H(|{\hat {f}}|^{2})\geq \log(e/2)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 H(p)=-\int _{-\infty }^{\infty }p(x)\log(p(x))\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \lambda 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)=\int _{0}^{\infty }\left[a(\lambda )\cos \left(2\pi \lambda t\right)+b(\lambda )\sin \left(2\pi \lambda t\right)\right]\,d\lambda .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a(\lambda )=2\int _{-\infty }^{\infty }f(t)\cos \left(2\pi \lambda t\right)\,dt
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b(\lambda )=2\int _{-\infty }^{\infty }f(t)\sin \left(2\pi \lambda t\right)\,dt.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)=2\int _{0}^{\infty }\int _{-\infty }^{\infty }f(\tau )\cos \left(2\pi \lambda (\tau -t)\right)\,d\tau \,d\lambda .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=i^{-k}f(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=F_{0}(|\xi |)P(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 F_{0}(r)=2\pi i^{-k}r^{-(n+2k-2)/2}\int _{0}^{\infty }f_{0}(s)J_{(n+2k-2)/2}(2\pi rs)s^{(n+2k)/2}\,ds.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f_{R}(x)=\int _{E_{R}}{\hat {f}}(\xi )e^{2\pi ix\cdot \xi }\,d\xi ,\quad x\in \mathbf {R} ^{n}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=\int _{\mathbf {R} ^{n}}f(x)e^{-2\pi i\xi \cdot x}\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \vert {\hat {f}}(\xi )\vert \leq \int _{\mathbf {R} ^{n}}\vert f(x)\vert \,dx,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=\lim _{R\to \infty }\int _{|x|\leq R}f(x)e^{-2\pi ix\cdot \xi }\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{\mathbf {R} ^{n}}f(x){\mathcal {F}}g(x)\,dx=\int _{\mathbf {R} ^{n}}{\mathcal {F}}f(x)g(x)\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 q=p/(p-1)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {g}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{\mathbf {R} ^{n}}{\hat {f}}(x)g(x)\,dx=\int _{\mathbf {R} ^{n}}f(x){\hat {g}}(x)\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 T_{f}(\varphi )=\int _{\mathbf {R} ^{n}}f(x)\varphi (x)\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {T}}_{f}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {T}}_{f}(\varphi )=T_{f}({\hat {\varphi }})
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { {\hat {\mu }}(\xi )=\int _{\mathbf {R} ^{n}}e^{-2\pi ix\cdot \xi }\,d\mu .}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {G}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=\int _{G}\xi (x)f(x)\,d\mu \qquad {\text{for any }}\xi \in {\hat {G}}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f^{*}(g)={\overline {f(g^{-1})}}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a\mapsto (\varphi \mapsto \varphi (a))
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \langle {\hat {\mu }}\xi ,\eta \rangle _{H_{\sigma }}=\int _{G}\langle {\overline {U}}_{g}^{(\sigma )}\xi ,\eta \rangle \,d\mu (g)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\overline {U}}^{(\sigma )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 d\mu =f\,d\lambda 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \mu \mapsto {\hat {\mu }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \|E\|=\sup _{\sigma \in \Sigma }\|E_{\sigma }\|
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f^{*}(g)={\overline {f(g^{-1})}},
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(g)=\sum _{\sigma \in \Sigma }d_{\sigma }\operatorname {tr} ({\hat {f}}(\sigma )U_{g}^{(\sigma )})
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\partial ^{2}y(x,t) \over \partial ^{2}x}={\partial y(x,t) \over \partial t}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\partial ^{2}y(x,t) \over \partial ^{2}x}={\partial ^{2}y(x,t) \over \partial ^{2}t}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { y(x,0)=f(x),{\partial y(x,0) \over \partial t}=g(x).}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 g
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 y
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {y}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \cos \left(2\pi \xi (x\pm t)\right){\mbox{ or }}\sin \left(2\pi \xi (x\pm t)\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { {\begin{aligned}y(x,t)=\int _{0}^{\infty }&a_{+}(\xi )\cos \left(2\pi \xi (x+t)\right)+a_{-}(\xi )\cos \left(2\pi \xi (x-t)\right)\+\ &b_{+}(\xi )\sin \left(2\pi \xi (x+t)\right)+b_{-}(\xi )\sin \left(2\pi \xi (x-t)\right)\,d\xi \end{aligned}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a_{+}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a_{-}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b_{+}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b_{-}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a_{\pm }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b_{\pm }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 t=0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\int _{-\infty }^{\infty }y(x,0)\cos \left(2\pi \xi x\right)\,dx=a_{+}+a_{-}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\int _{-\infty }^{\infty }y(x,0)\sin \left(2\pi \xi x\right)\,dx=b_{+}+b_{-}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\int _{-\infty }^{\infty }{\partial y(u,0) \over \partial t}\sin(2\pi \xi x)\,dx=(2\pi \xi )(-a_{+}+a_{-})
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\int _{-\infty }^{\infty }{\partial y(u,0) \over \partial t}\cos(2\pi \xi x)\,dx=(2\pi \xi )(b_{+}-b_{-}).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 y(x,t)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\pi i\xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\pi if
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi ^{2}{\hat {y}}(\xi ,f)=f^{2}{\hat {y}}(\xi ,f).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {y}}(\xi ,f)=0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi =\pm f
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}=\delta (\xi \pm f)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi ^{2}-f^{2}=0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi =f
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi =-f
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int \int {\hat {y}}\phi (\xi ,f)\,d\xi \,df=\int s_{+}\phi (\xi ,\xi )\,d\xi +\int s_{-}\phi (\xi ,-\xi )\,d\xi ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 s_{+}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 s_{-}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \phi (\xi ,f)=e^{2\pi i(x\xi +tf)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 y(x,0)=\int \{s_{+}(\xi )+s_{-}(\xi )\}e^{2\pi i\xi x+0}\,d\xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\partial y(x,0) \over \partial t}=\int \{s_{+}(\xi )-s_{-}(\xi )\}2\pi i\xi e^{2\pi i\xi x+0}\,d\xi .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 s_{\pm }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 q
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 p
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \phi (p)=\int \psi (q)e^{2\pi ipq \over h}dq.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\partial ^{2} \over \partial x^{2}}\psi (x,t)=i{\frac {h}{2\pi }}{\partial  \over \partial t}\psi (x,t).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 V(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\partial ^{2} \over \partial x^{2}}\psi (x,t)+V(x)\psi (x,t)=i{\frac {h}{2\pi }}{\partial  \over \partial t}\psi (x,t).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \psi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { \left({\partial ^{2} \over \partial x^{2}}+1\right)\psi (x,t)={\partial ^{2} \over \partial t^{2}}\psi (x,t).}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 R
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \mathbb {R} _{f}(\tau )=\lim _{T\rightarrow \infty }{1 \over 2T}\int _{-T}^{T}f(t)f(t+\tau )\,dt.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \tau =
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 P_{f}(\xi )=\int _{-\infty }^{\infty }R_{f}(\tau )e^{-2\pi i\xi \tau }\,d\tau .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 P
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\tilde {f}}(\xi ),\ {\tilde {f}}(\omega ),\ F(\xi ),\ {\mathcal {F}}\left(f\right)(\xi ),\ \left({\mathcal {F}}f\right)(\xi ),\ {\mathcal {F}}(f),\ {\mathcal {F}}(\omega ),\ F(\omega ),\ {\mathcal {F}}(j\omega ),\ {\mathcal {F}}\{f\},\ {\mathcal {F}}\left(f(t)\right),\ {\mathcal {F}}\{f(t)\}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=A(\xi )e^{i\varphi (\xi )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 A(\xi )=|{\hat {f}}(\xi )|,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \varphi (\xi )=\arg {\big (}{\hat {f}}(\xi ){\big )},
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)=\int _{-\infty }^{\infty }A(\xi )\ e^{i(2\pi \xi x+\varphi (\xi ))}\,d\xi ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}(f)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}f
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}f(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 ({\mathcal {F}}f)(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}(f(x))
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}(\mathrm {rect} (x))=\mathrm {sinc} (\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}(f(x+x_{0}))={\mathcal {F}}(f(x))e^{2\pi i\xi x_{0}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \omega =2\pi \xi ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\omega )=\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)={\frac {1}{(2\pi )^{n}}}\int _{\mathbf {R} ^{n}}{\hat {f}}(\omega )e^{i\omega \cdot x}\,d\omega .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\omega )={\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)={\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}{\hat {f}}(\omega )e^{i\omega \cdot x}\,d\omega .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}_{1}(\xi )\ {\stackrel {\mathrm {def} }{=}}\ \int _{\mathbf {R} ^{n}}f(x)e^{-2\pi ix\cdot \xi }\,dx={\hat {f}}_{2}(2\pi \xi )=(2\pi )^{n/2}{\hat {f}}_{3}(2\pi \xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)=\int _{\mathbf {R} ^{n}}{\hat {f}}_{1}(\xi )e^{2\pi ix\cdot \xi }\,d\xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}_{3}(\omega ){\stackrel {\mathrm {def} }{{}={}}}{\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx={\frac {1}{(2\pi )^{n/2}}}{\hat {f}}_{1}\!\left({\frac {\omega }{2\pi }}\right)={\frac {1}{(2\pi )^{n/2}}}{\hat {f}}_{2}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)={\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}{\hat {f}}_{3}(\omega )e^{i\omega \cdot x}\,d\omega 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}_{2}(\omega )\ {\stackrel {\mathrm {def} }{=}}\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx={\hat {f}}_{1}\!\left({\frac {\omega }{2\pi }}\right)=(2\pi )^{n/2}{\hat {f}}_{3}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)={\frac {1}{(2\pi )^{n}}}\int _{\mathbf {R} ^{n}}{\hat {f}}_{2}(\omega )e^{i\omega \cdot x}\,d\omega 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 E(e^{it\cdot X})=\int e^{it\cdot x}\,d\mu _{X}(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\xi )=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \int _{-\infty }^{\infty }f(x)e^{-2\pi ix\xi }\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\omega )=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi }}}\int _{-\infty }^{\infty }f(x)e^{-i\omega x}\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\nu )=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \int _{-\infty }^{\infty }f(x)e^{-i\nu x}\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  a\cdot f(x)+b\cdot g(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  a\cdot {\hat {f}}(\xi )+b\cdot {\hat {g}}(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  a\cdot {\hat {f}}(\omega )+b\cdot {\hat {g}}(\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  a\cdot {\hat {f}}(\nu )+b\cdot {\hat {g}}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x-a)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-2\pi ia\xi }{\hat {f}}(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-ia\omega }{\hat {f}}(\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-ia\nu }{\hat {f}}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  f(x)e^{iax}\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\hat {f}}\left(\xi -{\frac {a}{2\pi }}\right)\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\hat {f}}(\omega -a)\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\hat {f}}(\nu -a)\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(ax)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}{\hat {f}}\left({\frac {\xi }{a}}\right)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}{\hat {f}}\left({\frac {\omega }{a}}\right)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}{\hat {f}}\left({\frac {\nu }{a}}\right)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  |a|\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(-\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(-\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  2\pi f(-\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \nu 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {d^{n}f(x)}{dx^{n}}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  (2\pi i\xi )^{n}{\hat {f}}(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  (i\omega )^{n}{\hat {f}}(\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  (i\nu )^{n}{\hat {f}}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  x^{n}f(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \left({\frac {i}{2\pi }}\right)^{n}{\frac {d^{n}{\hat {f}}(\xi )}{d\xi ^{n}}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  i^{n}{\frac {d^{n}{\hat {f}}(\omega )}{d\omega ^{n}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  i^{n}{\frac {d^{n}{\hat {f}}(\nu )}{d\nu ^{n}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  (f*g)(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\xi ){\hat {g}}(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {2\pi }}{\hat {f}}(\omega ){\hat {g}}(\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\nu ){\hat {g}}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f*g\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)g(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  ({\hat {f}}*{\hat {g}})(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { ({\hat {f}}*{\hat {g}})(\omega ) \over {\sqrt {2\pi }}\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{2\pi }}({\hat {f}}*{\hat {g}})(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(-\xi )={\overline {{\hat {f}}(\xi )}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(-\omega )={\overline {{\hat {f}}(\omega )}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(-\nu )={\overline {{\hat {f}}(\nu )}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\overline {z}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\nu )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\overline {f(x)}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\overline {{\hat {f}}(-\xi )}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\overline {{\hat {f}}(-\omega )}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\overline {{\hat {f}}(-\nu )}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  f(x)\cos(ax)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac { {\hat {f}}\left(\xi -{\frac {a}{2\pi }}\right)+{\hat {f}}\left(\xi +{\frac {a}{2\pi }}\right)}{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac {{\hat {f}}(\omega -a)+{\hat {f}}(\omega +a)}{2}}\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac {{\hat {f}}(\nu -a)+{\hat {f}}(\nu +a)}{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \cos(ax)=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 (e^{iax}+e^{-iax})/2.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  f(x)\sin(ax)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac { {\hat {f}}\left(\xi -{\frac {a}{2\pi }}\right)-{\hat {f}}\left(\xi +{\frac {a}{2\pi }}\right)}{2i}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac {{\hat {f}}(\omega -a)-{\hat {f}}(\omega +a)}{2i}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac {{\hat {f}}(\nu -a)-{\hat {f}}(\nu +a)}{2i}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \sin(ax)=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 (e^{iax}-e^{-iax})/(2i).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {rect} (ax)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {sinc} \left({\frac {\xi }{a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {sinc} \left({\frac {\omega }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {sinc} \left({\frac {\nu }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {sinc} (ax)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {rect} \left({\frac {\xi }{a}}\right)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {rect} \left({\frac {\omega }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {rect} \left({\frac {\nu }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {sinc} ^{2}(ax)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {tri} \left({\frac {\xi }{a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {tri} \left({\frac {\omega }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {tri} \left({\frac {\nu }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {tri} (ax)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {sinc} ^{2}\left({\frac {\xi }{a}}\right)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {sinc} ^{2}\left({\frac {\omega }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {sinc} ^{2}\left({\frac {\nu }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-ax}u(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{a+2\pi i\xi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{{\sqrt {2\pi }}(a+i\omega )}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{a+i\nu }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-\alpha x^{2}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {\pi }{\alpha }}}\cdot e^{-{\frac {(\pi \xi )^{2}}{\alpha }}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\alpha }}}\cdot e^{-{\frac {\omega ^{2}}{4\alpha }}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {\pi }{\alpha }}}\cdot e^{-{\frac {\nu ^{2}}{4\alpha }}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {e} ^{-a|x|}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2a}{a^{2}+4\pi ^{2}\xi ^{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {2}{\pi }}}\cdot {\frac {a}{a^{2}+\omega ^{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2a}{a^{2}+\nu ^{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {sech} (ax)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {\pi }{a}}\operatorname {sech} \left({\frac {\pi ^{2}}{a}}\xi \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{a}}{\sqrt {\frac {\pi }{2}}}\operatorname {sech} \left({\frac {\pi }{2a}}\omega \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {\pi }{a}}\operatorname {sech} \left({\frac {\pi }{2a}}\nu \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-{\frac {a^{2}x^{2}}{2}}}H_{n}(ax)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {{\sqrt {2\pi }}(-i)^{n}}{a}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \cdot e^{-{\frac {2\pi ^{2}\xi ^{2}}{a^{2}}}}H_{n}\left({\frac {2\pi \xi }{a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {(-i)^{n}}{a}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \cdot e^{-{\frac {\omega ^{2}}{2a^{2}}}}H_{n}\left({\frac {\omega }{a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {(-i)^{n}{\sqrt {2\pi }}}{a}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \cdot e^{-{\frac {\nu ^{2}}{2a^{2}}}}H_{n}\left({\frac {\nu }{a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 H_{n}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  1
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \delta (\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {2\pi }}\cdot \delta (\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  2\pi \delta (\nu )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \delta (x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi }}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{iax}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \delta \left(\xi -{\frac {a}{2\pi }}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {2\pi }}\cdot \delta (\omega -a)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  2\pi \delta (\nu -a)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \cos(ax)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac { \delta \left(\xi -{\frac {a}{2\pi }}\right)+\delta \left(\xi +{\frac {a}{2\pi }}\right)}{2}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {2\pi }}\cdot {\frac {\delta (\omega -a)+\delta (\omega +a)}{2}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \pi \left(\delta (\nu -a)+\delta (\nu +a)\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \sin(ax)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac { \delta \left(\xi -{\frac {a}{2\pi }}\right)-\delta \left(\xi +{\frac {a}{2\pi }}\right)}{2i}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {2\pi }}\cdot {\frac {\delta (\omega -a)-\delta (\omega +a)}{2i}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i\pi \left(\delta (\nu -a)-\delta (\nu +a)\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \cos(ax^{2})
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {\pi }{a}}}\cos \left({\frac {\pi ^{2}\xi ^{2}}{a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2a}}}\cos \left({\frac {\omega ^{2}}{4a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {\pi }{a}}}\cos \left({\frac {\pi ^{2}\nu ^{2}}{a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \sin(ax^{2})\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -{\sqrt {\frac {\pi }{a}}}\sin \left({\frac {\pi ^{2}\xi ^{2}}{a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {-1}{\sqrt {2a}}}\sin \left({\frac {\omega ^{2}}{4a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -{\sqrt {\frac {\pi }{a}}}\sin \left({\frac {\pi ^{2}\nu ^{2}}{a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  x^{n}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \left({\frac {i}{2\pi }}\right)^{n}\delta ^{(n)}(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  i^{n}{\sqrt {2\pi }}\delta ^{(n)}(\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  2\pi i^{n}\delta ^{(n)}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \delta ^{(n)}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{x}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i\pi \operatorname {sgn}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i{\sqrt {\frac {\pi }{2}}}\operatorname {sgn}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i\pi \operatorname {sgn}(\nu )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{x^{n}}}:=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {(-1)^{n-1}}{(n-1)!}}{\frac {d^{n}}{dx^{n}}}\log |x|
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i\pi {\frac {(-2\pi i\xi )^{n-1}}{(n-1)!}}\operatorname {sgn}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i{\sqrt {\frac {\pi }{2}}}\cdot {\frac {(-i\omega )^{n-1}}{(n-1)!}}\operatorname {sgn}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i\pi {\frac {(-i\nu )^{n-1}}{(n-1)!}}\operatorname {sgn}(\nu )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  |x|^{\alpha }\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -2{\frac {\sin(\pi \alpha /2)\Gamma (\alpha +1)}{|2\pi \xi |^{\alpha +1}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {-2}{\sqrt {2\pi }}}{\frac {\sin(\pi \alpha /2)\Gamma (\alpha +1)}{|\omega |^{\alpha +1}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -2{\frac {\sin(\pi \alpha /2)\Gamma (\alpha +1)}{|\nu |^{\alpha +1}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 |x|^{\alpha }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \alpha \mapsto |x|^{\alpha }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\frac {1}{\sqrt {|x|}}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\frac {1}{\sqrt {|\xi |}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\frac {1}{\sqrt {|\omega |}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\frac {\sqrt {2\pi }}{\sqrt {|\nu |}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {sgn}(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{i\pi \xi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {2}{\pi }}}{\frac {1}{i\omega }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2}{i\nu }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  u(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{2}}\left({\frac {1}{i\pi \xi }}+\delta (\xi )\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {\pi }{2}}}\left({\frac {1}{i\pi \omega }}+\delta (\omega )\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \pi \left({\frac {1}{i\pi \nu }}+\delta (\nu )\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \sum _{n=-\infty }^{\infty }\delta (x-nT)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{T}}\sum _{k=-\infty }^{\infty }\delta \left(\xi -{\frac {k}{T}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {\sqrt {2\pi }}{T}}\sum _{k=-\infty }^{\infty }\delta \left(\omega -{\frac {2\pi k}{T}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2\pi }{T}}\sum _{k=-\infty }^{\infty }\delta \left(\nu -{\frac {2\pi k}{T}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \sum _{n=-\infty }^{\infty }e^{inx}=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\pi \sum _{k=-\infty }^{\infty }\delta (x+2\pi k)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  J_{0}(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2\,\operatorname {rect} (\pi \xi )}{\sqrt {1-4\pi ^{2}\xi ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {2}{\pi }}}\cdot {\frac {\operatorname {rect} \left( {\frac {\omega }{2}}\right)}{\sqrt {1-\omega ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2\,\operatorname {rect} \left( {\frac {\nu }{2}}\right)}{\sqrt {1-\nu ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  J_{n}(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2(-i)^{n}T_{n}(2\pi \xi )\operatorname {rect} (\pi \xi )}{\sqrt {1-4\pi ^{2}\xi ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {2}{\pi }}}{\frac {(-i)^{n}T_{n}(\omega )\operatorname {rect} \left( {\frac {\omega }{2}}\right)}{\sqrt {1-\omega ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2(-i)^{n}T_{n}(\nu )\operatorname {rect} \left( {\frac {\nu }{2}}\right)}{\sqrt {1-\nu ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \log \left|x\right|
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -{\frac {1}{2}}{\frac {1}{\left|\xi \right|}}-\gamma \delta \left(\xi \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -{\frac {\sqrt {\pi /2}}{\left|\omega \right|}}-{\sqrt {2\pi }}\gamma \delta \left(\omega \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -{\frac {\pi }{\left|\nu \right|}}-2\pi \gamma \delta \left(\nu \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \gamma 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \left(\mp ix\right)^{-\alpha }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {\left(2\pi \right)^{\alpha }}{\Gamma \left(\alpha \right)}}u\left(\pm \xi \right)\left(\pm \xi \right)^{\alpha -1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {\sqrt {2\pi }}{\Gamma \left(\alpha \right)}}u\left(\pm \omega \right)\left(\pm \omega \right)^{\alpha -1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2\pi }{\Gamma \left(\alpha \right)}}u\left(\pm \nu \right)\left(\pm \nu \right)^{\alpha -1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x,y)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\xi _{x},\xi _{y})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \iint f(x,y)e^{-2\pi i(\xi _{x}x+\xi _{y}y)}\,dx\,dy
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\omega _{x},\omega _{y})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{2\pi }}\iint f(x,y)e^{-i(\omega _{x}x+\omega _{y}y)}\,dx\,dy
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\nu _{x},\nu _{y})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \iint f(x,y)e^{-i(\nu _{x}x+\nu _{y}y)}\,dx\,dy
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-\pi \left(a^{2}x^{2}+b^{2}y^{2}\right)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|ab|}}e^{-\pi \left(\xi _{x}^{2}/a^{2}+\xi _{y}^{2}/b^{2}\right)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{2\pi \cdot |ab|}}e^{\frac {-\left(\omega _{x}^{2}/a^{2}+\omega _{y}^{2}/b^{2}\right)}{4\pi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|ab|}}e^{\frac {-\left(\nu _{x}^{2}/a^{2}+\nu _{y}^{2}/b^{2}\right)}{4\pi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \mathrm {circ} ({\sqrt {x^{2}+y^{2}}})
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {J_{1}\left(2\pi {\sqrt {\xi _{x}^{2}+\xi _{y}^{2}}}\right)}{\sqrt {\xi _{x}^{2}+\xi _{y}^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {J_{1}\left({\sqrt {\omega _{x}^{2}+\omega _{y}^{2}}}\right)}{\sqrt {\omega _{x}^{2}+\omega _{y}^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2\pi J_{1}\left({\sqrt {\nu _{x}^{2}+\nu _{y}^{2}}}\right)}{\sqrt {\nu _{x}^{2}+\nu _{y}^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(\mathbf {x} )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}({\boldsymbol {\xi }})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \int _{\mathbf {R} ^{n}}f(\mathbf {x} )e^{-2\pi i\mathbf {x} \cdot {\boldsymbol {\xi }}}\,d^{n}\mathbf {x} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}({\boldsymbol {\omega }})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{{(2\pi )}^{n/2}}}\int _{\mathbf {R} ^{n}}f(\mathbf {x} )e^{-i{\boldsymbol {\omega }}\cdot \mathbf {x} }\,d^{n}\mathbf {x} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}({\boldsymbol {\nu }})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \int _{\mathbf {R} ^{n}}f(\mathbf {x} )e^{-i\mathbf {x} \cdot {\boldsymbol {\nu }}}\,d^{n}\mathbf {x} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \chi _{[0,1]}(|\mathbf {x} |)(1-|\mathbf {x} |^{2})^{\delta }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \pi ^{-\delta }\Gamma (\delta +1)|{\boldsymbol {\xi }}|^{-n/2-\delta }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \times J_{n/2+\delta }(2\pi |{\boldsymbol {\xi }}|)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  2^{-\delta }\Gamma (\delta +1)\left|{\boldsymbol {\omega }}\right|^{-n/2-\delta }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \times J_{n/2+\delta }(|{\boldsymbol {\omega }}|)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \pi ^{-\delta }\Gamma (\delta +1)\left|{\frac {\boldsymbol {\nu }}{2\pi }}\right|^{-n/2-\delta }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \times J_{n/2+\delta }(|{\boldsymbol {\nu }}|)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  |\mathbf {x} |^{-\alpha },\quad 0<\operatorname {Re} \alpha <n.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  c_{n-\alpha ,n}(2\pi )^{\alpha -n}|{\boldsymbol {\xi }}|^{-(n-\alpha )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  c_{n-\alpha ,n}(2\pi )^{-n/2}|{\boldsymbol {\omega }}|^{-(n-\alpha )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  c_{n-\alpha ,n}|{\boldsymbol {\nu }}|^{-(n-\alpha )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\left\|{\boldsymbol {\sigma }}\right\|\left(2\pi \right)^{n/2}}}e^{-{\frac {1}{2}}\mathbf {x} ^{\mathrm {T} }{\boldsymbol {\sigma }}^{-\mathrm {T} }{\boldsymbol {\sigma }}^{-1}\mathbf {x} }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-{\frac {1}{2}}{\boldsymbol {\nu }}^{\mathrm {T} }{\boldsymbol {\sigma }}{\boldsymbol {\sigma }}^{\mathrm {T} }{\boldsymbol {\nu }}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-2\pi \alpha |\mathbf {x} |}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 c_{n}{\frac {\alpha }{(\alpha ^{2}+|\xi |^{2})^{(n+1)/2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 c_{\alpha ,n}=\pi ^{n/2}2^{\alpha }{\frac {\Gamma (\alpha /2)}{\Gamma ((n-\alpha )/2)}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\boldsymbol {\Sigma }}={\boldsymbol {\sigma }}{\boldsymbol {\sigma }}^{\mathrm {T} }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\boldsymbol {\Sigma }}^{-1}={\boldsymbol {\sigma }}^{-\mathrm {T} }{\boldsymbol {\sigma }}^{-1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 c_{n}=\Gamma ((n+1)/2)/\pi ^{(n+1)/2}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x) = \int_{c}^{x} R \left(t, \sqrt{P(t)} \right) \, dt, 
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \cos \varphi = \textrm{cn} \; u, \qquad \textrm{and} \qquad \sqrt{1 - m \sin^2 \varphi} = \textrm{dn}\; u.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  F(\varphi,k) = F(\varphi \,|\, k^2) = F(\sin \varphi ; k) = \int_0^\varphi \frac {d\theta}{\sqrt{1 - k^2 \sin^2 \theta}}.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  t=\sin \theta, x=\sin \varphi 
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  F(x ; k) = \int_{0}^{x} \frac{dt}{\sqrt{(1 - t^2)(1 - k^2 t^2)}}.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  F(\varphi \setminus \alpha) = F(\varphi, \sin \alpha) = \int_0^\varphi \frac{d \theta}{\sqrt{1-(\sin \theta \sin \alpha)^2}}.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  F(\varphi, \sin \alpha) = F(\varphi \,|\, \sin^2 \alpha) = F(\varphi \setminus \alpha) = F(\sin \varphi ; \sin \alpha).
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 x = \operatorname{sn}(u,k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 F(x;k) = u;
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(m)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{\sqrt {1-m\sin ^{2}\theta }}}}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  E(\varphi,k) = E(\varphi \,|\,k^2) =
 E(\sin\varphi;k) = \int_0^\varphi \sqrt{1-k^2 \sin^2\theta}\, d\theta.
- t=\sin\theta \; \text{and}\; x=\sin\varphi 
- E(x;k) = \int_0^x \frac{\sqrt{1-k^2 t^2} }{\sqrt{1-t^2}}\, dt.
- E(\varphi \setminus \alpha) = E(\varphi, \sin \alpha) = \int_0^\varphi \sqrt{1-(\sin \theta \sin \alpha)^2} \,d\theta.
-E(\mathrm{sn}(u ; k) ; k) = \int_0^u \mathrm{dn}^2 (w ; k) \, dw = u - k^2 \int_0^u \mathrm{sn}^2 (w ; k) \, dw = (1-k^2)u + k^2 \int_0^u \mathrm{cn}^2 (w ; k) \, dw.
-\varphi \,\!
-m(\varphi) = a\left(E(\varphi,e)+\frac{d^2}{d\varphi^2}E(\varphi,e)\right),
- \Pi(n ; \varphi \setminus \alpha) = \int_0^\varphi  \frac{1}{1-n\sin^2 \theta}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  t=\sin\theta \; \text{and}\; x=\sin\varphi 
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  E(x;k) = \int_0^x \frac{\sqrt{1-k^2 t^2} }{\sqrt{1-t^2}}\, dt.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  E(\varphi \setminus \alpha) = E(\varphi, \sin \alpha) = \int_0^\varphi \sqrt{1-(\sin \theta \sin \alpha)^2} \,d\theta.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 E(\mathrm{sn}(u ; k) ; k) = \int_0^u \mathrm{dn}^2 (w ; k) \, dw = u - k^2 \int_0^u \mathrm{sn}^2 (w ; k) \, dw = (1-k^2)u + k^2 \int_0^u \mathrm{cn}^2 (w ; k) \, dw.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \varphi \,\!
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 m(\varphi) = a\left(E(\varphi,e)+\frac{d^2}{d\varphi^2}E(\varphi,e)\right),
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  \Pi(n ; \varphi \setminus \alpha) = \int_0^\varphi  \frac{1}{1-n\sin^2 \theta}
 \frac {d\theta}{\sqrt{1-(\sin\theta\sin \alpha)^2}}
- \Pi(n ; \varphi \,|\,m) = \int_{0}^{\sin \varphi} \frac{1}{1-nt^2}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  \Pi(n ; \varphi \,|\,m) = \int_{0}^{\sin \varphi} \frac{1}{1-nt^2}
 \frac{dt}{\sqrt{(1-m t^2)(1-t^2) }}.
-\Pi(1; \frac \pi 2 \,|\,m)\,\!
-\Pi (n;\,{\mathrm  {am}}(u;k);\,k)=\int _{0}^{u}{\frac  {dw}{1-n\,{\mathrm  {sn}}^{2}(w;k)}}.
-m(\varphi)=a(1-e^2)\Pi(e^2 ; \varphi \,|\,e^2).
-K(k)
-{ K(k)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{\sqrt {1-k^{2}\sin ^{2}\theta }}}=\int _{0}^{1}{\frac {dt}{\sqrt {(1-t^{2})(1-k^{2}t^{2})}}},}
-{ K(k)=F({\frac {\pi }{2}},k)=F({\frac {\pi }{2}}\,|\,k^{2})=F(1;k).}
-{ K(k)={\frac {\pi }{2}}\sum _{n=0}^{\infty }\left[{\frac {(2n)!}{2^{2n}(n!)^{2}}}\right]^{2}k^{2n}={\frac {\pi }{2}}\sum _{n=0}^{\infty }[P_{2n}(0)]^{2}k^{2n},}
-{ K(k)={\frac {\pi }{2}}\left\{1+\left({\frac {1}{2}}\right)^{2}k^{2}+\left({\frac {1\cdot 3}{2\cdot 4}}\right)^{2}k^{4}+\cdots +\left[{\frac {\left(2n-1\right)!!}{\left(2n\right)!!}}\right]^{2}k^{2n}+\cdots \right\},}
-{ K(k)={\frac {\pi }{2}}\,{}_{2}F_{1}\left({\frac {1}{2}},{\frac {1}{2}};1;k^{2}\right).}
-{ K(k)={\frac {\frac {\pi }{2}}{\mathrm {agm} (1,{\sqrt {1-k^{2}}})}}.}
-{ K(k)={\frac {\pi }{2}}\theta _{3}^{2}(q),}
-{ q(k)=\exp \left(-\pi {\frac {K({\sqrt {1-k^{2}}})}{K(k)}}\right).}
-{ K(k^{2})\approx {\frac {\pi }{2}}+{\frac {\pi }{8}}{\frac {k^{2}}{1-k^{2}}}-{\frac {\pi }{16}}{\frac {k^{4}}{1-k^{2}}}}
-{ {\frac {\mathrm {d} }{\mathrm {d} k}}\left[k(1-k^{2}){\frac {\mathrm {d} K(k)}{\mathrm {d} k}}\right]=kK(k)}
-K(\sqrt{1-k^2})
-{ {\frac {\mathrm {d} }{\mathrm {d} k}}K(k)={\frac {E(k)}{k(1-k^{2})}}-{\frac {K(k)}{k}}}
-E(k)
-{ E(k)=\int _{0}^{\frac {\pi }{2}}{\sqrt {1-k^{2}\sin ^{2}\theta }}\ d\theta =\int _{0}^{1}{\frac {\sqrt {1-k^{2}t^{2}}}{\sqrt {1-t^{2}}}}dt,}
- E(\phi,k)
-{ E(k)=E\left({\frac {\pi }{2}},k\right)=E(1;k).}
-e=\sqrt{1-b^2/a^2}
-E(e)
-c
-{ c=4aE(e).}
-{ E(k)={\frac {\pi }{2}}\sum _{n=0}^{\infty }\left[{\frac {(2n)!}{2^{2n}(n!)^{2}}}\right]^{2}{\frac {k^{2n}}{1-2n}},}
-{ E(k)={\frac {\pi }{2}}\left\{1-\left({\frac {1}{2}}\right)^{2}{\frac {k^{2}}{1}}-\left({\frac {1\cdot 3}{2\cdot 4}}\right)^{2}{\frac {k^{4}}{3}}-\cdots -\left[{\frac {(2n-1)!!}{(2n)!!}}\right]^{2}{\frac {k^{2n}}{2n-1}}-\cdots \right\}.}
-{ E(k)={\frac {\pi }{2}}\,{}_{2}F_{1}\left({\frac {1}{2}},-{\frac {1}{2}};1;k^{2}\right).}
-\frac{\mathrm{d}E(k)}{\mathrm{d}k}=\frac{E(k)-K(k)}{k}
-(k^2-1) \frac {\mathrm{d}} {\mathrm{d}k} \left[ k \;\frac {\mathrm{d}E(k)} {\mathrm{d}k} \right] = k E(k)
-E(\sqrt{1-k^2}) - K(\sqrt{1-k^2})
-\Pi (n,k)
-{ \Pi (n,k)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{(1-n\sin ^{2}\theta ){\sqrt {1-k^{2}\sin ^{2}\theta }}}}.}
-{ \Pi '(n,k)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{(1+n\sin ^{2}\theta ){\sqrt {1-k^{2}\sin ^{2}\theta }}}}.}
-{ {\frac {\partial \Pi (n,k)}{\partial n}}={\frac {1}{2(k^{2}-n)(n-1)}}\left(E(k)+{\frac {1}{n}}(k^{2}-n)K(k)+{\frac {1}{n}}(n^{2}-k^{2})\Pi (n,k)\right)}
-{ {\frac {\partial \Pi (n,k)}{\partial k}}={\frac {k}{n-k^{2}}}\left({\frac {E(k)}{k^{2}-1}}+\Pi (n,k)\right)}
- K(k) E\left(\sqrt{1-k^2}\right) + E(k) K\left(\sqrt{1-k^2}\right) - K(k) K\left(\sqrt{1-k^2}\right) = \frac \pi 2.
-2^{{\aleph _{0}}}<2^{{\aleph _{1}}}
-\ F_{{3dB}}\approx K/T_{r}
-y_{i}=a_{i,:}\cdot x=\sum _{j}a_{i,j}x_{j}
-{  \Gamma (t)=\int _{0}^{\infty }x^{t-1}e^{-x}\,dx}
-\pi 
-\sum_{i=1}^m d_i = m(m-1) + \sum_{i=m+1}^n d_i.
-\Delta(t) = 1,\quad \nabla(z) = 1,\quad V(q) = 1.
-f:{\mathbb  {N}}\rightarrow \{n:{\mathbb  {N}}|n>5\}
-A\rightarrow B\ {\overset {\underset {\mathrm {def} }{}}{=}}\ {\mbox{NOT}}(A)\ {\mbox{OR}}\ B
-*
-\Gamma \vdash x:{\text{Int}}
-U_A := \bigcap_{x \in A} G_x. 
-(2n-5)!!={\frac  {(2n-4)!}{(n-2)!2^{{n-2}}}}.
-{ A=12t^{2}\cot {\frac {\pi }{48}}.}
-A=2500a^{2}\cot {\frac  {\pi }{10000}}
- {\frac  {1}{2}}{\sqrt  {K^{2}-3R^{2}}}
-K_{2,3}
-{\frac  {1-\rho }{\rho }}
-\pi =3.14159265\ldots 
-X=X_{0}\cup I_{1}\cup \ldots \cup I_{r}.
-\forall x\exists y\exists z\exists w\exists v(x=y*y+z*z+w*w+v*v)
-n\geq 3
-f(x)=\lim_{k\to\infty}\left(\lim_{j\to\infty}\left(\cos(k!\pi x)\right)^{2j}\right)
-{\frac  {1}{10\;000}}
-y={\frac  {abx}{x^{2}+a^{2}}}.
-V(b,w)=r(b,w)+p(b,w)V(b+1,w+1)+(1-p(b,w))V(b+1,w)
-{\mathcal {O}}
-{\frac  {\partial \rho {\mathbf  {U}}}{\partial t}}+\nabla \cdot \phi {\mathbf  {U}}-\nabla \cdot \mu \nabla {\mathbf  {U}}=-\nabla p
-{\begin{aligned}&3(b^{2}-c^{2})(c^{2}-a^{2})(a^{2}-b^{2})(a^{2}yz+b^{2}zx+c^{2}xy)\[6pt]&{}+(x+y+z)\left(\sum _{{\text{cyclic}}}b^{2}c^{2}(b^{2}-c^{2})(b^{2}+c^{2}-2a^{2})x\right)=0\end{aligned}}
-{ {\text{reach}}(X):=\sup\{r\in \mathbb {R} :\forall x\in \mathbb {R} ^{n}\setminus X{\text{ with }}{\rm {dist}}(x,X)<r{\text{ exists a unique closest point }}y\in X{\text{ such that }}{\rm {dist}}(x,y)={\rm {dist}}(x,X)\}.}
-3\cos \Omega =1-4\cos ^{{2}}\left[\left(\phi +\psi \right)/2\right]
-\bigcap_{j\in J}U_j \neq \varnothing.
-389_{-21}^{+24}
-{ F:\mathrm {Hom} _{\mathbf {Vect} }(T,U)\rightarrow \mathrm {Hom} _{\mathbf {Vect} }(F(T),F(U)),}
-(A,f')=(f\to f')\circ (A,f).
-P={\frac  {W}{t}}={\frac  {(mg)h}{t}}\ 
-{ {\begin{aligned}&A(\triangle PAB)+A(\triangle PCD)\=&{\frac {1}{2}}ra+{\frac {1}{2}}rc={\frac {1}{2}}r(a+c)\=&{\frac {1}{2}}r(b+d)={\frac {1}{2}}rc+{\frac {1}{2}}rd\=&A(\triangle PBC)+A(\triangle PAD)\end{aligned}}}
-{ {\begin{aligned}&\quad {\overline {AB}}+{\overline {CD}}\&=a+b+c+d\&=b+c+a+d\&={\overline {BC}}+{\overline {DA}}\end{aligned}}}
-{ U_{n}(x):=\{x_{k}:n\leq k<\infty \}\cup \{x\}.}
-{ \inf _{a\in A,b\in B}d(a,b)}
-R^{3}
-v_{\mathrm {p} }={\frac {c_{0}}{\sqrt {\epsilon _{\mathrm {r,eff} }}}}.
-\rho _{P}\propto {\frac {1}{r^{2}}}.
-R={\frac  {V}{I}}
-Q_{{10}}=\left({\frac  {R_{2}}{R_{1}}}\right)^{{10/(T_{2}-T_{1})}}
-R\dot{R} + \frac{3}{2}\dot{R}^{2} = \frac{1}{\rho}\left(p_g - P_0 - P(t) - 4\mu\frac{\dot{R}}{R} - \frac{2\gamma}{R}\right)
-E_{8}\times E_{8}
-{ \mu (AX_{1},\ldots ,AX_{n})=|\det A|^{s}\mu (X_{1},\ldots ,X_{n})}
-\Delta \,v=u\,\ln \left({\frac  {m+M}{M}}\right)
-{ x=0.67D_{0}{\sqrt {\frac {P_{0}}{P_{1}}}},}
-n{{\rm {C}}}+(n+1){{\rm {H}}}_{2}\rightarrow {{\rm {C}}}_{n}{{\rm {H}}}_{{2n+2}}
-\in 
-N\rtimes H
-K(n)_{*}(X\times Y)\cong K(n)_{*}(X)\otimes _{{K(n)_{*}}}K(n)_{*}(Y).
-{ t{\begin{Bmatrix}6\3\end{Bmatrix}}}
-{\begin{Bmatrix}5\5\end{Bmatrix}}
-{ s{\begin{Bmatrix}7\3\end{Bmatrix}}}
-{ s{\begin{Bmatrix}\infty \\infty \end{Bmatrix}}}
-{ t{\begin{Bmatrix}7\3\end{Bmatrix}}}
-{ t{\begin{Bmatrix}\infty \3\end{Bmatrix}}}
-{ {\begin{Bmatrix}7\4\end{Bmatrix}}}
-{ t{\begin{Bmatrix}5\4\end{Bmatrix}}}
-{ {\begin{Bmatrix}\infty \5\end{Bmatrix}}}
-{ r{\begin{Bmatrix}6\3\end{Bmatrix}}}
-\mathbb {Z} _{2}
-\left|x\right|
-\cong 
-{ {\frac {vSPI\ *\ hSPI\ *\ area\ *\ color~depth~encoding}{8}}}
-G^{n}
-f_{\#}(\pi _{1}(Z,z))\subset p_{\#}(\pi _{1}(C,c)).
-{\mathbf  {\nabla }}\times {\mathbf  {B}}=\mu _{0}{\mathbf  {J}}+\underbrace {\mu _{0}\epsilon _{0}{\frac  {\partial }{\partial t}}{\mathbf  {E}}}_{{\mathrm  {Maxwell's\ term}}}
-\ker a~{\color {Gray}\longrightarrow }~\ker b~{\color {Gray}\longrightarrow }~\ker c~{\overset  {d}{\longrightarrow }}~\operatorname {coker}a~{\color {Gray}\longrightarrow }~\operatorname {coker}b~{\color {Gray}\longrightarrow }~\operatorname {coker}c
-\ {\mbox{Bond Order}}={\frac  {({\mbox{No. of electrons in bonding MOs}})-({\mbox{No. of electrons in anti-bonding MOs}})}{2}}
-{\frac {\pi }{2}}
-{ T\in (T_{1},T_{2})}
-{ R_{25}=\sigma _{call,25}-\sigma _{put,25}}
-\left\{\exp \left(\lambda W_{t}-{\frac  {1}{2}}\lambda ^{2}t\right),t\geq 0\right\}
-p^{*}
-{ |r_{t}|}
-\sigma_t^2 = \alpha_0 + \sum_{i = 1}^p \alpha_i \epsilon_{t-i}^2 + \sum_{j = 1}^q \beta_j \sigma_{t-j}^2\,
-{ {\text{LM}}=nR^{2}.}
-
-\text{Yield to maturity(YTM)} = \sqrt[\text{Time period}]{\frac{\text{Face value}}{\text{Present value}}} - 1
-
-
-\begin{align}
- P & = \frac{5}{(1 + \frac{4.5\% + 50\mathrm{bp}}{2})^{(2 \times 1)}} 
-       + \frac{5}{(1 + \frac{4.7\% + 50\mathrm{bp}}{2})^{(2 \times 2)}} 
-       + \frac{105}{(1 + \frac{5.0\% + 50\mathrm{bp}}{2})^{(2 \times 3)}} \
-      & = 98.50, \
-\end{align}
-
-M_{w}
-{ T={\frac {V}{A}}\cdot 0.161\,\mathrm {s} }
-f={\frac {100}{2\pi }}{\sqrt {\frac {2p\cdot M_{h}}{J_{r}}}}
- P = -\alpha\;R \frac{d}{dR} \left (\frac{\gamma\;_s}{R} \right )  \,\! 
-F_{{Max}}=k{\frac  {TLt^{{2}}}{W}}
-{ p=69+12\cdot \log _{2}{(f/440)}\,}
-{ {\mathbf {P} }=\varepsilon _{0}\chi _{\text{e}}{\mathbf {E} }}
-t={\frac  {R_{A}+R_{O}}{{\sqrt  2}(R_{B}+R_{O})}}
-1m/{s^2} \! 
-V = a(T_h - T_c)\,\!
-{\overrightarrow {\leftarrow }}
-{ {\ce {{R-OH}+HCl->[{\ce {ZnCl2}}][\Delta ]\overbrace {R-Cl} ^{alkyl\ halide}+\ {H2O}}}}
-{ s=\left({\frac {{\sqrt {1-zT}}-1}{ST}}\right)}
-\operatorname {ad} 
-{ \mathbf {Z} \rightarrow \mathbf {Q} }
-{ {\begin{bmatrix}a&b\-b&a\end{bmatrix}}.}
-{ UU^{*}=I}
-F(U)\to F(U-Y)
-K_{X}+rD
-\mathrm {End} (A)\otimes \mathbb {Q} 
-i_{\ast }:T_{p}S\to T_{p}M.
-5+2k
-E=J(T,n)
-{ {\mbox{Click here to access DQ list}}}
-{ L_{0}^{2}(G(K)\backslash G(\mathbf {A} ),\omega )={\hat {\bigoplus }}_{(\pi ,V_{\pi })}m_{\pi }V_{\pi }}
-{ C[0,1]}
- 2^3 \times 7^5 \, 
-{{\mathbf  1}/2}\left({\begin{matrix}1&-1&-1&-1\-1&1&-1&-1\-1&-1&1&-1\-1&-1&-1&1\end{matrix}}\right)
-10x=2^{x}
-{ S^{n}=\left\{x\in \mathbb {R} ^{n+1}:\|x\|=1\right\}.}
-{ -H}
-P=CV^{2}f
-{ Opticnerveperfusion=Hct\times (BP-TP)}
-f:X\to Y
-{ L_{\alpha }^{2}}
-{ x-y=x+(-1)\cdot y,\,}
-{ diag(M)}
-{\frac  {ab}{ac}}={\frac  {b}{c}}
-{ O(n^{2^{d}})}
-\mathrm{ROA} = \frac{\mbox{Net Income}}{\mbox{Average Total Assets}}
-{\mbox{ROCE}}={\frac  {{\mbox{Earning Before Interest and Tax (EBIT)}}}{{\mbox{Capital Employed}}}}
-{\mbox{PEG Ratio}}\,=\,{\frac  {{\mbox{Price/Earnings}}}{{\mbox{Annual EPS Growth}}}}
-{\mathrm  {GDP}}=C+G+I+\left({\mathrm  {X}}-M\right)
-K_{D}
-{ P_{r}=\left[P_{t}{{G^{2}\lambda ^{2}\sigma ^{0}} \over {{(4\pi )}^{3}R^{4}}}\right]\propto {\frac {\sigma ^{0}}{R^{4}}}\qquad \qquad {\begin{cases}P_{r}=received\ power\P_{t}=transmitted\ power\G_{t}=gain\ of\ the\ transmitting\ antenna\\lambda =radar\ wavelenght\\sigma =radar\ cross\ section\ of\ the\ target\R=distance\ from\ the\ transmitter\ to\ the\ target\end{cases}}}
-{ [C_{i},H]=iP_{i}}
-{\frac  {\partial \rho }{\partial t}}+\nabla \cdot {\mathbf  {J}}=0
-{ {\begin{aligned}{\frac {x}{R}}&=\int _{0}^{\lambda '}{\frac {H-S^{2}}{\sqrt {1+S^{2}}}}d\lambda '-{\frac {S}{\sqrt {1+S^{2}}}}\ln \tan \left({\frac {\pi }{4}}+{\frac {\varphi '}{2}}\right)\{\frac {y}{R}}&=\left(H+1\right)\int _{0}^{\lambda '}{\frac {S}{\sqrt {1+S^{2}}}}d\lambda '+{\frac {1}{\sqrt {1+S^{2}}}}\ln \tan \left({\frac {\pi }{4}}+{\frac {\varphi '}{2}}\right)\S&={\frac {P_{2}}{P_{1}}}\sin i\cos \lambda '\H&=1-{\frac {P_{2}}{P_{1}}}\cos i\\tan \lambda '&=\cos i\tan \lambda _{t}+{\frac {\sin i\tan \varphi }{\cos \lambda _{t}}}\\sin \varphi '&=\cos i\sin \varphi -\sin i\cos \varphi \sin \lambda _{t}\\lambda _{t}&=\lambda +{\frac {P_{2}}{P_{1}}}\lambda '.\\varphi &={\text{geodetic (or geographic) latitude.}}\\lambda &={\text{geodetic (or geographic) longitude.}}\P_{2}&={\text{time required for revolution of satellite.}}\P_{1}&={\text{length of Earth rotation.}}\i&={\text{angle of inclination.}}\R&={\text{radius of Earth.}}\x,y&={\text{rectangular map coordinates.}}\end{aligned}}}
-{ {\begin{aligned}x&=\cot \varphi \sin {\big (}(\lambda -\lambda _{0})\sin \varphi {\big )}\y&=\varphi -\varphi _{0}+\cot \varphi {\Big (}1-\cos {\big (}(\lambda -\lambda _{0})\sin \varphi {\big )}{\Big )}\end{aligned}}}
-{ {\begin{aligned}x&=\left(\lambda -\lambda _{0}\right)\cos \varphi \y&=\varphi \,\end{aligned}}}
-{ {\begin{aligned}x&=\lambda {\sqrt {1-3\left({\frac {\varphi }{\pi }}\right)^{2}}}\y&=\varphi \end{aligned}}}
-n\geq 5.
-{ C={\frac {R_{white}}{R_{black}}}}
-
-  4\sin 18^\circ
-  = \sqrt{2(3 - \sqrt 5)}
-  = \sqrt 5 - 1
-
-\int _{0}^{\infty }{\frac  {\cos(x)-1}{x^{2}}}\,dx
-ME_{{max}}(n=400,z=2)=(2){\sqrt  {{\frac  {.25}{400}}}}=.05=5\%
-{ {\hat {\mathcal {J}}}_{3}\,D_{m'm}^{j}(\alpha ,\beta ,\gamma )^{*}\equiv -i\;{\partial  \over \partial \alpha }D_{m'm}^{j}(\alpha ,\beta ,\gamma )^{*}=-i\;{\partial  \over \partial \alpha }\,e^{im'\gamma }d_{m'm}^{j}(\beta )e^{im\alpha }=m'\,D_{m'm}^{j}(\alpha ,\beta ,\gamma )^{*}}
-Percentage={Support \over Support+Oppose}
-{\mathfrak {p}}
-x_{{ik}}=y_{{ik}}/p_{k}-1
-4 \lceil n/3 \rceil
-\langle x,y\rangle 
-\int_1^\sqrt[3]{3} \! t^2\,dt \cos(\frac{3\pi}{9}) = \ln(\sqrt[3]{e})
-\epsilon 
-{ \;\!\tau }
-{ \{\land _{\gamma <\delta }[\land _{\beta <\gamma }(A_{\beta })]\implies A_{\gamma }\}\implies \land _{\epsilon <\delta }A_{\epsilon }}
-{ LoanConstant=(interest/m)/(1-(1/(1+(i/m))^{n}))}
-f(x)=ax+b
-P=P_{{\max }}(1-e^{{-\alpha I/P_{\max }}})e^{{-\beta I/P_{\max }}}\,
-(p|q)_{8}=(q|p)_{8}=(aB-bA|q)_{4}(cD-dC|q)_{2}\ .
-{ x(yx)=(xy)x}
-{ {\mbox{Mitotic I}}={\frac {\mbox{(P+M+A+T)}}{\mbox{N}}}*100\%}
-{ |\psi \rangle ={\begin{bmatrix}1\0\0\1\end{bmatrix}}\in H\otimes H}
-{ I\otimes T}
-{\frac {1}{3}}
-{ \Psi _{c}}
-{ 0\leq l\leq n-1}
-\psi \leq 25mV
-\alpha _{{12}}\beta _{{12}}
-{ Thermal\ lag(s)={{\sqrt {1 \over {2*\alpha *\Omega }}}*L}}
-{ \,I_{d}=k.n.F.D^{1/2}.m_{r}^{2/3}.t^{1/6}.c}
-\Delta \tau =D_{{\text{PMD}}}{\sqrt  {L}}\,
-2^{n}
-{ {\ce {<<=>}}}
-E_F
-{ Q\;=\;C\;A\;P\;{\sqrt {{\bigg (}{\frac {\;\,k\;M}{Z\;R\;T}}{\bigg )}{\bigg (}{\frac {2}{k+1}}{\bigg )}^{(k+1)/(k-1)}}}}
-{ {\vec {k_{out}}}=(k_{x}+mK,k_{y},{\sqrt {(n\omega /c)^{2}-(k_{x}+mK)^{2})-k_{y}^{2}}})}
-\rightleftarrows 
-{ S=k\log W\!}
-{ {\mbox{Labour Turnover}}={\frac {\mbox{NELDY}}{\mbox{(NEBY + NEEY)/2}}}}
-{ {\tilde {Z}}}
-{ N(t)=N_{0}k^{t/T}\,}
-d/(1-d)\%.
-\Phi _{n}(b)
-x_{i}
-f={1 \over 2\pi {\sqrt  {L_{1}C/2}}}\;
-{ J(\omega )}
-J^{2}=-1
-{ f^{-1}(\cup _{i=1}^{s}V_{k_{i}})\subset \cup _{\lambda \in \Gamma }U_{\lambda }}
-{ {\mathbb {H}}P^{n}}
-{ \mathrm {NH_{4}OCN\ {\xrightarrow {\ \ 60^{\circ }C\ \ }}\ H_{2}NCONH_{2}} }
-c\rightarrow \infty 
-{ {\color {Bittersweet}8}{\color {PineGreen}\pi }={\color {DarkOrchid}x}({\color {YellowOrange}\mathrm {o} \mathrm {c} \mathrm {t} \mathrm {o} \mathrm {p} \mathrm {u} \mathrm {s} })\ \mathrm {i} \mathrm {f} \ {\color {DarkOrchid}x}>{\color {Blue}1}}
-{ C:title\rightarrow C:url}
-{ 4*sqrt{(m0)}}
-{  {P\;\propto \;ma}}
-{\bar  {d}}=k{D_{v}\cdot R\cdot \nu _{m}\cdot \epsilon  \over D_{s}\cdot N\cdot \nu _{l}\cdot C_{s}}
-{ {\text{S.A.R.}}={\frac {Na^{+}}{\sqrt {{\frac {1}{2}}({Ca^{2+}+Mg^{2+}})}}}}
-{ O=C/R}
-p=69+12\times \log _{2}{f \over 440\,{\text{Hz}}}
-{ \mathbf {L} ^{\mathrm {T} }\mathbf {F} \mathbf {L} ={\boldsymbol {\Phi }}\quad \mathrm {and} \quad \mathbf {L} ^{\mathrm {T} }\mathbf {G} ^{-1}\mathbf {L} =\mathbf {E} }
-U_{I}
-{ RCOOH+R^{\prime }OH\rightleftharpoons RCOOR^{\prime }+H2O}
-{\mathrm  {R_{{PB}}={\frac  {V_{{oxide}}}{V_{{metal}}}}={\frac  {M_{{oxide}}\cdot \rho _{{metal}}}{n\cdot M_{{metal}}\cdot \rho _{{oxide}}}}}}
-{ \ {\sum _{n=1}^{\infty }{\rm {Riesz(z/n^{2})=z*exp(-z)}}}.}
-{ H(Y)=\int _{\infty }^{-\infty }p(y)\log {\frac {1}{p(y)}}dy}
-{\textit  {TEMA}}={3*EMA-3*EMA(EMA)+EMA(EMA(EMA))}
-{ P<.2Fmath>??|What'swrongwith<math>P}
-{ \sum _{j}\alpha _{j}b_{\pi (j)}}
-{ 8=\int _{4}^{4+{\sqrt {4}}}4\,dx}
-{ \pi \approx {3.14159...}}
-{ 6-4=?}
-{\frac {\pi }{108}}
-{ n\log _{2}(n)-\sum _{i=1}^{A}f_{i}\log _{2}(f_{i})=-\left[\sum _{i=1}^{A}p_{i}\log _{2}(p_{i})\right]*n}
-10^{5}
-p=\log_2\left(f\left(\frac{n}{2^q}\right)\right)+q
-\left[{\frac  {{\text{result from specimen in test environment}}}{{\text{result from specimen in inert environment}}}}\right]
-T_{2}
-f(p,q)\rightarrow (p+q)/2
-\sum _{{n=2}}^{\infty }2^{{-n}}=1/2
-{ {\ce {\overbrace {CHCl3} ^{chloroform}+\overbrace {3HOCH2C(NO2)3} ^{Trinitroethanol}->[{\ce {FeCl3}}]{TNEOF}+3HCl}}}
-{ \neg \phi (t)\to \neg \forall x:\phi (x)}
-{ SL_{2}(\mathbb {Z} /2)}
-{ r_{n}={\frac {n^{2}\hbar ^{2}4\pi \epsilon _{0}}{Z|q_{1}q_{2}|m_{e}}}}
-IOP =\frac {F}{C} +PV
-{ \ U=S^{2}|D|\,}
-{ 2f(x+3)=52}
-{ {\sqrt {311}}\,\mathrm {ft} }
-{ \mathbf {I} =\iiint _{V}\rho (x,y,z)\left((x^{2}+y^{2}+z^{2})\mathbf {E} _{3}-{\begin{bmatrix}xx&xy&xz\yx&yy&yz\zx&zy&zz\end{bmatrix}}\right)\,dx\,dy\,dz}
-{ N=A\cdot x^{n}}
- {\frac  {1}{2}}
-{ x^{3}\cos x}
-{ \pi ^{\pi }}
-{ a+b=ab}
-{ {\begin{aligned}y&= {\frac {\sqrt {5+x^{2}}}{3-x}}\ {\frac {d}{dx}}\left({\sqrt {5+x^{2}}}\right)&= {\frac {2x}{2{\sqrt {5+x^{2}}}}}\&= {\frac {x}{\sqrt {5+x^{2}}}}\ {\frac {d}{dx}}(3-x)&=-1\ \lim _{x\to \pm \infty } {\frac {\sqrt {5+x^{2}}}{3-x}}&= \lim _{x\to \pm \infty }- {\frac {x}{\sqrt {5+x^{2}}}}&&{\mbox{(1), iif limit exists}}\&= \lim _{x\to \pm \infty }\mp {\sqrt { {\frac {x^{2}}{5+x^{2}}}}}&&{\mbox{Remember negative values; alternatively, consider the positive and negative cases separately}}\&= \lim _{x\to \pm \infty }\mp {\sqrt { {\frac {5+x^{2}-5}{5+x^{2}}}}}\&= \lim _{x\to \pm \infty }\mp {\sqrt {1- {\frac {5}{5+x^{2}}}}}\&\to \mp 1&&{\mbox{Also satisfies (1)}}\y&= {\frac {\sqrt {5+x^{2}}}{3-x}}\&\vdots \x&= {\frac {3y^{2}\pm {\sqrt {14y^{2}-5}}}{y^{2}-1}}\&= {\frac {3(y^{2}-1)+3\pm {\sqrt {14y^{2}-5}}}{y^{2}-1}}\&=3+ {\frac {\pm {\sqrt {14y^{2}-5}}}{y^{2}-1}}\&=3\pm {\sqrt { {\frac {14y^{2}-5}{\left(y^{2}-1\right)^{2}}}}}\&=3\pm {\sqrt { {\frac {14z-5}{\left(z-1\right)^{2}}}}}&&z=y^{2}\\exists {\mbox{constants }}A,B\,.\,\ {\frac {14z-5}{\left(z-1\right)^{2}}}&= {\frac {A}{\left(z-1\right)^{2}}}+ {\frac {B}{z-1}}&&{\mbox{Partial fractions}}\ \lim _{z\to \pm \infty } {\frac {14z-5}{\left(z-1\right)^{2}}}&= \lim _{z\to \pm \infty } {\frac {A}{\left(z-1\right)^{2}}}+ \lim _{z\to \pm \infty } {\frac {B}{z-1}}&&{\mbox{Limit of sums is sum of limits}}\&=0\\therefore  \lim _{y\to \pm \infty }x&= \lim _{y\to \pm \infty }3\pm {\sqrt {0}}&&{\mbox{Note that }}z\geq 0\&=3\end{aligned}}}
-{ {\frac {1}{2}}\rho v^{2}+\rho gh}
-{ (\pi \times 25^{2})/(\pi \times 1^{2})=625}
-{\xrightarrow  {TAL}}
-{ m_{i}a={\frac {Gm_{p}m_{a}}{r^{2}}}}
-u_{{t}}+u_{{xxx}}+\alpha *u^{2}*u_{{x}}=0
-u_{{t}}+\alpha *u_{{xxx}}+\beta *u*u_{{x}}=0
-{ f(n)=\prod _{p=3}^{p_{n}}{\frac {p}{p-1}}}
-{ \omega ^{\omega ^{\omega ^{...}}}}
-{ \left\{1,{\hat {a}},{\hat {a}}^{\dagger },{\hat {a}}^{2},{\hat {a}}^{\dagger }{\hat {a}},{\hat {a}}^{\dagger 2},\cdots \right\}}
-{ {\mathcal {T}}he\,Lamb\,of\,God\,}
-n^{2}
-ds^{2}=-\left(1-{2M \over r}\right)dt^{2}+{1 \over 1-{2M \over r}}dr^{2}+r^{2}d\Omega ^{2}.\,
-\,\Upsilon 
-\Upsilon 
-\Delta E = 0
-\mathrm{d}U=\delta Q-\delta W\,
-F = \frac{9}{5}C + 32
-C = \frac{5}{9}(F - 32).
-N(i)=G(U(i))
-m(i)={\begin{cases}1-m(n)&i=1\\{\frac  {i-0.3175}{n+0.365}}&i=2,3,\ldots ,n-1\\0.5^{{1/n}}&i=n.\end{cases}}
-c=G=k_{{\text{e}}}=e=1.
-\hbar ={\frac  {1}{\alpha }}\approx 137.035999679,
-{ B=P^{-1}AP}
-A\mapsto P^{-1} A P
-\|f\|_{{K,n}}=\sup _{{|\alpha |\leq n}}\sup _{{x\in K}}\left|\partial ^{\alpha }f(x)\right|
- {C_{0}^{\infty }(K)\subset C_{0}^{\infty }(\Omega )}
-xy
-yx
-{ {\begin{aligned}P(H3|C1,X1)&={\frac {1}{2}}\P(H3|C2,X1)&=1\P(H3|C3,X1)&=0\end{aligned}}}
-{ {\begin{aligned}P(C2|H3,X1)&={\frac {P(H3|C2,X1)P(C2\cap X1)}{P(H3\cap X1)}}\&={\frac {P(H3|C2,X1)P(C2\cap X1)}{P(H3|C1,X1)P(C1\cap X1)+P(H3|C2,X1)P(C2\cap X1)+P(H3|C3,X1)P(C3\cap X1)}}\&={\frac {P(H3|C2,X1)}{P(H3|C1,X1)+P(H3|C2,X1)+P(H3|C3,X1)}}\&={\frac {1}{{\frac {1}{2}}+1+0}}={\frac {2}{3}}\end{aligned}}}
-\Lambda =\bigcap _{{i\geq 0}}T_{i}
-f(t,z)=\left(2t,{\frac  {1}{4}}z+{\frac  {1}{2}}e^{{it}}\right).
-f(x_{1},\ldots ,x_{k})
-f(x_{1},x_{1}^{n},x_{1}^{{n^{2}}},\ldots ,x_{1}^{{n^{j}}})
-\lambda (A)_{{ij}}=(\lambda A)_{{ij}}=\lambda A_{{ij}}
-Q
-F_{n}
-{ {\begin{aligned}(b,c)\mapsto b^{c}&&&{\text{This is exponentiation in general.}}\[10pt]x\mapsto b^{x}&&&{\text{This is an exponential function}}\&&&{\text{(the base is constant; the input variable is the exponent).}}\end{aligned}}}
-{ *\cup _{X}*}
-\cos(20^{o})\cdot \cos(40^{o})\cdot \cos(80^{o})={\frac {1}{8}}.
-\cos(20^{\circ })\cdot \cos(40^{\circ })\cdot \cos(80^{\circ })={\frac {1}{8}}.
-\mathbb {A} 
-A_{{ABDE}}+A_{{ACFG}}=A_{{BCLM}}
-{\begin{aligned}A_{{ABDE}}+A_{{ACFG}}\,{}&=A_{{ABUH}}+A_{{ACVH}}\&=A_{{BLRQ}}+A_{{RCMQ}}\&=A_{{BCLM}}\end{aligned}}
-C_{4}^{6}
-E={\frac {1}{2}}mv^{2}={\frac {1}{2}}(Avt\rho )v^{2}={\frac {1}{2}}At\rho v^{3},
-P={\frac {E}{t}}={\frac {1}{2}}A\rho v^{3}.
-\lambda = -\frac{2}{3} \mu
-\mathrm{d}\mathbf{F} = p\,\mathrm{d}\mathbf{A}
-2^N
-S=Nk\ln(2)
-\Theta (G)=\sup _{k}{\sqrt[ {k}]{\alpha (G_{k})}}=\lim _{{k\rightarrow \infty }}{\sqrt[ {k}]{\alpha (G_{k})}},
-\Theta (G)\leq R(G)=\min _{{B}}\operatorname {rank}(B),
-\lceil d/2\rceil
-\left\lfloor {\frac  {n+7}{6}}\right\rfloor ,
-\left\lceil {\frac  {ab}{2(a+b-2)}}\right\rceil .
-d(X,Y):={\frac  {\left|E(X,Y)\right|}{|X||Y|}}
-\left|d(X,Y)-d(A,B)\right|\leq \varepsilon .
-U=H(k)/D
-y=\Phi (x)
-{ t(I)=\{r\in R{\mbox{ }}|{\mbox{ }}\forall s\notin I,{\mbox{ }}\exists x\in (s){\mbox{ }}x\notin I{\text{ and }}(x)(r)\subset I\}.\,}
-{ I=T_{1}\cap \dots \cap T_{n}}
-V_{{\text{Yukawa}}}(r)=-g^{2}{\frac  {e^{{-\mu r}}}{r}},
-{ \mathbb {T} \cong \mathbb {R} \oplus (\mathbb {Q} /\mathbb {Z} )\cong \mathbb {C} ^{\times }}
-{ \mathbb {T} \cong \mathbb {(} R/\mathbb {Q} )\oplus (\mathbb {Q} /\mathbb {Z} )\cong \mathbb {C} ^{\times }}
-{\mathbb  {Z}}/12{\mathbb  {Z}}
-\int _{{}}^{{}}
-V=x^{5}+ax^{3}+bx^{2}+cx,
-S(f)\propto {\frac {1}{f^{\alpha }}}
- {\frac {d}{df}}\ln f={\frac {1}{f}}.
-{ \mathbf {T} :\mathbf {U} =T_{ij}U_{ji}}
-{ \mathbf {T} :\mathbf {U} =T_{ab\,\cdots \,hij}U_{ijk\,\cdots \,yz}}
-AB^{2}+CH^{2}=AC^{2}+BH^{2}=BC^{2}+AH^{2}=4R^{2}
-{\frac  {BC}{\sin {A}}}={\frac  {AC}{\sin {B}}}={\frac  {AB}{\sin {C}}}={\frac  {HA}{|\cos {A}|}}={\frac  {HB}{|\cos {B}|}}={\frac  {HC}{|\cos {C}|}}=2R.
-{ \operatorname {gra} T}
-{ f_{n}(x)=\sin(2\pi nx).}
-{ K={\frac {\varepsilon ^{3}}{36k(1-\varepsilon )^{2}}}d^{2}}
-{ K={\frac {\varepsilon ^{5.5}}{5.6}}d^{2}}
-\eta ={\frac  {\sum _{{i=1}}^{{n}}\mu (K_{i})}{\mu (X)}}
-\eta =\lim _{{t\to \infty }}{\frac  {\sum _{{i=1}}^{{\infty }}\mu (K_{i}\cap B_{t})}{\mu (B_{t})}}
-{ {\ce {[S=C=N^{\ominus }<->\ ^{\ominus }\!S-C{\equiv }N]}}}
-{ {\ce {[{\mathsf {F-XeF^{-}<->F^{-}Xe-F}}]}}}
-\Gamma _{N}(w|a_{1},...,a_{N})=\exp \left({\frac  {\partial }{\partial s}}\zeta _{N}(s,w|a_{1},...,a_{N})|_{{s=0}}\right)
-\Gamma _{N}(w|a_{1},...,a_{N})=\Gamma _{{N-1}}(w|a_{1},...,a_{{N-1}})\Gamma _{N}(w+a_{N}|a_{1},...,a_{N})
-{ {\mathfrak {Purge\ this\ page}}}
-{ [2^{3},\,3^{2}],\ [5^{2},\,3^{3}],\ [2^{5},\,6^{2}],\ [11^{2},\,5^{3}],\ [3^{7},\,13^{3}],}
-{ [5^{5},\,56^{2}],\ [181^{2},\,2^{15}],\ [43^{3},\,282^{2}],\ [46^{3},\,312^{2}],\ [22434^{2},\,55^{5}].}
-d\,
-2d-2\,
-\sum_{n=-\infty}^{\infty} a_n e^{in \theta}
-\sum_{n=-\infty}^{\infty} (in)^s a_n e^{in\theta}
- \hbar 
- G
-tr~~~
-\gamma =1/{\sqrt {1-v^{2}/c^{2}}}
-x'=\gamma (x-vt),\ y'=y,\ z'=z,\ t'=\gamma \left(t-{\frac  {vx}{c^{{2}}}}\right)
-{ E^{3}}
-{ R\times S^{2}}
-\oint {Pdx}
-\oint {Pdx}=nh
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \Pi(1; \frac \pi 2 \,|\,m)\,\!
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \Pi (n;\,{\mathrm  {am}}(u;k);\,k)=\int _{0}^{u}{\frac  {dw}{1-n\,{\mathrm  {sn}}^{2}(w;k)}}.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 m(\varphi)=a(1-e^2)\Pi(e^2 ; \varphi \,|\,e^2).
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 K(k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{\sqrt {1-k^{2}\sin ^{2}\theta }}}=\int _{0}^{1}{\frac {dt}{\sqrt {(1-t^{2})(1-k^{2}t^{2})}}},}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)=F({\frac {\pi }{2}},k)=F({\frac {\pi }{2}}\,|\,k^{2})=F(1;k).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)={\frac {\pi }{2}}\sum _{n=0}^{\infty }\left[{\frac {(2n)!}{2^{2n}(n!)^{2}}}\right]^{2}k^{2n}={\frac {\pi }{2}}\sum _{n=0}^{\infty }[P_{2n}(0)]^{2}k^{2n},}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)={\frac {\pi }{2}}\left\{1+\left({\frac {1}{2}}\right)^{2}k^{2}+\left({\frac {1\cdot 3}{2\cdot 4}}\right)^{2}k^{4}+\cdots +\left[{\frac {\left(2n-1\right)!!}{\left(2n\right)!!}}\right]^{2}k^{2n}+\cdots \right\},}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)={\frac {\pi }{2}}\,{}_{2}F_{1}\left({\frac {1}{2}},{\frac {1}{2}};1;k^{2}\right).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)={\frac {\frac {\pi }{2}}{\mathrm {agm} (1,{\sqrt {1-k^{2}}})}}.}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)={\frac {\pi }{2}}\theta _{3}^{2}(q),}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { q(k)=\exp \left(-\pi {\frac {K({\sqrt {1-k^{2}}})}{K(k)}}\right).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k^{2})\approx {\frac {\pi }{2}}+{\frac {\pi }{8}}{\frac {k^{2}}{1-k^{2}}}-{\frac {\pi }{16}}{\frac {k^{4}}{1-k^{2}}}}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { {\frac {\mathrm {d} }{\mathrm {d} k}}\left[k(1-k^{2}){\frac {\mathrm {d} K(k)}{\mathrm {d} k}}\right]=kK(k)}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 K(\sqrt{1-k^2})
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { {\frac {\mathrm {d} }{\mathrm {d} k}}K(k)={\frac {E(k)}{k(1-k^{2})}}-{\frac {K(k)}{k}}}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 E(k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { E(k)=\int _{0}^{\frac {\pi }{2}}{\sqrt {1-k^{2}\sin ^{2}\theta }}\ d\theta =\int _{0}^{1}{\frac {\sqrt {1-k^{2}t^{2}}}{\sqrt {1-t^{2}}}}dt,}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  E(\phi,k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { E(k)=E\left({\frac {\pi }{2}},k\right)=E(1;k).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 a
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 b
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 e=\sqrt{1-b^2/a^2}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 E(e)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 c
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { c=4aE(e).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { E(k)={\frac {\pi }{2}}\sum _{n=0}^{\infty }\left[{\frac {(2n)!}{2^{2n}(n!)^{2}}}\right]^{2}{\frac {k^{2n}}{1-2n}},}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { E(k)={\frac {\pi }{2}}\left\{1-\left({\frac {1}{2}}\right)^{2}{\frac {k^{2}}{1}}-\left({\frac {1\cdot 3}{2\cdot 4}}\right)^{2}{\frac {k^{4}}{3}}-\cdots -\left[{\frac {(2n-1)!!}{(2n)!!}}\right]^{2}{\frac {k^{2n}}{2n-1}}-\cdots \right\}.}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { E(k)={\frac {\pi }{2}}\,{}_{2}F_{1}\left({\frac {1}{2}},-{\frac {1}{2}};1;k^{2}\right).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \frac{\mathrm{d}E(k)}{\mathrm{d}k}=\frac{E(k)-K(k)}{k}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 (k^2-1) \frac {\mathrm{d}} {\mathrm{d}k} \left[ k \;\frac {\mathrm{d}E(k)} {\mathrm{d}k} \right] = k E(k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 E(\sqrt{1-k^2}) - K(\sqrt{1-k^2})
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \Pi (n,k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 n
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { \Pi (n,k)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{(1-n\sin ^{2}\theta ){\sqrt {1-k^{2}\sin ^{2}\theta }}}}.}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { \Pi '(n,k)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{(1+n\sin ^{2}\theta ){\sqrt {1-k^{2}\sin ^{2}\theta }}}}.}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { {\frac {\partial \Pi (n,k)}{\partial n}}={\frac {1}{2(k^{2}-n)(n-1)}}\left(E(k)+{\frac {1}{n}}(k^{2}-n)K(k)+{\frac {1}{n}}(n^{2}-k^{2})\Pi (n,k)\right)}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { {\frac {\partial \Pi (n,k)}{\partial k}}={\frac {k}{n-k^{2}}}\left({\frac {E(k)}{k^{2}-1}}+\Pi (n,k)\right)}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  K(k) E\left(\sqrt{1-k^2}\right) + E(k) K\left(\sqrt{1-k^2}\right) - K(k) K\left(\sqrt{1-k^2}\right) = \frac \pi 2.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 2^{{\aleph _{0}}}<2^{{\aleph _{1}}}
+2 https://en.wikipedia.org/wiki/Moore_space_%28topology%29
+1 P_{n}
+2 https://en.wikipedia.org/wiki/Path_graph
+1 \text{Quality} = \frac{\text{Results of work efforts}}{\text{Total costs}}
+2 https://en.wikipedia.org/wiki/W._Edwards_Deming
+1 P(event)={\frac  {{\text{number of outcomes in event}}}{{\text{number of outcomes in sample space}}}}
+2 https://en.wikipedia.org/wiki/Sample_space
+1 F(i)=\sum _{{j=1}}^{i}f(j).
+2 https://en.wikipedia.org/wiki/Pseudo-random_number_sampling
+1 f(n;b,c)\propto n^{{-b}}\exp(-c(\log n)^{2}),
+2 https://en.wikipedia.org/wiki/Parabolic_fractal_distribution
+1 {\sqrt {2}}
+2 https://en.wikipedia.org/wiki/Wallpaper_group
+1 N_{2}={\frac {4n}{2m+2n-mn}}
+2 https://en.wikipedia.org/wiki/Regular_polyhedron
+1 { \lambda =1-q}
+2 https://en.wikipedia.org/wiki/Tsallis_distribution
+1 z_{i}=\Phi ^{{-1}}\left({\frac  {i-a}{n+1-2a}}\right),
+2 https://en.wikipedia.org/wiki/Normal_probability_plot
+1 \varphi 
+2 https://en.wikipedia.org/wiki/Phidias
+1  \int_\mbox{this} \qquad \int_\text{this} 
+2 https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Mathematics/Why_you_should_never_use_%5Cmbox_within_Wikipedia
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Yecril
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Compsonheir
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Daviddaved
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:DrPhosphorus
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Pooh4913
+1 \wp 
+2 https://en.wikipedia.org/wiki/Weierstrass_p
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:CRGreathouse
+1 {\frac  {2^{n}-1}{2^{n}}}
+2 https://en.wikipedia.org/wiki/Quaver_rest
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:DavidCBryant

@@ -1,0 +1,60 @@
+1 o\left({\frac  {n}{\log ^{2}(n)}}\right)\,.
+2 https://en.wikipedia.org/wiki/Primitive_abundant_number
+1 o(X^{{\epsilon }})
+2 https://en.wikipedia.org/wiki/Multiply_perfect_number
+1 p+2b^{2}
+2 https://en.wikipedia.org/wiki/Stern_prime
+1 {\frac {10^{n}-1}{9}}
+2 https://en.wikipedia.org/wiki/Permutable_prime
+1 2 \cdot (1,416,461,893 + 10^{500}) + 1
+2 https://en.wikipedia.org/wiki/Safe_prime
+1 B_{4}=\left({\frac {1}{5}}+{\frac {1}{7}}+{\frac {1}{11}}+{\frac {1}{13}}\right)+\left({\frac {1}{11}}+{\frac {1}{13}}+{\frac {1}{17}}+{\frac {1}{19}}\right)+\left({\frac {1}{101}}+{\frac {1}{103}}+{\frac {1}{107}}+{\frac {1}{109}}\right)+\cdots 
+2 https://en.wikipedia.org/wiki/Prime_quadruplet
+1 p = 10^{999} + n,
+2 https://en.wikipedia.org/wiki/Titanic_prime
+1 { \mathbb {Z} /2^{N}\mathbb {Z} }
+2 https://en.wikipedia.org/wiki/Signed_number_representations
+1 \forall Q:(P\land {\sim }P)\rightarrow Q\;
+2 https://en.wikipedia.org/wiki/Reductio_ad_absurdum
+1  {\frac {64!}{32!{8!}^{2}{2!}^{6}}}
+2 https://en.wikipedia.org/wiki/Shannon_number
+1 d_{N}={\frac  {c_{1}+c_{2}+\cdots +c_{N}}N}.
+2 https://en.wikipedia.org/wiki/Tauberian_theorem
+1 O(x^{1/2+\varepsilon})
+2 https://en.wikipedia.org/wiki/Talk:Analytic_number_theory
+1 \Omega (n\log n)
+2 https://en.wikipedia.org/wiki/Quantum_sort
+1  O(n)
+2 https://en.wikipedia.org/wiki/Smoothsort
+1 O(\left|{V}\right|+\left|{E}\right|)
+2 https://en.wikipedia.org/wiki/Topological_sorting
+1 d(A)=\lim _{n\to \infty }{\frac {|A\cap \{1,\dots ,n\}|}{n}},
+2 https://en.wikipedia.org/wiki/Set_function
+1 S_{n}
+2 https://en.wikipedia.org/wiki/Talk:Symmetric_group
+1 L(R)=\{x\mid \exists yR(x,y)\}.\,
+2 https://en.wikipedia.org/wiki/Search_problem
+1 \binom{n}{k}\ge k!,
+2 https://en.wikipedia.org/wiki/Superpattern
+1 {\begin{pmatrix}1&2&3&\cdots &n\x_{1}&x_{2}&x_{3}&\cdots &x_{n}\\end{pmatrix}},
+2 https://en.wikipedia.org/wiki/Random_permutation
+1 { {\begin{array}{rll}x^{*}&=(x\cdot 1)^{*}&{\mbox{(by ring axioms)}}\&=x^{*}\cdot 1^{*}&{\mbox{(by second condition)}}\end{array}}}
+2 https://en.wikipedia.org/wiki/Talk:%2A-algebra
+1 A\angle \!\ \theta ,
+2 https://en.wikipedia.org/wiki/Phase_angle
+1 { f:X\hookrightarrow Y}
+2 https://en.wikipedia.org/wiki/Talk:Injective_function
+1 |G|=|Z(G)|+\sum _{{i=1\land [G:H_{i}]>1}}^{{i=|S|}}[G:H_{i}]
+2 https://en.wikipedia.org/wiki/Talk:Conjugacy_class
+1 { P^{-1}=P^{T}}
+2 https://en.wikipedia.org/wiki/Talk:Diagonalizable_matrix
+1 { RCA={\frac {E_{ij}/E_{it}}{E_{nj}/E_{nt}}}}
+2 https://en.wikipedia.org/wiki/Revealed_comparative_advantage
+1 { G(m,n,r)=\langle a,b|a^{n}=b^{m}=1,a^{b}=a^{r}\rangle }
+2 https://en.wikipedia.org/wiki/Z-group
+1 W^{{\perp }}
+2 https://en.wikipedia.org/wiki/Talk:Bilinear_form
+1 S_{4}
+2 https://en.wikipedia.org/wiki/Monomial_group
+1 \lim_{t\to 0^+}\frac{f(g(t))-f(x_0)}{t} = u(g'(0)).
+2 https://en.wikipedia.org/wiki/Quasi-derivative

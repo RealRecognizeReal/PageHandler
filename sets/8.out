@@ -1,369 +1,60 @@
-{\frac  {2D}{F-M-1}}
-1\,{\mathrm  {N}}\!\cdot \!{\mathrm  {m}}=1{\frac  {{\mathrm  {kg}}\,{\mathrm  {m}}^{2}}{{\mathrm  {s}}^{2}}}\quad ,\quad 1\,{\mathrm  {J}}=1{\frac  {{\mathrm  {kg}}\,{\mathrm  {m}}^{2}}{{\mathrm  {s}}^{2}}}
-\mathbf {F} =q\mathbf {v} \times \mathbf {B} 
-{ \bigcup _{r\geq 0}\{x=a+b:q(a)=-q(b)=r,a\in A,b\in B\}.}
-{{\mathbb  {C}}}^{2}
-a>b\geq d>c
-B=\{ta:a\in A,t\in [0,1]\}
-{ R_{M}={\frac {\partial R_{T}}{\partial Q_{1}}}=M-Q_{2}-2Q_{1}}
-\mathbb {R} ^{3}
-\div 
-\sqrt{\hbar G/c^5}
-2\leq a\leq {\frac  {(b+1)}{2}}
-{\frac  {err(prune(T,t),S)-err(T,S)}{|leaves(T)|-|leaves(prune(T,t))|}}
-{\begin{bmatrix}|V_{\mathrm {ud} }|&|V_{\mathrm {us} }|&|V_{\mathrm {ub} }|\|V_{\mathrm {cd} }|&|V_{\mathrm {cs} }|&|V_{\mathrm {cb} }|\|V_{\mathrm {td} }|&|V_{\mathrm {ts} }|&|V_{\mathrm {tb} }|\end{bmatrix}}\approx {\begin{bmatrix}0.974&0.225&0.003\0.225&0.973&0.041\0.009&0.040&0.999\end{bmatrix}},
-B
-{ {\text{For }}\mathbf {A} \in \mathbb {R} ^{n\times m}\;:\;\mathbf {a} _{i,*}=\mathbf {a} _{i\bullet }=\{a_{i,j},\forall j\in [\![1\dotsc m]\!]\}\;{\text{and}}\;\mathbf {a} _{*,j}=\mathbf {a} _{\bullet j}=\{a_{i,j},\forall i\in [\![1\dotsc n]\!]\}}
- R = \sqrt {\frac{(ab + cd) (ac + bd) (ad + bc)}{(a + b + c - d) (b + c + d - a) (c + d + a - b) (d + a + b - c)}}.
-{  \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C} }
-{ \mathbb R^n_{+} = \{(x_1,\ldots,x_n) \in \mathbb R^n : x_n \ge 0\}.}
-Q_{max}=\frac{S^2T^2}{2\cdot R_{Total}}=\frac{S^2T^2A}{2p_cL}
-\max _{{\nu =m+1,\dots ,m+n}}\left|\sum _{{j=1}}^{n}b_{j}z_{j}^{\nu }\right|,
-r = \Sigma_i r_i s_i
-\infty 
-S_{{(p)}}
-f:(X,\tau)\to Y
-{ T = 50 + 10 {x- \mu \over \sigma}}
-\mathbb {N} ^{\mathbb {N} }
-{ \gamma =0.6745\times \sigma }
-{\frac {1}{2}}
-{\text{new width}}=\left\lfloor {\sqrt {\frac {{\text{target pixel count}}\times {\text{original width}}}{\text{original height}}}}\right\rfloor 
-y(t)=ae^{be^{ct}}
-\omega (x)=\lim _{{n\rightarrow \infty }}x^{{p^{n}}}
-  wxw^{-1} = ||w||x
-{ \xi _{\lambda ,\mu ,\nu }\xi _{\lambda ,\mu \nu ,\pi }\xi _{\mu ,\nu ,\pi }^{\lambda }=\xi _{\lambda ,\mu ,\nu \pi }\xi _{\lambda \mu ,\nu ,\pi }}
-{ <x,y>'=\sum _{g\in G}<g[x],g[y]>}
-x^{2}+1=0
-\forall x,y\in A\qquad \|xy\|\le\|x\|\|y\|
-{\mbox{ROT}}_{13}({\mbox{ROT}}_{13}(x))=x
-T\times T\leq G\leq T_{0}\operatorname {wr}Z/2Z
-{\dot  \gamma }(0)=V.
-e^{-}e^{+}\to \gamma \to q{\bar  q}
-{ \mathrm {Wb} ={\frac {\mathrm {kg} \cdot \mathrm {m} ^{2}}{\mathrm {s} ^{2}\cdot \mathrm {A} }}=\mathrm {V} \cdot \mathrm {s} =\mathrm {H} \cdot \mathrm {A} =\mathrm {T} \cdot \mathrm {m} ^{2}={\frac {\mathrm {J} }{\mathrm {A} }}=10^{8}\mathrm {Mx} }
-T=A+B\cdot \left(\left(\delta {}^{{18}}{\text{O}}\right){\text{calcite}}-\left(\delta {}^{{18}}{\text{O}}\right){\text{water}}\right)
-{\rm {1~Pa=1~{\frac {N}{m^{2}}}=1~{\frac {kg}{m\cdot s^{2}}}}}
-{ TE=\omega ={\sqrt {\operatorname {Var} (r_{p}-r_{b})}}={\sqrt {{E}[(r_{p}-r_{b})^{2}]-({E}[r_{p}-r_{b}])^{2}}}}
-H_{T}=\sum _{R}W_{R}\cdot D_{T,R}\ 
-N={\frac {120f}{P}}\,
-h=\frac{P_a-P_o}{g \rho}
-{ 1\ \mathrm {phot} =1\ {\frac {\mathrm {lumen} }{\mathrm {centimeter} ^{2}}}=10,000\ {\frac {\mathrm {lumens} }{\mathrm {meter} ^{2}}}=10,000\ \mathrm {lux} =10\ \mathrm {kilolux} }
-k_{i}{\frac  {dx_{i}}{dt}}={\frac  {\partial H}{\partial y_{i}}},\qquad k_{i}{\frac  {dy_{i}}{dt}}=-{\frac  {\partial H}{\partial x_{i}}},
-(\overbrace {x} ^{\text{abscissa}},\overbrace {y} ^{\text{ordinate}})
-PWV={\sqrt  {{\frac  {E_{{\text{inc}}}\cdot h}{2r\rho }}}}
-Q=CH_{a}^{n}
-{{\rm {h_{{total}}={\frac  {P_{2}-P_{1}}{\rho g}}}}}
-V_x
-\tau =\mu {\frac  {\partial u}{\partial y}}
-1/r^{{i+2}}
-Z=1+2\pi {\frac  {N_{A}}{V_{M}}}\int _{{0}}^{\infty }(1-exp({{\frac  {\varphi }{kT}}))r^{2}dr}
-{ Flow={\text{Flow Rate of N2 at the same pressure}}*{\sqrt {\frac {1}{\text{Specific Gravity}}}}}
-{ BBP={\frac {W}{PA}}}
-{\text{Pythagorean wins}}={\frac  {{\text{Points For}}^{{2.37}}}{{\text{Points For}}^{{2.37}}+{\text{Points Against}}^{{2.37}}}}\times {\text{Games Played}}.
-wOBA=\frac{(0.72*NIBB) + (0.75*HBP) + (0.90*\mathit{1}B) + (0.92*RBOE) + (1.24*\mathit{2}B) + (1.56*\mathit{3}B) + (1.95*HR)}{PA}
-OBP={\frac  {H+BB+HBP}{AB+BB+HBP+SF}}
-SecA={\frac  {BB+(TB-H)+(SB-CS)}{AB}}
-{ 20n\sin {}(180k\times lat_{rad})}
-\frac{\sqrt{2}\lambda}{4}
-{\frac  {X}{{\sqrt  {(U/\nu )}}}}
-1-p
-{\sqrt[ {w}]{q}}
-{ z^{p}=f(x,y).\ }
-{ H^{i}(X,L^{-1})=0{\text{ for }}i=0,1.\ }
-{ {\color {Blue}\left\lceil {\color {Black}{\frac {\mathtt {length}}{\mathtt {piece\ length}}}}\right\rceil }\times 160=414080\ \mathrm {bits} }
- {\frac{\partial}{\partial x}} \,\;
-\diamondsuit 
-Br(B_{s}\rightarrow \mu ^{+}\mu ^{-})=2.8_{{-0.6}}^{{+0.7}}\times 10^{{-9}}
-{ {\mathcal {A}}\!_{ {\mathcal {M}}}\!{\mathcal {S}}\!\!\;{\textrm {-}}\mathrm {L\!\!^{{}_{ A}}\!\!\!\!\!\;\;T\!_{ E}\!X} }
-S_{L}\;\longrightarrow \;\alpha L-\gamma +{\mathcal  {O}}(L^{{-\nu }})\;,\qquad \nu >0\,\!
-{ {\begin{array}{l}{}\{\ce {^{238}_{92}U->[\alpha ][4.468\times 10^{9}\ {\ce {y}}]_{90}^{234}Th->[\beta ^{-}][24.1\ {\ce {d}}]_{91}^{234\!m}Pa}}{\begin{Bmatrix}{\ce {->[0.16\%][1.17\ {\ce {min}}]_{91}^{234}Pa->[\beta ^{-}][6.7\ {\ce {h}}]}}\{\ce {->[99.84\%\ \beta ^{-}][1.17\ {\ce {min}}]}}\end{Bmatrix}}{\ce {^{234}_{92}U->[\alpha ][2.445\times 10^{5}\ {\ce {y}}]_{90}^{230}Th->[\alpha ][7.7\times 10^{4}\ {\ce {y}}]_{88}^{226}Ra->[\alpha ][1600\ y]_{86}^{222}Rn}}\{\ce {^{222}_{86}Rn->[\alpha ][3.8235\ {\ce {d}}]_{84}^{218}Po->[\alpha ][3.05\ {\ce {min}}]_{82}^{214}Pb->[\beta ^{-}][26.8\ {\ce {min}}]_{83}^{214}Bi->[\beta ^{-}][19.9\ {\ce {min}}]_{84}^{214}Po->[\alpha ][164.3\ \mu {\ce {s}}]_{82}^{210}Pb->[\beta ^{-}][22.26\ {\ce {y}}]_{83}^{210}Bi->[\beta ^{-}][5,013\ {\ce {d}}]_{84}^{210}Po->[\alpha ][138.38\ {\ce {d}}]_{82}^{206}Pb}}\end{array}}}
-{ Q_{n}}
-2{\sqrt  {2}}\operatorname {erf}^{{-1}}(1/2)\approx 1.349
-\rho (r)={\frac  {\sigma _{{V}}^{{2}}}{2\pi Gr^{{2}}}}
-{ kA/4l_{P}}
-{\frac {dN}{dt}}=rN\left(1-{\frac {N}{K}}\right)
-{ T(m,n,r)=r^{2n-m+1}e^{-r^{2}}{\frac {\Gamma ({\frac {1}{2}}m+{\frac {1}{2}})}{\Gamma (n+1)}}{}_{1}F_{1}({ {\frac {1}{2}}}m+{ {\frac {1}{2}}};n+1;r^{2}).}
-{ P=0.59{\frac {1}{2}}\rho v^{3}A}
-P_{i}
-{ \Psi _{k,l}}
-\sigma ^{2}
-{ R^{p}}
-{ \alpha =(1,1,1,1,1,1)}
-\Sigma 
-1/f
-\operatorname {rank}\,A+\operatorname {rank}\,B-n\leq \operatorname {rank}\,AB\leq \min\{\operatorname {rank}\,A,\operatorname {rank}\,B\}.
-\lnot \mathrm {TB} 
-\sum_{j=1}^{j=N}{P_{ijkl}Q_{mnj}}
-{ 1~\mathrm {Th} =1~{\frac {\mathrm {u} }{e}}=1~{\frac {\mathrm {Da} }{e}}=1.036426\times 10^{-8}\,\mathrm {kg\,C^{-1}} }
-{ {\begin{matrix}{}\{\ce {{^{232}_{90}Th}+_{0}^{1}n->_{90}^{233}Th->[\beta ^{-}][22.3\ {\ce {min}}]_{91}^{233}Pa->[\beta ^{-}][26.967\ {\ce {d}}]_{92}^{233}U}}\{}\end{matrix}}}
-J={TMP \over \mu R_{t}}
-{ {\ce {{^{3}O2}->[{\ce {light}}][{\ce {photosensitizer}}]{^{1}O2}}}}
-{ {\ce {{NO}+{NO2}}}+{\begin{Bmatrix}{\ce {2NaOH}}\{\ce {Na2CO3}}\end{Bmatrix}}{\ce {->2NaNO2}}+{\begin{Bmatrix}{\ce {H2O}}\{\ce {CO2}}\end{Bmatrix}}}
-d={\frac  {a}{\pi }}{\sqrt  {(n^{2}+nm+m^{2})}}.
-{ 2\pi {\sqrt {m/k}}}
-O(n)
-T \approx {1 \over 5} \theta_\mathrm{D}
-{ {1 \over {\sqrt {12}}}}
-M_{\text{true}}*{\sin i}\,
-r_{1}=a\cdot {m_{2} \over m_{1}+m_{2}}={a \over 1+m_{1}/m_{2}}
-E=h\nu 
- p = - \rho c^{2} 
-\eta _{th}\equiv {\frac {W_{out}}{Q_{in}}}=1-{\frac {Q_{out}}{Q_{in}}}
-t[{\mathrm  {ns}}]={\cfrac  {36}{1+12.8*p[{\mathrm  {bar}}]}}.
-E(A+B) = E(A) + E(B)
-f(1)=\lim _{{a\to 1}}\sup _{{x>a}}|f(x)|
-A
-R=-f
-S=-(n_{s}-n_{{{\bar  {s}}}})
-S_{0}+h\nu \to S_{1}\to T_{1}\to S_{0}+h\nu ^{\prime }\ 
-\nabla \times {\mathbf  {E}}=-dB/dt
-\mathcal{P}^{\prime\prime}
-  (1+t)^z(1-t)^{-z}=\sum_n g_n(z)t^n. 
-{  \sum s_{n}(x)t^{n}/n!={\frac {(1+t)^{x}}{(1+(1+t)^{\lambda })^{-\mu }}}}
-{  \sum s_{n}(x)t^{n}/n!=\left({\frac {t}{\log(1+t)}}\right)^{a}(1+t)^{x}}
-{  (1-3xt+t^{3})^{-1/2}=\sum _{n=0}^{\infty }P_{n}(x)t^{n}}
- \sum _{n}{\frac  {s_{n}(x)}{n!}}t^{n}=\left({\frac  {1+t}{1-t}}\right)^{x}(1-t)^{{-1}}
-{  e^{w}I_{0}(zw)=\sum _{n}p_{n}(z)w^{n}}
-f\mapsto \int_{x_0}^{x_1}\sqrt{1+|f'(x)|^2}dx
-\partial _{t}u=\Delta _{x}u^{m},\,\,m>1,\,
-U \cap V
-kT={\frac {\hbar a}{2\pi c}}
-{ n_{glass}x-n_{air}x}
-{ {}_{4}^{6}}
-{ \epsilon ={\frac {1}{2}}}
-{ \mathbb {Z} _{5}^{3}}
-{ {\left|z-\gamma \right|}=r}
-\rho ={\frac  {Z_{t}-Z_{o}}{Z_{t}+Z_{o}}}
-x={\frac  {\pi R(\lambda ^{\circ }-\lambda _{0}^{\circ })}{180}}
-{ {\hat {\mathbb {Z} }}_{p}[\operatorname {Sym} (n)]}
-\mathbb {C} ^{n}
-F(x,cy)=|c|F(x,y)\qquad\forall c\in\mathbb{C},\quad x\in M,\quad y\in T_xM
-{ St=f_{st}D/U}
-\int e^x dx
-\sqrt{\frac{2\pi}{\sqrt 3}}\left(\frac{1+\sqrt 3}{2\sqrt2}+o(1)\right)\sqrt n\approx 1.84\sqrt n.
-{ f:S\to \mathbb {R} ^{2}}
-\operatorname {CAT}(k)
-{ 10^{-7}}
-10^{23}
-H_{\operatorname {QB} (n)}=\ell ^{2}(\{0,1\}^{n}).
-I(X;Y|Z)=H(Z|X)+H(X)+H(Z|Y)+H(Y)-H(Z|X,Y)-H(X,Y)-H(Z)=I(X;Y)+H(Z|X)+H(Z|Y)-H(Z|X,Y)-H(Z)
-{ \langle \phi |V|\phi \rangle }
-\lambda =0
-{ O(N^{2}\,)}
-1^{\sqrt {7}}
-\nu =5/2
-{ 5\equiv 5{\pmod {6}}}
-{ (10^{k}-1)/9}
-v_{{\mathrm  {t}}}={\sqrt  {{\frac  {2mg}{\rho AC_{{\mathrm  {d}}}}}}}
-{ frac{n!}{(n-r)!n^{r}}ge1-epsilon}
-A\Rightarrow B\,
-{ \sum _{\chi \in \operatorname {Irr} (G)}\nu _{e}(\chi )\cdot \chi (1)}
-{ {49 \choose 6}}
-{ 370_{-150}^{+260}}
-{ (3*4)/(10\%4)^{2}}
-{ (PositionOnTheContinuum)={\frac {(BiblicalLiteralism)}{100\%+(AcceptanceOfModernScience)}}}
-{ {\mathfrak {R}}}
-{ (x-5)(x-2)^{8}(x+1)(x+3)^{4}(x^{4}+2x^{3}-4x^{2}-5x+5)^{2}(x^{4}+2x^{3}-6x^{2}-7x+11)^{2}.}
-{ (x-5)(x+1)^{2}(x^{2}-5)^{3}(x-1)^{5}(x^{2}+x-5)^{8}.}
-{ [0,\omega _{1})}
-{ x+y<sup>2</sup>+<math>}
-{ 0.2425={\frac {1-{\frac {1-{\frac {1}{4}}}{25}}}{4}}={\frac {1-{\frac {1-{\frac {1}{100}}}{33}}}{4}}={\frac {1-{\frac {1-{\frac {1-{\frac {1}{5}}}{2}}}{20}}}{4}}={\frac {1-{\frac {1-{\frac {1-{\frac {1-{\frac {1-{\frac {1-{\frac {1}{25}}}{6}}}{3}}}{2}}}{16}}}{32}}}{4}}}
-{ \sum _{i=0}^{\infty }10k^{i}}
-f'
-{ m\angle A=180^{\circ }-m\angle 1-m\angle 3=180^{\circ }-m\angle 2-m\angle 4=m\angle E}
- {\sqrt {3}}
-{ s_{m}\propto s_{n}^{\frac {m}{n}}}
-{ l=2r\sin {\frac {\theta }{2}}}
-{ {\frac {v}{4f}}\approx 20{\text{ m}}}
-{ {\frac {1+z}{1+{\overline {z}}}}=z\iff 1+z=z(1+{\overline {z}})\iff 1+z=z+z{\overline {z}}\iff 1=|z|\ .}
-{ {dx \over dt}P(x,y),\qquad {dy \over dt}Q(x,y)}
-X \ \stackrel{\mathrm{def}}{=}\  \left\{ x \mid ( x \in x ) \to Y \right\}.
-{ k=m^{n-m}+1}
-{ \left(180/\pi \right)}
-h(n,\mu t\,[h(n,t)\in A])
-a^2-b^2
-{ i\hbar {\frac {\partial }{\partial t}}\Psi (\mathbf {r} ,\,t)={\hat {H}}\Psi =\left(-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}+V(\mathbf {r} )\right)\Psi (\mathbf {r} ,\,t)=-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}\Psi (\mathbf {r} ,\,t)+V(\mathbf {r} )\Psi (\mathbf {r} ,\,t)}
-{ {\frac {3{\sqrt {n}}}{n}}}
-\triangleleft ,\triangleright 
-(d+1)(r-1)+1\ 
-{ P\cap Q}
-{\mathfrak  {r}}
-{\sqrt  -}\tau 
-\frac {(s - 23.5)}{4.2} 2 + 5.5
-n\in \mathbb {N} 
-{ m_{\nu }=-{\frac {m_{D}^{2}}{M_{NHL}}}}
-{Q_{f}}={Q_{{water}}}{\sqrt  {\frac  {1}{Sg}}}
-{ {\rm {<references/>}}}
-{Percentage\ of\ Solid\ Recovery} = \frac{solid\ in\ feed - solid\ in\ effluent} {solid\ in\ feed} \times {100\%} 
-{ \sum {\frac {p_{i}}{2{p_{i}}+2}}<1}
-V(x) = (1 - 2x)  \ln \left(\frac{1 - x}{x}\right)
-{\frac  34}
-\widehat {{\mathbb  {Z}}}^{*}
- \frac{a L}{R}
-{ D^{n}/\partial D^{n}}
-\Delta 
-\sum _{{i=1}}^{{\infty }}{1 \over i^{2}}
-{ n\not \equiv 5{\pmod {6}}}
-{ \blacktriangleleft }
-{ e^{i\pi }+1=0}
-{ \sum _{n=1}^{3}2nx}
-{ \alpha \beta \gamma \delta \varepsilon }
-C(n,n-b) = \sum_{a}^{} \, A(n,n-a)B(n-a,n-b)
-{\mathfrak {u}}(n)
-{ {\frac {\hbox{Dose of drug that inhibits virus replication}}{\hbox{Dose of drug that is toxic to host}}}}
-{ {P_{i}V_{i} \over T_{i}}={P_{f}V_{f} \over T_{f}}}
-{ F={4\pi  \over 3}Gm\rho r}
-{ Z\lesssim 100}
-E = mc^2
-{ dE=\int _{C}F\cdot ds\Rightarrow d^{2}E=F\cdot ds}
-{ E_{a}/k_{B}}
-{ Zg{\sqrt {{\frac {X^{2}}{4Y^{2}}}+1}}}
-{ {\begin{bmatrix}c\,t'\x'\y'\z'\end{bmatrix}}={\begin{bmatrix}\gamma &-\beta _{x}\,\gamma &-\beta _{y}\,\gamma &-\beta _{z}\,\gamma \-\beta _{x}\,\gamma &1+(\gamma -1){\frac {\beta _{x}^{2}}{\beta ^{2}}}&(\gamma -1){\frac {\beta _{x}\beta _{y}}{\beta ^{2}}}&(\gamma -1){\frac {\beta _{x}\beta _{z}}{\beta ^{2}}}\-\beta _{y}\,\gamma &(\gamma -1){\frac {\beta _{y}\beta _{x}}{\beta ^{2}}}&1+(\gamma -1){\frac {\beta _{y}^{2}}{\beta ^{2}}}&(\gamma -1){\frac {\beta _{y}\beta _{z}}{\beta ^{2}}}\-\beta _{z}\,\gamma &(\gamma -1){\frac {\beta _{z}\beta _{x}}{\beta ^{2}}}&(\gamma -1){\frac {\beta _{z}\beta _{y}}{\beta ^{2}}}&1+(\gamma -1){\frac {\beta _{z}^{2}}{\beta ^{2}}}\\end{bmatrix}}{\begin{bmatrix}c\,t\x\y\z\end{bmatrix}}\ ,}
-{ {\frac {dQ}{dt}}=h\cdot A(T_{\text{env}}-T(t))=-h\cdot A\Delta T(t)\quad }
-{ C=B\log(1+{\frac {S}{N}})}
-\$3,000+(\$25,000-\$20,000)\times 30\%=\$1,500+\$3,000=\$4,500.
-\$25,000\times 30\%-\$3,000=\$7,500-\$3,000=\$4,500.
-0\to N\to M\to M/N\to 0.
-\cdots \subset M_{2}\subset M_{1}\subset M.
-a(b+c) + a0 =ab +ac
-(b+c)a +0a=ba+ca
-PO=100\cdot e^{{\left({{\frac  {-\zeta \pi }{{\sqrt  {1-\zeta ^{2}}}}}}\right)}}
-\zeta ={\sqrt  {{\frac  {(\ln {\frac  {PO}{100}})^{2}}{\pi ^{2}+(\ln {\frac  {PO}{100}})^{2}}}}}
-{ (x*u_{1})(t)={\frac {dx(t)}{dt}}}
-R_{\pi }=(m_{e}/m_{\mu })^{2}\left({\frac  {m_{\pi }^{2}-m_{e}^{2}}{m_{\pi }^{2}-m_{\mu }^{2}}}\right)^{2}=1.283\times 10^{{-4}}
-{\frac  {{\mathrm  {u{\bar  {u}}}}-{\mathrm  {d{\bar  {d}}}}}{{\sqrt  2}}}
-(\arcsin(x))^{2}
-hello
-x = (1-t)/t
-
-\int_{-\infty}^{+\infty} f(x) dx = \int_0^1 {dt\over t^2} \left(f\left(\frac{1-t}{t}\right)
-+ f\left(-\frac{1-t}{t}\right)\right) \;.
-
-{ \varphi _{i}:X_{i}\to X\,}
-\Lambda ^{p}T^{*}M
-\Lambda ^{p}T^{*}M\otimes E
-ds^{2}=-e^{{2\nu }}dt^{2}+\rho ^{2}B^{2}e^{{-2\nu }}(d\phi -\omega dt)^{2}+e^{{2(\lambda -\nu )}}(d\rho ^{2}+dz^{2})
-\int _{a}^{b}k(s)\,ds.
-\int _{a}^{b}\left|\gamma ''(s)\right|\operatorname{sgn} \kappa _{{n-1}}(s)\,ds
-\Omega _{k}=0
-{ \omega >40000}
-E^2 \propto |\vec p|^2
-E \propto |\vec p|^2
-1/g
-{\frac  {\partial ^{2}u}{\partial x_{1}^{2}}}+\cdots +{\frac  {\partial ^{2}u}{\partial x_{n}^{2}}}-{\frac  {\partial ^{2}u}{\partial y_{1}^{2}}}-\cdots -{\frac  {\partial ^{2}u}{\partial y_{n}^{2}}}=0.\qquad \qquad (1)
-a_{{ij}}u_{{x_{i}x_{j}}}
-\{92,19,{\mathbf  {101}},58,{\mathbf  {1053}},91,26,78,10,13,{\mathbf  {-40}},{\mathbf  {101}},86,85,15,89,89,28,{\mathbf  {-5}},41\}\qquad (N=20,mean=101.5)
-\{92,19,101,58,91,26,78,10,13,101,86,85,15,89,89,28,-5,41\}\qquad (N=18,mean=56.5)
-{ \left(X_{1}|X_{2}\right):=v_{1}w_{2}+v_{2}w_{1}+\mathbf {c} \cdot \mathbf {c} -s_{1}s_{2}r_{1}r_{2}.}
-{ {\stackrel {def}{=}}}
-{ {\frac {1}{3}}=0.33333\ldots =3*10^{-1}+3*10^{-2}+3*10^{-3}+\cdots }
-{ 3*10^{1}+3*10^{2}+3*10^{3}+\ldots }
-{ x(\tau )={\frac {c^{2}}{a}}\left(\cosh {\frac {a\ \tau }{c}}-1\right),}
-{ t(\tau )={\frac {c}{a}}\sinh {\frac {a\ \tau }{c}}.}
-\theta = {(t_1 - t_0) + (t_2 - t_3 ) \over 2}
-\delta = {(t_3 - t_0 ) - ( t_2- t_1 )}
- \varepsilon_{Nd(t)} = \left[\frac{\left(\frac{^{143}Nd}{^{144}Nd}\right)_{sample(t)}}{\left(\frac{^{143}Nd}{^{144}Nd}\right)_{CHUR(t)}}-1\right]* 10000 
-{ T_{CHUR}=\left({\frac {1}{\lambda }}\right)ln\left[1+{\frac {\left({\frac {^{143}Nd}{^{144}Nd}}\right)_{sample}-\left({\frac {^{143}Nd}{^{144}Nd}}\right)_{CHUR}}{\left({\frac {^{147}Sm}{^{144}Nd}}\right)_{sample}-\left({\frac {^{147}Sm}{^{144}Nd}}\right)_{CHUR}}}\right]}
-c=e^{{a+bx+cx^{2}+dx^{3}}}
-T={\frac  {(C_{1}-C_{2})^{2}\left({\frac  {1.128}{1-{\frac  {0.177kC_{1}}{C_{2}}}}}\right)^{2}}{4Dse\!f\!\!f\left(\left.{\frac  {{\mathrm  d}C}{{\mathrm  d}x}}\right|_{{x=0}}\right)^{2}}}
-{ r={ut+{1 \over 2}at^{2}}}
-{ r={1 \over 2}(u+v)t}
-F=-kx\,
-k={\frac {d^{4}G}{8ND^{3}}}\,
-{\mathrm  {rad}}(M)=\bigcap \{N\mid N{\mbox{ is a maximal submodule of M}}\}\,
-{\mathrm  {rad}}(M)=\sum \{S\mid S{\mbox{ is a superfluous submodule of M}}\}\,
-\varepsilon ={\frac  {\Delta L}{L_{0}}}={\frac  {L-L_{0}}{L_{0}}}
-\sigma ={\frac  {F_{n}}{A}}
-{\mathbf  {T}}^{{({\mathbf  n})}}={\boldsymbol  {\sigma }}\cdot {\mathbf  n}
-\mathbf {n} 
-SD={\frac  {M}{A}}
-SD={\frac  {M_{{\mathrm  {lb}}}}{{d_{{\mathrm  {in}}}}^{2}}}={\frac  {M_{{\mathrm  {gr}}}}{7000\,{d_{{\mathrm  {in}}}}^{2}}}
-{ TSI(c_{0},r,s)=100{\frac {EMA(EMA(m,r),s)}{EMA(EMA(|m|,r),s)}}}
-{ EMA(m_{0},n)={\frac {2}{n+1}}\left[m_{0}-EMA(m_{1},n)\right]+EMA(m_{1},n)}
-TM={\frac  {Q_{1}+2Q_{2}+Q_{3}}{4}}
-TM={\frac  {1}{2}}\left(Q_{2}+{\frac  {Q_{1}+Q_{3}}{2}}\right)
-\%R = { high_{Ndays} - close_{today} \over high_{Ndays} - low_{Ndays} } \times -100
-{ (close_{today} - low_{Ndays}) - (close_{today} - high_{Ndays}) = high_{Ndays} - low_{Ndays} }
- SAD(x, y) = \sum_{i=0}^{T_{\text{rows}}}\sum_{j=0}^{T_{\text{cols}}} {\text{Diff}(x+i, y+j,i,j)} 
-\sum_{x=0}^{S_{\text{rows}}}\sum_{y=0}^{S_{\text{cols}}} {SAD(x, y)}
-{ {\text{variance}}\leq {\frac {1}{4}}(M-m)^{2}.}
-{ {{\text{variance}}+\left({\frac {\text{Third central moment}}{\text{2 variance}}}\right)^{2}}\leq {\frac {1}{4}}(M-m)^{2}.}
-\int _{{-\infty }}^{{\infty }}f^{{*}}(x)f(x+s_{1})f(x+s_{2})dx
-L_{1}(G)
-L_{2}
-{E}={\frac  {1}{2}}h\nu .
-{ |v'_{x}-v_{x}|\Delta p_{x}\approx \hbar /\Delta t,}
-\mathbf{H}
-\mathbf {B} 
-T_{i}={\frac  {1}{10c}}\int [r_{i}({\mathbf  {r}}\cdot {\mathbf  {J}})-2r^{2}J_{i}]{\mathrm  {d}}^{3}x.
-H\propto -d({\mathbf  {\sigma }}\cdot {\mathbf  {E}})-\mu ({\mathbf  {\sigma }}\cdot {\mathbf  {B}})-a({\mathbf  {\sigma }}\cdot \nabla \times {\mathbf  {B}}),
-V=I*Z
-V=I\cdot Z,\qquad I={\cfrac  VZ}
-{\tilde {E}}_{7}
-{\bar {T}}_{8}
-\epsilon _{{B}}
-\epsilon _{{C}}
-\int _{{-N}}^{{N}}{\sqrt  {k\pi \lambda }}\,dx
-k=x^{{2\mu }}
-{ \Delta R_{13,24}}
-CT_{{min}}={\begin{matrix}max\j=1,M\end{matrix}}\lbrace \tau _{j}\rbrace 
-CT_{{min}}={\begin{matrix}max\j=1,M\end{matrix}}\lbrace \tau _{j}/N_{j}\rbrace 
-F = \mu\N
-\mu\ = m_H / m_T
-\operatorname *{arg\,min}_{{\mathbf  {x}}}\|{\mathbf  {Ax}}-{\mathbf  {y}}\|_{2}
-\operatorname *{arg\,min}_{{\mathbf  {x\geq 0}}}{\frac  {1}{2}}{\mathbf  {x}}^{{\mathsf  {T}}}{\mathbf  {Q}}{\mathbf  {x}}+{\mathbf  {c}}^{{\mathsf  {T}}}{\mathbf  {x}}
-O(n^{dk+1}\log {n})
-{ k={\sqrt {n}}}
-U
-{\begin{array}{l}(\forall L\subseteq \Sigma ^{*})\\quad ({\mbox{regular}}(L)\Rightarrow \\quad ((\exists p\geq 1)((\forall w\in L)((|w|\geq p)\Rightarrow \\quad ((\exists x,y,z\in \Sigma ^{*})(w=xyz\land (|y|\geq 1\land |xy|\leq p\land (\forall i\geq 0)(xy^{i}z\in L))))))))\end{array}}
-{ {\begin{matrix}L&=&\{uvwxy:u,y\in \{0,1,2,3\}^{*};v,w,x\in \{0,1,2,3\}\land (v=w\lor v=x\lor x=w)\}\&&\cup \ \{w:w\in \{0,1,2,3\}^{*}\land {\text{precisely }}{\frac {1}{7}}{\text{ of the characters in }}w{\text{ are 3's}}\}\end{matrix}}}
-{\hat  {y}}={\underset  {k\in \{1,\dots ,K\}}{\operatorname {argmax}}}\ p(C_{k}) \prod _{{i=1}}^{n}p(x_{i}\vert C_{k}).
-{ k={\underset {k\in \{1,\dots ,K\}}{\operatorname {argmax} }}\ p(C_{k}) \prod _{i=1}^{n}p(x_{i}\vert C_{k}).}
-p_{1,2}=\tanh \left(W[c_{1};c_{2}]\right)
-n\times 2n
-6.14\cdot 7.95=48.813
-6\cdot 8=48
-{ C_{D}={\frac {2\sum _{i=1}^{S}x_{i}y_{i}}{(D_{x}+D_{y})XY}}}
-{ C_{H}={\frac {2\sum _{i=1}^{S}x_{i}y_{i}}{\left({\sum _{i=1}^{S}x_{i}^{2} \over X^{2}}+{\sum _{i=1}^{S}y_{i}^{2} \over Y^{2}}\right)XY}}\,.}
-Y_{{\bullet [i]}}{\mathrm  {\ versus\ }}X_{{i\bullet [i]}}
-\beta _{{i}}
-\hat{C}_{pk}
-
-\text{PWI} = 100 \times \max_{i=1\dots N \atop j=1\dots M}
-\left\{\left|
-\frac{\text{measured value}_{[i,j]} - \text{average limits}_{[i,j]}} {\text{range}_{[i,j]}/2}
-\right|\right\}
-
-{ X_{isth},\;i=1,\dots ,N,\;s=1,\dots ,S,\;t=1,\dots ,T,\;h=1,\dots ,H,\,}
-{ y_{isth}=\alpha +X_{sith}\beta +u_{sith}.\,}
-C\,
-{ {\hat {p}}=0}
-{ {\hat {p}}=1}
- \lambda = \lambda^*+\nu\,\!
- \lambda = \text{Overall Death Rate},~\lambda^*=\text{Expected death rate},~\nu=\text{Disease-specific death rate}
-{\bar {y}}
-E(Y) = f(x)
-E(Y) = \alpha + \beta x.
-{ {\bar {VH}}_{3}}
-{ B({\frac {N_{1}}{N_{f1}}}+{\frac {N_{2}}{N_{f2}}}+...+{\frac {N_{k}}{N_{fk}}})=1}
-{ N_{f}={\frac {1}{2}}({\frac {\sigma _{a}}{\sigma '_{f}}}{\frac {1}{1-{\frac {\sigma _{m}}{\sigma _{u}}}}})^{\frac {1}{b}}}
-{ P(\sum (xy_{i})>t||y||_{2})\leq e^{\frac {t^{2}}{2}}}
-{ P(\sum (xy_{i})>t||y||_{1})=0}
-{ f(x)={\frac {1}{2}}\;\operatorname {sech} \!\left({\frac {\pi }{2}}\,x\right)\!={\frac {1}{\exp \left({\frac {\pi x}{2}}\right)+\exp \left(-{\frac {\pi x}{2}}\right)}}}
-{ f(x)={\frac {\left[{\frac {a}{2}}+{\frac {1}{2a}}\right]\sin \left({\frac {\pi }{1+a^{2}}}\right)}{\exp \left({\frac {\pi xa}{2}}\right)+\exp \left(-{\frac {\pi x}{2a}}\right)}}}
-S(z)
-{ S(z)^{2}=2\mathrm {Var} (z)}
-{\mathbf  {a}}_{{x,y,z}}
-{\mathbf  {b}}_{{u,v}}
-{ {\overline {p\cdot q}}+r=0}
-{ {\overline {1\cdot 1}}+0=0}
-\forall P[[P(0)\land \forall k(P(k)\Rightarrow P(k+1))]\Rightarrow \forall n[P(n)]]
-2^{\omega }
-{ m_{\phi }=2m_{K*}-m_{\rho }}
-{ m_{\mathrm {v} }=A+BZ}
-x \mapsto A (x + b)
-x \mapsto A x + b
-\Gamma ={\frac  {\hbar }{\tau }}
-{ {\hbar }={\frac {h}{2\pi }}}
-SU(N)_L \times SU(N)_R \times U(1)_V \times U(1)_A ~,
-SU(3)_{L}\times SU(3)_{R}
-\exp(\lambda {
+1 {\frac  {2D}{F-M-1}}
+2 https://en.wikipedia.org/wiki/Nerve_conduction_study
+1 1\,{\mathrm  {N}}\!\cdot \!{\mathrm  {m}}=1{\frac  {{\mathrm  {kg}}\,{\mathrm  {m}}^{2}}{{\mathrm  {s}}^{2}}}\quad ,\quad 1\,{\mathrm  {J}}=1{\frac  {{\mathrm  {kg}}\,{\mathrm  {m}}^{2}}{{\mathrm  {s}}^{2}}}
+2 https://en.wikipedia.org/wiki/Newton-meter
+1 \mathbf {F} =q\mathbf {v} \times \mathbf {B} 
+2 https://en.wikipedia.org/wiki/Right-hand_rule
+1 { \bigcup _{r\geq 0}\{x=a+b:q(a)=-q(b)=r,a\in A,b\in B\}.}
+2 https://en.wikipedia.org/wiki/Null_vector
+1 {{\mathbb  {C}}}^{2}
+2 https://en.wikipedia.org/wiki/Walter_Rudin
+1 a>b\geq d>c
+2 https://en.wikipedia.org/wiki/Stag_hunt
+1 B=\{ta:a\in A,t\in [0,1]\}
+2 https://en.wikipedia.org/wiki/Star_domain
+1 { R_{M}={\frac {\partial R_{T}}{\partial Q_{1}}}=M-Q_{2}-2Q_{1}}
+2 https://en.wikipedia.org/wiki/Oligopoly
+1 \mathbb {R} ^{3}
+2 https://en.wikipedia.org/wiki/Talk:Functional_analysis
+1 \div 
+2 https://en.wikipedia.org/wiki/Talk:Obelus
+1 X=X_{0}\cup I_{1}\cup \ldots \cup I_{r}.
+2 https://en.wikipedia.org/wiki/O-minimal_theory
+1 \forall x\exists y\exists z\exists w\exists v(x=y*y+z*z+w*w+v*v)
+2 https://en.wikipedia.org/wiki/Talk:Mathematical_logic
+1 n\geq 3
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2013/Apr
+1 f(x)=\lim_{k\to\infty}\left(\lim_{j\to\infty}\left(\cos(k!\pi x)\right)^{2j}\right)
+2 https://en.wikipedia.org/wiki/Nowhere_continuous_function
+1 {\frac  {1}{10\;000}}
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2015/Jan
+1 y={\frac  {abx}{x^{2}+a^{2}}}.
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2015/Mar
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Kmhkmh
+1 V(b,w)=r(b,w)+p(b,w)V(b+1,w+1)+(1-p(b,w))V(b+1,w)
+2 https://en.wikipedia.org/wiki/WASP_%28cricket_calculation_tool%29
+1 {\mathcal {O}}
+2 https://en.wikipedia.org/wiki/O_%28disambiguation%29
+1 {\frac  {\partial \rho {\mathbf  {U}}}{\partial t}}+\nabla \cdot \phi {\mathbf  {U}}-\nabla \cdot \mu \nabla {\mathbf  {U}}=-\nabla p
+2 https://en.wikipedia.org/wiki/OpenFOAM
+1 { a_{1}b_{1}+\cdots +a_{m}b_{m}-a_{m+1}b_{m+1}-\cdots -a_{n}b_{n}.\,}
+2 https://en.wikipedia.org/wiki/Unimodular_lattice
+1 \int _{{0}}^{{\infty }}\delta (t-a)e^{{-st}}\,dt=e^{{-sa}}
+2 https://en.wikipedia.org/wiki/Talk:Impulse_response
+1 Y=A\times K^{\alpha }\times L^{\beta }
+2 https://en.wikipedia.org/wiki/Total_factor_productivity
+1 {\frac  {\overbrace {x_{2}+x_{2}}+x_{3}+x_{4}+x_{5}+x_{6}+x_{7}+x_{8}+\overbrace {x_{9}+x_{9}}}{10}}.\,
+2 https://en.wikipedia.org/wiki/Winsorized_mean
+1 {SAR}_{{n+1}}={SAR}_{n}+\alpha (EP-{SAR}_{n})
+2 https://en.wikipedia.org/wiki/Parabolic_SAR
+1 { {\text{VPT}}={\text{VPT}}_{\text{prev}}+{\text{volume}}\times {{\text{close}}_{\text{today}}-{\text{close}}_{\text{prev}} \over {\text{close}}_{\text{prev}}}}
+2 https://en.wikipedia.org/wiki/Volume%E2%80%93price_trend
+1 { TRIN={\frac {advancing\ issues/declining\ issues}{advancing\ volume/declining\ volume}}}
+2 https://en.wikipedia.org/wiki/TRIN_%28finance%29
+1 { OBV=OBV_{prev}+\left\{{\begin{matrix}volume&\mathrm {if} \ close>close_{prev}\0&\mathrm {if} \ close=close_{prev}\-volume&\mathrm {if} \ close<close_{prev}\end{matrix}}\right.}
+2 https://en.wikipedia.org/wiki/On-balance_volume
+1  x = X(\omega)
+2 https://en.wikipedia.org/wiki/Realization_%28probability%29
+1 {\mathbf  {v}}={\frac  {d{\mathbf  {x}}}{dt}}=g(t),
+2 https://en.wikipedia.org/wiki/Wiener_equation

@@ -1,300 +1,82 @@
-{ \Pr(a_{i}\leq a^{*})={\frac {{\frac {1}{2+3/A}}+A}{2A}}={\frac {A}{4A^{2}+6A}}+{\frac {1}{2}}.}
-G\triangleright G^{(1)}\triangleright G^{(2)} \triangleright \cdots,
-{ Z[{\sqrt {-3}}]=\{a+b{\sqrt {-3}}:a,b\in Z\}}
-u=v\circ w
-{ {\text{Unemployment rate}}={\frac {\text{Unemployed workers}}{\text{Total labor force}}}\times 100\%}
-\forall x.\,((x=e)\lor (x\circ x=e)\lor ((x\circ x)\circ x=e)\lor \cdots )
-\cap N = 1
-X:=(x^{2}-y^{3}=0)\subset W:={\mathbf  {R}}^{2}.
-C_{t}=C(1+i)^{-t}\,={\frac {C}{(1+i)^{t}}}\,
-{ \mathbb {H} =\{x+iy\mid y>0;x,y\in \mathbb {R} \}.}
-T_{J}=T_{a}+P_{D}\times R_{ja}
-\mathbf {k} 
-\aleph _{0}
+1 { \Pr(a_{i}\leq a^{*})={\frac {{\frac {1}{2+3/A}}+A}{2A}}={\frac {A}{4A^{2}+6A}}+{\frac {1}{2}}.}
+2 https://en.wikipedia.org/wiki/Purification_theorem
+1 G\triangleright G^{(1)}\triangleright G^{(2)} \triangleright \cdots,
+2 https://en.wikipedia.org/wiki/Solvable_group
+1 { Z[{\sqrt {-3}}]=\{a+b{\sqrt {-3}}:a,b\in Z\}}
+2 https://en.wikipedia.org/wiki/Principal_ideal
+1 u=v\circ w
+2 https://en.wikipedia.org/wiki/Quotient_object
+1 { {\text{Unemployment rate}}={\frac {\text{Unemployed workers}}{\text{Total labor force}}}\times 100\%}
+2 https://en.wikipedia.org/wiki/Unemployment
+1 \forall x.\,((x=e)\lor (x\circ x=e)\lor ((x\circ x)\circ x=e)\lor \cdots )
+2 https://en.wikipedia.org/wiki/Periodic_group
+1 \cap N = 1
+2 https://en.wikipedia.org/wiki/Profinite_group
+1 X:=(x^{2}-y^{3}=0)\subset W:={\mathbf  {R}}^{2}.
+2 https://en.wikipedia.org/wiki/Resolution_of_singularities
+1 C_{t}=C(1+i)^{-t}\,={\frac {C}{(1+i)^{t}}}\,
+2 https://en.wikipedia.org/wiki/Purchasing_power
+1 { \mathbb {H} =\{x+iy\mid y>0;x,y\in \mathbb {R} \}.}
+2 https://en.wikipedia.org/wiki/Upper_half_plane
+1 \sqrt{\hbar G/c^5}
+2 https://en.wikipedia.org/wiki/Orders_of_magnitude_%28time%29
+1 2\leq a\leq {\frac  {(b+1)}{2}}
+2 https://en.wikipedia.org/wiki/Search_tree
+1 {\frac  {err(prune(T,t),S)-err(T,S)}{|leaves(T)|-|leaves(prune(T,t))|}}
+2 https://en.wikipedia.org/wiki/Pruning_%28algorithm%29
+1 {\begin{bmatrix}|V_{\mathrm {ud} }|&|V_{\mathrm {us} }|&|V_{\mathrm {ub} }|\|V_{\mathrm {cd} }|&|V_{\mathrm {cs} }|&|V_{\mathrm {cb} }|\|V_{\mathrm {td} }|&|V_{\mathrm {ts} }|&|V_{\mathrm {tb} }|\end{bmatrix}}\approx {\begin{bmatrix}0.974&0.225&0.003\0.225&0.973&0.041\0.009&0.040&0.999\end{bmatrix}},
+2 https://en.wikipedia.org/wiki/Quark
+1 B
+2 https://en.wikipedia.org/wiki/Particle_accelerator
+1 { {\text{For }}\mathbf {A} \in \mathbb {R} ^{n\times m}\;:\;\mathbf {a} _{i,*}=\mathbf {a} _{i\bullet }=\{a_{i,j},\forall j\in [\![1\dotsc m]\!]\}\;{\text{and}}\;\mathbf {a} _{*,j}=\mathbf {a} _{\bullet j}=\{a_{i,j},\forall i\in [\![1\dotsc n]\!]\}}
+2 https://en.wikipedia.org/wiki/Talk:Matrix_%28mathematics%29
+1  R = \sqrt {\frac{(ab + cd) (ac + bd) (ad + bc)}{(a + b + c - d) (b + c + d - a) (c + d + a - b) (d + a + b - c)}}.
+2 https://en.wikipedia.org/wiki/Parameshvara
+1 {  \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C} }
+2 https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi
+1 { \mathbb R^n_{+} = \{(x_1,\ldots,x_n) \in \mathbb R^n : x_n \ge 0\}.}
+2 https://en.wikipedia.org/wiki/Topological_manifold
+1 Q_{max}=\frac{S^2T^2}{2\cdot R_{Total}}=\frac{S^2T^2A}{2p_cL}
+2 https://en.wikipedia.org/wiki/Thermal_copper_pillar_bump
+1 \int |\kappa(s)| ds,
+2 https://en.wikipedia.org/wiki/Total_absolute_curvature
+1 [x^{{\mu }},x^{{\nu }}]=i\theta ^{{\mu \nu }}\,\!
+2 https://en.wikipedia.org/wiki/Noncommutative_quantum_field_theory
+1 n-1
+2 https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton
+1 2^{\aleph _{0}}={\mathfrak {c}}
+2 https://en.wikipedia.org/wiki/Sequential_compactness
+1 {\begin{aligned}\sin 0^{\circ }&=0,\[10pt]\sin 30^{\circ }&={\frac {1}{2}},\[10pt]\sin 90^{\circ }&=1.\end{aligned}}
+2 https://en.wikipedia.org/wiki/Niven%27s_theorem
+1 {\sqrt {n}}
+2 https://en.wikipedia.org/wiki/Unit_cube
+1 a=bq+r
+2 https://en.wikipedia.org/wiki/Wikipedia:Featured_article_candidates/Euclidean_algorithm/archive1
+1 { {\frac {x^{5}}{120}}-{\frac {x^{3}}{6}}+x=0.}
+2 https://en.wikipedia.org/wiki/Wikipedia:Featured_article_candidates/Pi/archive1
+1 { {-y{\partial f \over \partial y} \over {\partial f \over \partial x}}.}
+2 https://en.wikipedia.org/wiki/Ren%C3%A9-Fran%C3%A7ois_de_Sluse
+1 { 0x^{2}+2x+1=3}
+2 https://en.wikipedia.org/wiki/Wikipedia:Featured_article_review/Monty_Hall_problem/archive3
+1 \sum_{k=1}^{\infty}{x^k \over k!}
+2 https://en.wikipedia.org/wiki/User:Tparameter
+1 \left[{\mathrm  {Ligand}}\right]\cdot \left[{\mathrm  {Receptor}}\right]\;\;{\overset  {K_{d}}{\rightleftharpoons }}\;\;\left[{\text{Ligand-receptor complex}}\right]
+2 https://en.wikipedia.org/wiki/Receptor_%28biochemistry%29
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Wcherowi
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:WalterMB
+1 { i=\arccos {h_{z} \over \left|\mathbf {h} \right|}}
+2 https://en.wikipedia.org/wiki/Orbital_inclination
+1 { \pi =\sum _{ij}x_{i}x_{j}\pi _{ij}=2*\sum _{i=2}^{n}\sum _{j=1}^{i-1}x_{i}x_{j}\pi _{ij}}
+2 https://en.wikipedia.org/wiki/Nucleotide_diversity
+1 
+p \overset{\alpha}{\rightarrow} q. \,
 
-\left(\begin{array}{c}
-x^1\
-\vdots\
-x^n
-\end{array}\right)
-
-{ E=mc^{2}}
-{ B=F^{-1}RF}
-\pi :G\rightarrow \operatorname {U} (H)
-dy/dt=f(y),
-|a|:={\begin{cases}a,&{\mbox{if }}0\leq a,\-a,&{\mbox{otherwise}},\end{cases}}
-a^{2}=b^{3}=(ab)^{13}=[a,b]^{5}=[a,bab]^{4}=(ababababab^{-1})^{6}=1,\,
-{ {\begin{vmatrix}x_{1}&x_{1}^{q}&x_{1}^{q^{2}}\x_{2}&x_{2}^{q}&x_{2}^{q^{2}}\x_{3}&x_{3}^{q}&x_{3}^{q^{2}}\end{vmatrix}}}
-T_{\rm c}
-\chi _{\rho }^{{\lambda }}=\sum _{T}(-1)^{{ht(T)}}
-{ {\begin{aligned}{\text{1.}}\quad &q(a,(-1)a)=1,\{\text{2.}}\quad &q(a,b)=q(a,c)\Leftrightarrow q(a,bc)=1,\{\text{3.}}\quad &q(a,b)=q(c,d)\Rightarrow \exists x\mid q(a,b)=q(a,x),q(c,d)=q(c,x)\end{aligned}}.}
-{ {\mathcal {F}}\{w(t)\cdot \underbrace {\cos(2\pi 0t)} _{1}\}={\mathcal {F}}\{w(t)\}.}
-_{1}^{3}
-\hat 1
-(\sqrt [12]{2})^7
-{ a_{1}b_{1}+\cdots +a_{m}b_{m}-a_{m+1}b_{m+1}-\cdots -a_{n}b_{n}.\,}
-\int _{{0}}^{{\infty }}\delta (t-a)e^{{-st}}\,dt=e^{{-sa}}
-Y=A\times K^{\alpha }\times L^{\beta }
-{\frac  {\overbrace {x_{2}+x_{2}}+x_{3}+x_{4}+x_{5}+x_{6}+x_{7}+x_{8}+\overbrace {x_{9}+x_{9}}}{10}}.\,
-{SAR}_{{n+1}}={SAR}_{n}+\alpha (EP-{SAR}_{n})
-{ {\text{VPT}}={\text{VPT}}_{\text{prev}}+{\text{volume}}\times {{\text{close}}_{\text{today}}-{\text{close}}_{\text{prev}} \over {\text{close}}_{\text{prev}}}}
-{ TRIN={\frac {advancing\ issues/declining\ issues}{advancing\ volume/declining\ volume}}}
-{ OBV=OBV_{prev}+\left\{{\begin{matrix}volume&\mathrm {if} \ close>close_{prev}\0&\mathrm {if} \ close=close_{prev}\-volume&\mathrm {if} \ close<close_{prev}\end{matrix}}\right.}
- x = X(\omega)
-{\mathbf  {v}}={\frac  {d{\mathbf  {x}}}{dt}}=g(t),
-n_{e}=N\nu _{A}-M-z
-\mathbf {L} =\mathbf {r} \times \mathbf {p} 
-{ 0\rightarrow \mathrm {Tor} IW(F)\rightarrow W(F)\rightarrow W(F^{\mathrm {py} })}
-n>d_{1}^{i}+\cdots +d_{m}^{i}.\,
-{ (x,y,z)\mapsto (x-2(xz+y^{2})y-(xz+y^{2})^{2}z,y+(xz+y^{2})z,z).}
-M\propto R_{g}^{d}
-\{\beta ,\beta ^{p},\beta ^{{p^{2}}},\ldots ,\beta ^{{p^{{m-1}}}}\}
-{ {\text{area of circular bases}}=2(\pi R^{2}-\pi r^{2})=2\pi (R^{2}-r^{2})}
-{ AB\subseteq P\Longrightarrow A\subseteq P\vee B\subseteq P}
-{ {\begin{aligned}2\cdot R_{*}&={\frac {(28.6\cdot 0.70\cdot 10^{-3})\ {\text{AU}}}{0.0046491\ {\text{AU}}/R_{\bigodot }}}\&\approx 4.31\cdot R_{\bigodot }\end{aligned}}}
-{ {\begin{aligned}2\cdot R_{*}&={\frac {(41.3\cdot 0.465\cdot 10^{-3})\ {\text{AU}}}{0.0046491\ {\text{AU}}/R_{\bigodot }}}\&\approx 4.13\cdot R_{\bigodot }\end{aligned}}}
-{ {\begin{aligned}2\cdot R_{*}&={\frac {(142\cdot 1.08\cdot 10^{-3})\ {\text{AU}}}{0.0046491\ {\text{AU}}/R_{\bigodot }}}\&\approx 33\cdot R_{\bigodot }\end{aligned}}}
- \mathrm {Distance\ in\ parsecs} ={\frac {1}{\mathrm {parallax\ in\ arcseconds} }}
-{\begin{smallmatrix}[{\frac {Fe}{H}}]=0.5\end{smallmatrix}}
-R_{v}=+29
-{\frac  {{\text{d}}T(r)}{{\text{d}}r}}\ =\ -{\frac  {3\kappa (r)\rho (r)L(r)}{(4\pi r^{2})(16\sigma )T^{3}(r)}}
-d (\mathrm{pc}) = 1 / p (\mathrm{arcsec}).
-{ \dim _{\mathbf {C} }M=a(M)=\operatorname {tr.deg.} _{\mathbf {C} }\mathbf {C} (M).}
-\left({\pi  \over 2}-{{\sqrt  3} \over 2}\right)d^{2}
-a=a_0 \left\vert \beta-\beta_c \right\vert^\alpha.\,
-\limsup_{n\to\infty}\frac{\log d(n)}{\log n/\log\log n}=\log2.
-{ s{\begin{Bmatrix}\infty \3\end{Bmatrix}}}
-{ r{\begin{Bmatrix}7\3\end{Bmatrix}}}
-{ {\begin{Bmatrix}7\3\end{Bmatrix}}}
-{ s{\begin{Bmatrix}7\7\end{Bmatrix}}}
-{ t{\begin{Bmatrix}7\4\end{Bmatrix}}}
-{ t{\begin{Bmatrix}8\4\end{Bmatrix}}}
-{ {\text{Working Capital}}={\text{CURRENT ASSETS}}-{\text{CURRENT LIABILITIES}}}
-{\frac  {|{\text{actual effort}}-{\text{estimated effort}}|}{\text{actual effort}}}
-\frac{1}{\alpha+\frac{1-\alpha}{P}}
-{ B\rightarrow X_{s}\gamma }
-\chi ^{2}
-{\mathcal  N}=4
-{ RMSE^{2}=MBE^{2}+sdbias^{2}+dispersion^{2}}
-{ {Q_{3}-Q_{1} \over Q_{3}+Q_{1}}.}
-|e|\overline {\Psi }e_{a}^{{\mu }}\gamma ^{a}\left(\partial _{\mu }-{\frac  {i}{4}}\omega _{{ab\mu }}\sigma ^{{ab}}\right){\Psi }
-{ B={\begin{pmatrix}x_{0}&x_{1}\x_{1}&x_{2}\\end{pmatrix}}}
-k
- \mathfrak{G} 
-n\leq 10^{{18}}
-p(z)=p_{0}+g\int _{{0}}^{{z}}\rho (z)\,dz
-{ x~\mathrm {quus} ~y={\begin{cases}x+y&{\text{if }}x,y<57\[12pt]5&{\text{otherwise}}\end{cases}}}
-{\begin{matrix}{\mathbf  {M}}{\ddot  {{\mathbf  {q}}}}(t)+({\mathbf  {C}}+{\mathbf  {G}}){\dot  {{\mathbf  {q}}}}(t)+({\mathbf  {K}}+{\mathbf  {N}}){{\mathbf  {q}}}(t)&=&{\mathbf  {f}}(t)\\end{matrix}}
-{ p_{n,N}=2^{-N+1}\sum _{k=0}^{n-1}{\binom {N-1}{k}}.}
-\mathbf {r} _{i}
- \{ a^n b^n c^n : n \ge 1 \} 
-
-\qquad
-\frac{A\hbox{ prop}}{\neg A\hbox{ prop}}\ \neg_F
-
-\mathrm{Ra}_{L} = \frac{g \beta} {\nu \alpha} (T_b - T_u) L^3
-{ \tan \left({\frac {p}{2}}\right)e^{i\theta }=\operatorname {cn} \left(z,{\frac {1}{\sqrt {2}}}\right),{\text{ where }}w=pe^{i\theta }{\text{ and }}z=x+iy.}
-{ P_{k}={\frac {k}{|G|}}\sum _{g\in G}c_{k}(g)}
-{ g(x)=(kx{\bmod {p}}){\bmod {n}}.}
-{}_{{27}}^{{60}}{\text{Co}}\rightarrow {}_{{28}}^{{60}}{\text{Ni}}+e^{-}+{\bar  {\nu }}_{e}+2{\gamma }
-\left\langle 0|T\left\{{\mathcal  {O}}_{1}(x){\mathcal  {O}}_{2}(0)\right\}|0\right\rangle 
-\alpha _{s}
-K=(1+m/M)|E|
-{ {\frac {(5\ flights)(200\ km/flight)(60\ passengers)}{(5\ flights)(200\ km/flight)(100\ seats)}}={\frac {60,000\ passenger\cdot km}{100,000\ seat\cdot km}}=0.6=60\%}
-{\begin{aligned}&{\text{minimize}}&&{\frac  12}x^{{\mathrm  {T}}}P_{0}x+q_{0}^{{\mathrm  {T}}}x\&{\text{subject to}}&&{\frac  12}x^{{\mathrm  {T}}}P_{i}x+q_{i}^{{\mathrm  {T}}}x+r_{i}\leq 0\quad {\text{for }}i=1,\dots ,m,\&&&Ax=b,\end{aligned}}
-{ 1-(1-1/n)^{n}\approx 1-1/e}
-p_n(t^2)=(a+b)_n(a+c)_n(a+d)_n {}_4F_3\left( \begin{matrix} -n&a+b+c+d+n-1&a-t&a+t \ a+b&a+c&a+d \end{matrix} ;1\right).
- l_{n}(x)=(-1)^{n}L_{n}^{{(x-n)}}(x).
-{ {}^{\phi }{V}_{23}\ }
- C_n(x;\beta|q) = \frac{(\beta;q)_n}{(q;q)_n}e^{in\theta} {}_2\phi_1(q^{-n},\beta;\beta^{-1}q^{1-n};q,q\beta^{-1}e^{-2i\theta})
-{ n!=\prod _{i=1}^{k}p_{i}^{\sum _{j=1}^{\infty }\left[{\frac {n}{p_{i}^{j}}}\right]}}
-\mathbf{*3\cdot24}. \ \  \vdash. \thicksim(p.\thicksim p)
-Lk=Tw+Wr
-{\frac  {1}{3}}{\sqrt  3}
-s{\begin{Bmatrix}3\3\end{Bmatrix}}
-x^{3}y+y^{3}z+z^{3}x=0.
-{ Q=\omega \cdot \varepsilon _{\mathrm {r} }''\cdot \varepsilon _{0}\cdot E^{2},}
-r=s=t=2
-{ E={\begin{cases}4.500L&L<0.018\1.099L^{0.45}-0.099&L\geq 0.018\end{cases}}}
-\Gamma 
-x^{n}
-\phi _{y}
-{\text{pitch}}_{Z}={\sqrt {6}}\cdot {d \over 3}\approx 0.81649658d,
-{ {\widehat {\vec {a}}}=(\mathbf {X} ^{T}\mathbf {X} )^{-1}\;\mathbf {X} ^{T}Y}
-albums=!tvshows
-{\frac {\text{support}}{\text{support + oppose}}}
-{\frac {dy}{dx}}
-{ \sum _{i}\alpha _{i}=1}
-{ y_{i}\approx bx_{i}+a}
-8\pi T_{\mu \nu}
-{ 10^{4}\times }
-x^4
- v\;=\;V_{S}\;-\;iR
-\langle u,Lv\rangle =\langle Lv,u\rangle 
-{ IS=SM,\quad IG=2\cdot GS,\quad MG=2\cdot IG.}
-\Diamond x\!\!\rightarrow \!\!\Box x
-\mathrm {Area} =\pi \left({D \over 2}\right)^{2}=\pi \left({f \over 2N}\right)^{2}
-1-2^{{-40}}=1-10^{{-12}}
-\{x|\phi (x,a)\}
-{ 2^{\mathfrak {c}}=2}
-{\mathbb  {R}}\,
-{{\mathbf  {K}}}_{{\mathrm  {T}}}={\frac  {[cis-enol]}{[diketo]}}
-{ {\sqrt {\text{Radical, dude!}}}}
-{ {\begin{aligned}\mathbf {I} &=\int _{t_{1}}^{t_{2}}{\frac {d\mathbf {p} }{dt}}\,dt\&=\mathbf {p_{2}} -\mathbf {p_{1}} \&=\Delta \mathbf {p} ,\end{aligned}}}
-=\left({1 \over 12}+{2 \over 12}+{3 \over 12}\right)\times 12\ {\mathrm  {m}}=\left({6 \over 12}\right)\times 12\ {\mathrm  {m}}=\left({1 \over 2}\right)\times 12\ {\mathrm  {m}}=6\ {\mathrm  {m}}
-F_{sp} = K \times \Delta\rho \times L \times \sqrt{A}
-\frac{n(n-1)}{2}
-{ \Phi ^{-1}(p)={\sqrt {2}}\,\operatorname {erf} ^{-1}(2p-1)}
-{ {\frac {11}{3}}\cdot 24={\frac {11\cdot 24}{3}}={\frac {264}{3}}=88}
-ABC\doublebarwedge abc
-{ O(\partial t/\lambda _{min})}
-{ \Gamma (t)=e^{iLt}\Gamma (t=0)\,}
-{ y_{n+1}=y_{n}+h\sum _{i=1}^{s}b_{i}k_{i}\,}
-{\hat {p}}
-{ ax+by=c\,}
-{ (1-a)(1-b)(1-c)(1-d)+a+b+c+d\geq 1.\,}
-\Leftarrow 
-{ 1\times 0.99+(30+1)\times 0.01=1.30}
-P1/P2=[1+1/E2]/[1+1/E1]
-{ P={\begin{pmatrix}{\frac {1}{2}}&{\frac {1}{2}}&0&0\{\frac {1}{2}}&{\frac {1}{2}}&0&0\0&0&{\frac {1}{2}}&{\frac {1}{2}}\0&0&{\frac {1}{2}}&{\frac {1}{2}}\\end{pmatrix}}+\epsilon {\begin{pmatrix}-{\frac {1}{2}}&0&{\frac {1}{2}}&0\0&-{\frac {1}{2}}&0&{\frac {1}{2}}\{\frac {1}{2}}&0&-{\frac {1}{2}}&0\0&{\frac {1}{2}}&0&-{\frac {1}{2}}\\end{pmatrix}}}
-{ f=(1/2)n^{2}\langle \sigma v\rangle .}
-{\textbf  {G}}(\pm j\infty )=0
-{ {\underset {x}{\operatorname {arg\,max} }}f(x)}
-{ \mathbf {k(1-\theta )} ={\frac {d\theta }{dt}}.}
-{ {\left(q+N^{\prime }-1\right)! \over q!(N^{\prime }-1)!}={\left(q+N^{\prime }\right)! \over q!N^{\prime }!}}
-{ (\#V+1)}
-{ \sum _{k=0}^{\infty }{\frac {x^{k}}{k!}},{\text{ where }}k=n-1}
-{ {\textbf {F}}_{dyn}=M{\frac {d{\textbf {v}}_{M}}{dt}}=-{\frac {4\pi ln\Lambda G^{2}\rho M^{2}}{\nu _{M}^{3}}}\left[erf(\nu /({\sqrt {2}}\sigma )-{\frac {{\sqrt {2}}\nu }{\sigma {\sqrt {\pi }}}}e^{-\nu ^{2}/2\sigma ^{2}}\right]{\textbf {v}}_{M}}
-{ m_{C}\,,}
-\xi ri\pi i\vartheta \alpha \xi 
-{ ((A\rightarrow B)\rightarrow (B\rightarrow A))\rightarrow (B\rightarrow A)}
-{ {\frac {1}{6}}\left(\mid 1\rangle +\mid 2\rangle +\mid 3\rangle +\mid 4\rangle +\mid 5\rangle +\mid 6\rangle \right)\oplus \left(\mid 1\rangle +\mid 2\rangle +\mid 3\rangle +\mid 4\rangle +\mid 5\rangle +\mid 6\rangle \right)}
-{ {\text{Discount Yield}}(\%)={\frac {{\text{Face Value}}-{\text{Purchase Price}}}{\text{Face Value}}}\times {\frac {\text{360}}{\text{Days Till Maturity}}}\times 100[\%]}
- i \cdot 2^{a} -3b 
-{ F_{\mu \nu }\equiv {\frac {\partial A_{\nu }}{\partial x^{\mu }}}-{\frac {\partial A_{\mu }}{\partial x^{\nu }}}}
-{ \sum _{i=0}^{\infty }2^{-a_{i}-1}.}
-{\mathbf  c}_{{\mathrm  w}}\,
-{ {\frac {33705\,{\frac {\mathrm {Wh} }{\mathrm {gal_{ge}} }}}{135\,{\frac {\mathrm {Wh} }{\mathrm {km} }}\times {\frac {1.6\,\mathrm {km} }{\mathrm {mi} }}}}\times 77.6\%{\mathrm {_{charging\ eff.}} }=120\,\mathrm {mpg_{ge}} =1.95{\frac {\mathrm {L_{ge}} }{100\,\mathrm {km} }}}
-{ r=h/[2\pi {\sqrt {2Em}}]}
-{ pi-weight}
- m \lambda = d ( \sin{\theta_i} - \sin{\theta_m})
-{ {\ce {H2C=CH2}}}
-
-\text{INR}= \left(\frac{\text{PT}_\text{test}}{\text{PT}_\text{normal}}\right)^\text{ISI}
-
-\langle f_{i},\,f_{j}\rangle =\,\delta _{{i,j}}
-{\tilde {E}}_{6}
-{ Pulse\;Velocity={\frac {\;Width\;ofstructure}{Time\;taken\;by\;pulse\;to\;go\;through}}}
-{ \sin ^{2l}\theta }
-\operatorname {link}\{\gamma _{j}(x)\}=\theta _{j}-\beta ^{T}x,
-{ L(x)=\int _{0}^{1}|v(\phi ^{t}(x))|dt}
-\cdot \!/\!\cdot 
-{ p=2^{607}-1}
-{ \langle (\Delta E)^{2}\rangle ={\frac {\partial ^{2}\ln {\mathcal {Z}}}{\partial \beta ^{2}}}}
-{ \int _{0}^{t}3x^{2}\,dx=t^{3}}
-{ D={\frac {\alpha a^{2}}{t}}}
-\leftrightarrow 
-{ {\color {Black}F\!\!=\!{\text{-}}\!\nabla \!G}}
-n/2
-{ \int _{-\infty }^{+\infty }{\frac {\sqrt {\alpha }}{\beta }}}
-{ {203 \choose 2}={\frac {203!}{2!201!}}={\frac {203^{2}-203}{2}}=20503}
-{ V(T_{1},\ldots ,T_{n})={\frac {1}{n!}}\left.{\frac {\partial ^{n}}{\partial \lambda _{1}\cdots \partial \lambda _{n}}}\right|_{\lambda _{1}=\cdots =\lambda _{n}=+0}\mathrm {Vol} _{n}(\lambda _{1}T_{1}+\cdots +\lambda _{n}T_{n}).}
-{ x,y-}
-{ {\begin{aligned}A\oplus (A\oplus B)=&(A\oplus A)\oplus B\=&0\oplus B\=&B\end{aligned}}}
-{ q_{mm'}(m,u)}
-{ 5*3=5(3)}
-{ x_{n+1}=rx_{n}(1-x_{n})}
-\int _{0}^{1}f(x)\,dx.
-{ \mathrm {CO_{2}} \,\!}
-.{\bar  {0}}1
-l
-{ \left|\Gamma \right|=\left|\left\{\Xi \ |\ ||\Xi ||\equiv \left|{\frac {1}{\overline {\Xi }}}\right|\right\}\right|}
- {\sqrt {x}}
-C_{6}^{4}
-{ {\frac {1}{T}}=\left({\frac {\partial S}{\partial U}}\right)_{V,N}}
-{ 450\,\mathrm {ms} }
-|{\mathcal  {P}}(S)|=\sum _{{k=0}}^{{n}}{n \choose k},\;\;\;{\text{where}}\,{n \choose k}={\frac  {n!}{k!(n-k)!}}
-{ l=2\,}
-\exists y[Pyx\land \forall z[\lnot PPzy]]
-\frac{1}{f} = (n-1) \left[ \frac{1}{R_1} - \frac{1}{R_2} + \frac{(n-1)d}{n R_1 R_2} \right],
-b_{i}
-{ de/dt=P_{0}\exp {[-kh]}\ }
-{ [T]=[Z_{1}][X_{1}][Z_{2}][X_{2}]\ldots [X_{n-x}][Z_{n}],\!}
-T_{4}
-{\bigg \}}
-{ \ (19-\lambda )*(26-\lambda )-(3*-2)}
-{ 1\,{\frac {\mathrm {kg} }{\mathrm {m} \cdot \mathrm {s} ^{2}}}}
-M_{n}
-z_{0}
-{{\frac  {wet\;sample\;weight-dry\;sample\;weight}{dry\;sample\;weight}}}\;*100\;=WME\;
-1/{\sqrt {2}}
-{ {\sqrt {2}}+{\sqrt {3}}}
-{\text{R}}=({\text{probability of the accident occurring}})\times ({\text{expected loss in case of the accident}})
-{\text{R}}=\sum _{\text{For all accidents}}({\text{probability of the accident occurring}})\times ({\text{expected loss in case of the accident}})
-{\boldsymbol {D}}({\boldsymbol {r}},\ t)=\varepsilon _{0}{\boldsymbol {E}}({\boldsymbol {r}},\ t)\,
-{\boldsymbol {H}}({\boldsymbol {r}},\ t)={\frac {1}{\mu _{0}}}{\boldsymbol {B}}({\boldsymbol {r}},\ t)\,
-{\mathbb {R}}
-\forall y\exists x (x^2=y)
-\exists x(x^2=y)
-\int _{a}^{b}f'(x)\,dx=f(b)-f(a)
-F_{p}(t)={\begin{cases}1&{{\rm {if}}}~p~{{\rm {~is~equal~to~the~local~copy~at~time}}}~t\0&{{\rm {otherwise}}}\end{cases}}
-A_{p}(t)={\begin{cases}0&{{\rm {if}}}~p~{{\rm {~is~not~modified~at~time}}}~t\t-{{\rm {modification~time~of}}}~p&{{\rm {otherwise}}}\end{cases}}
-M
-1/2+1/{\sqrt  {\pi M}}
-K=b_{1}-b_{2}+b_{3}-b_{4}+9\,\,{\pmod  9}
-K=E_{1}-E_{2}+E_{5}-E_{6}+9\,\,{\pmod  9}
-(n+1)
-E={\frac  {1}{2}}\rho Av^{3}t
-P=dE/dt={\frac  {1}{2}}\rho Av^{3}
-\Delta {m}=m_{\mathrm {f} }-m_{\mathrm {b} }
-2.512^{\Delta {m}}=\Delta {L}
-{ r_{N}=\left[\lambda R\left(N-{1 \over 2}\right)\right]^{1/2},}
-{ t={r^{2} \over 2R}}
-{ {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi _{n}(t)\rangle }
-{ {\frac {1}{{c}^{2}}}{\frac {{\partial }^{2}{\phi }_{n}}{{\partial t}^{2}}}-{{\nabla }^{2}{\phi }_{n}}+{\left({\frac {mc}{\hbar }}\right)}^{2}{\phi }_{n}=0}
-x\oplus y=\min\{x,y\},
-x\otimes y=x+y.
-\langle \rangle 
-\langle 0,1,2\rangle 
-{ \operatorname {tr} (I-A^{-1})\leq \ln \det(A)\leq \operatorname {tr} (A-I)}
-{\begin{array}{c}\vdots \|\F_{2}\|\F_{1}\|\F_{0}.\end{array}}
-F_{{n+1}}=F_{n}\left(2^{{1/2^{n}}}\right)
-{ \lfloor x\rfloor =\sum _{n=-\infty }^{\infty }n\cdot [n\leq x<n+1]}
-{ \lfloor x\rfloor =\sum _{n}n\cdot [n\leq x<n+1]}
-{\tilde {E}}_{8},
-{\tilde {E}}_{6},{\tilde {E}}_{7},{\tilde {E}}_{8}
-O(\sqrt{kn})
-n^{2-o(1)}
-h(G) = \min_{0 < |S| \le \frac{n}{2} } \frac{|\partial(S)|}{|S|},
-{\frac {1}{2}}(d-\lambda _{2})\leq h(G)\leq {\sqrt {2d(d-\lambda _{2})}}.
-{ {\text{Specific Energy}}={\frac {V\times I\times t}{m}},}
-{ {\text{Specific Power}}={\frac {V\times I}{m}},}
-K_{{-p-q}}A\otimes Z_{\ell }
-\vert \Delta \vert \leq C(\varepsilon )\cdot f^{6+\varepsilon }.\,
-\max\{\vert c_{4}\vert ^{3},\vert c_{6}\vert ^{2}\}\leq C(\varepsilon )\cdot f^{6+\varepsilon }.\,
-{\begin{matrix}T:&\underbrace {V^{*}\times \dots \times V^{*}}&\times &\underbrace {V\times \dots \times V}&\rightarrow {\mathbf  {R}}.\&{\text{m copies}}&&{\text{n copies}}&&\end{matrix}}
-{\begin{matrix}T\in &\underbrace {V\otimes \dots \otimes V}&\otimes &\underbrace {V^{*}\otimes \dots \otimes V^{*}}.\&{\text{m copies}}&&{\text{n copies}}\end{matrix}}
-\delta R_{{\mu \nu }}{}=(\delta \Gamma ^{{\lambda }}{}_{{\mu \nu }})_{{;\lambda }}-(\delta \Gamma ^{{\lambda }}{}_{{\mu \lambda }})_{{;\nu }}
-\delta \Gamma ^{{\lambda }}{}_{{\mu \nu }}
-{ E={RT \over F}\ln {\frac {a_{\mathrm {H^{+}} }}{\sqrt {p_{\mathrm {H_{2}} }/p^{0}}}}}
-{ E=-{2.303RT \over F}\mathrm {pH} -{RT \over 2F}\ln {\frac {p_{\mathrm {H_{2}} }}{p^{0}}}}
-{ {\frac {1}{2}}\mathrm {H} _{2}=\mathrm {H} _{ads}=\mathrm {H} _{abs}}
-{ E=E^{0}+{RT \over F}\ln {a_{\mathrm {H} ^{+}} \over ({\frac {p_{\mathrm {H} 2}}{p^{0}}})^{1/2}}}
-A{\xrightarrow  {\ \ p\ \ }}B
-
-R \xrightarrow{   } A \xrightarrow{\ \ p(S) \ \ } B \xrightarrow{\ \ q \ \ },
-
-{ P={\frac {0.33F_{u}\pi d^{2}}{4}}}
-{ P={\frac {0.6F_{y}\pi d_{s}^{2}}{4}}}
- p=0.9^4
- 6p^{1.2}
-\sum {\frac  {f_{{xx}}f_{y}^{2}-2f_{{xy}}f_{x}f_{y}+f_{{yy}}f_{x}^{2}}{f_{y}^{3}}}=0
-{ \sum {\frac {\kappa }{\sin(\theta )^{3}}}=0}
-{\mathit {MF}}[f]=\min\{\#\mathrm {Fix} (g)\,|\,g\sim f\},
-N(f)\leq {\mathit {MF}}[f],
-e^-\to e^- + Z^0
-e^{-}\to e^{-}+\gamma 
-Z{\xleftarrow  {\eta }}Y{\xrightarrow  {\tau }}X.
-G/H_{1}{\xleftarrow  {\eta }}G/(H_{1}\cap H_{2}){\xrightarrow  {\tau }}G/H_{2}
-\phi ^{4}
-{ \int {e^{i((x-w).q+(y-w
+2 https://en.wikipedia.org/wiki/State_transition_system
+1 { x^{n}=a\,}
+2 https://en.wikipedia.org/wiki/User_talk:Xantharius
+1 x^{2}+y^{2}=z^{2}
+2 https://en.wikipedia.org/wiki/User:Chas_zzz_brown
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Chuchunezumi
