@@ -4,6 +4,7 @@ from Naked.toolshed.shell import muterun_js
 def prepare(source):
     # erase style tag
 
+    source = source.replace("\\\\", "\\")
     remv = ["\\displaystyle", "\\scriptstyle", "\\textstyle"]
     for rem in remv:
         source = source.replace(rem, "")
@@ -12,7 +13,7 @@ def prepare(source):
     source = source.replace("\\tbinom", "\\binom")
     source = source.replace("\\dbinom", "\\binom")
     source = source.replace("\\mybinom", "\\binom")
-#    source = source.replace("'", "'\\''") # for node
+    #source = source.replace("'", "'\\''") # for node
     return source
 
 def convertLtxToMathml(ltx):
