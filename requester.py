@@ -17,7 +17,7 @@ def getHtml(pageUrl):
     return "None"
 
 def doFormulaPost(pageTitle, pageUrl, ltx, mathml):
-    url = "http://my-ela:9200/engine/formula"
+    url = "http://my-ela:9200/engine/formula2"
     _headers = {"content-type" : "application/json"}
     _data = {"pageTitle" : pageTitle, "pageUrl" : pageUrl, "ltx" : ltx, "mathml" : mathml}
     _data = json.dumps(_data);
