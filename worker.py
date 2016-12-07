@@ -18,7 +18,8 @@ except:
 
 db = con.alan # db name
 dbdata = db.page # collection name
-dberr = db.errpage # collection name (for error)
+dberrp = db.errpage
+dberrf = db.errformula
 core = 8
 limit = 1
 dsize = 40
@@ -27,6 +28,8 @@ tcpcon = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 tcpcon.settimeout(3)
 server_address = ("codingmonster.net", 2016)
 tcpcon.connect(server_address)
+
+# function declaration
 
 def getNormalizedLtx(rawLtx):
     try:
@@ -39,8 +42,6 @@ def getNormalizedLtx(rawLtx):
     except:
         return "err" # reception error
     return "err"
-
-# function declaration
 
 def getRawQ(_data):
     rawQ = Queue.Queue()
@@ -74,12 +75,18 @@ class myQWorker (threading.Thread):
                 _jobQ.put(element)
                 _fid = _fid + 1
 
-            content = requester.getHtml(url)
-            try:
-                requester.doPagePost(title, url, content)
+           try:
+                content = requester.getHtml(url)
+                if content is None:
+                    try:
+                        dberrp.insert({"title" : title, "url" : url})
+                    except:
+                        continue
+                else:
+                    requester.doPagePost(title, url, content)
             except:
                 try:
-                    dberr.insert({"title" : title, "url" : url, "content" : content, "type" : "P"})
+                    dberrp.insert({"title" : title, "url" : url})
                 except:
                     continue
 
@@ -105,11 +112,14 @@ class myJWorker (threading.Thread):
 
             try:
                 rltx = refiner.prepare(ltx)
-                nltx = getNormalizedLatex(rltx)
-                requester.doFormulaPost(title, url, rltx, nltx, mathml)
+                nltx = getNormalizedLtx(rltx)
+                if nltx == "err":
+                    dberrf.insert({"title" : title, "url" : url, "ltx" : ltx, "mathml" : mathml, "_fid" : _fid})
+                else:
+                    requester.doFormulaPost(title, url, rltx, nltx, mathml)
             except:
                 try:
-                    dberr.insert({"title" : title, "url" : url, "ltx" : ltx, "_fid" : _fid, "type" : "F"})
+                    dberrf.insert({"title" : title, "url" : url, "ltx" : ltx, "mathml" : mathml, "_fid" : _fid})
                 except:
                     continue
 

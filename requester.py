@@ -12,11 +12,11 @@ def getHtml(pageUrl):
         fp.close()
         return source
     except:
-        return "None"
-    return "None"
+        return None
+    return None
 
 def doFormulaPost(pageTitle, pageUrl, rltx, nltx, mathml):
-    url = "http://my-ela:9200/engine/formula2"
+    url = "http://my-ela:9200/engine/formula3"
     _headers = {"content-type" : "application/json"}
     _data = {"pageTitle" : pageTitle, "pageUrl" : pageUrl, "rltx" : rltx, "nltx" : nltx, "mathml" : mathml}
     _data = json.dumps(_data);
@@ -24,7 +24,7 @@ def doFormulaPost(pageTitle, pageUrl, rltx, nltx, mathml):
     return res.status_code
 
 def doPagePost(pageTitle, pageUrl, content):
-    url = "http://my-ela:9200/engine/page" # 127.0.0.1 (local)
+    url = "http://my-ela:9200/engine/page3" # 127.0.0.1 (local)
     _headers = {"content-type" : "application/json"}
     _data = {"pageTitle" : pageTitle, "pageUrl" : pageUrl, "content" : content}
     _data = json.dumps(_data);
