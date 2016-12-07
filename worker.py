@@ -6,6 +6,7 @@ import Queue
 import json
 import threading
 import sys
+import socket
 
 # for db connection settings
 
@@ -21,6 +22,23 @@ dberr = db.errpage # collection name (for error)
 core = 8
 limit = 1
 dsize = 40
+
+tcpcon = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+tcpcon.settimeout(3)
+server_address = ("codingmonster.net", 2016)
+tcpcon.connect(server_address)
+
+def getNormalizedLtx(rawLtx):
+    try:
+        conn.sendall(rawLtx+"\n")
+        ret = conn.recv(1000)
+        if "err" in ret:
+            return "err"
+        else:
+            return ret
+    except:
+        return "err" # reception error
+    return "err"
 
 # function declaration
 
@@ -56,8 +74,6 @@ class myQWorker (threading.Thread):
                 _jobQ.put(element)
                 _fid = _fid + 1
 
-            continue
-
             content = requester.getHtml(url)
             try:
                 requester.doPagePost(title, url, content)
@@ -89,10 +105,8 @@ class myJWorker (threading.Thread):
 
             try:
                 rltx = refiner.prepare(ltx)
-                requester.doFormulaPost(title, url, rltx, mathml)
-                nltx = requester.getNormalizedLatex(rltx)
-                if "err" == nltx:
-                    requester.doFormulaPost(title, url, nltx, mathml)
+                nltx = getNormalizedLatex(rltx)
+                requester.doFormulaPost(title, url, rltx, nltx, mathml)
             except:
                 try:
                     dberr.insert({"title" : title, "url" : url, "ltx" : ltx, "_fid" : _fid, "type" : "F"})
@@ -160,3 +174,4 @@ while idx < limit:
     fp.close()
 
 con.close()
+tcpcon.close()
