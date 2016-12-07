@@ -11,7 +11,6 @@ import sys
 
 try:
     con = pymongo.MongoClient("slb-283692.ncloudslb.com", 27017)
-    # con = pymongo.MongoClient("127.0.0.1", 30001)
 except:
     print("<<< db connection error >>>")
     raise Exception # ServerSelectionTimeoutError

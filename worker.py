@@ -56,6 +56,8 @@ class myQWorker (threading.Thread):
                 _jobQ.put(element)
                 _fid = _fid + 1
 
+            continue
+
             content = requester.getHtml(url)
             try:
                 requester.doPagePost(title, url, content)
@@ -86,12 +88,12 @@ class myJWorker (threading.Thread):
             _fid = datum["_fid"]
 
             try:
-                requester.doFormulaPost(title, url, ltx)
-                requester.doFormulaPost(title, url, mathml)
                 rltx = refiner.prepare(ltx)
-                requester.doFormulaPost(title, url, rltx)
-                requester.doFormulaPost(title, url, refiner.convertLtxToMathml(rltx))
-            except:
+                requester.doFormulaPost(title, url, rltx, mathml)
+                nltx = requester.getNormalizedLatex(rltx)
+                if "err" == nltx:
+                    requester.doFormulaPost(title, url, nltx, mathml)
+           except:
                 try:
                     dberr.insert({"title" : title, "url" : url, "ltx" : ltx, "_fid" : _fid, "type" : "F"})
                 except:
