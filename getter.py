@@ -30,7 +30,6 @@ class myJWorker (threading.Thread):
         try:
             self.con = pymongo.MongoClient("slb-283692.ncloudslb.com", 27017)
         except:
-            print("fucking db")
             raise Exception
 
         self.db = self.con.alan
@@ -82,7 +81,6 @@ class myJWorker (threading.Thread):
                 with self.lock:
                     self.totalSize.increment(cnt)
 
-            print(str(idx)+ " is finished")
         self.con.close()
         fp.close()
 
