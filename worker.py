@@ -93,7 +93,7 @@ class myJWorker (threading.Thread):
                 nltx = requester.getNormalizedLatex(rltx)
                 if "err" == nltx:
                     requester.doFormulaPost(title, url, nltx, mathml)
-           except:
+            except:
                 try:
                     dberr.insert({"title" : title, "url" : url, "ltx" : ltx, "_fid" : _fid, "type" : "F"})
                 except:

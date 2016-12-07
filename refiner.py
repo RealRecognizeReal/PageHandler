@@ -26,6 +26,3 @@ def convertLtxToMathml(ltx):
             return proc.stdout
     else:
         raise Exception
-
-print(prepare("\\lim_{t\\to 0^+}\\frac{f(g(t))-f(x_0)}{t} = u(g'(0))."))
-print(convertLtxToMathml(prepare("\\lim_{t\\to 0^+}\\frac{f(g(t))-f(x_0)}{t} = u(g'(0)).")))
