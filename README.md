@@ -12,11 +12,14 @@ convert ltx to mathml
 send http request to engine (restful api)
 get html source
 
-## helper
-for useful information
+## getter
+make data(formula and url are included) using multiple threads
 
-## corrector
-error handling (err database)
+## merger (/sets)
+merge outfiles and make output data(merge.out)
+
+## matcher (/sets/data)
+find 10 most similar formulas's link using output data(merge.out)
 
 ## settings (docker, python, node)
 - docker

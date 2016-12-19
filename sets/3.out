@@ -18,51 +18,1645 @@
 2 https://en.wikipedia.org/wiki/Pairwise_disjoint
 1 \otimes 
 2 https://en.wikipedia.org/wiki/Teth
-1 A \leq_1 B \Rightarrow A \leq_m B \Rightarrow A \leq_{tt} B \Rightarrow A \leq_{wtt} B \Rightarrow A \leq_T B
-2 https://en.wikipedia.org/wiki/Truth_table_reduction
-1 a^{{n-1}}\neq 1{\pmod  n}
-2 https://en.wikipedia.org/wiki/Non-deterministic_algorithm
-1 \delta 
-2 https://en.wikipedia.org/wiki/Turing_machine_equivalents
-1 {\mbox{R}}={\mbox{RE}}\cap {\mbox{co-RE}}.
-2 https://en.wikipedia.org/wiki/RE_%28complexity%29
-1 \mathrm {L} \subseteq \mathrm {SL} \subseteq \mathrm {NL} 
-2 https://en.wikipedia.org/wiki/SL_%28complexity%29
-1 {\mathrm  {PH}}=\bigcup _{{k\in {\mathbb  {N}}}}\Delta _{k}^{{\mathrm  {P}}}
-2 https://en.wikipedia.org/wiki/PH_%28complexity%29
-1 (1-\epsilon) P(a) \leq x \leq (1+\epsilon) P(a)
-2 https://en.wikipedia.org/wiki/Sharp-P
-1 \prod_{i\in X}Y_i
-2 https://en.wikipedia.org/wiki/Projection_%28mathematics%29
-1 { k[X_{1},\ldots ,X_{n}]}
-2 https://en.wikipedia.org/wiki/Regular_ring
-1 R_{{{\text{red}}}}
-2 https://en.wikipedia.org/wiki/Nilradical_of_a_ring
-1  H^r(k,M)\times H^{2-r}(k,M')\rightarrow H^2(k,G_m)=Q/Z
-2 https://en.wikipedia.org/wiki/Poitou%E2%80%93Tate_duality
-1 H^{q}(V,E)\cong H^{{n-q}}(V,K\otimes E^{{\ast }})^{{\ast }},
-2 https://en.wikipedia.org/wiki/Serre_duality
-1 \deg C>{\frac  {1}{{\sqrt  {r}}}}\sum _{{i=1}}^{r}m_{i}.
-2 https://en.wikipedia.org/wiki/Nagata%27s_conjecture_on_curves
-1 \geq 2
-2 https://en.wikipedia.org/wiki/Torelli_theorem
-1 1\,-\,{\frac {1}{3}}\,+\,{\frac {1}{5}}\,-\,{\frac {1}{7}}\,+\,{\frac {1}{9}}\,-\,\cdots \;=\;{\frac {\pi }{4}},\!
-2 https://en.wikipedia.org/wiki/Special_values_of_L-functions
-1 L
-2 https://en.wikipedia.org/wiki/Nicholas_Katz
-1 {\text{Simple price of floor area (currency/}}\mathrm {m} ^{2}{\text{)}}={\frac {\text{price of land area (currency)}}{{\text{total floor area (}}\mathrm {m} ^{2}{\text{)}}}}
-2 https://en.wikipedia.org/wiki/Skyscraper
-1 K^{\flat }=\varprojlim _{{x\mapsto x^{p}}}K\ .
-2 https://en.wikipedia.org/wiki/Perfectoid
-1 F(i) = F(i-2) + F(i-4)
-2 https://en.wikipedia.org/wiki/Skolem%E2%80%93Mahler%E2%80%93Lech_theorem
-1 
-E=mc^2
-
-2 https://en.wikipedia.org/wiki/User_talk:Deltahedron
-1 \mathrm {T} ={\frac {\mathrm {V} \cdot {\mathrm {s} }}{\mathrm {m} ^{2}}}={\frac {\mathrm {N} }{\mathrm {A} {\cdot }\mathrm {m} }}={\frac {\mathrm {J} }{\mathrm {A} {\cdot }\mathrm {m} ^{2}}}={\frac {\mathrm {H} {\cdot }\mathrm {A} }{\mathrm {m} ^{2}}}={\frac {\mathrm {Wb} }{\mathrm {m} ^{2}}}={\frac {\mathrm {kg} }{\mathrm {C} {\cdot }\mathrm {s} }}={\frac {\mathrm {N} {\cdot }\mathrm {s} }{\mathrm {C} {\cdot }\mathrm {m} }}={\frac {\mathrm {kg} }{\mathrm {A} {\cdot }\mathrm {s} ^{2}}}
-2 https://en.wikipedia.org/wiki/Tesla_%28unit%29
-1 M_{2}
-2 https://en.wikipedia.org/wiki/User_talk:Jaredwf
+1  \langle u,v \rangle = \langle Tu,Tv \rangle \, .
+2 https://en.wikipedia.org/wiki/Orthogonal_transformation
+1 X^{2}-D
+2 https://en.wikipedia.org/wiki/Separable_polynomial
+1 O(m\sqrt n\log n)
+2 https://en.wikipedia.org/wiki/Vizing%27s_theorem
+1 { [a,b,c]=abc-acb-bac+bca+cab-cba.\,}
+2 https://en.wikipedia.org/wiki/Ternary_commutator
+1 \left\{\left.{\begin{bmatrix}0&\alpha \0&0\\end{bmatrix}}\,\right|\,\alpha \in {\mathbb  {C}}\right\}
+2 https://en.wikipedia.org/wiki/Simple_algebra
+1 \lfloor {\frac  {k}{2}}\rfloor 
+2 https://en.wikipedia.org/wiki/Strong_orientation
+1 n
+2 https://en.wikipedia.org/wiki/Path_decomposition
+1 { \prod _{i=0}^{k-1}(x-i)^{n}.}
+2 https://en.wikipedia.org/wiki/Windmill_graph
+1 (x-3)(x-1)^2(x+1)(x^2+2x-1)^2
+2 https://en.wikipedia.org/wiki/Wagner_graph
+1 {\textrm {cr}}(K_{m,n})\leq \left\lfloor {\frac {n}{2}}\right\rfloor \left\lfloor {\frac {n-1}{2}}\right\rfloor \left\lfloor {\frac {m}{2}}\right\rfloor \left\lfloor {\frac {m-1}{2}}\right\rfloor 
+2 https://en.wikipedia.org/wiki/Tur%C3%A1n%27s_brick_factory_problem
+1  n=\pm {\sqrt {\epsilon \mu }}
+2 https://en.wikipedia.org/wiki/Negative-index_metamaterial
+1 { {\mathcal {E}}=\oint \mathbf {E} \cdot d\mathbf {s} =-{d\Phi _{m} \over dt}.}
+2 https://en.wikipedia.org/wiki/Talk:Magnetic_flux
+1 T=n_{{\text{t}}}-n_{{\bar  {{\text{t}}}}}
+2 https://en.wikipedia.org/wiki/Topness
+1 X = 5(B - L) - 2Y_W.  \,
+2 https://en.wikipedia.org/wiki/X_%28charge%29
+1 { v=d/t}
+2 https://en.wikipedia.org/wiki/Talk:Velocity
+1 \Omega /\Box 
+2 https://en.wikipedia.org/wiki/Teledeltos
+1 \chi _{v}
+2 https://en.wikipedia.org/wiki/Superdiamagnetism
+1 {c \over v}={P \over {2\pi \tau }}
+2 https://en.wikipedia.org/wiki/R%C3%B8mer%27s_determination_of_the_speed_of_light
+1 { v_{g}^{2}/c^{2}=1-{\frac {c^{2}}{\lambda _{g}^{2}f^{2}}}}
+2 https://en.wikipedia.org/wiki/Speed_of_gravity
+1 { \mathbf {F} =q\mathbf {v} \times \mathbf {B} }
+2 https://en.wikipedia.org/wiki/Talk:Magnetic_field
+1 { 3{\mbox{HgCl}}_{2}+{\mbox{AsH}}_{3}~\rightarrow ~{\mbox{AsHg}}_{3}{\mbox{Cl}}_{3}+3{\mbox{HCl}}}
+2 https://en.wikipedia.org/wiki/Sanger%E2%80%93Black_apparatus
+1 \log _{{10}}{\frac  {{\textit  {molar~mass}}}{1000}}={\textit  {distance~to~right~(decades)}}
+2 https://en.wikipedia.org/wiki/Reference_ranges_for_blood_tests
+1 { {\ce {{Os}+2O2->[\Delta T]OsO4}}}
+2 https://en.wikipedia.org/wiki/Osmium_tetroxide
+1 P=K\rho ^{{(n+1)/n}},
+2 https://en.wikipedia.org/wiki/Polytrope
+1 {\frac  {C}{MR^{2}}}
+2 https://en.wikipedia.org/wiki/Moment_of_inertia_factor
+1 {\dot {B}}
+2 https://en.wikipedia.org/wiki/Plasma_diagnostics
+1 { \omega _{pe}=(4\pi n_{e}e^{2}/m_{e})^{1/2}=5.64\times 10^{4}n_{e}^{1/2}{\mbox{rad/s}}=9000\times n_{e}^{1/2}{\mbox{Hz}}}
+2 https://en.wikipedia.org/wiki/Plasma_stealth
+1 { {\begin{aligned}2\cdot R_{*}&={\frac {(91\cdot 2.06\cdot 10^{-3})\ {\text{AU}}}{0.0046491\ {\text{AU}}/R_{\bigodot }}}\&\approx 40\cdot R_{\bigodot }\end{aligned}}}
+2 https://en.wikipedia.org/wiki/Zeta_Apodis
+1 { {\begin{aligned}2\cdot R_{*}&={\frac {(48.5\cdot 0.626\cdot 10^{-3})\ {\text{AU}}}{0.0046491\ {\text{AU}}/R_{\bigodot }}}\&\approx 6.5\cdot R_{\bigodot }\end{aligned}}}
+2 https://en.wikipedia.org/wiki/Rho_Andromedae
+1 { {\begin{aligned}2\cdot R_{*}&={\frac {(97\cdot 5.12\cdot 10^{-3})\ {\text{AU}}}{0.0046491\ {\text{AU}}/R_{\bigodot }}}\&\approx 107\cdot R_{\bigodot }\end{aligned}}}
+2 https://en.wikipedia.org/wiki/Tau2_Aquarii
+1 { tr{\begin{Bmatrix}5\3\end{Bmatrix}}}
+2 https://en.wikipedia.org/wiki/Truncated_rhombicosidodecahedron
+1 {\frac  {h^{3}}{4}}{\sqrt  {5(5+2{\sqrt  {5}})}}
+2 https://en.wikipedia.org/wiki/Pentagonal_prism
+1 {\begin{aligned}{\frac {1}{p}}+{\frac {1}{q}}+{\frac {1}{r}}&>1{\text{ : Sphere}}\[8pt]{\frac {1}{p}}+{\frac {1}{q}}+{\frac {1}{r}}&=1{\text{ : Euclidean plane}}\[8pt]{\frac {1}{p}}+{\frac {1}{q}}+{\frac {1}{r}}&<1{\text{ : Hyperbolic plane.}}\end{aligned}}
+2 https://en.wikipedia.org/wiki/Schwarz_triangle
+1 { tr{\begin{Bmatrix}4\3\end{Bmatrix}}}
+2 https://en.wikipedia.org/wiki/Truncated_rhombicuboctahedron
+1 { R_{\rm {d}}={\sqrt {r_{\rm {d}}^{2}+{\frac {3}{4}}\left({\frac {m_{\rm {e}}}{m_{\rm {d}}}}\right)^{2}\left({\frac {\lambda _{\rm {C}}}{2\pi }}\right)^{2}}},}
+2 https://en.wikipedia.org/wiki/Nuclear_radius
+1 { S(\mathbf {q} ,\omega )}
+2 https://en.wikipedia.org/wiki/X-ray_scattering
+1 r{\begin{Bmatrix}5\3\end{Bmatrix}}
+2 https://en.wikipedia.org/wiki/Rhombicosidodecahedron
+1 { SSI=\sum _{i=0}^{n}{{r_{i}^{2}a({{CD} \over {ND}})} \over {r_{max}}}}
+2 https://en.wikipedia.org/wiki/Stress%E2%80%93strain_index
+1 { HR=N-{\frac {d}{s}}}
+2 https://en.wikipedia.org/wiki/Rockwell_hardness
+1 {\stackrel  {{\text{def}}}{=}}\ 
+2 https://en.wikipedia.org/wiki/Talk:Elastic_modulus
+1 T = \frac{3600}{t}
+2 https://en.wikipedia.org/wiki/Tachymeter_%28watch%29
+1 \left\lfloor\frac{(m+1)26}{10}\right\rfloor \mod 7,
+2 https://en.wikipedia.org/wiki/Perpetual_calendar
+1 W_i = W_i - (x_i - \mathrm{nearHit}_i)^2 + (x_i - \mathrm{nearMiss}_i)^2
+2 https://en.wikipedia.org/wiki/Relief_%28feature_selection%29
+1 \exists 
+2 https://en.wikipedia.org/wiki/Vagrant_predicate
+1 { X\times \{0\}\cong X}
+2 https://en.wikipedia.org/wiki/Talk:Product_topology
+1 \subseteq 
+2 https://en.wikipedia.org/wiki/Talk:Comparison_of_topologies
+1 PV\ =\ {A \over r}
+2 https://en.wikipedia.org/wiki/Perpetuity
+1 g = dx_1^2 + \cdots + dx_p^2 - dx_{p+1}^2 - \cdots - dx_{p+q}^2
+2 https://en.wikipedia.org/wiki/Talk:Pseudo-Riemannian_manifold
+1 { {\mathcal {O}}type}
+2 https://en.wikipedia.org/wiki/Talk:Commensurability_%28mathematics%29
+1 2+1 \over 6
+2 https://en.wikipedia.org/wiki/Talk:Hexagonal_tiling
+1 \Omega 
+2 https://en.wikipedia.org/wiki/Strongly_interacting_massive_particle
+1 {\frac {1}{12}}
+2 https://en.wikipedia.org/wiki/Optical_fibre
+1 \forall a,b,c\in X:(aRb\wedge bRc)\Rightarrow aRc
+2 https://en.wikipedia.org/wiki/Transitive_property
+1 \frac{355}{113}
+2 https://en.wikipedia.org/wiki/Science_in_the_Middle_Ages
+1 \lambda (x): \ [\operatorname{STATE} \ x]
+2 https://en.wikipedia.org/wiki/Stative_verb
+1 G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }
+2 https://en.wikipedia.org/wiki/Riemannian_Geometry
+1 _{1}^{3}
+2 https://en.wikipedia.org/wiki/Powerchord
+1 N_{2}={\frac {4n}{2m+2n-mn}}
+2 https://en.wikipedia.org/wiki/Regular_polyhedra
+1 {\mathbf  {\nabla }}\times {\mathbf  {B}}=\mu _{0}{\mathbf  {J}}+\underbrace {\mu _{0}\epsilon _{0}{\frac  {\partial }{\partial t}}{\mathbf  {E}}}_{{\mathrm  {Maxwell's\ term}}}
+2 https://en.wikipedia.org/wiki/On_physical_lines_of_force
+1 {}^6_4
+2 https://en.wikipedia.org/wiki/Musical_tuning
+1 \frac{n(n-1)}{2}
+2 https://en.wikipedia.org/wiki/Spoke-hub_distribution_paradigm
+1 { \Phi ^{-1}(p)={\sqrt {2}}\,\operatorname {erf} ^{-1}(2p-1)}
+2 https://en.wikipedia.org/wiki/Talk:Probit
+1 {\begin{aligned}&3(b^{2}-c^{2})(c^{2}-a^{2})(a^{2}-b^{2})(a^{2}yz+b^{2}zx+c^{2}xy)\[6pt]&{}+(x+y+z)\left(\sum _{{\text{cyclic}}}b^{2}c^{2}(b^{2}-c^{2})(b^{2}+c^{2}-2a^{2})x\right)=0\end{aligned}}
+2 https://en.wikipedia.org/wiki/Parry_point_%28triangle%29
+1 { {\frac {11}{3}}\cdot 24={\frac {11\cdot 24}{3}}={\frac {264}{3}}=88}
+2 https://en.wikipedia.org/wiki/Talk:False_precision
+1  {\frac  {1}{2}}{\sqrt  {K^{2}-3R^{2}}}
+2 https://en.wikipedia.org/wiki/Nine_point_circle
+1 { D^{2}-{\frac {4}{9}}(a^{2}+b^{2}+c^{2}),}
+2 https://en.wikipedia.org/wiki/Orthocentroidal_disk
+1 ABC\doublebarwedge abc
+2 https://en.wikipedia.org/wiki/Perspective_%28geometry%29
+1 { O(\partial t/\lambda _{min})}
+2 https://en.wikipedia.org/wiki/Talk:Explicit_and_implicit_methods
+1 { \Gamma (t)=e^{iLt}\Gamma (t=0)\,}
+2 https://en.wikipedia.org/wiki/Reversible_reference_system_propagation_algorithm
+1 { y_{n+1}=y_{n}+h\sum _{i=1}^{s}b_{i}k_{i}\,}
+2 https://en.wikipedia.org/wiki/Talk:List_of_Runge%E2%80%93Kutta_methods
+1 {\frac  {\partial ^{2}V}{\partial x^{2}}}+{\frac  {\partial ^{2}V}{\partial y^{2}}}+{\frac  {\partial ^{2}V}{\partial z^{2}}}=0
+2 https://en.wikipedia.org/wiki/Wangerin_function
+1  {\frac {\partial ^{2}\Psi }{\partial t^{2}}}=\nabla ^{2}\Psi 
+2 https://en.wikipedia.org/wiki/User:4orty2wo
+1 \sum_{k=1}^{\infty}{x^k \over k!}
+2 https://en.wikipedia.org/wiki/User:Alexeymorgunov
+1 \sum 
+2 https://en.wikipedia.org/wiki/User:49
+1  {\frac {\partial ^{2}\Psi }{\partial t^{2}}}=\nabla ^{2}\Psi 
+2 https://en.wikipedia.org/wiki/User:Almaionescu
+1 0.{\bar {9}}
+2 https://en.wikipedia.org/wiki/User:Aaron_Hugh_Brown
+1 {\frac {?}{0}}
+2 https://en.wikipedia.org/wiki/User:Alassiry
+1 { R={\sqrt[{3}]{\mu \left({\frac {P}{2\pi }}\right)^{2}}}}
+2 https://en.wikipedia.org/wiki/Talk:Heliosynchronous_orbit
+1 { s=\left({\frac {{\sqrt {1-zT}}-1}{ST}}\right)}
+2 https://en.wikipedia.org/wiki/Thermogenerator
+1 C=\varepsilon \cdot {\frac  {A}{d}}
+2 https://en.wikipedia.org/wiki/Niobium_capacitor
+1 2^{{88.5}}
+2 https://en.wikipedia.org/wiki/Snefru_%28cryptography%29
+1 n
+2 https://en.wikipedia.org/wiki/Talk:Real_projective_space
+1 {\mathbb  {T}}^{1}
+2 https://en.wikipedia.org/wiki/T1
+1 \models 
+2 https://en.wikipedia.org/wiki/Talk:Tautological_consequence
+1 \mathrm {Net\ Sales} =\mathrm {Gross\ Sales} -\mathrm {(Customer\ Discounts,\ Returns,\ Allowances)} 
+2 https://en.wikipedia.org/wiki/Net_sales
+1 { 50+{\frac {53}{1+r}}={\frac {2}{1+r}}+{\frac {112}{(1+r)^{2}}}}
+2 https://en.wikipedia.org/wiki/Talk:Internal_rate_of_return
+1 \sum _{{t=1}}^{n}{\frac  {FCFF_{t}}{(1+WACC_{{g}})^{t}}}+{\frac  {\left[{\frac  {FCFF_{{n+1}}}{(WACC_{{st}}-g_{n})}}\right]}{(1+WACC_{{g}})^{n}}}
+2 https://en.wikipedia.org/wiki/Valuation_using_discounted_cash_flows
+1 \sqrt{1-e^2}
+2 https://en.wikipedia.org/wiki/User:HelgeStenstrom
+1 \sum_{k=1}^{\infty}{x^k \over k!}
+2 https://en.wikipedia.org/wiki/User:Elitropia
+1 \overline 9
+2 https://en.wikipedia.org/wiki/Talk:Radix_point
+1 L^{\infty }
+2 https://en.wikipedia.org/wiki/Talk:Essential_range
+1 d (\mathrm{pc}) = 1 / p (\mathrm{arcsec}).
+2 https://en.wikipedia.org/wiki/Secular_parallax
+1 M_{V}=33.2-18.0log(W_{0})
+2 https://en.wikipedia.org/wiki/Wilson%E2%80%93Bappu_effect
+1 10^{\,\!10^{10^{101}}}
+2 https://en.wikipedia.org/wiki/Talk:Orders_of_magnitude_%28numbers%29
+1 \mathbb {Z} 
+2 https://en.wikipedia.org/wiki/Talk:Order_dimension
+1 {\frac {d^{2}y}{dt^{2}}}+\epsilon (y^{2}-1){\frac {dy}{dt}}+y=0,\quad \epsilon =1
+2 https://en.wikipedia.org/wiki/Phase_path
+1 GFLOPS=chassis*{\frac  {nodes}{chassis}}*{\frac  {sockets}{node}}*{\frac  {cores}{socket}}*GHz*FLOPS
+2 https://en.wikipedia.org/wiki/Talk:FLOPS
+1 S^4
+2 https://en.wikipedia.org/wiki/Talk:Manifold_decomposition
+1 number=normalized(weight/meanpacketsize)
+2 https://en.wikipedia.org/wiki/Weighted_round_robin
+1 { e_{k}+e_{u}}
+2 https://en.wikipedia.org/wiki/Specific_mechanical_energy
+1 { 1+\int _{a}^{x}{\frac {f(t)}{t^{3}}}dt=3x^{-3},\quad \,x>0}
+2 https://en.wikipedia.org/wiki/User_talk:Waveguy
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Jftsang
+1 { \delta ,\delta _{1},\delta _{2}}
+2 https://en.wikipedia.org/wiki/Talk:Momentum_thickness
+1 { \varepsilon ={\sqrt {1-(s_{a}^{2}+c_{a}^{2})}}}
+2 https://en.wikipedia.org/wiki/Talk:Yamartino_method
+1 B_{k}
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:No_original_research/Archive_34
+1 E_{k}\varpropto {\frac {\sigma _{t}}{\rho }}
+2 https://en.wikipedia.org/wiki/Talk:Flywheel
+1 { \mathrm {kW} ={\mathrm {Torque\times rpm}  \over {9549}}}
+2 https://en.wikipedia.org/wiki/Talk:Dynamometer
+1 { N(t)=N_{0}k^{t/T}\,}
+2 https://en.wikipedia.org/wiki/Prompt_critical
+1 d/(1-d)\%.
+2 https://en.wikipedia.org/wiki/Principal_amount
 1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
-2 https://en.wikipedia.org/wiki/User:Robert_McGuigan
+2 https://en.wikipedia.org/wiki/User:Roadrunner
+1 x
+2 https://en.wikipedia.org/wiki/User_talk:Rhuaidhri
+1 {\frac  {mean\ distance}{{\frac  {1}{2}}{\sqrt  {{\text{density}}}}}}
+2 https://en.wikipedia.org/wiki/Uniform_distribution_%28ecology%29
+1 {\mathfrak  {C}}{\mathfrak  {4}}{\mathfrak  {v}}{\mathfrak  {3}}{\mathfrak  {m}}{\mathfrak  {4}}{\mathfrak  {n}}
+2 https://en.wikipedia.org/wiki/User:Wyatt915/Guestbook
+1 \Phi _{n}(b)
+2 https://en.wikipedia.org/wiki/Talk:Catalan%27s_conjecture
+1 x_{i}
+2 https://en.wikipedia.org/wiki/Talk:Constant_problem
+1 \pi 
+2 https://en.wikipedia.org/wiki/User:Boud
+1 f={1 \over 2\pi {\sqrt  {L_{1}C/2}}}\;
+2 https://en.wikipedia.org/wiki/Oudin_coil
+1 { a/b+h+x^{y}}
+2 https://en.wikipedia.org/wiki/User_talk:DBpedia
+1 Insertformulahere
+2 https://en.wikipedia.org/wiki/User_talk:Greenar
+1 { [[Media:Insertformulahere]][[Image:[[Image:Example.jpg]]]]}
+2 https://en.wikipedia.org/wiki/User_talk:Grimrival10
+1 { '''Insertformulahere'''}
+2 https://en.wikipedia.org/wiki/User_talk:LUCIANOGUN
+1 Example.ogg
+2 https://en.wikipedia.org/wiki/User_talk:Pacosfro
+1 { 3.1416}
+2 https://en.wikipedia.org/wiki/User_talk:Promotionalbudweiser
+1 Insertformulahere
+2 https://en.wikipedia.org/wiki/User_talk:Yagiz006
+1 {\frac {a}{0}}
+2 https://en.wikipedia.org/wiki/Wikipedia:Userboxes/Comedy
+1 {\frac{\partial}{\partial x}} \,\;
+2 https://en.wikipedia.org/wiki/Wikipedia:Userboxes/WikiProjects
+1 \Diamond x\!\!\rightarrow \!\!\Box x
+2 https://en.wikipedia.org/wiki/Wikipedia:Userboxes/Philosophy
+1 e^{-}e^{+}\to \gamma \to q{\bar  q}
+2 https://en.wikipedia.org/wiki/Vector_mesons
+1 \sum_{k=1}^{\infty}{x^k \over k!}
+2 https://en.wikipedia.org/wiki/User:Igoruha
+1 { RCOOH+R^{\prime }OH\rightleftharpoons RCOOR^{\prime }+H2O}
+2 https://en.wikipedia.org/wiki/Wax_ester
+1 e^{j\omega C}\,\!
+2 https://en.wikipedia.org/wiki/User:EmmetCaulfield
+1 {\mathrm  {R_{{PB}}={\frac  {V_{{oxide}}}{V_{{metal}}}}={\frac  {M_{{oxide}}\cdot \rho _{{metal}}}{n\cdot M_{{metal}}\cdot \rho _{{oxide}}}}}}
+2 https://en.wikipedia.org/wiki/Pilling%E2%80%93Bedworth_ratio
+1 { \ {\sum _{n=1}^{\infty }{\rm {Riesz(z/n^{2})=z*exp(-z)}}}.}
+2 https://en.wikipedia.org/wiki/Talk:Riesz_function
+1 { H(Y)=\int _{\infty }^{-\infty }p(y)\log {\frac {1}{p(y)}}dy}
+2 https://en.wikipedia.org/wiki/Talk:Rate%E2%80%93distortion_theory
+1 {\textit  {TEMA}}={3*EMA-3*EMA(EMA)+EMA(EMA(EMA))}
+2 https://en.wikipedia.org/wiki/Triple_exponential_moving_average
+1 { P<.2Fmath>??|What'swrongwith<math>P}
+2 https://en.wikipedia.org/wiki/Wikipedia:Help_desk/Archives/November_2008
+1 { \sum _{j}\alpha _{j}b_{\pi (j)}}
+2 https://en.wikipedia.org/wiki/Talk:Generalized_second-price_auction
+1 4\times 4
+2 https://en.wikipedia.org/wiki/OpenAxiom
+1 { S=C_{p}\cdot T+g\cdot z+L_{v}\cdot q}
+2 https://en.wikipedia.org/wiki/Moist_static_energy
+1 { {\begin{smallmatrix}\left[{\ce {Fe}}/{\ce {H}}\right]\end{smallmatrix}}}
+2 https://en.wikipedia.org/wiki/NGC_5053
+1 d\equiv 2D\tan \left({\frac {\delta }{2}}\right)
+2 https://en.wikipedia.org/wiki/User_talk:Parejkoj
+1 { \Phi :\pi _{U}(A)''\rightarrow \pi (A)''}
+2 https://en.wikipedia.org/wiki/Universal_enveloping_W%2A-algebra
+1 1+2+3+4+\cdots =-{\frac  {1}{12}}
+2 https://en.wikipedia.org/wiki/User:TenthEagle/userboxes/sumofallnaturalnumbers
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/Template:User_mathematician-4
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Mksmith/Mathematician_spouse
+1  {\delta _{{ii}}=3}\,\;
+2 https://en.wikipedia.org/wiki/User:CenturionZ_1/Summation
+1  {\frac{\partial}{\partial x}} \,\;
+2 https://en.wikipedia.org/wiki/User:CenturionZ_1/Partial
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Skyfiler
+1 \sum_{k=1}^{\infty}{x^k \over k!}
+2 https://en.wikipedia.org/wiki/User:Stusutcliffe
+1 \sum 
+2 https://en.wikipedia.org/wiki/User:Talin
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Willow1729
+1 { {\frac {7.2}{29-25}}}
+2 https://en.wikipedia.org/wiki/Talk:Significance_arithmetic
+1  {\binom  {7}{3}}={\binom  {7}{4}}=35
+2 https://en.wikipedia.org/wiki/SITOR
+1 { X={\begin{cases}1&{\mbox{with probability }}p^{2},\0&{\mbox{with probability }}1-p^{2}.\end{cases}}}
+2 https://en.wikipedia.org/wiki/Talk:Estimator
+1 { E(g(X))=p.\qquad \qquad (1)\,}
+2 https://en.wikipedia.org/wiki/Talk:Estimator
+1 1-{\frac  {1}{{\sqrt  2}}}\approx 29.3\%
+2 https://en.wikipedia.org/wiki/Theil%E2%80%93Sen_estimator
+1 O(n{\sqrt  {\log n}})
+2 https://en.wikipedia.org/wiki/Theil%E2%80%93Sen_estimator
+1 y=f(a)+f'(a)(x-a)\,
+2 https://en.wikipedia.org/wiki/Talk:Tangent
+1 y=f(a)\,
+2 https://en.wikipedia.org/wiki/Talk:Tangent
+1 ax^6+bx^5+cx^4+dx^3+ex^2+fx+g=0,\,
+2 https://en.wikipedia.org/wiki/Sextic_equation
+1 ax^6+dx^3+g=0,
+2 https://en.wikipedia.org/wiki/Sextic_equation
+1 { P\to \lnot \lnot P}
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive_65
+1 p>2
+2 https://en.wikipedia.org/wiki/Probabilistic_proofs_of_non-probabilistic_theorems
+1 \qquad \sum _{{n=1}}^{\infty }{\frac  {1}{n^{2}}}={\frac  {\pi ^{2}}{6}},
+2 https://en.wikipedia.org/wiki/Probabilistic_proofs_of_non-probabilistic_theorems
+1  \sum _{{k-1}}^{{n-1}}{\binom  {2}{g}}
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2011/Nov
+1 A\approx B
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2011/Nov
+1 f(x_{1},\ldots ,x_{k})
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2012/Oct
+1 f(x_{1},x_{1}^{n},x_{1}^{{n^{2}}},\ldots ,x_{1}^{{n^{j}}})
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2012/Oct
+1 \lambda (A)_{{ij}}=(\lambda A)_{{ij}}=\lambda A_{{ij}}
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2012/Sep
+1 Q
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2012/Sep
+1 \mathbb {N} 
+2 https://en.wikipedia.org/wiki/N_%28disambiguation%29
+1 F_{n}
+2 https://en.wikipedia.org/wiki/N_%28disambiguation%29
+1 { {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi _{n}(t)\rangle }
+2 https://en.wikipedia.org/wiki/Template:Modern_physics
+1 { {\frac {1}{{c}^{2}}}{\frac {{\partial }^{2}{\phi }_{n}}{{\partial t}^{2}}}-{{\nabla }^{2}{\phi }_{n}}+{\left({\frac {mc}{\hbar }}\right)}^{2}{\phi }_{n}=0}
+2 https://en.wikipedia.org/wiki/Template:Modern_physics
+1 { {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi _{n}(t)\rangle }
+2 https://en.wikipedia.org/wiki/Weak_Gravity_Conjecture
+1 { {\frac {1}{{c}^{2}}}{\frac {{\partial }^{2}{\phi }_{n}}{{\partial t}^{2}}}-{{\nabla }^{2}{\phi }_{n}}+{\left({\frac {mc}{\hbar }}\right)}^{2}{\phi }_{n}=0}
+2 https://en.wikipedia.org/wiki/Weak_Gravity_Conjecture
+1 \nabla ^{2}\mathbf {H} =\lambda ^{-2}\mathbf {H} \,
+2 https://en.wikipedia.org/wiki/Superconductivity
+1 {\frac {\partial \mathbf {j} _{s}}{\partial t}}={\frac {n_{s}e^{2}}{m}}\mathbf {E} ,\qquad \mathbf {\nabla } \times \mathbf {j} _{s}=-{\frac {n_{s}e^{2}}{m}}\mathbf {B} .
+2 https://en.wikipedia.org/wiki/Superconductivity
+1 V_{{\text{Yukawa}}}(r)=-g^{2}{\frac  {e^{{-\mu r}}}{r}},
+2 https://en.wikipedia.org/wiki/Strong_nuclear_force
+1 \mu 
+2 https://en.wikipedia.org/wiki/Strong_nuclear_force
+1 { \mathbb {T} \cong \mathbb {R} \oplus (\mathbb {Q} /\mathbb {Z} )\cong \mathbb {C} ^{\times }}
+2 https://en.wikipedia.org/wiki/Talk:Circle_group
+1 { \mathbb {T} \cong \mathbb {(} R/\mathbb {Q} )\oplus (\mathbb {Q} /\mathbb {Z} )\cong \mathbb {C} ^{\times }}
+2 https://en.wikipedia.org/wiki/Talk:Circle_group
+1 {\mathbb  {Z}}/12{\mathbb  {Z}}
+2 https://en.wikipedia.org/wiki/Music_and_mathematics
+1 \int _{{}}^{{}}
+2 https://en.wikipedia.org/wiki/The_Swallow%27s_Tail
+1 V=x^{5}+ax^{3}+bx^{2}+cx,
+2 https://en.wikipedia.org/wiki/The_Swallow%27s_Tail
+1 S(f)\propto {\frac {1}{f^{\alpha }}}
+2 https://en.wikipedia.org/wiki/Pink_noise
+1  {\frac {d}{df}}\ln f={\frac {1}{f}}.
+2 https://en.wikipedia.org/wiki/Pink_noise
+1 { \mathbf {T} :\mathbf {U} =T_{ij}U_{ji}}
+2 https://en.wikipedia.org/wiki/Talk:Dyadics
+1 { \mathbf {T} :\mathbf {U} =T_{ab\,\cdots \,hij}U_{ijk\,\cdots \,yz}}
+2 https://en.wikipedia.org/wiki/Talk:Dyadics
+1 AB^{2}+CH^{2}=AC^{2}+BH^{2}=BC^{2}+AH^{2}=4R^{2}
+2 https://en.wikipedia.org/wiki/Orthocentric_system
+1 {\frac  {BC}{\sin {A}}}={\frac  {AC}{\sin {B}}}={\frac  {AB}{\sin {C}}}={\frac  {HA}{|\cos {A}|}}={\frac  {HB}{|\cos {B}|}}={\frac  {HC}{|\cos {C}|}}=2R.
+2 https://en.wikipedia.org/wiki/Orthocentric_system
+1 { \sum _{i=0}^{n}y_{i}^{2}}
+2 https://en.wikipedia.org/wiki/Real_rank_%28C%2A-algebras%29
+1 { \lVert \sum _{i=0}^{n}(x_{i}-y_{i})^{2}\rVert <\varepsilon }
+2 https://en.wikipedia.org/wiki/Real_rank_%28C%2A-algebras%29
+1 J^{a}=0
+2 https://en.wikipedia.org/wiki/Vacuum_solution
+1 T_{{ab}}=0
+2 https://en.wikipedia.org/wiki/Vacuum_solution
+1 [A,B]
+2 https://en.wikipedia.org/wiki/Peierls_bracket
+1 { D_{A}(B)-D_{B}(A)}
+2 https://en.wikipedia.org/wiki/Peierls_bracket
+1 { f(z)=\sum _{n=-\infty }^{\infty }a_{n}(z-c)^{n},}
+2 https://en.wikipedia.org/wiki/Regular_part
+1 { \sum _{n=0}^{\infty }a_{n}(z-c)^{n}.}
+2 https://en.wikipedia.org/wiki/Regular_part
+1 x, y, z
+2 https://en.wikipedia.org/wiki/Rothe%E2%80%93Hagen_identity
+1 { \sum _{k=0}^{n}{\frac {x}{x+kz}}{x+kz \choose k}{\frac {y}{y+(n-k)z}}{y+(n-k)z \choose n-k}={\frac {x+y}{x+y+nz}}{x+y+nz \choose n}.}
+2 https://en.wikipedia.org/wiki/Rothe%E2%80%93Hagen_identity
+1 { (dh,dh)=\int _{X}dh\wedge \star dh=\int _{W}(\varphi ^{\prime }(u)^{2}\psi (v)^{2}+\varphi (u)^{2}\psi ^{\prime }(v)^{2})\,du\wedge \star du\leq 2M^{2}\,\|dU\|^{2}<\infty ,}
+2 https://en.wikipedia.org/wiki/Planar_Riemann_surface
+1 { (dU,dh)=\int _{X}dU\wedge \star dh=\int _{W}\varphi ^{\prime }(u)\psi (v)\,du\wedge \star du>0,}
+2 https://en.wikipedia.org/wiki/Planar_Riemann_surface
+1 { \mathbb {C} ^{4}}
+2 https://en.wikipedia.org/wiki/Witting_polytope
+1 { \omega ={\frac {-1+i{\sqrt {3}}}{2}},\lambda ,\nu ,\mu =0,1,2}
+2 https://en.wikipedia.org/wiki/Witting_polytope
+1 {\frac  {p_{{j+1}}}{p_{{j}}}}>\lambda .
+2 https://en.wikipedia.org/wiki/Ostrowski%E2%80%93Hadamard_gap_theorem
+1 f(z)=\sum _{{j\in {\mathbf  {N}}}}\alpha _{{j}}z^{{p_{{j}}}}
+2 https://en.wikipedia.org/wiki/Ostrowski%E2%80%93Hadamard_gap_theorem
+1 { \int _{\mathbb {R} }\left(\int _{\mathbb {R} }|f(x,y)|\,dx\right)\,dy}
+2 https://en.wikipedia.org/wiki/Tonelli%E2%80%93Hobson_test
+1 { \int _{\mathbb {R} }\left(\int _{\mathbb {R} }|f(x,y)|\,dy\right)\,dx}
+2 https://en.wikipedia.org/wiki/Tonelli%E2%80%93Hobson_test
+1 { t^{2}=t_{0}^{2}+{\frac {x^{2}}{v^{2}}}}
+2 https://en.wikipedia.org/wiki/Normal_moveout
+1 t_{0}
+2 https://en.wikipedia.org/wiki/Normal_moveout
+1 {\tilde {E}}_{7}
+2 https://en.wikipedia.org/wiki/Tetrahedral_prism
+1 {\bar {T}}_{8}
+2 https://en.wikipedia.org/wiki/Tetrahedral_prism
+1 \epsilon _{{B}}
+2 https://en.wikipedia.org/wiki/Very-long-baseline_interferometry
+1 \epsilon _{{C}}
+2 https://en.wikipedia.org/wiki/Very-long-baseline_interferometry
+1 \int _{{-N}}^{{N}}{\sqrt  {k\pi \lambda }}\,dx
+2 https://en.wikipedia.org/wiki/Talk:On-Line_Encyclopedia_of_Integer_Sequences
+1 k=x^{{2\mu }}
+2 https://en.wikipedia.org/wiki/Talk:On-Line_Encyclopedia_of_Integer_Sequences
+1 B
+2 https://en.wikipedia.org/wiki/Talk:Van_der_Pauw_method
+1 { \Delta R_{13,24}}
+2 https://en.wikipedia.org/wiki/Talk:Van_der_Pauw_method
+1 { \operatorname {gra} T}
+2 https://en.wikipedia.org/wiki/Talk:Unbounded_operator
+1 { f_{n}(x)=\sin(2\pi nx).}
+2 https://en.wikipedia.org/wiki/Talk:Unbounded_operator
+1 { K={\frac {\varepsilon ^{3}}{36k(1-\varepsilon )^{2}}}d^{2}}
+2 https://en.wikipedia.org/wiki/Random_close_pack
+1 { K={\frac {\varepsilon ^{5.5}}{5.6}}d^{2}}
+2 https://en.wikipedia.org/wiki/Random_close_pack
+1 \eta ={\frac  {\sum _{{i=1}}^{{n}}\mu (K_{i})}{\mu (X)}}
+2 https://en.wikipedia.org/wiki/Packing_density
+1 \eta =\lim _{{t\to \infty }}{\frac  {\sum _{{i=1}}^{{\infty }}\mu (K_{i}\cap B_{t})}{\mu (B_{t})}}
+2 https://en.wikipedia.org/wiki/Packing_density
+1 { {\ce {[S=C=N^{\ominus }<->\ ^{\ominus }\!S-C{\equiv }N]}}}
+2 https://en.wikipedia.org/wiki/Resonance_%28chemistry%29
+1 { {\ce {[{\mathsf {F-XeF^{-}<->F^{-}Xe-F}}]}}}
+2 https://en.wikipedia.org/wiki/Resonance_%28chemistry%29
+1 \Gamma _{N}(w|a_{1},...,a_{N})=\exp \left({\frac  {\partial }{\partial s}}\zeta _{N}(s,w|a_{1},...,a_{N})|_{{s=0}}\right)
+2 https://en.wikipedia.org/wiki/Multiple_gamma_function
+1 \Gamma _{N}(w|a_{1},...,a_{N})=\Gamma _{{N-1}}(w|a_{1},...,a_{{N-1}})\Gamma _{N}(w+a_{N}|a_{1},...,a_{N})
+2 https://en.wikipedia.org/wiki/Multiple_gamma_function
+1 \sum_{k=1}^{\infty}{x^k \over k!}
+2 https://en.wikipedia.org/wiki/User:Scriberius/Babelmania
+1 { {\mathfrak {Purge\ this\ page}}}
+2 https://en.wikipedia.org/wiki/User:Scriberius/Babelmania
+1 {\mathcal {J}}
+2 https://en.wikipedia.org/wiki/Principal_factor
+1 { J\cup \{0\}}
+2 https://en.wikipedia.org/wiki/Principal_factor
+1 f_{{i+1}}=f_{i}g_{i}f_{i}\ 
+2 https://en.wikipedia.org/wiki/Sesquipower
+1 f=f_{1}g_{1}f_{1}g_{2}f_{1}g_{1}f_{1}g_{3}f_{1}\cdots \ 
+2 https://en.wikipedia.org/wiki/Sesquipower
+1 { \Diamond A\equiv \lnot \Box \lnot A}
+2 https://en.wikipedia.org/wiki/Regular_modal_logic
+1 { (A\land B)\to C\vdash (\Box A\land \Box B)\to \Box C.}
+2 https://en.wikipedia.org/wiki/Regular_modal_logic
+1 { L({\mathbf {q}},{\dot {\mathbf {q}}},t)=\cdots +{\mathbf {a}}({\mathbf {q}},t)\cdot {\dot {\mathbf {q}}}}
+2 https://en.wikipedia.org/wiki/Talk:Lagrangian_mechanics
+1 { \cdots +{\frac {\partial {\mathbf {a}}}{\partial t}}({\mathbf {q}},t)+\left(\left({\frac {\partial {\mathbf {a}}}{\partial {\mathbf {q}}}}({\mathbf {q}},t)\right)^{T}-{\frac {\partial {\mathbf {a}}}{\partial {\mathbf {q}}}}({\mathbf {q}},t)\right){\dot {\mathbf {q}}}={\mathbf {0}}}
+2 https://en.wikipedia.org/wiki/Talk:Lagrangian_mechanics
+1 { Focalspotsize=F\lambda /A}
+2 https://en.wikipedia.org/wiki/Phased_array_ultrasonics
+1 { NearField=A^{2}/4\lambda }
+2 https://en.wikipedia.org/wiki/Phased_array_ultrasonics
+1 { Z_{diode}={\frac {1}{2\pi fC}}={\frac {1}{2\cdot \pi \cdot 320\times 10^{6}\cdot 1\times 10^{-12}}}={497}\ \Omega }
+2 https://en.wikipedia.org/wiki/PIN_diode
+1 { A=20\log _{10}\left({\frac {Z_{load}}{Z_{source}+Z_{diode}+Z_{load}}}\right)=20\log _{10}\left({\frac {50}{50+497+50}}\right)={21.5}\ dB}
+2 https://en.wikipedia.org/wiki/PIN_diode
+1 V_{{IN}}=V_{{L1}}+V_{{C1}}+V_{{L2}}
+2 https://en.wikipedia.org/wiki/Single-ended_primary-inductor_converter
+1 I_{{D1}}=I_{{L1}}-I_{{L2}}
+2 https://en.wikipedia.org/wiki/Single-ended_primary-inductor_converter
+1 {\mathfrak {P}}
+2 https://en.wikipedia.org/wiki/Princeton_Papyri
+1 { M\,=\,{\begin{bmatrix}0&&1&&1&&0\1&&0&&1&&1\1&&1&&0&&0\0&&1&&0&&0\end{bmatrix}}}
+2 https://en.wikipedia.org/wiki/Talk:Polyharmonic_spline
+1 { {\begin{bmatrix}1&&0&&-1&&0\end{bmatrix}}M{\begin{bmatrix}1\0\-1\0\end{bmatrix}}=-2}
+2 https://en.wikipedia.org/wiki/Talk:Polyharmonic_spline
+1  1/{\sqrt {N}}
+2 https://en.wikipedia.org/wiki/Monte_Carlo_simulation
+1 \nabla ^{2}\mathbf {H} =\lambda ^{-2}\mathbf {H} \,
+2 https://en.wikipedia.org/wiki/Superconductor
+1 {\frac {\partial \mathbf {j} _{s}}{\partial t}}={\frac {n_{s}e^{2}}{m}}\mathbf {E} ,\qquad \mathbf {\nabla } \times \mathbf {j} _{s}=-{\frac {n_{s}e^{2}}{m}}\mathbf {B} .
+2 https://en.wikipedia.org/wiki/Superconductor
+1 \int _{{-\infty }}^{\infty }f(x)g^{*}(x)\operatorname {d}\!x={\frac  {1}{2\pi }}\int _{{-\infty }}^{\infty }F(k)G^{*}(k)\operatorname {d}\!k,
+2 https://en.wikipedia.org/wiki/Plancherel%27s_theorem
+1 \int _{{-\infty }}^{\infty }f(x)e^{{-ikx}}\operatorname {d}\!x=F(k)
+2 https://en.wikipedia.org/wiki/Plancherel%27s_theorem
+1 \sin (2\pi(xy+\sigma))
+2 https://en.wikipedia.org/wiki/Scalar-valued_function
+1 \sigma 
+2 https://en.wikipedia.org/wiki/Scalar-valued_function
+1 { {\text{PWI}}=100\times \max _{i=1\dots N \atop j=1\dots M}\left\{\left|{\frac {measured\_value_{[i,j]}-average\_limits_{[i,j]}}{range_{[i,j]}/2}}\right|\right\}}
+2 https://en.wikipedia.org/wiki/Talk:Process_Window_Index
+1 
+\text{PWI} = 100 \times \max_{i=1\dots N \atop j=1\dots M}
+\left\{\left|
+\frac{\text{measured value}_{[i,j]} - \text{average limits}_{[i,j]}} {\text{range}_{[i,j]}/2}
+\right|\right\}
+
+2 https://en.wikipedia.org/wiki/Talk:Process_Window_Index
+1 { \|H_{1}\|_{\infty }\|H_{2}\|_{\infty }\leq 1}
+2 https://en.wikipedia.org/wiki/User:Encyclops/Testpage
+1 { g_{j}(t)+{\frac {1}{2\pi i}}\int _{s}g_{j}(\zeta ){\frac {\partial }{\partial s}}ln({\frac {t-\zeta }{{\bar {t}}-{\bar {\zeta }}}})ds+{\frac {k_{j}}{2\pi i}}\int _{s}{\bar {g_{j}}}(\zeta ){\frac {\partial }{\partial s}}{\frac {t-\zeta }{{\bar {t}}-{\bar {\zeta }}}}ds=F_{j}(t)}
+2 https://en.wikipedia.org/wiki/User:Encyclops/Testpage
+1 \binom{p+q}{p}.
+2 https://en.wikipedia.org/wiki/Riffle_shuffle_permutation
+1 \binom{n+1}{3}+1.
+2 https://en.wikipedia.org/wiki/Riffle_shuffle_permutation
+1 2^{\aleph _{0}}
+2 https://en.wikipedia.org/wiki/User:Eliko
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Eliko
+1 e^{x^{2}}
+2 https://en.wikipedia.org/wiki/User_talk:Pol098
+1 \pm {\sqrt {x}}
+2 https://en.wikipedia.org/wiki/User_talk:Pol098
+1 \bot 
+2 https://en.wikipedia.org/wiki/User:DirkvdM
+1 { W_{16777213}}
+2 https://en.wikipedia.org/wiki/Talk:Mersenne_conjectures
+1 \frac{1}{4}
+2 https://en.wikipedia.org/wiki/Oleg_D._Jefimenko
+1 O(V^2)
+2 https://en.wikipedia.org/wiki/Talk:Dinic%27s_algorithm
+1 { O(V^{3})}
+2 https://en.wikipedia.org/wiki/Talk:Dinic%27s_algorithm
+1 \psi ^{+}
+2 https://en.wikipedia.org/wiki/Talk:Mathematical_descriptions_of_the_electromagnetic_field
+1 \psi ^{-}
+2 https://en.wikipedia.org/wiki/Talk:Mathematical_descriptions_of_the_electromagnetic_field
+1 s(t)=\beta e^{{-\alpha t^{2}}}\sin(2\pi f_{{max}}t)
+2 https://en.wikipedia.org/wiki/Plasma_sound_source
+1 f_{{max}}
+2 https://en.wikipedia.org/wiki/Plasma_sound_source
+1 { {\rm {Airglow}}/{\rm {S}}_{10}=145+108(S-0.8)}
+2 https://en.wikipedia.org/wiki/Sky_brightness
+1 { {\rm {ZodiacalLight}}/{\rm {S}}_{10}=140-90\sin(|\beta |)}
+2 https://en.wikipedia.org/wiki/Sky_brightness
+1 m\times n
+2 https://en.wikipedia.org/wiki/Talk:Buddhabrot
+1 m_{{i,j}}
+2 https://en.wikipedia.org/wiki/Talk:Buddhabrot
+1 P=2(\pi r+a)
+2 https://en.wikipedia.org/wiki/Stadium_%28geometry%29
+1 A=\pi r^{2}+2ra=r(\pi r+2a),
+2 https://en.wikipedia.org/wiki/Stadium_%28geometry%29
+1 { \omega =\arccos {{e_{x}} \over {\mathbf {\left|e\right|} }}}
+2 https://en.wikipedia.org/wiki/Talk:Argument_of_periapsis
+1 { \omega =\arctan 2({e_{y}},{e_{x}})}
+2 https://en.wikipedia.org/wiki/Talk:Argument_of_periapsis
+1 (2cr-c-r)
+2 https://en.wikipedia.org/wiki/Talk:Dots_and_Boxes
+1 (2cr-c-r)!
+2 https://en.wikipedia.org/wiki/Talk:Dots_and_Boxes
+1 2^{{N_{d}/2}}/2
+2 https://en.wikipedia.org/wiki/Topological_degeneracy
+1 N_{d}
+2 https://en.wikipedia.org/wiki/Topological_degeneracy
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Saibod
+1 \hbar 
+2 https://en.wikipedia.org/wiki/User:Saibod
+1 { x^{n}y^{(n)}(x)+a_{n-1}x^{n-1}y^{(n-1)}(x)+\cdots +a_{0}y(x)=0,}
+2 https://en.wikipedia.org/wiki/Talk:Cauchy%E2%80%93Euler_equation
+1 { x^{n}y^{(n)}(x)+a_{n-1}x^{n-1}y^{(n-1)}(x)+\cdots +a_{0}y(x)=f(x).}
+2 https://en.wikipedia.org/wiki/Talk:Cauchy%E2%80%93Euler_equation
+1 { Y=C+I+G+(X-M)\ }
+2 https://en.wikipedia.org/wiki/Talk:Aggregate_demand
+1 { Y=Y({\frac {M}{P}},G,T)}
+2 https://en.wikipedia.org/wiki/Talk:Aggregate_demand
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Wing_gundam
+1  {\frac {\partial ^{2}\Psi }{\partial t^{2}}}=\nabla ^{2}\Psi 
+2 https://en.wikipedia.org/wiki/User:Wing_gundam
+1 { 2^{\frac {1}{1200}}}
+2 https://en.wikipedia.org/wiki/Talk:Cent_%28music%29
+1 { ({\frac {1}{17.3}})\%}
+2 https://en.wikipedia.org/wiki/Talk:Cent_%28music%29
+1 \pi 
+2 https://en.wikipedia.org/wiki/Talk:Milliradian
+1 { 5\times 10^{-6}=1\times 10^{-5.3}}
+2 https://en.wikipedia.org/wiki/Talk:PH
+1 { ph(5\times 10^{-6})=+5.3}
+2 https://en.wikipedia.org/wiki/Talk:PH
+1 { {\rm {\ 3K_{2}NiF_{6}{\xrightarrow {\Delta }}2K_{3}NiF_{6}+NiF_{2}+F_{2}}}}
+2 https://en.wikipedia.org/wiki/Potassium_hexafluoronickelate%28IV%29
+1 { {\rm {\ K_{2}NiF_{6}+5AsF_{5}+XF_{5}{\xrightarrow {aHF}}XF_{6}AsF_{6}+Ni(AsF_{6})_{2}+2KAsF_{6}}}}
+2 https://en.wikipedia.org/wiki/Potassium_hexafluoronickelate%28IV%29
+1 T\to \langle Tx,O^{*}y\rangle -\langle TOx,y\rangle =\langle OTx,y\rangle -\langle TOx,y\rangle .
+2 https://en.wikipedia.org/wiki/Von_Neumann_double_commutant_theorem
+1 \langle x,TPy\rangle =\langle x,PTPy\rangle =\langle Px,TPy\rangle =\langle T^{*}Px,Py\rangle =\langle PT^{*}Px,y\rangle =\langle T^{*}Px,y\rangle =\langle Px,Ty\rangle =\langle x,PTy\rangle 
+2 https://en.wikipedia.org/wiki/Von_Neumann_double_commutant_theorem
+1 { d_{n}}
+2 https://en.wikipedia.org/wiki/Talk:Topological_entropy
+1 f
+2 https://en.wikipedia.org/wiki/Talk:Topological_entropy
+1 n
+2 https://en.wikipedia.org/wiki/Representation_rigid_group
+1 \Gamma ={\frac  {V_{{rev}}}{V_{{fwd}}}}
+2 https://en.wikipedia.org/wiki/SWR_meter
+1 VSWR={\frac  {1+\Gamma }{1-\Gamma }}
+2 https://en.wikipedia.org/wiki/SWR_meter
+1 { \ (1/(1+r)^{t})}
+2 https://en.wikipedia.org/wiki/Social_discount_rate
+1 { \ (1/r)}
+2 https://en.wikipedia.org/wiki/Social_discount_rate
+1 |\psi \rangle 
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2008_March_18
+1 { E_{g}\leq {hf}}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2008_March_18
+1 { 1s*10W*.9999^{\frac {3*10^{8}m/s}{4km}}\approx 5.6mW}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2008_April_8
+1 { (10\mathrm {W} ).9999^{\frac {3\times 10^{8}\mathrm {m/s} (1\mathrm {s} )}{4\mathrm {km} }}\approx 5.53\mathrm {mW} }
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2008_April_8
+1 { P_{av}=V_{rms}\times I_{rms}\times \cos {\phi }}
+2 https://en.wikipedia.org/wiki/User_talk:Lisa4edit
+1 1+1=2\,
+2 https://en.wikipedia.org/wiki/User_talk:Lisa4edit
+1 { {\binom {k}{r}}{\frac {r}{k}}}
+2 https://en.wikipedia.org/wiki/Talk:Baranyai%27s_theorem
+1 { {\binom {k}{r}}{\frac {r}{k}}={\binom {k-1}{r-1}}}
+2 https://en.wikipedia.org/wiki/Talk:Baranyai%27s_theorem
+1 1<a\qquad 1\infty <a\infty 
+2 https://en.wikipedia.org/wiki/User_talk:Oxinabox
+1 { \infty  \over \infty }
+2 https://en.wikipedia.org/wiki/User_talk:Oxinabox
+1 \frac{\Delta P}{\Delta t} < 0
+2 https://en.wikipedia.org/wiki/Talk:Disinflation
+1 \frac{\Delta (\Delta P/\Delta t)}{\Delta t} < 0
+2 https://en.wikipedia.org/wiki/Talk:Disinflation
+1 (X_{1},X_{2},\ldots )
+2 https://en.wikipedia.org/wiki/Talk:Pickands%E2%80%93Balkema%E2%80%93de_Haan_theorem
+1 F_{u}
+2 https://en.wikipedia.org/wiki/Talk:Pickands%E2%80%93Balkema%E2%80%93de_Haan_theorem
+1 \Delta {\bar  S}_{{vap}}=10.5R
+2 https://en.wikipedia.org/wiki/Trouton%27s_Rule
+1 \Delta {\bar  S}_{{vap}}=4.5R+R\ln T
+2 https://en.wikipedia.org/wiki/Trouton%27s_Rule
+1 f_{c}
+2 https://en.wikipedia.org/wiki/User:Charron78/sandbox
+1 \lambda 
+2 https://en.wikipedia.org/wiki/User:Charron78/sandbox
+1 \mathbb {R} _{+}
+2 https://en.wikipedia.org/wiki/Talk:Conic_optimization
+1 \sigma_y
+2 https://en.wikipedia.org/wiki/Talk:Atmospheric_dispersion_modeling
+1 z_{0}
+2 https://en.wikipedia.org/wiki/Roughness_length
+1 { f:\mathbb {N} \rightarrow \mathbb {R} }
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Computing/2016_July_29
+1 f
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Computing/2016_July_29
+1 R(3,k)
+2 https://en.wikipedia.org/wiki/Peter_Keevash
+1 R(3,k)\geq ({\frac  {1}{4}}-o(1))k^{2}/\log k.
+2 https://en.wikipedia.org/wiki/Peter_Keevash
+1 \Delta v
+2 https://en.wikipedia.org/wiki/Talk:Mass_ratio
+1 z^{2}=ax^{2}+by^{2}\ 
+2 https://en.wikipedia.org/wiki/Severi%E2%80%93Brauer_surface
+1 0\rightarrow {\mathrm  {Pic}}(X)\rightarrow {\mathbb  {Z}}{\stackrel  {\delta }{\rightarrow }}{\mathrm  {Br}}(K)\rightarrow {\mathrm  {Br}}(K)(X)\rightarrow 0\ .
+2 https://en.wikipedia.org/wiki/Severi%E2%80%93Brauer_surface
+1 { n^{\Omega (1)}}
+2 https://en.wikipedia.org/wiki/User:C._lorenz/sandbox
+1 2^{n^{O(1)}}
+2 https://en.wikipedia.org/wiki/User:C._lorenz/sandbox
+1 { R=1+J_{z}d\theta }
+2 https://en.wikipedia.org/wiki/Talk:Rotational_invariance
+1 J_{z}
+2 https://en.wikipedia.org/wiki/Talk:Rotational_invariance
+1 {\bar  {M}}_{w}={\frac  {\sum _{i}N_{i}M_{i}^{2}}{\sum _{i}N_{i}M_{i}}}
+2 https://en.wikipedia.org/wiki/Talk:Dispersity
+1 {\bar  {M}}_{n}={\frac  {\sum _{i}N_{i}M_{i}}{\sum _{i}N_{i}}}
+2 https://en.wikipedia.org/wiki/Talk:Dispersity
+1 { S\cup S=S}
+2 https://en.wikipedia.org/wiki/Talk:Hadwiger%27s_theorem
+1 { m(S)+m(S)=2m(S)\,}
+2 https://en.wikipedia.org/wiki/Talk:Hadwiger%27s_theorem
+1 { u_{t}=u_{xx}+u+x\,u_{x}}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk_archive/Mathematics/2006_September_17
+1 { f\left(t\right)={\frac {1}{\sqrt {2\pi }}}\int \limits _{-\infty }^{\infty }F\left(\omega \right)e^{i\omega t}\,d\omega .}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk_archive/Mathematics/2006_September_17
+1 \mathbb {R} ^{n}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk_archive/Mathematics/2006_August_2
+1 { \|v\|={\sqrt {\sum _{k=1}^{n}a_{k}^{2}}}}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk_archive/Mathematics/2006_August_2
+1 {\mbox{sq}}(x)=\operatorname{sgn}(\sin(x))
+2 https://en.wikipedia.org/wiki/User:LucasVB/Sine_from_square_waves
+1 f(x)={\mbox{sq}}(x)-\sum _{{i=1}}^{{\infty }}{\frac  {{\mbox{sq}}((2i+1)x)}{i}}
+2 https://en.wikipedia.org/wiki/User:LucasVB/Sine_from_square_waves
+1 C^*
+2 https://en.wikipedia.org/wiki/User:Palaeovia/Mathematics
+1 C^{\infty }
+2 https://en.wikipedia.org/wiki/User:Palaeovia/Mathematics
+1 { u_{horizontal}}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2010_August_28
+1 { \oint {\frac {\delta q}{T}}\geq 0}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2010_August_28
+1 { f={\frac {v}{\lambda }}={\frac {v}{4l}}={\frac {344}{4\times 0.12}}=717Hz}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2010_July_7
+1 { x_{4}=ict}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2010_July_7
+1 A\Rightarrow B
+2 https://en.wikipedia.org/wiki/User_talk:Amerindianarts
+1 { -B\Rightarrow -A}
+2 https://en.wikipedia.org/wiki/User_talk:Amerindianarts
+1 a=123.45
+2 https://en.wikipedia.org/wiki/Talk:Fourier_division
+1 a_{1}
+2 https://en.wikipedia.org/wiki/Talk:Fourier_division
+1 \rtimes 
+2 https://en.wikipedia.org/wiki/Talk:Fischer_group_Fi24
+1 { C_{29}\rtimes C_{14}}
+2 https://en.wikipedia.org/wiki/Talk:Fischer_group_Fi24
+1 Z{\xleftarrow  {\eta }}Y{\xrightarrow  {\tau }}X.
+2 https://en.wikipedia.org/wiki/Penrose%E2%80%93Ward_transform
+1 G/H_{1}{\xleftarrow  {\eta }}G/(H_{1}\cap H_{2}){\xrightarrow  {\tau }}G/H_{2}
+2 https://en.wikipedia.org/wiki/Penrose%E2%80%93Ward_transform
+1 \hbar \Omega _{i}
+2 https://en.wikipedia.org/wiki/Zero-phonon_line_and_phonon_sideband
+1 \hbar \Omega _{m}
+2 https://en.wikipedia.org/wiki/Zero-phonon_line_and_phonon_sideband
+1 \infty 
+2 https://en.wikipedia.org/wiki/User:Roscoe_x
+1 { ^{+}}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2008_February_1
+1 { F=G{\frac {m_{1}m_{2}}{r^{2}}},}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2008_March_11
+1 { 3\times 10^{18}}
+2 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2008_March_11
+1 {\frac {1}{\lambda }}=R_{\mathrm {H} }\left({\frac {1}{2^{2}}}-{\frac {1}{n^{2}}}\right)\quad \mathrm {for~} n=3,4,5,...
+2 https://en.wikipedia.org/wiki/Niels_Bohr
+1 R_{Z}={2\pi ^{2}m_{e}Z^{2}e^{4} \over h^{3}}
+2 https://en.wikipedia.org/wiki/Niels_Bohr
+1 h\nu =\epsilon _{2}-\epsilon _{1}\,
+2 https://en.wikipedia.org/wiki/Niels_Bohr
+1 { I_{t}=I_{a}+w(Y_{t-1}-Y_{t-2})}
+2 https://en.wikipedia.org/wiki/Nicholas_Kaldor
+1 { I_{t}=I_{a}+w(Y_{t-1}-Y_{t-2})-jK}
+2 https://en.wikipedia.org/wiki/Nicholas_Kaldor
+1 { S_{w}>S_{p}}
+2 https://en.wikipedia.org/wiki/Nicholas_Kaldor
+1 { {{p+q} \choose p}={{p+q} \choose q}}
+2 https://en.wikipedia.org/wiki/Talk:Combinatorics
+1 { {n \choose r_{1},r_{2},r_{3}}}
+2 https://en.wikipedia.org/wiki/Talk:Combinatorics
+1 { {20 \choose 5,5,5,5}}
+2 https://en.wikipedia.org/wiki/Talk:Combinatorics
+1 1,846,389,521,368 + 11^{600}
+2 https://en.wikipedia.org/wiki/Sophie_Germain_prime
+1 2C{\frac  {n}{(\ln n)^{2}}}\approx 1.32032{\frac  {n}{(\ln n)^{2}}}
+2 https://en.wikipedia.org/wiki/Sophie_Germain_prime
+1 C=\prod _{{p>2}}{\frac  {p(p-2)}{(p-1)^{2}}}\approx 0.660161
+2 https://en.wikipedia.org/wiki/Sophie_Germain_prime
+1 A\subset \{1,\dots ,N\}
+2 https://en.wikipedia.org/wiki/William_Timothy_Gowers
+1 O(N(\log \log N)^{-c_{k}})
+2 https://en.wikipedia.org/wiki/William_Timothy_Gowers
+1 c_{k}>0
+2 https://en.wikipedia.org/wiki/William_Timothy_Gowers
+1 \phi (p^{n})=p^{n-1}\phi (p)=p^{n-1}(p-1)=p^{n}-p^{n-1}=p^{n}\left(1-{\frac {1}{p}}\right),
+2 https://en.wikipedia.org/wiki/Prime_power
+1 \sigma _{0}(p^{n})=\sum _{j=0}^{n}p^{0\cdot j}=\sum _{j=0}^{n}1=n+1,
+2 https://en.wikipedia.org/wiki/Prime_power
+1 \sigma _{1}(p^{n})=\sum _{j=0}^{n}p^{1\cdot j}=\sum _{j=0}^{n}p^{j}={\frac {p^{n+1}-1}{p-1}}.
+2 https://en.wikipedia.org/wiki/Prime_power
+1 {\mathcal  O}_{K}
+2 https://en.wikipedia.org/wiki/Ring_of_integers
+1 x=\sum _{{i=1}}^{n}a_{i}b_{i},
+2 https://en.wikipedia.org/wiki/Ring_of_integers
+1 6=2\cdot 3=(1+{\sqrt  {-5}})(1-{\sqrt  {-5}})\ .
+2 https://en.wikipedia.org/wiki/Ring_of_integers
+1 1 = \frac{1}{2}+\frac{1}{6}+\frac{1}{12}\cdots=\sum_{i=1}^{\infty} \frac{1}{i(i+1)}.
+2 https://en.wikipedia.org/wiki/Pronic_number
+1 \sum_{i=1}^{n} \frac{1}{i(i+1)} =\frac{n}{n+1}.
+2 https://en.wikipedia.org/wiki/Pronic_number
+1 (10n+5)^{2}=100n^{2}+100n+25=100n(n+1)+25\,
+2 https://en.wikipedia.org/wiki/Pronic_number
+1 k\cdot 2^{n}+1{\text{ divides }}2^{{2^{m}}}+1.\,
+2 https://en.wikipedia.org/wiki/Pierpont_prime
+1 { p_{1}^{n_{1}}\cdot p_{2}^{n_{2}}\cdot p_{3}^{n_{3}}\cdot ...\cdot p_{k}^{n_{k}}+1}
+2 https://en.wikipedia.org/wiki/Pierpont_prime
+1 { p_{1}^{n_{1}}\cdot p_{2}^{n_{2}}\cdot p_{3}^{n_{3}}\cdot ...\cdot p_{k}^{n_{k}}-1}
+2 https://en.wikipedia.org/wiki/Pierpont_prime
+1 {\sqrt {n}}
+2 https://en.wikipedia.org/wiki/Unusual_number
+1 \lim _{{n\rightarrow \infty }}{\frac  {u(n)}{n}}=\ln(2)=0.693147\dots \,.
+2 https://en.wikipedia.org/wiki/Unusual_number
+1 X\lll 1=\left\{{\begin{matrix}2X,&{\mbox{if }}X<2^{{31}}\2X+1-2^{{32}},&{\mbox{if }}X\geq 2^{{31}}\end{matrix}}\right.
+2 https://en.wikipedia.org/wiki/Mod_n_cryptanalysis
+1 2^{{32}}\equiv 1{\pmod  3},\,
+2 https://en.wikipedia.org/wiki/Mod_n_cryptanalysis
+1 X\lll 1\equiv 2X{\pmod  3}.
+2 https://en.wikipedia.org/wiki/Mod_n_cryptanalysis
+1 \{F,G\}=dG(X_{F})=X_{F}(G)\,
+2 https://en.wikipedia.org/wiki/Poisson_algebra
+1 X_{\{F,G\}}=[X_{F},X_{G}]\,
+2 https://en.wikipedia.org/wiki/Poisson_algebra
+1 \{F,G\}=\sum _{i=1}^{n}{\frac {\partial F}{\partial q_{i}}}{\frac {\partial G}{\partial p_{i}}}-{\frac {\partial F}{\partial p_{i}}}{\frac {\partial G}{\partial q_{i}}}.
+2 https://en.wikipedia.org/wiki/Poisson_algebra
+1 (V_{1},q_{1})\oplus (V,q)\simeq (V_{2},q_{2})\oplus (V,q).
+2 https://en.wikipedia.org/wiki/Witt%27s_theorem
+1 (V_{1},q_{1})\simeq (V_{2},q_{2}).
+2 https://en.wikipedia.org/wiki/Witt%27s_theorem
+1 (V,q)\simeq (V_{0},0)\oplus (V_{a},q_{a})\oplus (V_{h},q_{h}),
+2 https://en.wikipedia.org/wiki/Witt%27s_theorem
+1 \operatorname {Ext}_{R}^{n}(N,{}_{R}M)\cong \operatorname {Ext}_{S}^{n}(S\otimes _{R}N,M)
+2 https://en.wikipedia.org/wiki/Shapiro%27s_lemma
+1 \operatorname {Ext}_{R}^{n}({}_{R}M,N)\cong \operatorname {Ext}_{S}^{n}(M,\operatorname {Hom}_{R}(S,N))
+2 https://en.wikipedia.org/wiki/Shapiro%27s_lemma
+1 \operatorname {Ext}_{G}^{n}(M,N\uparrow _{H}^{G})\cong \operatorname {Ext}_{H}^{n}(M\downarrow _{H}^{G},N)
+2 https://en.wikipedia.org/wiki/Shapiro%27s_lemma
+1 V_{1}\times V_{2}\to F,
+2 https://en.wikipedia.org/wiki/Triality
+1 V_{1}\times V_{2}\times V_{3}\to F,
+2 https://en.wikipedia.org/wiki/Triality
+1 V\times V\to V
+2 https://en.wikipedia.org/wiki/Triality
+1 N(xy) = N(x)N(y)
+2 https://en.wikipedia.org/wiki/Octonion_algebra
+1 { (q+Qe)(r+Re)=(qr+\gamma R^{*}Q)+(Rq+qr^{*})e.}
+2 https://en.wikipedia.org/wiki/Octonion_algebra
+1 H^{1}(F,G_{2})
+2 https://en.wikipedia.org/wiki/Octonion_algebra
+1 { \cos {(2.5714474995a_{n})}<0}
+2 https://en.wikipedia.org/wiki/Ulam_number
+1 { \left\{2,3,47,69\right\}}
+2 https://en.wikipedia.org/wiki/Ulam_number
+1 { n=10^{9}}
+2 https://en.wikipedia.org/wiki/Ulam_number
+1 [\cdot ,\cdot ]:A\otimes A\to A
+2 https://en.wikipedia.org/wiki/Poisson_superalgebra
+1 [x,\cdot ]:A\to A
+2 https://en.wikipedia.org/wiki/Poisson_superalgebra
+1 [x,yz]=[x,y]z+(-1)^{{|x||y|}}y[x,z].\,
+2 https://en.wikipedia.org/wiki/Poisson_superalgebra
+1 2{\frac  {3}{4}}.
+2 https://en.wikipedia.org/wiki/Template_talk:Frac
+1 A{\frac  {B}{C}}
+2 https://en.wikipedia.org/wiki/Template_talk:Frac
+1 {\frac  {A}{B}}
+2 https://en.wikipedia.org/wiki/Template_talk:Frac
+1 [\,q'\,]
+2 https://en.wikipedia.org/wiki/Template_talk:Mvar
+1 \mathbb {Q} 
+2 https://en.wikipedia.org/wiki/Template_talk:Mvar
+1 x\in \mathbb {R} 
+2 https://en.wikipedia.org/wiki/Template_talk:Mvar
+1 m_1, m_2, ..., m_k
+2 https://en.wikipedia.org/wiki/Secret_sharing
+1 S < \prod_{i=1}^k m_i
+2 https://en.wikipedia.org/wiki/Secret_sharing
+1 m_{i}
+2 https://en.wikipedia.org/wiki/Secret_sharing
+1 4\pi r^{2}
+2 https://en.wikipedia.org/wiki/Oberon_%28moon%29
+1 4\pi r^{3}/3
+2 https://en.wikipedia.org/wiki/Oberon_%28moon%29
+1 Gm/r^{2}
+2 https://en.wikipedia.org/wiki/Oberon_%28moon%29
+1 a^{'}=b^{'}=c^{'}=8R\sin(A/3)\sin(B/3)\sin(C/3), \, 
+2 https://en.wikipedia.org/wiki/Morley_triangle
+1 \frac{\sqrt{3}}{4}a'^2,
+2 https://en.wikipedia.org/wiki/Morley_triangle
+1 {\text{Area}}=16{\sqrt  {3}}R^{2}\sin ^{2}(A/3)\sin ^{2}(B/3)\sin ^{2}(C/3).
+2 https://en.wikipedia.org/wiki/Morley_triangle
+1   \|\mathbf{a \times b}\|^2 = \|\mathbf{a}\|^2 \|\mathbf{b}\|^2 \left(1-\cos^2 \theta \right) .
+2 https://en.wikipedia.org/wiki/Talk:Cross_product/Comments
+1 \mathbf A\cdot\mathbf A = \|\mathbf A\|^2.
+2 https://en.wikipedia.org/wiki/Talk:Cross_product/Comments
+1 \left\|{\mathbf  {a}}\times {\mathbf  {b}}\right\|=\left\|{\mathbf  {a}}\right\|\left\|{\mathbf  {b}}\right\|\sin \theta .\,\!
+2 https://en.wikipedia.org/wiki/Talk:Cross_product/Comments
+1 S=\{x\in \mathbb {R} :1<x<3\}
+2 https://en.wikipedia.org/wiki/Such_that
+1 \mathbb {R} 
+2 https://en.wikipedia.org/wiki/Such_that
+1 \lambda x.x{\mathrel {:}}A\to A
+2 https://en.wikipedia.org/wiki/Such_that
+1 { (100*365.24*24)\,hours=876\,576\,hours}
+2 https://en.wikipedia.org/wiki/User:Franz_Scheerer_%28Olbers%29
+1 \left({\frac  {mass\,of\,Earth}{2\times mass\,of\,proton}}\right)\times \left({\frac  {charge\,of\,electron}{24h}}\right)
+2 https://en.wikipedia.org/wiki/User:Franz_Scheerer_%28Olbers%29
+1 =-3.3\times {10}^{{27}}\,A
+2 https://en.wikipedia.org/wiki/User:Franz_Scheerer_%28Olbers%29
+1 n.
+2 https://en.wikipedia.org/wiki/Span_of_control
+1 n(n-1)
+2 https://en.wikipedia.org/wiki/Span_of_control
+1 n(2^{n}/2-1)
+2 https://en.wikipedia.org/wiki/Span_of_control
+1 P=\eta \rho \,Qgh\!
+2 https://en.wikipedia.org/wiki/Water_power
+1 {\text{Power (W)}}=0.85\times 1000\times 80\times 9.81\times 145
+2 https://en.wikipedia.org/wiki/Water_power
+1 {\text{Power (W)}}=0.85\times 62.5\times 2800\times 480\times 1.356
+2 https://en.wikipedia.org/wiki/Water_power
+1 { [a^{1}],\ldots ,[a^{n}]\in \prod M_{i}}
+2 https://en.wikipedia.org/wiki/Talk:Ultraproduct
+1 { [a^{1}],\ldots ,[a^{n}]\in M}
+2 https://en.wikipedia.org/wiki/Talk:Ultraproduct
+1 { [a^{1}],\ldots ,[a^{n}]\in \prod M_{i}/U}
+2 https://en.wikipedia.org/wiki/Talk:Ultraproduct
+1 a+b=c
+2 https://en.wikipedia.org/wiki/Sum-free_set
+1 { a,b,c\in A}
+2 https://en.wikipedia.org/wiki/Sum-free_set
+1 { O(2^{N/2})}
+2 https://en.wikipedia.org/wiki/Sum-free_set
+1 P_{ME}={\frac {\sum [p_{c,t_{n}}\cdot {\frac {1}{2}}\cdot (q_{c,t_{0}}+q_{c,t_{n}})]}{\sum [p_{c,t_{0}}\cdot {\frac {1}{2}}\cdot (q_{c,t_{0}}+q_{c,t_{n}})]}}={\frac {\sum [p_{c,t_{n}}\cdot (q_{c,t_{0}}+q_{c,t_{n}})]}{\sum [p_{c,t_{0}}\cdot (q_{c,t_{0}}+q_{c,t_{n}})]}}
+2 https://en.wikipedia.org/wiki/Talk:List_of_price_index_formulas
+1 { ({\frac {1}{2}})}
+2 https://en.wikipedia.org/wiki/Talk:List_of_price_index_formulas
+1 { \left({\frac {1}{2}}\right)}
+2 https://en.wikipedia.org/wiki/Talk:List_of_price_index_formulas
+1 \cos(\frac{\pi}{2}-x)=\sin x
+2 https://en.wikipedia.org/wiki/Talk:Tau_%282%CF%80%29/Archive_2
+1 { \tau ={\frac {\pi }{2}}}
+2 https://en.wikipedia.org/wiki/Talk:Tau_%282%CF%80%29/Archive_2
+1 n
+2 https://en.wikipedia.org/wiki/Photorealistic_rendering
+1 {\sqrt {n}}
+2 https://en.wikipedia.org/wiki/Photorealistic_rendering
+1 { 10^{3}-9.10^{2}-9.10+1=11}
+2 https://en.wikipedia.org/wiki/Talk:Cohn%27s_irreducibility_criterion
+1 { x^{3}-9x^{2}-9x+1=(x+1)(x^{2}-10x+1)}
+2 https://en.wikipedia.org/wiki/Talk:Cohn%27s_irreducibility_criterion
+1 { \mathbb {Z} [x]}
+2 https://en.wikipedia.org/wiki/Talk:Cohn%27s_irreducibility_criterion
+1 i(t) = 1 + sin(2 \pi 60 t)\,
+2 https://en.wikipedia.org/wiki/Talk:Alternating_current
+1  P = IV \cos \phi
+2 https://en.wikipedia.org/wiki/Talk:Alternating_current
+1 P(t) = V(t) I(t)
+2 https://en.wikipedia.org/wiki/Talk:Alternating_current
+1 \sum_{k=1}^{\infty}{x^k \over k!}
+2 https://en.wikipedia.org/wiki/User:Tonyxty
+1  \lim_{t \to \infty}(Wikipedia[t]) =  
+2 https://en.wikipedia.org/wiki/User:Tonyxty
+1 E=\gamma mc^{2}
+2 https://en.wikipedia.org/wiki/User:Tonyxty
+1 {\frac  {1}{N}}
+2 https://en.wikipedia.org/wiki/Talk:Zero-knowledge_proof
+1 T
+2 https://en.wikipedia.org/wiki/Talk:Zero-knowledge_proof
+1 \left({\frac  {1}{N}}\right)^{T}
+2 https://en.wikipedia.org/wiki/Talk:Zero-knowledge_proof
+1 \mathbb{Z } ^{n}
+2 https://en.wikipedia.org/wiki/Talk:Leech_lattice
+1 F_{2}^{n}=(\mathbb{Z } /2\mathbb{Z } )^{n}
+2 https://en.wikipedia.org/wiki/Talk:Leech_lattice
+1 {\sqrt {2}}
+2 https://en.wikipedia.org/wiki/Talk:Leech_lattice
+1 {\frac  {C}{MR^{2}}}
+2 https://en.wikipedia.org/wiki/Template_talk:Infobox_planet/Archive_4
+1 { {\frac {C}{M}}R^{2}}
+2 https://en.wikipedia.org/wiki/Template_talk:Infobox_planet/Archive_4
+1 { \sum _{k=1}^{\infty }P(A_{k})<\infty .}
+2 https://en.wikipedia.org/wiki/User_talk:Zaglabarg
+1 { \inf _{m\geq 1}\sum _{k=m}^{\infty }P(A_{k})=0.\,}
+2 https://en.wikipedia.org/wiki/User_talk:Zaglabarg
+1 { P\left(\limsup _{n\to \infty }A_{k}\right)=P(A_{k}{\text{ i.o.}})=P\left(\bigcap _{m=1}^{\infty }\bigcup _{k=m}^{\infty }A_{k}\right)\leq \inf _{m\geq 1}P\left(\bigcup _{k=m}^{\infty }A_{k}\right)\leq \inf _{m\geq 1}\sum _{k=m}^{\infty }P(A_{k})=0}
+2 https://en.wikipedia.org/wiki/User_talk:Zaglabarg
+1 {P}\propto {T}
+2 https://en.wikipedia.org/wiki/User:%D0%9D%D0%B5%D0%BD%D0%B0%D0%B4_%D0%9A%D1%80%D1%81%D1%82%D0%B5%D1%81%D0%BA%D0%B8/sandbox
+1 {\frac  {P}{T}}=k
+2 https://en.wikipedia.org/wiki/User:%D0%9D%D0%B5%D0%BD%D0%B0%D0%B4_%D0%9A%D1%80%D1%81%D1%82%D0%B5%D1%81%D0%BA%D0%B8/sandbox
+1 {\frac  {P_{1}}{T_{1}}}={\frac  {P_{2}}{T_{2}}}\qquad {\mathrm  {or}}\qquad {P_{1}}{T_{2}}={P_{2}}{T_{1}}.
+2 https://en.wikipedia.org/wiki/User:%D0%9D%D0%B5%D0%BD%D0%B0%D0%B4_%D0%9A%D1%80%D1%81%D1%82%D0%B5%D1%81%D0%BA%D0%B8/sandbox
+1 O(V^{2}E\log(VC))
+2 https://en.wikipedia.org/wiki/Network_simplex_method
+1 C
+2 https://en.wikipedia.org/wiki/Network_simplex_method
+1 O(VE\log V\log(VC))
+2 https://en.wikipedia.org/wiki/Network_simplex_method
+1 { \kappa (s)=Cte}
+2 https://en.wikipedia.org/wiki/Talk:Intrinsic_equation
+1 s
+2 https://en.wikipedia.org/wiki/Talk:Intrinsic_equation
+1 \kappa 
+2 https://en.wikipedia.org/wiki/Talk:Intrinsic_equation
+1 1 = \frac{1}{2}+\frac{1}{6}+\frac{1}{12}\cdots=\sum_{i=1}^{\infty} \frac{1}{i(i+1)}.
+2 https://en.wikipedia.org/wiki/Oblong_number
+1 \sum_{i=1}^{n} \frac{1}{i(i+1)} =\frac{n}{n+1}.
+2 https://en.wikipedia.org/wiki/Oblong_number
+1 (10n+5)^{2}=100n^{2}+100n+25=100n(n+1)+25\,
+2 https://en.wikipedia.org/wiki/Oblong_number
+1 1 = \frac{1}{2}+\frac{1}{6}+\frac{1}{12}\cdots=\sum_{i=1}^{\infty} \frac{1}{i(i+1)}.
+2 https://en.wikipedia.org/wiki/Rectangular_number
+1 \sum_{i=1}^{n} \frac{1}{i(i+1)} =\frac{n}{n+1}.
+2 https://en.wikipedia.org/wiki/Rectangular_number
+1 (10n+5)^{2}=100n^{2}+100n+25=100n(n+1)+25\,
+2 https://en.wikipedia.org/wiki/Rectangular_number
+1 { S(\xi )={\frac {9{\sqrt {3}}}{8\pi }}\xi \int _{0}^{\infty }K_{5/3}({\bar {\xi }})d{\bar {\xi }}}
+2 https://en.wikipedia.org/wiki/Quantum_excitation_%28accelerator_physics%29
+1 { d={\dot {N}}\langle u^{2}\rangle }
+2 https://en.wikipedia.org/wiki/Quantum_excitation_%28accelerator_physics%29
+1 { d={\frac {55}{24{\sqrt {3}}}}\alpha {\frac {\hbar }{mc}}{\frac {\gamma ^{5}}{|\rho |^{3}}}}
+2 https://en.wikipedia.org/wiki/Quantum_excitation_%28accelerator_physics%29
+1 { \sigma (n)=\sum _{d\mid n}d\,}
+2 https://en.wikipedia.org/wiki/Talk:Riemann_hypothesis/archive4
+1 \sigma(n) < e^\gamma n \log \log n \,
+2 https://en.wikipedia.org/wiki/Talk:Riemann_hypothesis/archive4
+1 { \sigma (n)\leq H_{n}+\ln(H_{n})e^{H_{n}}}
+2 https://en.wikipedia.org/wiki/Talk:Riemann_hypothesis/archive4
+1 { {\frac {dp^{\alpha }}{d\tau }}=qU_{\beta }F^{\alpha \beta }}
+2 https://en.wikipedia.org/wiki/Talk:Lorentz_force/Archive_3
+1 \mathbf {F} =q\left[-\nabla \phi -{\frac {\partial \mathbf {A} }{\partial t}}+\mathbf {v} \times (\nabla \times \mathbf {A} )\right]
+2 https://en.wikipedia.org/wiki/Talk:Lorentz_force/Archive_3
+1 { \mathbf {f} =\nabla \cdot \mathbf {T} -{\frac {1}{c^{2}}}{\frac {\partial \mathbf {S} }{\partial t}}\,\!}
+2 https://en.wikipedia.org/wiki/Talk:Lorentz_force/Archive_3
+1 O(\log \log n)
+2 https://en.wikipedia.org/wiki/Talk:Prime_number/Archive_4
+1 O(n^{{1.5}})
+2 https://en.wikipedia.org/wiki/Talk:Prime_number/Archive_4
+1 O(n)
+2 https://en.wikipedia.org/wiki/Talk:Prime_number/Archive_4
+1 1/(d_{i}d_{j})^{{1/2}}
+2 https://en.wikipedia.org/wiki/Randi%C4%87%E2%80%99s_molecular_connectivity_index
+1 d_{i}
+2 https://en.wikipedia.org/wiki/Randi%C4%87%E2%80%99s_molecular_connectivity_index
+1 d_{j}
+2 https://en.wikipedia.org/wiki/Randi%C4%87%E2%80%99s_molecular_connectivity_index
+1 Odd((e-2)*2^{w})
+2 https://en.wikipedia.org/wiki/RC5_encryption_algorithm
+1 Odd((\phi - 1) * 2^w)
+2 https://en.wikipedia.org/wiki/RC5_encryption_algorithm
+1 \phi 
+2 https://en.wikipedia.org/wiki/RC5_encryption_algorithm
+1 \mathrm {Sel} ^{(f)}(A/K)=\bigcap _{v}\mathrm {ker} (H^{1}(G_{K},\mathrm {ker} (f))\rightarrow H^{1}(G_{K_{v}},A_{v}[f])/\mathrm {im} (\kappa _{v}))
+2 https://en.wikipedia.org/wiki/Weil%E2%80%93Ch%C3%A2telet_group
+1 \kappa _{v}
+2 https://en.wikipedia.org/wiki/Weil%E2%80%93Ch%C3%A2telet_group
+1 B_{v}(K_{v})/f(A_{v}(K_{v}))\rightarrow H^{1}(G_{K_{v}},A_{v}[f])
+2 https://en.wikipedia.org/wiki/Weil%E2%80%93Ch%C3%A2telet_group
+1 \rightleftharpoons 
+2 https://en.wikipedia.org/wiki/Sulfur_dioxygenase
+1 { \mathbb {C} ^{1}}
+2 https://en.wikipedia.org/wiki/Talk:Strictly_convex_space
+1 { \|x\|:=x{\overline {x}}}
+2 https://en.wikipedia.org/wiki/Talk:Strictly_convex_space
+1 a * b + a * c = a * (b + c)
+2 https://en.wikipedia.org/wiki/Sethi-Ullman_algorithm
+1 a = (b + c+ f * g) * (d + 3)
+2 https://en.wikipedia.org/wiki/Sethi-Ullman_algorithm
+1 (b + c + f * g) * (d + 3)
+2 https://en.wikipedia.org/wiki/Sethi-Ullman_algorithm
+1 P(k)={{\mathrm  {B}}(k+a,\gamma ) \over {\mathrm  {B}}(k_{0}+a,\gamma -1)},
+2 https://en.wikipedia.org/wiki/Preferential_attachment
+1 {\mathrm  {B}}(x,y)={\Gamma (x)\Gamma (y) \over \Gamma (x+y)},
+2 https://en.wikipedia.org/wiki/Preferential_attachment
+1 \gamma =2+{k_{0}+a \over m}.
+2 https://en.wikipedia.org/wiki/Preferential_attachment
+1 P(k)\propto k^{{-\gamma }}.
+2 https://en.wikipedia.org/wiki/Preferential_attachment
+1 \overline \theta ^{\pm }
+2 https://en.wikipedia.org/wiki/Topological_string_theory
+1 \theta ^{-}
+2 https://en.wikipedia.org/wiki/Topological_string_theory
+1 \overline \theta ^{+}
+2 https://en.wikipedia.org/wiki/Topological_string_theory
+1 { {\widehat {\kappa }}=\left({\frac {P_{b}-P_{a}}{\left(1/a^{\widehat {\theta }}\right)-\left(1/b^{\widehat {\theta }}\right)}}\right)^{1/{\widehat {\theta }}}}
+2 https://en.wikipedia.org/wiki/Pareto_interpolation
+1 { {\widehat {\theta }}\;=\;{\frac {\log(1-P_{a})-\log(1-P_{b})}{\log(b)-\log(a)}}.}
+2 https://en.wikipedia.org/wiki/Pareto_interpolation
+1 { {\mbox{estimated median}}={\widehat {\kappa }}\cdot 2^{1/{\widehat {\theta }}},\,}
+2 https://en.wikipedia.org/wiki/Pareto_interpolation
+1 { {\mbox{median}}=\kappa \,2^{1/\theta }.\,}
+2 https://en.wikipedia.org/wiki/Pareto_interpolation
+1 S
+2 https://en.wikipedia.org/wiki/Talk:Median
+1 m
+2 https://en.wikipedia.org/wiki/Talk:Median
+1 { |\left\{s\in S|s>m\right\}|\leq {\frac {|S|}{2}}}
+2 https://en.wikipedia.org/wiki/Talk:Median
+1 { |\left\{s\in S|s<m\right\}|\leq {\frac {|S|}{2}}}
+2 https://en.wikipedia.org/wiki/Talk:Median
+1 \sigma (3/5)^{{1/2}}
+2 https://en.wikipedia.org/wiki/Talk:Mode_%28statistics%29
+1 \sigma 3^{{1/2}}
+2 https://en.wikipedia.org/wiki/Talk:Mode_%28statistics%29
+1 {-\log }P(x)
+2 https://en.wikipedia.org/wiki/Shannon%E2%80%93Fano_coding
+1  {\frac  {1}{2^{n}}}
+2 https://en.wikipedia.org/wiki/Shannon%E2%80%93Fano_coding
+1 {\frac  {2\,{\text{bits}}\cdot (15+7+6)+3\,{\text{bits}}\cdot (6+5)}{39\,{\text{symbols}}}}\approx 2.28\,{\text{bits per symbol.}}
+2 https://en.wikipedia.org/wiki/Shannon%E2%80%93Fano_coding
+1 {\frac  {1\,{\text{bit}}\cdot 15+3\,{\text{bits}}\cdot (7+6+6+5)}{39\,{\text{symbols}}}}\approx 2.23\,{\text{bits per symbol.}}
+2 https://en.wikipedia.org/wiki/Shannon%E2%80%93Fano_coding
+1 { l_{i}=\left\lceil {-\log }p_{i}\right\rceil }
+2 https://en.wikipedia.org/wiki/Shannon_coding
+1 { \sum \limits _{k=1}^{i-1}p_{k}}
+2 https://en.wikipedia.org/wiki/Shannon_coding
+1 \left\lceil x\right\rceil 
+2 https://en.wikipedia.org/wiki/Shannon_coding
+1 x
+2 https://en.wikipedia.org/wiki/Shannon_coding
+1 (n_{0},n_{1})
+2 https://en.wikipedia.org/wiki/PAQ
+1 n_{0}
+2 https://en.wikipedia.org/wiki/PAQ
+1 n_{1}
+2 https://en.wikipedia.org/wiki/PAQ
+1 (n_{0},n_{1})=(12,3)
+2 https://en.wikipedia.org/wiki/PAQ
+1 
+\begin{bmatrix}
+ -415 & -33 & -58 &  35 &  58 & -51 & -15 & -12 \
+    5 & -34 &  49 &  18 &  27 &   1 &  -5 &   3 \
+  -46 &  14 &  80 & -35 & -50 &  19 &   7 & -18 \
+  -53 &  21 &  34 & -20 &   2 &  34 &  36 &  12 \
+    9 &  -2 &   9 &  -5 & -32 & -15 &  45 &  37 \
+   -8 &  15 & -16 &   7 &  -8 &  11 &   4 &   7 \
+   19 & -28 &  -2 & -26 &  -2 &   7 & -44 & -21 \
+   18 &  25 & -12 & -44 &  35 &  48 & -37 & -3
+\end{bmatrix}
+
+2 https://en.wikipedia.org/wiki/Quantization_%28image_processing%29
+1 
+\begin{bmatrix}
+ 16 & 11 & 10 & 16 & 24 & 40 & 51 & 61 \
+ 12 & 12 & 14 & 19 & 26 & 58 & 60 & 55 \
+ 14 & 13 & 16 & 24 & 40 & 57 & 69 & 56 \
+ 14 & 17 & 22 & 29 & 51 & 87 & 80 & 62 \
+ 18 & 22 & 37 & 56 & 68 & 109 & 103 & 77 \
+ 24 & 35 & 55 & 64 & 81 & 104 & 113 & 92 \
+ 49 & 64 & 78 & 87 & 103 & 121 & 120 & 101 \
+ 72 & 92 & 95 & 98 & 112 & 100 & 103 & 99
+\end{bmatrix}
+
+2 https://en.wikipedia.org/wiki/Quantization_%28image_processing%29
+1 
+\begin{bmatrix}
+ -26 & -3 & -6 &  2 &  2 & -1 & 0 & 0 \
+   0 & -3 & 4 &  1 &  1 &  0 & 0 & 0 \
+  -3 &  1 &  5 & -1 & -1 &  0 & 0 & 0 \
+  -4 &  1 &  2 & -1 &  0 &  0 & 0 & 0 \
+   1 &  0 &  0 &  0 &  0 &  0 & 0 & 0 \
+   0 &  0 &  0 &  0 &  0 &  0 & 0 & 0 \
+   0 &  0 &  0 &  0 &  0 &  0 & 0 & 0 \
+   0 &  0 &  0 &  0 &  0 &  0 & 0 & 0
+\end{bmatrix}
+
+2 https://en.wikipedia.org/wiki/Quantization_%28image_processing%29
+1 
+\mathrm{round}
+\left(
+ \frac{-415}{16}
+\right)
+=
+\mathrm{round}
+\left(
+ -25.9375
+\right)
+=-26
+
+2 https://en.wikipedia.org/wiki/Quantization_%28image_processing%29
+1 \mathcal{A}=A_1 A_2 \ldots A_{n+1}.
+2 https://en.wikipedia.org/wiki/Sperner%27s_lemma
+1 {\mathcal {A}}
+2 https://en.wikipedia.org/wiki/Sperner%27s_lemma
+1 A_{i_1}A_{i_2}\ldots A_{i_{k+1}}
+2 https://en.wikipedia.org/wiki/Sperner%27s_lemma
+1 i_1,i_2,\ldots,i_{k+1}.
+2 https://en.wikipedia.org/wiki/Sperner%27s_lemma
+1 { \operatorname {cov} (X,X)}
+2 https://en.wikipedia.org/wiki/Regularized_canonical_correlation_analysis
+1 { \operatorname {cov} (Y,Y)}
+2 https://en.wikipedia.org/wiki/Regularized_canonical_correlation_analysis
+1 { \operatorname {cov} (X,X)+\lambda I_{X}}
+2 https://en.wikipedia.org/wiki/Regularized_canonical_correlation_analysis
+1 { \operatorname {cov} (Y,Y)+\lambda I_{Y}}
+2 https://en.wikipedia.org/wiki/Regularized_canonical_correlation_analysis
+1 {  {\frac {4}{9}}=\left({\frac {2}{3}}\right)^{2}}
+2 https://en.wikipedia.org/wiki/Perfect_squares
+1 n^2 = \sum_{k=1}^n(2k-1).
+2 https://en.wikipedia.org/wiki/Perfect_squares
+1 \sum_{n=0}^N n^2 = 0^2 + 1^2 + 2^2 + 3^2 + 4^2 + \cdots + N^2
+2 https://en.wikipedia.org/wiki/Perfect_squares
+1 \frac{N(N+1)(2N+1)}{6}.
+2 https://en.wikipedia.org/wiki/Perfect_squares
+1 E
+2 https://en.wikipedia.org/wiki/Ryll-Nardzewski_fixed_point_theorem
+1 K
+2 https://en.wikipedia.org/wiki/Ryll-Nardzewski_fixed_point_theorem
+1  \mathbb {I} 
+2 https://en.wikipedia.org/wiki/Square_root_of_negative_numbers
+1 { 6={\sqrt {36}}={\sqrt {(-4)(-9)}}\neq {\sqrt {-4}}{\sqrt {-9}}=(2i)(3i)=6i^{2}=-6.}
+2 https://en.wikipedia.org/wiki/Square_root_of_negative_numbers
+1 { -1=i^{2}={\sqrt {-1}}{\sqrt {-1}}{\stackrel {\text{ (fallacy) }}{=}}{\sqrt {(-1)(-1)}}={\sqrt {1}}=1,}
+2 https://en.wikipedia.org/wiki/Square_root_of_negative_numbers
+1 { {\sqrt {xy}}={\sqrt {x}}{\sqrt {y}}}
+2 https://en.wikipedia.org/wiki/Square_root_of_negative_numbers
+1 { \pi =3+{\cfrac {1}{6+{\cfrac {9}{6+{\cfrac {25}{6+{\cfrac {49}{6+{\cfrac {81}{6+{\cfrac {121}{\ddots \,}}}}}}}}}}}}}
+2 https://en.wikipedia.org/wiki/User:DavidCBryant/Rants
+1 { \pi =3+{\cfrac {1}{7+{\cfrac {1}{15+{\cfrac {1}{1+{\cfrac {1}{292+{\cfrac {1}{1+{\cfrac {1}{\ddots \,}}}}}}}}}}}}}
+2 https://en.wikipedia.org/wiki/User:DavidCBryant/Rants
+1 \tau =|{\mathbf {r}}\times {\mathbf {F}}|=rF\sin({\mathbf {r}},{\mathbf {F}})
+2 https://en.wikipedia.org/wiki/Motor
+1 P={\frac {\mathrm {d} W}{\mathrm {d} t}}
+2 https://en.wikipedia.org/wiki/Motor
+1 P={\mathbf {F}}\cdot {\mathbf {v}}
+2 https://en.wikipedia.org/wiki/Motor
+1 P=\tau \omega 
+2 https://en.wikipedia.org/wiki/Motor
+1 2\pi ^{2}r^{3}\,
+2 https://en.wikipedia.org/wiki/Talk:3-sphere
+1 {\frac  {1}{2}}\pi ^{2}r^{4}\,
+2 https://en.wikipedia.org/wiki/Talk:3-sphere
+1 4\pi r^{2}
+2 https://en.wikipedia.org/wiki/Talk:3-sphere
+1 \sum _{{i=0}}^{3}(x_{i}-C_{i})^{2}=(x_{0}-C_{0})^{2}+(x_{1}-C_{1})^{2}+(x_{2}-C_{2})^{2}+(x_{3}-C_{3})^{2}=r^{2}.
+2 https://en.wikipedia.org/wiki/Talk:3-sphere
+1 A_{5}
+2 https://en.wikipedia.org/wiki/Talk:120-cell
+1 { 3-{\sqrt {5}}}
+2 https://en.wikipedia.org/wiki/Talk:120-cell
+1 A=D+L+L^T
+2 https://en.wikipedia.org/wiki/SSOR
+1 M=(D+L) D^{-1} (D+L)^T
+2 https://en.wikipedia.org/wiki/SSOR
+1 \omega 
+2 https://en.wikipedia.org/wiki/SSOR
+1 M(\omega)={\omega\over{2-\omega}} \left ( {1\over\omega} D + L \right ) \left ( D \right)^{-1} \left ( {1\over\omega} D + L\right)^T
+2 https://en.wikipedia.org/wiki/SSOR
+1 M
+2 https://en.wikipedia.org/wiki/User_talk:Cokaban
+1 N
+2 https://en.wikipedia.org/wiki/User_talk:Cokaban
+1 dx
+2 https://en.wikipedia.org/wiki/User_talk:Cokaban
+1 |dx|
+2 https://en.wikipedia.org/wiki/User_talk:Cokaban
+1 { L=\int _{0}^{1}{\sqrt {1+\left({\frac {dy}{dx}}\right)^{2}}}\,dx=\int _{0}^{1}{\sqrt {1+x^{2}}}\,dx.}
+2 https://en.wikipedia.org/wiki/Talk:Integral_of_secant_cubed
+1 { \int _{0}^{\pi /4}\sec ^{3}\theta \,d\theta .}
+2 https://en.wikipedia.org/wiki/Talk:Integral_of_secant_cubed
+1 {  {\sqrt {1+x^{2}}}}
+2 https://en.wikipedia.org/wiki/Talk:Integral_of_secant_cubed
+1  {}\int \sec ^{3}x\,dx
+2 https://en.wikipedia.org/wiki/Talk:Integral_of_secant_cubed
+1 E=nh\nu\,
+2 https://en.wikipedia.org/wiki/Planck_postulate
+1 n
+2 https://en.wikipedia.org/wiki/Planck_postulate
+1 h
+2 https://en.wikipedia.org/wiki/Planck_postulate
+1 \nu 
+2 https://en.wikipedia.org/wiki/Planck_postulate
+1 { f(\epsilon _{ij})=\lambda \left(\sum _{i=1}^{3}\epsilon _{ii}\right)^{2}+2\mu \sum _{i=1}^{3}\sum _{j=1}^{3}\epsilon _{ij}^{2}}
+2 https://en.wikipedia.org/wiki/Talk:Elastic_energy
+1 { f(\epsilon _{ij})={\frac {1}{2}}\lambda \left(\sum _{i=1}^{3}\epsilon _{ii}\right)^{2}+\mu \sum _{i=1}^{3}\sum _{j=1}^{3}\epsilon _{ij}^{2}}
+2 https://en.wikipedia.org/wiki/Talk:Elastic_energy
+1 { \sigma _{ij}=\left({\frac {\partial f}{\partial \epsilon _{ij}}}\right)_{S}.}
+2 https://en.wikipedia.org/wiki/Talk:Elastic_energy
+1 { \sigma _{ij}=\lambda ~\varepsilon _{kk}~\delta _{ij}+2\mu ~\varepsilon _{ij}}
+2 https://en.wikipedia.org/wiki/Talk:Elastic_energy
+1 l_m = c t / 2
+2 https://en.wikipedia.org/wiki/Ultrasonic_thickness_measurement
+1 l_m
+2 https://en.wikipedia.org/wiki/Ultrasonic_thickness_measurement
+1 c
+2 https://en.wikipedia.org/wiki/Ultrasonic_thickness_measurement
+1 t
+2 https://en.wikipedia.org/wiki/Ultrasonic_thickness_measurement
+1 \xi ={\frac  {p}{Z\cdot \omega }}
+2 https://en.wikipedia.org/wiki/Talk:Piezoelectricity
+1 85=20\,\log _{{10}}\left({\frac  {p}{20\mu Pa}}\right){\mbox{ dB}}
+2 https://en.wikipedia.org/wiki/Talk:Piezoelectricity
+1 \omega =2\pi 2300=14450
+2 https://en.wikipedia.org/wiki/Talk:Piezoelectricity
+1 { {\begin{aligned}{\boldsymbol {S}}&={\mathsf {s}}\,{\boldsymbol {T}}\color {red}{-}{\mathfrak {d}}^{t}\,\mathbf {E} \\mathbf {D} &={\mathfrak {d}}\,{\boldsymbol {T}}+{\boldsymbol {\varepsilon }}\,\mathbf {E} .\end{aligned}}}
+2 https://en.wikipedia.org/wiki/Talk:Piezoelectricity
+1 n_{1}={\sqrt  {n_{0}n_{S}}}
+2 https://en.wikipedia.org/wiki/Optical_coating
+1 n_{1}
+2 https://en.wikipedia.org/wiki/Optical_coating
+1 n_{0}
+2 https://en.wikipedia.org/wiki/Optical_coating
+1 n_{S}
+2 https://en.wikipedia.org/wiki/Optical_coating
+1 \pi 
+2 https://en.wikipedia.org/wiki/Talk:Ancient_Egyptian_mathematics
+1 { 1/n2n=1}
+2 https://en.wikipedia.org/wiki/Talk:Ancient_Egyptian_mathematics
+1 { 1/n4n=1}
+2 https://en.wikipedia.org/wiki/Talk:Ancient_Egyptian_mathematics
+1 { 1/n6n=1}
+2 https://en.wikipedia.org/wiki/Talk:Ancient_Egyptian_mathematics
+1 \omega(a_1a_2 \dots a_p)=\left\{
+\begin{matrix}
+\omega(a_1,\dots,a_p)&(\omega\in \Omega^pM)\
+0&(\omega\not\in\Omega^pM)
+\end{matrix}\right.
+
+2 https://en.wikipedia.org/wiki/Schouten%E2%80%93Nijenhuis_bracket
+1 [a_1\cdots a_m,b_1\cdots b_n]=\sum_{i,j}(-1)^{i+j}[a_i,b_j]a_1\cdots a_{i-1}a_{i+1}\cdots a_mb_1\cdots b_{j-1}b_{j+1}\cdots b_n
+2 https://en.wikipedia.org/wiki/Schouten%E2%80%93Nijenhuis_bracket
+1 [f,a_1\cdots a_m] = -i_{df}(a_1 \cdots a_m)
+2 https://en.wikipedia.org/wiki/Schouten%E2%80%93Nijenhuis_bracket
+1 (-1)^{(|a|-1)(|c|-1)}[a,[b,c]]+(-1)^{(|b|-1)(|a|-1)}[b,[c,a]]+(-1)^{(|c|-1)(|b|-1)}[c,[a,b]] = 0.\,
+2 https://en.wikipedia.org/wiki/Schouten%E2%80%93Nijenhuis_bracket
+1 x\mapsto {\bar  {x}}
+2 https://en.wikipedia.org/wiki/Structurable_algebra
+1 V_{{x,y}}z:=(x{\bar  {y}})z+(z{\bar  {y}})x-(z{\bar  {x}})y
+2 https://en.wikipedia.org/wiki/Structurable_algebra
+1 [x,y]=xy-yx
+2 https://en.wikipedia.org/wiki/Structurable_algebra
+1 [V_{{x,y}},V_{{z,w}}]=V_{{V_{{x,y}}z,w}}-V_{{z,V_{{y,x}}w}}.
+2 https://en.wikipedia.org/wiki/Structurable_algebra
+1 Y_{t}=\alpha _{0}+\alpha _{1}Y_{t-1}+\alpha _{2}Y_{t-2}+\cdots +\alpha _{p}Y_{t-p}+\varepsilon _{t}\,
+2 https://en.wikipedia.org/wiki/Time_series_prediction
+1 E[\varepsilon _{t}]=0\,,
+2 https://en.wikipedia.org/wiki/Time_series_prediction
+1 E[\varepsilon _{t}^{2}]=\sigma ^{2}\,,
+2 https://en.wikipedia.org/wiki/Time_series_prediction
+1 { E[\varepsilon _{t}\varepsilon _{s}]=0\quad \forall t\not =s\,.}
+2 https://en.wikipedia.org/wiki/Time_series_prediction
+1 \!a(t)={\frac {1}{1+z}}
+2 https://en.wikipedia.org/wiki/Observable_universe
+1 \rho _{c}
+2 https://en.wikipedia.org/wiki/Observable_universe
+1 \rho _{c}={\frac {3H_{0}^{2}}{8\pi G}}
+2 https://en.wikipedia.org/wiki/Observable_universe
+1 H_{0}
+2 https://en.wikipedia.org/wiki/Observable_universe
+1 { \mathbf {E} \approx \mathbf {e} \approx {\boldsymbol {\varepsilon }}={\frac {1}{2}}\left(\mathbf {u} \nabla ^{T}+\mathbf {u} \nabla \right)\,\!}
+2 https://en.wikipedia.org/wiki/Talk:Infinitesimal_strain_theory
+1 { \mathbf {E} \approx \mathbf {e} \approx {\boldsymbol {\varepsilon }}={\frac {1}{2}}\left(\mathbf {\nabla } \mathbf {u} +(\mathbf {\nabla } \mathbf {u} )^{T}\right)\,\!}
+2 https://en.wikipedia.org/wiki/Talk:Infinitesimal_strain_theory
+1 \|\nabla {\mathbf  u}\|\ll 1\,\!
+2 https://en.wikipedia.org/wiki/Talk:Infinitesimal_strain_theory
+1 { \mathbf {e} ={\frac {1}{2}}\left(\nabla _{\mathbf {x} }\mathbf {u} +(\nabla _{\mathbf {x} }\mathbf {u} )^{T}+\nabla _{\mathbf {x} }\mathbf {u} (\nabla _{\mathbf {x} }\mathbf {u} )^{T}\right)\approx {\frac {1}{2}}\left(\nabla _{\mathbf {x} }\mathbf {u} +(\nabla _{\mathbf {x} }\mathbf {u} )^{T}\right)\,\!}
+2 https://en.wikipedia.org/wiki/Talk:Infinitesimal_strain_theory
+1 \sigma ^{2}
+2 https://en.wikipedia.org/wiki/Talk:Inverse_Gaussian_distribution
+1 { L(\mu ,\lambda )=\left({\frac {\lambda }{2\pi }}\right)^{\frac {n}{2}}\left(\prod _{i=1}^{n}{\frac {w_{i}}{X_{i}^{3}}}\right)^{\frac {1}{2}}\exp \left({\frac {\lambda }{\mu }}-{\frac {\lambda }{2\mu ^{2}}}\sum _{i=1}^{n}w_{i}X_{i}-{\frac {\lambda }{2}}\sum _{i=1}^{n}w_{i}{\frac {1}{X_{i}}}\right).}
+2 https://en.wikipedia.org/wiki/Talk:Inverse_Gaussian_distribution
+1 { Y={\frac {1}{X}}}
+2 https://en.wikipedia.org/wiki/Talk:Inverse_Gaussian_distribution
+1 w_{i}
+2 https://en.wikipedia.org/wiki/Talk:Inverse_Gaussian_distribution
+1 r\,N^{2}D^{5}
+2 https://en.wikipedia.org/wiki/Torque_converter
+1 r
+2 https://en.wikipedia.org/wiki/Torque_converter
+1 N
+2 https://en.wikipedia.org/wiki/Torque_converter
+1 D
+2 https://en.wikipedia.org/wiki/Torque_converter
+1 I=S{\sqrt  {t}}\ 
+2 https://en.wikipedia.org/wiki/Sorptivity
+1 I=S{\sqrt  {t}}\ +A_{1}t
+2 https://en.wikipedia.org/wiki/Sorptivity
+1 i=0.5S/{\sqrt  {t}}\ +A_{1}
+2 https://en.wikipedia.org/wiki/Sorptivity
+1 S(\theta _{0},\theta _{i})={\frac  {(\theta _{0}-\theta _{i})L_{f}}{t^{{1/2}}}}
+2 https://en.wikipedia.org/wiki/Sorptivity
+1 { -\triangle u=|u|^{p-1}u,{\text{ with  }}u\mid _{\partial \Omega }=0.}
+2 https://en.wikipedia.org/wiki/Nehari_manifold
+1 { J(v)={\frac {1}{2}}\int _{\Omega }{|\nabla v|^{2}\,d\mu }-{\frac {1}{p+1}}\int _{\Omega }{|v|^{p+1}\,d\mu }}
+2 https://en.wikipedia.org/wiki/Nehari_manifold
+1 { \|\nabla v\|_{L^{2}(\Omega )}^{2}=\|v\|_{L^{p+1}(\Omega )}^{p+1}>0.}
+2 https://en.wikipedia.org/wiki/Nehari_manifold
+1 { \langle J'(u),u\rangle =0.\,}
+2 https://en.wikipedia.org/wiki/Nehari_manifold
+1 { \int n_{e}(s)\,ds}
+2 https://en.wikipedia.org/wiki/Total_electron_content
+1 \tau _{p}^{{\mathrm  {iono}}}=-\kappa {\frac  {{\mathrm  {TEC}}}{f^{2}}}
+2 https://en.wikipedia.org/wiki/Total_electron_content
+1 \tau _{g}^{{\mathrm  {iono}}}=-\tau _{p}^{{\mathrm  {iono}}}
+2 https://en.wikipedia.org/wiki/Total_electron_content
+1 \kappa =q^{2}/(8\pi ^{2}m_{e}\epsilon _{0})=c^{2}r_{e}/(2\pi )
+2 https://en.wikipedia.org/wiki/Total_electron_content
+1 \alpha =P({\text{test rejects }}H_{0}|H_{0}).\,
+2 https://en.wikipedia.org/wiki/Size_%28statistics%29
+1 \alpha =\sup _{{h\in H_{0}}}P({\text{test rejects }}H_{0}|h).\,
+2 https://en.wikipedia.org/wiki/Size_%28statistics%29
+1 \alpha 
+2 https://en.wikipedia.org/wiki/Size_%28statistics%29
+1 \pi 
+2 https://en.wikipedia.org/wiki/Risk_premium
+1 u(r_f) = Eu(r_f + \pi + x).
+2 https://en.wikipedia.org/wiki/Risk_premium
+1 u(C)=Eu(r);
+2 https://en.wikipedia.org/wiki/Risk_premium
+1 { P(\theta _{up}<\theta |0)}
+2 https://en.wikipedia.org/wiki/Talk:CLs_method_%28particle_physics%29
+1 { P(\theta _{up}<\theta |\theta =0)}
+2 https://en.wikipedia.org/wiki/Talk:CLs_method_%28particle_physics%29
+1 { P(\theta _{up}<0)}
+2 https://en.wikipedia.org/wiki/Talk:CLs_method_%28particle_physics%29
+1 { P(A<b|b=c)=P(A<c)}
+2 https://en.wikipedia.org/wiki/Talk:CLs_method_%28particle_physics%29
+1 { {}^{n}x}
+2 https://en.wikipedia.org/wiki/User:Sam_Derbyshire/Gallery
+1 \frac{W(-\ln(z))}{-\ln(z)}
+2 https://en.wikipedia.org/wiki/User:Sam_Derbyshire/Gallery
+1 { \left|{\frac {W(-\ln(z))}{-\ln(z)}}\right|}
+2 https://en.wikipedia.org/wiki/User:Sam_Derbyshire/Gallery
+1 { {}^{\infty }x}
+2 https://en.wikipedia.org/wiki/User:Sam_Derbyshire/Gallery
+1 { {\rm {var}}({\hat {\beta }}_{j})={\frac {\sigma ^{2}}{(n-1){\widehat {\rm {var}}}(X_{j})}}\cdot {\frac {1}{1-R_{j}^{2}}},}
+2 https://en.wikipedia.org/wiki/Talk:Multicollinearity
+1 { R_{j}^{2}}
+2 https://en.wikipedia.org/wiki/Talk:Multicollinearity
+1 { {\frac {1}{1-R_{j}^{2}}}}
+2 https://en.wikipedia.org/wiki/Talk:Multicollinearity
+1 { R_{j}^{2}=1}
+2 https://en.wikipedia.org/wiki/Talk:Multicollinearity
+1 z_{0}
+2 https://en.wikipedia.org/wiki/Talk:All-pass_filter
+1 z_0^{-1}
+2 https://en.wikipedia.org/wiki/Talk:All-pass_filter
+1 (z_0^*)^{-1}
+2 https://en.wikipedia.org/wiki/Talk:All-pass_filter
+1 \Gamma 
+2 https://en.wikipedia.org/wiki/Rankine_vortex
+1 R
+2 https://en.wikipedia.org/wiki/Rankine_vortex
+1 { u_{\theta }(r)={\begin{cases}\Gamma r/(2\pi R^{2})&r\leq R,\\Gamma /(2\pi r)&r>R.\end{cases}}}
+2 https://en.wikipedia.org/wiki/Rankine_vortex
+1 { \mathbf {u} =u_{\theta }\ \mathbf {e_{\theta }} }
+2 https://en.wikipedia.org/wiki/Rankine_vortex
+1 \ J_{v}=K_{{\mathrm  {f}}}([P_{{\mathrm  {c}}}-P_{{\mathrm  {i}}}]-\sigma [\pi _{{\mathrm  {c}}}-\pi _{{\mathrm  {i}}}])
+2 https://en.wikipedia.org/wiki/Starling_equation
+1  J_v 
+2 https://en.wikipedia.org/wiki/Starling_equation
+1 [P_{{\mathrm  {c}}}-P_{{\mathrm  {i}}}]-\sigma [\pi _{{\mathrm  {c}}}-\pi _{{\mathrm  {i}}}]
+2 https://en.wikipedia.org/wiki/Starling_equation
+1 h_{j}
+2 https://en.wikipedia.org/wiki/Talk:Delta_rule
+1 { \omega _{ji}}
+2 https://en.wikipedia.org/wiki/Talk:Delta_rule
+1 { \omega _{ij}}
+2 https://en.wikipedia.org/wiki/Talk:Delta_rule
+1 { \ell (y)=\max(0,-t\cdot y)}
+2 https://en.wikipedia.org/wiki/Talk:Delta_rule
+1 n_p
+2 https://en.wikipedia.org/wiki/Talk:Supernatural_number
+1 { 1=2^{0}3^{0}5^{0}\cdots }
+2 https://en.wikipedia.org/wiki/Talk:Supernatural_number
+1 { 0=2^{\infty }3^{\infty }5^{\infty }\cdots .}
+2 https://en.wikipedia.org/wiki/Talk:Supernatural_number
+1 1/a^{2}
+2 https://en.wikipedia.org/wiki/Talk:Residue_theorem
+1 a
+2 https://en.wikipedia.org/wiki/Talk:Residue_theorem
+1 a\rightarrow\infty
+2 https://en.wikipedia.org/wiki/Talk:Residue_theorem
+1 \frac{1}{2i}\left(\frac{1}{z-i}-\frac{1}{z+i}\right)=\frac{1}{2i}\left(\frac{z+i}{z^2+1}-\frac{z-i}{z^2+1}\right)=\frac{1}{2i}\left(\frac{2i}{z^2+1}\right)=\frac{1}{z^2+1}.
+2 https://en.wikipedia.org/wiki/Talk:Residue_theorem
+1 V(\lambda)
+2 https://en.wikipedia.org/wiki/Talk:Candela
+1 1Cd={\frac  {1W/683}{V(l)}}
+2 https://en.wikipedia.org/wiki/Talk:Candela
+1 \lambda 
+2 https://en.wikipedia.org/wiki/Talk:Candela
+1 I(\lambda )={\frac  {1}{683V(\lambda )}}\ {\mathrm  {W/sr}}
+2 https://en.wikipedia.org/wiki/Talk:Candela
+1 R_s
+2 https://en.wikipedia.org/wiki/Test_lead
+1 R
+2 https://en.wikipedia.org/wiki/Test_lead
+1 N
+2 https://en.wikipedia.org/wiki/Test_lead
+1 R_s = R / N^2
+2 https://en.wikipedia.org/wiki/Test_lead
+1 { K=\lim _{n\to \infty }\left[\sum _{k=1}^{n}{r_{2}(k) \over k}-\pi \ln n\right]}
+2 https://en.wikipedia.org/wiki/Sierpinski%27s_constant
+1 { {\begin{aligned}K&=\pi \left(2\ln 2+3\ln \pi +2\gamma -4\ln \Gamma \left({\frac {1}{4}}\right)\right)\&=\pi \ln \left({\frac {4\pi ^{3}e^{2\gamma }}{\Gamma \left({\frac {1}{4}}\right)^{4}}}\right)\&=\pi \ln \left({\frac {e^{2\gamma }}{2G^{2}}}\right)\&=2.584981759579253217065893587383\dots \end{aligned}}}
+2 https://en.wikipedia.org/wiki/Sierpinski%27s_constant
+1 G
+2 https://en.wikipedia.org/wiki/Sierpinski%27s_constant
+1 \gamma 
+2 https://en.wikipedia.org/wiki/Sierpinski%27s_constant
+1 e^{e^{e^{79}}}{\mbox{.}}\!
+2 https://en.wikipedia.org/wiki/Ultraintuitionism
+1 2\uparrow \uparrow \uparrow 6
+2 https://en.wikipedia.org/wiki/Ultraintuitionism
+1 { X\rightarrow X'}
+2 https://en.wikipedia.org/wiki/Talk:Relative_homology
+1 { H_{n}(X,x_{0})\cong H_{n}(X)}
+2 https://en.wikipedia.org/wiki/Talk:Relative_homology
+1 { n\neq 0}
+2 https://en.wikipedia.org/wiki/Talk:Relative_homology
+1 C_\bullet
+2 https://en.wikipedia.org/wiki/Talk:Relative_homology
+1 t\rightarrow \infty
+2 https://en.wikipedia.org/wiki/Talk:Discounted_cash_flow
+1 { i\rightarrow 0}
+2 https://en.wikipedia.org/wiki/Talk:Discounted_cash_flow
+1 { i\times t}
+2 https://en.wikipedia.org/wiki/Talk:Discounted_cash_flow
+1 { {\frac {130000}{1.05^{3}}}=112299;112299-100000=12299\neq -3000.}
+2 https://en.wikipedia.org/wiki/Talk:Discounted_cash_flow
+1 { (\forall i\in \omega )(\exists f)(f:\omega \leftrightarrow S_{i})}
+2 https://en.wikipedia.org/wiki/Talk:Axiom_of_choice/Archive_2/Ben
+1 { (\exists f)(\forall i\in \omega )(f(i):\omega \leftrightarrow S_{i})}
+2 https://en.wikipedia.org/wiki/Talk:Axiom_of_choice/Archive_2/Ben
+1 { f:A\leftrightarrow B}
+2 https://en.wikipedia.org/wiki/Talk:Axiom_of_choice/Archive_2/Ben
+1 { f:A\approx B}
+2 https://en.wikipedia.org/wiki/Talk:Axiom_of_choice/Archive_2/Ben
+1 { \Delta f}
+2 https://en.wikipedia.org/wiki/Talk:SQUID
+1 { V_{n}={\sqrt {4k_{B}TR\Delta f}}}
+2 https://en.wikipedia.org/wiki/Talk:SQUID
+1 { V_{n}/{\sqrt {\Delta f}}}
+2 https://en.wikipedia.org/wiki/Talk:SQUID
+1 V_{n}
+2 https://en.wikipedia.org/wiki/Talk:SQUID
+1 { \sigma _{1}>\kappa \sigma _{2}}
+2 https://en.wikipedia.org/wiki/Talk:Modern_portfolio_theory
+1 { \sigma _{2}>\kappa \sigma _{1}}
+2 https://en.wikipedia.org/wiki/Talk:Modern_portfolio_theory
+1 \rho =1
+2 https://en.wikipedia.org/wiki/Talk:Modern_portfolio_theory
+1 \rho =0
+2 https://en.wikipedia.org/wiki/Talk:Modern_portfolio_theory
+1 t_{D}=2\cdot {\frac {D}{c}}=2\cdot {\frac {2.5\;\mathrm {m} }{300\;000\;000\;{\frac {\mathrm {m} }{\mathrm {s} }}}}=0.000\;000\;016\;66\;\mathrm {s} =16.66\;\mathrm {ns} 
+2 https://en.wikipedia.org/wiki/Range_gate
+1 D_{\mathrm {max} }={\frac {1}{2}}\cdot c\cdot t_{0}={\frac {1}{2}}\cdot 300\;000\;000\;{\frac {\mathrm {m} }{\mathrm {s} }}\cdot 0.000\;000\;05\;\mathrm {s} =\!\ 7.5\;\mathrm {m} 
+2 https://en.wikipedia.org/wiki/Range_gate
+1 D={\frac {1}{2}}\cdot c\cdot t_{0}\cdot {\frac {S2}{S1+S2}}
+2 https://en.wikipedia.org/wiki/Range_gate
+1 D=7.5\;\mathrm {m} \cdot {\frac {0.33}{0.33+0.66}}=2.5\;\mathrm {m} 
+2 https://en.wikipedia.org/wiki/Range_gate
+1 { {\frac {P\cdot L}{\sigma _{n}^{2}}}}
+2 https://en.wikipedia.org/wiki/Talk:Beamforming
+1 \sigma _{n}^{2}
+2 https://en.wikipedia.org/wiki/Talk:Beamforming
+1 { {L}}
+2 https://en.wikipedia.org/wiki/Talk:Beamforming
+1 2^{0}=1
+2 https://en.wikipedia.org/wiki/Talk:Power_of_two
+1 { {\sqrt {2^{6}}}=8=2^{3}}
+2 https://en.wikipedia.org/wiki/Talk:Power_of_two
+1 { {\sqrt {2^{5}}}}
+2 https://en.wikipedia.org/wiki/Talk:Power_of_two
+1 { \sum _{k=-\infty }^{n}2^{k}=2^{n+1}.}
+2 https://en.wikipedia.org/wiki/Talk:Power_of_two
+1 S_{2m+1}=\frac{\left(1 + \sqrt{2}\right)^{2m+1} + \left(1 - \sqrt{2}\right)^{2m+1}}{2}.
+2 https://en.wikipedia.org/wiki/Newman%E2%80%93Shanks%E2%80%93Williams_number
+1 S_0=1 \, 
+2 https://en.wikipedia.org/wiki/Newman%E2%80%93Shanks%E2%80%93Williams_number
+1 S_1=1 \, 
+2 https://en.wikipedia.org/wiki/Newman%E2%80%93Shanks%E2%80%93Williams_number
+1 S_n=2S_{n-1}+S_{n-2}\qquad\text{for all }n\geq 2.
+2 https://en.wikipedia.org/wiki/Newman%E2%80%93Shanks%E2%80%93Williams_number
+1 { 10^{n}+3}
+2 https://en.wikipedia.org/wiki/Talk:Happy_number
+1 { 10^{n}+9}
+2 https://en.wikipedia.org/wiki/Talk:Happy_number
+1 { {\begin{cases}b,&n=1\(b-1)b^{\left\lfloor {\frac {n-1}{2}}\right\rfloor },&n>1\end{cases}}}
+2 https://en.wikipedia.org/wiki/Talk:Palindromic_number
+1 \left\lfloor x\right\rfloor 
+2 https://en.wikipedia.org/wiki/Talk:Palindromic_number
+1 { {\frac {1}{b^{\left\lfloor {\frac {n-1}{2}}\right\rfloor }}}}
+2 https://en.wikipedia.org/wiki/Talk:Palindromic_number
+1 { {\frac {b^{\left\lfloor {\frac {n+1}{2}}\right\rfloor }+b^{\left\lfloor {\frac {n}{2}}\right\rfloor }-1}{b^{n}}}}
+2 https://en.wikipedia.org/wiki/Talk:Palindromic_number
+1 n=\sum_{i=0}^ka_ib^i
+2 https://en.wikipedia.org/wiki/Palindrome_number
+1 1221_4=151_8=77_{14}=55_{20}=33_{34}=11_{104}
+2 https://en.wikipedia.org/wiki/Palindrome_number
+1 1991_{10}=7C7_{16}
+2 https://en.wikipedia.org/wiki/Palindrome_number
+1 { (1001)^{6}=1,006,015,020,015,006,001}
+2 https://en.wikipedia.org/wiki/Palindrome_number
+1 A\rightarrow B/C\underline {\quad }D
+2 https://en.wikipedia.org/wiki/Phonological_opacity
+1 C\underline {\quad }D
+2 https://en.wikipedia.org/wiki/Phonological_opacity
+1 \lim _{{n\to \infty }}x^{n}-a_{n}=0
+2 https://en.wikipedia.org/wiki/Talk:Pisot%E2%80%93Vijayaraghavan_number
+1 x^{3}-x-1=0
+2 https://en.wikipedia.org/wiki/Talk:Pisot%E2%80%93Vijayaraghavan_number
+1 (x-1)(x^{10} + x^9 -x^7 -x^6 -x^5 -x^4 -x^3 +x +1) = 0 
+2 https://en.wikipedia.org/wiki/Talk:Pisot%E2%80%93Vijayaraghavan_number
+1 x^n(x^3-x-1) = -(x^3+x^2-1) 
+2 https://en.wikipedia.org/wiki/Talk:Pisot%E2%80%93Vijayaraghavan_number
+1 v(t)=cos(\omega t)V\,
+2 https://en.wikipedia.org/wiki/Talk:Direct_current
+1 v_{{rms}}={\frac  {1}{{\sqrt  {2}}}}V\,
+2 https://en.wikipedia.org/wiki/Talk:Direct_current
+1 v(t)=cos(0t)V=1V\,
+2 https://en.wikipedia.org/wiki/Talk:Direct_current
+1 1\div (sampling\ period)
+2 https://en.wikipedia.org/wiki/Talk:Direct_current
+1 { U\left(p,x\right)=p+x}
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Economics/Archive_2
+1 { U\left(p,x\right)=p\cdot x}
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Economics/Archive_2
+1 H
+2 https://en.wikipedia.org/wiki/Reference_point_indentation
+1 P_{max}
+2 https://en.wikipedia.org/wiki/Reference_point_indentation
+1 A_{r}
+2 https://en.wikipedia.org/wiki/Reference_point_indentation
+1 { H={\frac {P_{max}}{A_{r}}}}
+2 https://en.wikipedia.org/wiki/Reference_point_indentation
+1 \frac{dx}{dt}
+2 https://en.wikipedia.org/wiki/Talk:System_dynamics
+1 {\dot {x}}
+2 https://en.wikipedia.org/wiki/Talk:System_dynamics
+1 {\ddot {x}}
+2 https://en.wikipedia.org/wiki/Talk:System_dynamics
+1 { {\frac {dX}{dt}}=a*X}
+2 https://en.wikipedia.org/wiki/Talk:System_dynamics
+1 { k\leq 4}
+2 https://en.wikipedia.org/wiki/Paul_A._Catlin
+1 { k\geq 7}
+2 https://en.wikipedia.org/wiki/Paul_A._Catlin
+1 \phi 
+2 https://en.wikipedia.org/wiki/Paul_A._Catlin
+1 m
+2 https://en.wikipedia.org/wiki/Paul_A._Catlin
+1 V\setminus U
+2 https://en.wikipedia.org/wiki/Talk:Tutte_theorem
+1 G^*
+2 https://en.wikipedia.org/wiki/Talk:Tutte_theorem
+1 |V|-2k
+2 https://en.wikipedia.org/wiki/Talk:Tutte_theorem

@@ -38,7 +38,7 @@ class myJWorker (threading.Thread):
     def doWork(self):
 
         BUCKET_PAGE_SIZE = 10
-        LIMIT_FORMULA_SIZE = 1000
+        LIMIT_FORMULA_SIZE = 40000
 
         fp = open("./sets/"+str(i)+".out", "w")
 

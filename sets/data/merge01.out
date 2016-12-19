@@ -1,0 +1,2325 @@
+1 n\sum _{k=1}^{n}{\frac {(-1)^{k-1}}{k}}\sum _{n_{1}+\cdots +n_{k}=n}{\frac {n!}{n_{1}!\cdots n_{k}!}}{\binom {{\binom {n_{1}}{2}}+\cdots +{\binom {n_{k}}{2}}}{n}}.
+2 https://en.wikipedia.org/wiki/Pseudoforest
+1 R^{n}
+2 https://en.wikipedia.org/wiki/Portal:Algebra
+1 {\vec {F}}=m{\vec {a}}
+2 https://en.wikipedia.org/wiki/Space
+1 f\,
+2 https://en.wikipedia.org/wiki/Portal:Analysis
+1 \Pi _{1}^{1}
+2 https://en.wikipedia.org/wiki/Recursion_theory
+1 G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }
+2 https://en.wikipedia.org/wiki/Riemannian_geometry
+1 \mathbf{R}^3
+2 https://en.wikipedia.org/wiki/Vector_algebra
+1 \forall a,b,c\in X:(aRb\wedge bRc)\Rightarrow aRc
+2 https://en.wikipedia.org/wiki/Transitive_relation
+1 \mathbb {N} 
+2 https://en.wikipedia.org/wiki/N
+1 \mathbb {R} 
+2 https://en.wikipedia.org/wiki/R
+1 {\text{x quus y}}={\begin{cases}{\text{x + y}}&{\text{for }}x,y<57\[12pt]5&{\text{otherwise}}\end{cases}}
+2 https://en.wikipedia.org/wiki/Private_language_argument
+1  E = -\frac{V}{d}
+2 https://en.wikipedia.org/wiki/Programmable_metallization_cell
+1 \eta =1-{\frac  {T_{{cold}}}{T_{{Hot}}}}
+2 https://en.wikipedia.org/wiki/Nantenna
+1 I_{sp} = \frac{C_0 \cdot V_e}{g_n}
+2 https://en.wikipedia.org/wiki/Project_Orion_%28nuclear_propulsion%29
+1 x' \equiv xd-dx=b
+2 https://en.wikipedia.org/wiki/Nathan_Jacobson
+1 V(K,U)=\{f\colon X\to Y\mid f(K)\subseteq U\}
+2 https://en.wikipedia.org/wiki/Subbase
+1 {\frac  {1}{n+1}}{\binom  {2n}{n}},
+2 https://en.wikipedia.org/wiki/Semiorder
+1 x \wedge \bigvee S = \bigvee \{\, x \wedge s : s \in S \,\}, 
+2 https://en.wikipedia.org/wiki/Stone_duality
+1 \mathbb {Z} [i]
+2 https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet
+1 \sum _{k\in S}x_{k}
+2 https://en.wikipedia.org/wiki/Pseudocode
+1 {}^6_4
+2 https://en.wikipedia.org/wiki/Tertian
+1 { {{\text{f}}_{\text{P5}} \over {\text{f}}_{\text{T}}}=2^{(7/12)}\approx 1.49821\approx {3 \over 2}}
+2 https://en.wikipedia.org/wiki/Pitch_constellation
+1 { {\frac {vii^{ox}}{y}}}
+2 https://en.wikipedia.org/wiki/Secondary_leading-tone_chord
+1 {\frac  {G/D}{A5/E}}
+2 https://en.wikipedia.org/wiki/So_What_chord
+1 {\frac {d^{2}y}{dt^{2}}}+\epsilon (y^{2}-1){\frac {dy}{dt}}+y=0,\quad \epsilon =1
+2 https://en.wikipedia.org/wiki/Phase_portrait
+1 { f(z)=(z-r_{1})\cdots (z-r_{n}),\qquad (n\geq 2)}
+2 https://en.wikipedia.org/wiki/Sendov%27s_conjecture
+1 \frac{\text{c}_\ell + 0.5 f_i }{N} \times 100\%
+2 https://en.wikipedia.org/wiki/Percentile_rank
+1  4\pi r^2 
+2 https://en.wikipedia.org/wiki/Nucleation
+1 \Delta S \propto \ln \frac{V}{V_0}.
+2 https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot
+1 {r_{critical}}={k \over h}
+2 https://en.wikipedia.org/wiki/Thermal_insulation
+1 x
+2 https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Outlines
+1  {\frac {x^{n}}{n!}}
+2 https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style
+1 x^y \mod z
+2 https://en.wikipedia.org/wiki/Nullary
+1 (\left\{x|x<1\right\},\left\{x|x\geq 1\right\})
+2 https://en.wikipedia.org/wiki/One
+1  {\frac {1}{2}}
+2 https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers
+1 f(x_{1},x_{2},\dots ;a_{1},a_{2},\dots )
+2 https://en.wikipedia.org/wiki/Semicolon
+1 {\vec {F}}=m{\vec {a}}
+2 https://en.wikipedia.org/wiki/Motion_%28physics%29
+1 a^{2}+b^{2}=c^{2}
+2 https://en.wikipedia.org/wiki/Pythagoras
+1 S={\frac {c^{3}kA}{4\hbar G}}
+2 https://en.wikipedia.org/wiki/String_theory
+1 \mathrm {Ric} =k\,g
+2 https://en.wikipedia.org/wiki/Theoretical_physics
+1 *
+2 https://en.wikipedia.org/wiki/Type_constructor
+1 T_{J}=T_{a}+P_{D}\times R_{ja}
+2 https://en.wikipedia.org/wiki/Operating_temperature
+1 \mathbf {k} 
+2 https://en.wikipedia.org/wiki/Photoluminescence
+1 \aleph _{0}
+2 https://en.wikipedia.org/wiki/Ryll-Nardzewski_theorem
+1 
+\left(\begin{array}{c}
+x^1\
+\vdots\
+x^n
+\end{array}\right)
+
+2 https://en.wikipedia.org/wiki/Talk:Linear_form
+1 { E=mc^{2}}
+2 https://en.wikipedia.org/wiki/Quantum_gravity
+1 { B=F^{-1}RF}
+2 https://en.wikipedia.org/wiki/Topological_quantum_computer
+1 \pi :G\rightarrow \operatorname {U} (H)
+2 https://en.wikipedia.org/wiki/Unitary_representation
+1 dy/dt=f(y),
+2 https://en.wikipedia.org/wiki/Phase_space
+1 |a|:={\begin{cases}a,&{\mbox{if }}0\leq a,\-a,&{\mbox{otherwise}},\end{cases}}
+2 https://en.wikipedia.org/wiki/Ordered_ring
+1 x^{8}=\left(\left(x^{2}\right)^{2}\right)^{2}.
+2 https://en.wikipedia.org/wiki/Zenzizenzizenzic
+1 n
+2 https://en.wikipedia.org/wiki/User:Mgnbar
+1 \mathbb {Z} 
+2 https://en.wikipedia.org/wiki/Z_%28disambiguation%29
+1 |G|=2^{N}\,
+2 https://en.wikipedia.org/wiki/User_talk:Mhym
+1 \partial 
+2 https://en.wikipedia.org/wiki/Talk:Delta_%28letter%29
+1 { {d^{2}\theta  \over dt^{2}}+{g \over \ell }\sin \theta =0\quad \quad \quad (1)}
+2 https://en.wikipedia.org/wiki/User:Phancy_Physicist
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Omerks
+1 \varepsilon (n)={\begin{cases}1,&{\mbox{if }}n=1\0,&{\mbox{if }}n\neq 1\end{cases}}
+2 https://en.wikipedia.org/wiki/Unit_function
+1 {\sqrt {-1}}
+2 https://en.wikipedia.org/wiki/Popular_mathematics
+1 I_{\mu }(f):=\int _{X}f\,d\mu .
+2 https://en.wikipedia.org/wiki/Vague_topology
+1 \partial _{t}g_{ij}=-2R_{ij}
+2 https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture
+1 \mathbb {R} 
+2 https://en.wikipedia.org/wiki/Number_line
+1  \left\{ \cdots,  \frac{1}{16},  \frac{1}{8},  \frac{1}{4},  \frac{1}{2},  1 \right\}
+2 https://en.wikipedia.org/wiki/Zeno%27s_paradoxes
+1  V^2 = \frac{1}{288} \det \begin{bmatrix} 
+  0 & d_{12}^2 & d_{13}^2 & d_{14}^2 & 1 \
+d_{21}^2 & 0   & d_{23}^2 & d_{24}^2 & 1 \
+d_{31}^2 & d_{32}^2 & 0   & d_{34}^2 & 1 \
+d_{41}^2 & d_{42}^2 & d_{43}^2 &   0 & 1 \
+  1 &   1 &   1 &   1 & 0
+\end{bmatrix} 
+2 https://en.wikipedia.org/wiki/Niccol%C3%B2_Fontana_Tartaglia
+1 Nx:Fx
+2 https://en.wikipedia.org/wiki/The_Foundations_of_Arithmetic
+1 { ={\frac {3709440}{8!}}}
+2 https://en.wikipedia.org/wiki/Up_to
+1 x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}
+2 https://en.wikipedia.org/wiki/OpenMath
+1 p=69+12\times \log _{2}{\left({\frac  {f}{440\;{\mbox{Hz}}}}\right)}
+2 https://en.wikipedia.org/wiki/Pitch_%28music%29
+1 P(p,s)=B-\lceil kpS\rceil 
+2 https://en.wikipedia.org/wiki/Software_bug
+1 {\vec {F}}=m{\vec {a}}
+2 https://en.wikipedia.org/wiki/Non-inertial_reference_frame
+1 U_A := \bigcap_{x \in A} G_x. 
+2 https://en.wikipedia.org/wiki/T1_space
+1 (2n-5)!!={\frac  {(2n-4)!}{(n-2)!2^{{n-2}}}}.
+2 https://en.wikipedia.org/wiki/Unrooted_binary_tree
+1 { A=12t^{2}\cot {\frac {\pi }{48}}.}
+2 https://en.wikipedia.org/wiki/Tetracontaoctagon
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Quantum_topology
+1 A=2500a^{2}\cot {\frac  {\pi }{10000}}
+2 https://en.wikipedia.org/wiki/Myriagon
+1  {\frac  {1}{2}}{\sqrt  {K^{2}-3R^{2}}}
+2 https://en.wikipedia.org/wiki/Nine-point_circle
+1 K_{2,3}
+2 https://en.wikipedia.org/wiki/Talk:Complete_bipartite_graph
+1 {\frac  {1-\rho }{\rho }}
+2 https://en.wikipedia.org/wiki/Rule_184
+1 \pi =3.14159265\ldots 
+2 https://en.wikipedia.org/wiki/Talk:Ellipsis
+1 G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }
+2 https://en.wikipedia.org/wiki/Template:General_relativity_sidebar
+1 ds^{2}=-c^{2}dt^{2}+R(t)^{2}\left({\frac {dr^{2}}{1-kr^{2}}}+r^{2}d\theta ^{2}+r^{2}\sin ^{2}\theta \,d\phi ^{2}\right)
+2 https://en.wikipedia.org/wiki/Universe
+1 { c={\frac {1}{\sqrt {\varepsilon _{0}\mu _{0}}}}\ .}
+2 https://en.wikipedia.org/wiki/Speed_of_light
+1 {\vec {F}}=m{\vec {a}}
+2 https://en.wikipedia.org/wiki/Timeline_of_classical_mechanics
+1 {\vec {F}}=m{\vec {a}}
+2 https://en.wikipedia.org/wiki/Template:Classical_mechanics
+1 x\!
+2 https://en.wikipedia.org/wiki/X
+1 x(t)=x_{0}\left({\frac  {t}{t_{0}}}\right)
+2 https://en.wikipedia.org/wiki/Talk:Space
+1 { \forall a\in X(aRa)}
+2 https://en.wikipedia.org/wiki/Reflexive_relation
+1 { \forall a,b\in X(aRb\Leftrightarrow bRa)}
+2 https://en.wikipedia.org/wiki/Symmetric_relation
+1 A\cap B
+2 https://en.wikipedia.org/wiki/Pairwise_disjoint
+1 \otimes 
+2 https://en.wikipedia.org/wiki/Teth
+1 A \leq_1 B \Rightarrow A \leq_m B \Rightarrow A \leq_{tt} B \Rightarrow A \leq_{wtt} B \Rightarrow A \leq_T B
+2 https://en.wikipedia.org/wiki/Truth_table_reduction
+1 a^{{n-1}}\neq 1{\pmod  n}
+2 https://en.wikipedia.org/wiki/Non-deterministic_algorithm
+1 \delta 
+2 https://en.wikipedia.org/wiki/Turing_machine_equivalents
+1 {\mbox{R}}={\mbox{RE}}\cap {\mbox{co-RE}}.
+2 https://en.wikipedia.org/wiki/RE_%28complexity%29
+1 \mathrm {L} \subseteq \mathrm {SL} \subseteq \mathrm {NL} 
+2 https://en.wikipedia.org/wiki/SL_%28complexity%29
+1 {\mathrm  {PH}}=\bigcup _{{k\in {\mathbb  {N}}}}\Delta _{k}^{{\mathrm  {P}}}
+2 https://en.wikipedia.org/wiki/PH_%28complexity%29
+1 (1-\epsilon) P(a) \leq x \leq (1+\epsilon) P(a)
+2 https://en.wikipedia.org/wiki/Sharp-P
+1 \prod_{i\in X}Y_i
+2 https://en.wikipedia.org/wiki/Projection_%28mathematics%29
+1 { k[X_{1},\ldots ,X_{n}]}
+2 https://en.wikipedia.org/wiki/Regular_ring
+1 R_{{{\text{red}}}}
+2 https://en.wikipedia.org/wiki/Nilradical_of_a_ring
+1  H^r(k,M)\times H^{2-r}(k,M')\rightarrow H^2(k,G_m)=Q/Z
+2 https://en.wikipedia.org/wiki/Poitou%E2%80%93Tate_duality
+1 H^{q}(V,E)\cong H^{{n-q}}(V,K\otimes E^{{\ast }})^{{\ast }},
+2 https://en.wikipedia.org/wiki/Serre_duality
+1 \deg C>{\frac  {1}{{\sqrt  {r}}}}\sum _{{i=1}}^{r}m_{i}.
+2 https://en.wikipedia.org/wiki/Nagata%27s_conjecture_on_curves
+1 \geq 2
+2 https://en.wikipedia.org/wiki/Torelli_theorem
+1 1\,-\,{\frac {1}{3}}\,+\,{\frac {1}{5}}\,-\,{\frac {1}{7}}\,+\,{\frac {1}{9}}\,-\,\cdots \;=\;{\frac {\pi }{4}},\!
+2 https://en.wikipedia.org/wiki/Special_values_of_L-functions
+1 L
+2 https://en.wikipedia.org/wiki/Nicholas_Katz
+1 {\text{Simple price of floor area (currency/}}\mathrm {m} ^{2}{\text{)}}={\frac {\text{price of land area (currency)}}{{\text{total floor area (}}\mathrm {m} ^{2}{\text{)}}}}
+2 https://en.wikipedia.org/wiki/Skyscraper
+1 K^{\flat }=\varprojlim _{{x\mapsto x^{p}}}K\ .
+2 https://en.wikipedia.org/wiki/Perfectoid
+1 F(i) = F(i-2) + F(i-4)
+2 https://en.wikipedia.org/wiki/Skolem%E2%80%93Mahler%E2%80%93Lech_theorem
+1 
+E=mc^2
+
+2 https://en.wikipedia.org/wiki/User_talk:Deltahedron
+1 \mathrm {T} ={\frac {\mathrm {V} \cdot {\mathrm {s} }}{\mathrm {m} ^{2}}}={\frac {\mathrm {N} }{\mathrm {A} {\cdot }\mathrm {m} }}={\frac {\mathrm {J} }{\mathrm {A} {\cdot }\mathrm {m} ^{2}}}={\frac {\mathrm {H} {\cdot }\mathrm {A} }{\mathrm {m} ^{2}}}={\frac {\mathrm {Wb} }{\mathrm {m} ^{2}}}={\frac {\mathrm {kg} }{\mathrm {C} {\cdot }\mathrm {s} }}={\frac {\mathrm {N} {\cdot }\mathrm {s} }{\mathrm {C} {\cdot }\mathrm {m} }}={\frac {\mathrm {kg} }{\mathrm {A} {\cdot }\mathrm {s} ^{2}}}
+2 https://en.wikipedia.org/wiki/Tesla_%28unit%29
+1 M_{2}
+2 https://en.wikipedia.org/wiki/User_talk:Jaredwf
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Robert_McGuigan
+1 {\text{monad}}(x)=\{y\in {\mathbb  {R}}^{*}\mid x-y{\text{ is infinitesimal}}\}.
+2 https://en.wikipedia.org/wiki/Monad_%28non-standard_analysis%29
+1 M_{\odot }={\frac  {4\pi ^{2}\times (1\,{\mathrm  {AU}})^{3}}{G\times (1\,{\mathrm  {yr}})^{2}}}
+2 https://en.wikipedia.org/wiki/Solar_mass
+1 ie\;\;\;^{\lor }\qquad oi\;\;\;^{{\mathfrak  {7}}}\qquad ow\;\;\;_{\land }\qquad ew\;\;\;_{\cap }
+2 https://en.wikipedia.org/wiki/Pitman_shorthand
+1 { N_{\mathrm {p} }={\frac {P}{\rho n^{3}D^{5}}}}
+2 https://en.wikipedia.org/wiki/Power_number
+1 {\frac  {dN}{dt}}=rN\left(1-{\frac  {N}{K}}\right)\qquad \!
+2 https://en.wikipedia.org/wiki/Natural_selection
+1  {\frac {DE}{BC}}={\frac {AE}{AC}}={\frac {AD}{AB}}
+2 https://en.wikipedia.org/wiki/Thales
+1 \perp 
+2 https://en.wikipedia.org/wiki/Nemeth_Braille
+1 { 5+2=7\;}
+2 https://en.wikipedia.org/wiki/Number_bond
+1 p^{q}=p\times p\times p\cdots \times p
+2 https://en.wikipedia.org/wiki/The_Whetstone_of_Witte
+1 (1/2)\log _{2}n
+2 https://en.wikipedia.org/wiki/Nicole_Oresme
+1 \ F_{{3dB}}\approx K/T_{r}
+2 https://en.wikipedia.org/wiki/Throughput
+1 y_{i}=a_{i,:}\cdot x=\sum _{j}a_{i,j}x_{j}
+2 https://en.wikipedia.org/wiki/OpenCL
+1 {  \Gamma (t)=\int _{0}^{\infty }x^{t-1}e^{-x}\,dx}
+2 https://en.wikipedia.org/wiki/Portal:Mathematics/Selected_picture/2
+1 \pi 
+2 https://en.wikipedia.org/wiki/Talk:Parallel_algorithm
+1 \sum_{i=1}^m d_i = m(m-1) + \sum_{i=m+1}^n d_i.
+2 https://en.wikipedia.org/wiki/Split_graph
+1 \Delta(t) = 1,\quad \nabla(z) = 1,\quad V(q) = 1.
+2 https://en.wikipedia.org/wiki/Unknot
+1 f:{\mathbb  {N}}\rightarrow \{n:{\mathbb  {N}}|n>5\}
+2 https://en.wikipedia.org/wiki/Refinement_type
+1 A\rightarrow B\ {\overset {\underset {\mathrm {def} }{}}{=}}\ {\mbox{NOT}}(A)\ {\mbox{OR}}\ B
+2 https://en.wikipedia.org/wiki/Three-valued_logic
+1 *
+2 https://en.wikipedia.org/wiki/Type_class
+1 \Gamma \vdash x:{\text{Int}}
+2 https://en.wikipedia.org/wiki/System_F-sub
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Vince_Matsko
+1 { {\begin{aligned}s&=(0\times 10)+(3\times 9)+(0\times 8)+(6\times 7)+(4\times 6)+(0\times 5)+(6\times 4)+(1\times 3)+(5\times 2)\&=130=(11\times 11)+9\end{aligned}}}
+2 https://en.wikipedia.org/wiki/Talk:International_Standard_Book_Number
+1 IO_{L}\ 
+2 https://en.wikipedia.org/wiki/Principalisation_property
+1 {\begin{aligned}{\frac  {\partial \zeta }{\partial t}}&+{\frac  {1}{a\cos(\varphi )}}\left[{\frac  {\partial }{\partial \lambda }}(uD)+{\frac  {\partial }{\partial \varphi }}\left(vD\cos(\varphi )\right)\right]=0,\[2ex]{\frac  {\partial u}{\partial t}}&-v\left(2\Omega \sin(\varphi )\right)+{\frac  {1}{a\cos(\varphi )}}{\frac  {\partial }{\partial \lambda }}\left(g\zeta +U\right)=0\qquad {\text{and}}\[2ex]{\frac  {\partial v}{\partial t}}&+u\left(2\Omega \sin(\varphi )\right)+{\frac  {1}{a}}{\frac  {\partial }{\partial \varphi }}\left(g\zeta +U\right)=0,\end{aligned}}
+2 https://en.wikipedia.org/wiki/Theory_of_tides
+1 { B_{1}\supseteq B_{2}\supseteq \cdots \Rightarrow \bigcap _{n\in {\mathbf {N} }}B_{n}\neq \emptyset .}
+2 https://en.wikipedia.org/wiki/Spherically_complete_field
+1 Z[\sqrt{5}]
+2 https://en.wikipedia.org/wiki/Talk:Algebraic_number_theory
+1 {\sqrt {\frac {(V1-V2)^{2}+(H1-H2)^{2}}{10}}}
+2 https://en.wikipedia.org/wiki/Telephone_numbering_plan
+1 (X,{\mathcal {O}}_{X})
+2 https://en.wikipedia.org/wiki/Rigid_analytic_geometry
+1 GL_{3}
+2 https://en.wikipedia.org/wiki/Robert_Kottwitz
+1 { V\otimes \mathbf {Q} _{p}(-1)^{\otimes m}.}
+2 https://en.wikipedia.org/wiki/Tate-twist
+1 gm={\mu  \over R_{p}}
+2 https://en.wikipedia.org/wiki/Vacuum_tube
+1 \underbrace {\underbrace {\mathrm {root+suffix} } _{\mathrm {stem} }+\mathrm {ending} } _{\mathrm {word} }
+2 https://en.wikipedia.org/wiki/Proto-Indo-European_root
+1 \qquad\qquad R = a + bv + cv^2 
+2 https://en.wikipedia.org/wiki/Railways
+1 {\frac {1}{12}}
+2 https://en.wikipedia.org/wiki/Optical_fiber
+1 T=k*(SLOC)^{(1+x)}
+2 https://en.wikipedia.org/wiki/Software_engineering
+1 L=k\;S\;V^{2}\;C_{L}
+2 https://en.wikipedia.org/wiki/Wright_brothers
+1 t={\frac {cPd^{2}s}{D}}
+2 https://en.wikipedia.org/wiki/Steam_locomotive
+1 {\mathit  {Re}}={\rho u_{{s}}^{2}/L \over \mu u_{{s}}/L^{2}}={\rho u_{{s}}L \over \mu }={u_{{s}}L \over \nu }
+2 https://en.wikipedia.org/wiki/Rheology
+1 Y
+2 https://en.wikipedia.org/wiki/Palynology
+1 \omega _{0}
+2 https://en.wikipedia.org/wiki/Omega
+1  \langle u,v \rangle = \langle Tu,Tv \rangle \, .
+2 https://en.wikipedia.org/wiki/Orthogonal_transformation
+1 X^{2}-D
+2 https://en.wikipedia.org/wiki/Separable_polynomial
+1 O(m\sqrt n\log n)
+2 https://en.wikipedia.org/wiki/Vizing%27s_theorem
+1 { [a,b,c]=abc-acb-bac+bca+cab-cba.\,}
+2 https://en.wikipedia.org/wiki/Ternary_commutator
+1 \left\{\left.{\begin{bmatrix}0&\alpha \0&0\\end{bmatrix}}\,\right|\,\alpha \in {\mathbb  {C}}\right\}
+2 https://en.wikipedia.org/wiki/Simple_algebra
+1 \lfloor {\frac  {k}{2}}\rfloor 
+2 https://en.wikipedia.org/wiki/Strong_orientation
+1 n
+2 https://en.wikipedia.org/wiki/Path_decomposition
+1 { \prod _{i=0}^{k-1}(x-i)^{n}.}
+2 https://en.wikipedia.org/wiki/Windmill_graph
+1 (x-3)(x-1)^2(x+1)(x^2+2x-1)^2
+2 https://en.wikipedia.org/wiki/Wagner_graph
+1 {\textrm {cr}}(K_{m,n})\leq \left\lfloor {\frac {n}{2}}\right\rfloor \left\lfloor {\frac {n-1}{2}}\right\rfloor \left\lfloor {\frac {m}{2}}\right\rfloor \left\lfloor {\frac {m-1}{2}}\right\rfloor 
+2 https://en.wikipedia.org/wiki/Tur%C3%A1n%27s_brick_factory_problem
+1 {\text{new width}}=\left\lfloor {\sqrt {\frac {{\text{target pixel count}}\times {\text{original width}}}{\text{original height}}}}\right\rfloor 
+2 https://en.wikipedia.org/wiki/Wikipedia:Non-free_content
+1 y(t)=ae^{be^{ct}}
+2 https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia
+1 \omega (x)=\lim _{{n\rightarrow \infty }}x^{{p^{n}}}
+2 https://en.wikipedia.org/wiki/Teichm%C3%BCller_character
+1   wxw^{-1} = ||w||x
+2 https://en.wikipedia.org/wiki/Weil_group
+1 { \xi _{\lambda ,\mu ,\nu }\xi _{\lambda ,\mu \nu ,\pi }\xi _{\mu ,\nu ,\pi }^{\lambda }=\xi _{\lambda ,\mu ,\nu \pi }\xi _{\lambda \mu ,\nu ,\pi }}
+2 https://en.wikipedia.org/wiki/Teichm%C3%BCller_cocycle
+1 { <x,y>'=\sum _{g\in G}<g[x],g[y]>}
+2 https://en.wikipedia.org/wiki/Talk:Representation_theory_of_finite_groups
+1 x^{2}+1=0
+2 https://en.wikipedia.org/wiki/Talk:Algebraically_closed_field
+1 \forall x,y\in A\qquad \|xy\|\le\|x\|\|y\|
+2 https://en.wikipedia.org/wiki/Normed_algebra
+1 {\mbox{ROT}}_{13}({\mbox{ROT}}_{13}(x))=x
+2 https://en.wikipedia.org/wiki/ROT13
+1 T\times T\leq G\leq T_{0}\operatorname {wr}Z/2Z
+2 https://en.wikipedia.org/wiki/Rank_3_permutation_group
+1 \nu 
+2 https://en.wikipedia.org/wiki/Nu_%28letter%29
+1 Q=KV
+2 https://en.wikipedia.org/wiki/Traffic_engineering_%28transportation%29
+1 \forall x\,Fx\rightarrow \exists x\,Fx
+2 https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine
+1 \log N = \log A + m \log x
+2 https://en.wikipedia.org/wiki/Vilfredo_Pareto
+1 {\sqrt {3}}
+2 https://en.wikipedia.org/wiki/Talk:Arithmetic
+1 {\frac {1}{1/A+1/B}}
+2 https://en.wikipedia.org/wiki/Nomogram
+1 1;24,51,10=1+{\frac {24}{60}}+{\frac {51}{60^{2}}}+{\frac {10}{60^{3}}}={\frac {30547}{21600}}\approx 1.41421296\ldots 
+2 https://en.wikipedia.org/wiki/Sexagesimal
+1 {\begin{aligned}1101.101_{2}&=1\times 2^{3}+1\times 2^{2}+0\times 2^{1}+1\times 2^{0}+1\times 2^{{-1}}+0\times 2^{{-2}}+1\times 2^{{-3}}\&=1\times 8+1\times 4+0\times 2+1\times 1+1\times 0.5+0\times 0.25+1\times 0.125\&=8+4+0+1+0.5+0+0.125\&=13.625_{{10}}\end{aligned}}
+2 https://en.wikipedia.org/wiki/Radix_point
+1 \aleph _{1}.
+2 https://en.wikipedia.org/wiki/Suslin%27s_problem
+1 z=\frac{t}{\sqrt{n-1}}
+2 https://en.wikipedia.org/wiki/William_Gosset
+1 \max _{{\nu =m+1,\dots ,m+n}}\left|\sum _{{j=1}}^{n}b_{j}z_{j}^{\nu }\right|,
+2 https://en.wikipedia.org/wiki/P%C3%A1l_Tur%C3%A1n
+1 r = \Sigma_i r_i s_i
+2 https://en.wikipedia.org/wiki/Rng_%28algebra%29
+1 \infty 
+2 https://en.wikipedia.org/wiki/Quasi-algebraically_closed_field
+1 S_{{(p)}}
+2 https://en.wikipedia.org/wiki/Sphere_spectrum
+1 f:(X,\tau)\to Y
+2 https://en.wikipedia.org/wiki/Tychonoff_space
+1 { T = 50 + 10 {x- \mu \over \sigma}}
+2 https://en.wikipedia.org/wiki/Primary_School_Leaving_Examination
+1 \mathbb {N} ^{\mathbb {N} }
+2 https://en.wikipedia.org/wiki/Non-standard_model_of_arithmetic
+1 \pi 
+2 https://en.wikipedia.org/wiki/Pietro_Mengoli
+1 { \gamma =0.6745\times \sigma }
+2 https://en.wikipedia.org/wiki/Probable_error
+1 {\frac {1}{2}}
+2 https://en.wikipedia.org/wiki/Route_inspection_problem
+1 \operatorname{mtanh}x = \frac {e^{ax} - e^{-bx}} {e^{cx} + e^{-dx}}
+2 https://en.wikipedia.org/wiki/Modified_hyperbolic_tangent
+1 {\frac {\pi }{3{\sqrt {2}}}}\simeq 0.74048.
+2 https://en.wikipedia.org/wiki/Sphere_packing
+1 e^{j\omega C}\,\!
+2 https://en.wikipedia.org/wiki/User:Daniele.tampieri
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Tdvance
+1 { t_{\mathrm {P} }\equiv {\sqrt {\frac {\hbar G}{c^{5}}}}\approx 5.391\,16(13)\times 10^{-44}\ \mathrm {s} }
+2 https://en.wikipedia.org/wiki/Planck_time
+1 { b){\overline {~a~}}}
+2 https://en.wikipedia.org/wiki/Talk:Table_of_mathematical_symbols_by_introduction_date
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Pokipsy76
+1 {\mathit  {AIC}}=2k-2\ln(L)\,
+2 https://en.wikipedia.org/wiki/Structural_equation_modelling
+1 {\vec {A}}
+2 https://en.wikipedia.org/wiki/Template:Vec
+1 \operatorname {score} (\mathbf {X} _{i},k)={\boldsymbol {\beta }}_{k}\cdot \mathbf {X} _{i},
+2 https://en.wikipedia.org/wiki/Statistical_classification
+1 Q=f\left({\mathit {l,m,t,I,T,n,I}}\mathrm {_{v}} \right)
+2 https://en.wikipedia.org/wiki/SI_base_units
+1 Q=f\left({\mathit {l,m,t,I,T,n,I}}\mathrm {_{v}} \right)
+2 https://en.wikipedia.org/wiki/Outline_of_the_metric_system
+1 e_{i}=y_{i}-f(x_{i};{\hat  {\beta }}),
+2 https://en.wikipedia.org/wiki/Regression_model_validation
+1 \ a\leftarrow a+(b\times c)
+2 https://en.wikipedia.org/wiki/Multiply%E2%80%93accumulate
+1 485{\frac  {16364}{96431}}
+2 https://en.wikipedia.org/wiki/Napier%27s_bones
+1 {\frac {|\Delta x|}{|x|}}
+2 https://en.wikipedia.org/wiki/Numerical_stability
+1  0.5 \frac{\mbox{dB}}{\mbox{cm depth}\cdot\mbox{MHz}}
+2 https://en.wikipedia.org/wiki/Ultrasonography
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Hirak_99
+1 \bigcap_{x \in \varnothing} x = ?\,
+2 https://en.wikipedia.org/wiki/Talk:Union_%28set_theory%29
+1 2^{4}=16
+2 https://en.wikipedia.org/wiki/Tagged_pointer
+1 \land 
+2 https://en.wikipedia.org/wiki/Talk:Logical_conjunction
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Lesnail
+1  {\frac {\partial ^{2}\Psi }{\partial t^{2}}}=\nabla ^{2}\Psi 
+2 https://en.wikipedia.org/wiki/User:Lantonov
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Chenxlee
+1 \begin{align}x &{}= \cos t\ &{}= \sqrt{1-\sin^2 t}\end{align} 
+2 https://en.wikipedia.org/wiki/User_talk:Lethe
+1 10^{600}
+2 https://en.wikipedia.org/wiki/TI-Basic
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Mathmo
+1 {\mathrm  {Flatness}}={\frac  {{\sqrt[ {N}]{\prod _{{n=0}}^{{N-1}}x(n)}}}{{\frac  {\sum _{{n=0}}^{{N-1}}x(n)}{N}}}}={\frac  {\exp \left({\frac  {1}{N}}\sum _{{n=0}}^{{N-1}}\ln x(n)\right)}{{\frac  {1}{N}}\sum _{{n=0}}^{{N-1}}x(n)}}
+2 https://en.wikipedia.org/wiki/Wiener_entropy
+1 \|f\|_{{L^{{2}}(E,\gamma ;{\mathbb  {R}})}}=\|j(f)\|_{{H}}
+2 https://en.wikipedia.org/wiki/Paley%E2%80%93Wiener_integral
+1 \lim _{{\ell \rightarrow \infty }}{\frac  {1}{2\ell +1}}\sum _{{j=-\ell }}^{\ell }e^{{ij\lambda }}f(\tau ^{j}P)
+2 https://en.wikipedia.org/wiki/Wiener%E2%80%93Wintner_theorem
+1 { thepronoucationofhisnameis(Wi-ner)}
+2 https://en.wikipedia.org/wiki/Talk:Norbert_Wiener
+1 { d=2{\sqrt {f\lambda }}}
+2 https://en.wikipedia.org/wiki/Pinhole_camera
+1 { \eta ={\frac {P_{max}}{E\cdot A_{cell}}}.}
+2 https://en.wikipedia.org/wiki/Photovoltaics
+1 \langle \sigma v\rangle \simeq 3\times 10^{-26}\mathrm {cm} ^{3}\;\mathrm {s} ^{-1}
+2 https://en.wikipedia.org/wiki/Weakly_interacting_massive_particle
+1 { \iint _{D}u\,dxdy=\sum _{j=1}^{k}c_{j}u(z_{j}),}
+2 https://en.wikipedia.org/wiki/Quadrature_domains
+1 R(u,s)={\mathcal  {N}}\{f(t)\}=\int _{0}^{\infty }f(ut)e^{{-st}}\,dt.\qquad (1)
+2 https://en.wikipedia.org/wiki/N-transform
+1 \Delta F=\alpha \ln(C/C_{0})
+2 https://en.wikipedia.org/wiki/Svante_Arrhenius
+1 {\frac  {2D}{F-M-1}}
+2 https://en.wikipedia.org/wiki/Nerve_conduction_study
+1 1\,{\mathrm  {N}}\!\cdot \!{\mathrm  {m}}=1{\frac  {{\mathrm  {kg}}\,{\mathrm  {m}}^{2}}{{\mathrm  {s}}^{2}}}\quad ,\quad 1\,{\mathrm  {J}}=1{\frac  {{\mathrm  {kg}}\,{\mathrm  {m}}^{2}}{{\mathrm  {s}}^{2}}}
+2 https://en.wikipedia.org/wiki/Newton-meter
+1 \mathbf {F} =q\mathbf {v} \times \mathbf {B} 
+2 https://en.wikipedia.org/wiki/Right-hand_rule
+1 { \bigcup _{r\geq 0}\{x=a+b:q(a)=-q(b)=r,a\in A,b\in B\}.}
+2 https://en.wikipedia.org/wiki/Null_vector
+1 {{\mathbb  {C}}}^{2}
+2 https://en.wikipedia.org/wiki/Walter_Rudin
+1 a>b\geq d>c
+2 https://en.wikipedia.org/wiki/Stag_hunt
+1 B=\{ta:a\in A,t\in [0,1]\}
+2 https://en.wikipedia.org/wiki/Star_domain
+1 { R_{M}={\frac {\partial R_{T}}{\partial Q_{1}}}=M-Q_{2}-2Q_{1}}
+2 https://en.wikipedia.org/wiki/Oligopoly
+1 \mathbb {R} ^{3}
+2 https://en.wikipedia.org/wiki/Talk:Functional_analysis
+1 \div 
+2 https://en.wikipedia.org/wiki/Talk:Obelus
+1 X=X_{0}\cup I_{1}\cup \ldots \cup I_{r}.
+2 https://en.wikipedia.org/wiki/O-minimal_theory
+1 \forall x\exists y\exists z\exists w\exists v(x=y*y+z*z+w*w+v*v)
+2 https://en.wikipedia.org/wiki/Talk:Mathematical_logic
+1 n\geq 3
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2013/Apr
+1 f(x)=\lim_{k\to\infty}\left(\lim_{j\to\infty}\left(\cos(k!\pi x)\right)^{2j}\right)
+2 https://en.wikipedia.org/wiki/Nowhere_continuous_function
+1 {\frac  {1}{10\;000}}
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2015/Jan
+1 y={\frac  {abx}{x^{2}+a^{2}}}.
+2 https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive/2015/Mar
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Kmhkmh
+1 V(b,w)=r(b,w)+p(b,w)V(b+1,w+1)+(1-p(b,w))V(b+1,w)
+2 https://en.wikipedia.org/wiki/WASP_%28cricket_calculation_tool%29
+1 {\mathcal {O}}
+2 https://en.wikipedia.org/wiki/O_%28disambiguation%29
+1 {\frac  {\partial \rho {\mathbf  {U}}}{\partial t}}+\nabla \cdot \phi {\mathbf  {U}}-\nabla \cdot \mu \nabla {\mathbf  {U}}=-\nabla p
+2 https://en.wikipedia.org/wiki/OpenFOAM
+1 { a_{1}b_{1}+\cdots +a_{m}b_{m}-a_{m+1}b_{m+1}-\cdots -a_{n}b_{n}.\,}
+2 https://en.wikipedia.org/wiki/Unimodular_lattice
+1 \int _{{0}}^{{\infty }}\delta (t-a)e^{{-st}}\,dt=e^{{-sa}}
+2 https://en.wikipedia.org/wiki/Talk:Impulse_response
+1 Y=A\times K^{\alpha }\times L^{\beta }
+2 https://en.wikipedia.org/wiki/Total_factor_productivity
+1 {\frac  {\overbrace {x_{2}+x_{2}}+x_{3}+x_{4}+x_{5}+x_{6}+x_{7}+x_{8}+\overbrace {x_{9}+x_{9}}}{10}}.\,
+2 https://en.wikipedia.org/wiki/Winsorized_mean
+1 {SAR}_{{n+1}}={SAR}_{n}+\alpha (EP-{SAR}_{n})
+2 https://en.wikipedia.org/wiki/Parabolic_SAR
+1 { {\text{VPT}}={\text{VPT}}_{\text{prev}}+{\text{volume}}\times {{\text{close}}_{\text{today}}-{\text{close}}_{\text{prev}} \over {\text{close}}_{\text{prev}}}}
+2 https://en.wikipedia.org/wiki/Volume%E2%80%93price_trend
+1 { TRIN={\frac {advancing\ issues/declining\ issues}{advancing\ volume/declining\ volume}}}
+2 https://en.wikipedia.org/wiki/TRIN_%28finance%29
+1 { OBV=OBV_{prev}+\left\{{\begin{matrix}volume&\mathrm {if} \ close>close_{prev}\0&\mathrm {if} \ close=close_{prev}\-volume&\mathrm {if} \ close<close_{prev}\end{matrix}}\right.}
+2 https://en.wikipedia.org/wiki/On-balance_volume
+1  x = X(\omega)
+2 https://en.wikipedia.org/wiki/Realization_%28probability%29
+1 {\mathbf  {v}}={\frac  {d{\mathbf  {x}}}{dt}}=g(t),
+2 https://en.wikipedia.org/wiki/Wiener_equation
+1 { \Pr(a_{i}\leq a^{*})={\frac {{\frac {1}{2+3/A}}+A}{2A}}={\frac {A}{4A^{2}+6A}}+{\frac {1}{2}}.}
+2 https://en.wikipedia.org/wiki/Purification_theorem
+1 G\triangleright G^{(1)}\triangleright G^{(2)} \triangleright \cdots,
+2 https://en.wikipedia.org/wiki/Solvable_group
+1 { Z[{\sqrt {-3}}]=\{a+b{\sqrt {-3}}:a,b\in Z\}}
+2 https://en.wikipedia.org/wiki/Principal_ideal
+1 u=v\circ w
+2 https://en.wikipedia.org/wiki/Quotient_object
+1 { {\text{Unemployment rate}}={\frac {\text{Unemployed workers}}{\text{Total labor force}}}\times 100\%}
+2 https://en.wikipedia.org/wiki/Unemployment
+1 \forall x.\,((x=e)\lor (x\circ x=e)\lor ((x\circ x)\circ x=e)\lor \cdots )
+2 https://en.wikipedia.org/wiki/Periodic_group
+1 \cap N = 1
+2 https://en.wikipedia.org/wiki/Profinite_group
+1 X:=(x^{2}-y^{3}=0)\subset W:={\mathbf  {R}}^{2}.
+2 https://en.wikipedia.org/wiki/Resolution_of_singularities
+1 C_{t}=C(1+i)^{-t}\,={\frac {C}{(1+i)^{t}}}\,
+2 https://en.wikipedia.org/wiki/Purchasing_power
+1 { \mathbb {H} =\{x+iy\mid y>0;x,y\in \mathbb {R} \}.}
+2 https://en.wikipedia.org/wiki/Upper_half_plane
+1 \sqrt{\hbar G/c^5}
+2 https://en.wikipedia.org/wiki/Orders_of_magnitude_%28time%29
+1 2\leq a\leq {\frac  {(b+1)}{2}}
+2 https://en.wikipedia.org/wiki/Search_tree
+1 {\frac  {err(prune(T,t),S)-err(T,S)}{|leaves(T)|-|leaves(prune(T,t))|}}
+2 https://en.wikipedia.org/wiki/Pruning_%28algorithm%29
+1 {\begin{bmatrix}|V_{\mathrm {ud} }|&|V_{\mathrm {us} }|&|V_{\mathrm {ub} }|\|V_{\mathrm {cd} }|&|V_{\mathrm {cs} }|&|V_{\mathrm {cb} }|\|V_{\mathrm {td} }|&|V_{\mathrm {ts} }|&|V_{\mathrm {tb} }|\end{bmatrix}}\approx {\begin{bmatrix}0.974&0.225&0.003\0.225&0.973&0.041\0.009&0.040&0.999\end{bmatrix}},
+2 https://en.wikipedia.org/wiki/Quark
+1 B
+2 https://en.wikipedia.org/wiki/Particle_accelerator
+1 { {\text{For }}\mathbf {A} \in \mathbb {R} ^{n\times m}\;:\;\mathbf {a} _{i,*}=\mathbf {a} _{i\bullet }=\{a_{i,j},\forall j\in [\![1\dotsc m]\!]\}\;{\text{and}}\;\mathbf {a} _{*,j}=\mathbf {a} _{\bullet j}=\{a_{i,j},\forall i\in [\![1\dotsc n]\!]\}}
+2 https://en.wikipedia.org/wiki/Talk:Matrix_%28mathematics%29
+1  R = \sqrt {\frac{(ab + cd) (ac + bd) (ad + bc)}{(a + b + c - d) (b + c + d - a) (c + d + a - b) (d + a + b - c)}}.
+2 https://en.wikipedia.org/wiki/Parameshvara
+1 {  \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C} }
+2 https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi
+1 { \mathbb R^n_{+} = \{(x_1,\ldots,x_n) \in \mathbb R^n : x_n \ge 0\}.}
+2 https://en.wikipedia.org/wiki/Topological_manifold
+1 Q_{max}=\frac{S^2T^2}{2\cdot R_{Total}}=\frac{S^2T^2A}{2p_cL}
+2 https://en.wikipedia.org/wiki/Thermal_copper_pillar_bump
+1 \int |\kappa(s)| ds,
+2 https://en.wikipedia.org/wiki/Total_absolute_curvature
+1 [x^{{\mu }},x^{{\nu }}]=i\theta ^{{\mu \nu }}\,\!
+2 https://en.wikipedia.org/wiki/Noncommutative_quantum_field_theory
+1 n-1
+2 https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton
+1 2^{\aleph _{0}}={\mathfrak {c}}
+2 https://en.wikipedia.org/wiki/Sequential_compactness
+1 {\begin{aligned}\sin 0^{\circ }&=0,\[10pt]\sin 30^{\circ }&={\frac {1}{2}},\[10pt]\sin 90^{\circ }&=1.\end{aligned}}
+2 https://en.wikipedia.org/wiki/Niven%27s_theorem
+1 {\sqrt {n}}
+2 https://en.wikipedia.org/wiki/Unit_cube
+1 a=bq+r
+2 https://en.wikipedia.org/wiki/Wikipedia:Featured_article_candidates/Euclidean_algorithm/archive1
+1 { {\frac {x^{5}}{120}}-{\frac {x^{3}}{6}}+x=0.}
+2 https://en.wikipedia.org/wiki/Wikipedia:Featured_article_candidates/Pi/archive1
+1 { {-y{\partial f \over \partial y} \over {\partial f \over \partial x}}.}
+2 https://en.wikipedia.org/wiki/Ren%C3%A9-Fran%C3%A7ois_de_Sluse
+1 { 0x^{2}+2x+1=3}
+2 https://en.wikipedia.org/wiki/Wikipedia:Featured_article_review/Monty_Hall_problem/archive3
+1 \sum_{k=1}^{\infty}{x^k \over k!}
+2 https://en.wikipedia.org/wiki/User:Tparameter
+1 \left[{\mathrm  {Ligand}}\right]\cdot \left[{\mathrm  {Receptor}}\right]\;\;{\overset  {K_{d}}{\rightleftharpoons }}\;\;\left[{\text{Ligand-receptor complex}}\right]
+2 https://en.wikipedia.org/wiki/Receptor_%28biochemistry%29
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Wcherowi
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:WalterMB
+1 { i=\arccos {h_{z} \over \left|\mathbf {h} \right|}}
+2 https://en.wikipedia.org/wiki/Orbital_inclination
+1 { \pi =\sum _{ij}x_{i}x_{j}\pi _{ij}=2*\sum _{i=2}^{n}\sum _{j=1}^{i-1}x_{i}x_{j}\pi _{ij}}
+2 https://en.wikipedia.org/wiki/Nucleotide_diversity
+1 
+p \overset{\alpha}{\rightarrow} q. \,
+
+2 https://en.wikipedia.org/wiki/State_transition_system
+1 { x^{n}=a\,}
+2 https://en.wikipedia.org/wiki/User_talk:Xantharius
+1 x^{2}+y^{2}=z^{2}
+2 https://en.wikipedia.org/wiki/User:Chas_zzz_brown
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Chuchunezumi
+1 Population\ growth\ rate={\frac {P(t_{2})-P(t_{1})}{P(t_{1})(t_{2}-t_{1})}}
+2 https://en.wikipedia.org/wiki/Population_growth
+1 \sharp \hat 4
+2 https://en.wikipedia.org/wiki/Help:Musical_symbols
+1 (\Omega ,{\mathcal {F}},P)
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 E\in {\mathcal {F}}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 P[E]=1
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 E
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 P[E^C] = 0
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 {\mathcal {F}}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 E^C
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 N\in\mathcal F
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 P[N]=0
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 P
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 (\{H,T\}, 2^{\{H, T\}}, \mathbb{P})
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \{\omega = H\}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \{\omega=T\}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \mathbb{P}[\omega = H] = p\in (0, 1)
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \mathbb{P}[\omega = T] = 1 - p
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \{X_i(\omega)\}_{i\in\mathbb{N}}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 X_i(\omega)=\omega_i
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 X_{i}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 i
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \{H, H, H, \dots\}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 n
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \mathbb{P}[X_i = H, \ i=1,2,\dots,n]=\left(\mathbb{P}[X_1 = H]\right)^n = p^n
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 n\rightarrow \infty 
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 p\in (0,1)
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 p
+2 https://en.wikipedia.org/wiki/Almost_surely
+1  \lim\limits_{n\to\infty}\frac{1}{n} = 0
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 p^{1,000,000}\neq 0
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 1 - p^{1,000,000}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \frac{(1+\epsilon) \ln n}{n}
+2 https://en.wikipedia.org/wiki/Almost_surely
+1 \sin \theta 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \cos \theta 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \theta 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 e^{\sqrt {\ln \ln x}}+\ln \ln x+\sum _{j=0}^{\infty }e^{x}x^{-j},
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \mathbb {N} 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 ^{*}\mathbb {N} 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \forall n\in \mathbb {N} ,\sin n\pi =0
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \forall n\in {}^{*}\mathbb {N} ,{}^{*}\!\!\sin n\pi =0
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \alpha 
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \delta _{\alpha }
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1 \int F(x)\delta _{\alpha }(x)=F(0)
+2 https://en.wikipedia.org/wiki/Infinitesimal
+1  x^{2}\ -\ y^{2}\ =\ 1
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1  (\cosh \,a,\,\sinh \,a)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1  a
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1  x
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \sinh x={\frac {e^{x}-e^{-x}}{2}}={\frac {e^{2x}-1}{2e^{x}}}={\frac {1-e^{-2x}}{2e^{-x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \cosh x={\frac {e^{x}+e^{-x}}{2}}={\frac {e^{2x}+1}{2e^{x}}}={\frac {1+e^{-2x}}{2e^{-x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \tanh x={\frac {\sinh x}{\cosh x}}={\frac {e^{x}-e^{-x}}{e^{x}+e^{-x}}}=
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 ={\frac {e^{2x}-1}{e^{2x}+1}}={\frac {1-e^{-2x}}{1+e^{-2x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { x\not =0}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \coth x={\frac {\cosh x}{\sinh x}}={\frac {e^{x}+e^{-x}}{e^{x}-e^{-x}}}=
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 ={\frac {e^{2x}+1}{e^{2x}-1}}={\frac {1+e^{-2x}}{1-e^{-2x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {sech} \,x={\frac {1}{\cosh x}}={\frac {2}{e^{x}+e^{-x}}}=
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 ={\frac {2e^{x}}{e^{2x}+1}}={\frac {2e^{-x}}{1+e^{-2x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {csch} \,x={\frac {1}{\sinh x}}={\frac {2}{e^{x}-e^{-x}}}=
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 ={\frac {2e^{x}}{e^{2x}-1}}={\frac {2e^{-x}}{1-e^{-2x}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \sinh x=-i\sin(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \cosh x=\cos(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \tanh x=-i\tan(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \coth x=i\cot(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {sech} x=\sec(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {csch} x=i\csc(ix)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\text{area}}=\int _{a}^{b}{\cosh {(x)}}\ dx=\int _{a}^{b}{\sqrt {1+\left({\frac {d}{dx}}\cosh {(x)}\right)^{2}}}\ dx={\text{arc length}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 f'=1-f^{2}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {1}{2}}f''=f^{3}-f;\quad f(0)=f'(\infty )=0
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh(-x)&=-\sinh x\\cosh(-x)&=\cosh x\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\tanh(-x)&=-\tanh x\\coth(-x)&=-\coth x\\operatorname {sech} (-x)&=\operatorname {sech} x\\operatorname {csch} (-x)&=-\operatorname {csch} x\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\operatorname {arsech} x&=\operatorname {arcosh} {\frac {1}{x}}\\operatorname {arcsch} x&=\operatorname {arsinh} {\frac {1}{x}}\\operatorname {arcoth} x&=\operatorname {artanh} {\frac {1}{x}}\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\cosh x+\sinh x&=e^{x}\\cosh x-\sinh x&=e^{-x}\\cosh ^{2}x-\sinh ^{2}x&=1\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\operatorname {sech} ^{2}x&=1-\tanh ^{2}x\\operatorname {csch} ^{2}x&=\coth ^{2}x-1\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { {\begin{aligned}\sinh(x+y)&=\sinh(x)\cosh(y)+\cosh(x)\sinh(y)\\cosh(x+y)&=\cosh(x)\cosh(y)+\sinh(x)\sinh(y)\\tanh(x+y)&={\frac {\tanh x+\tanh y}{1+\tanh x\tanh y}}\\end{aligned}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\cosh(2x)&=\sinh ^{2}{x}+\cosh ^{2}{x}=2\sinh ^{2}x+1=2\cosh ^{2}x-1\\sinh(2x)&=2\sinh x\cosh x\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh x+\sinh y&=2\sinh {\frac {x+y}{2}}\cosh {\frac {x-y}{2}}\\cosh x+\cosh y&=2\cosh {\frac {x+y}{2}}\cosh {\frac {x-y}{2}}\\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh(x-y)&=\sinh(x)\cosh(y)-\cosh(x)\sinh(y)\\cosh(x-y)&=\cosh(x)\cosh(y)-\sinh(x)\sinh(y)\\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh x-\sinh y&=2\cosh {\frac {x+y}{2}}\sinh {\frac {x-y}{2}}\\cosh x-\cosh y&=2\sinh {\frac {x+y}{2}}\sinh {\frac {x-y}{2}}\\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { \sinh \left({\frac {x}{2}}\right)={\frac {\sinh(x)}{\sqrt {2(\cosh(x)+1)}}}=\operatorname {sgn}(x)\,{\sqrt {\frac {\cosh(x)-1}{2}}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { \cosh \left({\frac {x}{2}}\right)={\sqrt {\frac {\cosh(x)+1}{2}}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { \tanh \left({\frac {x}{2}}\right)={\frac {\sinh(x)}{\cosh(x)+1}}=\operatorname {sgn}(x)\,{\sqrt {\frac {\cosh(x)-1}{\cosh(x)+1}}}={\frac {e^{x}-1}{e^{x}+1}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { \tanh \left({\frac {x}{2}}\right)={\frac {\cosh(x)-1}{\sinh(x)}}=\coth(x)-\operatorname {csch} (x)}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { {\begin{aligned}\operatorname {arsinh} (x)&=\ln \left(x+{\sqrt {x^{2}+1}}\right)\\operatorname {arcosh} (x)&=\ln \left(x+{\sqrt {x^{2}-1}}\right);x\geq 1\\operatorname {artanh} (x)&={\frac {1}{2}}\ln \left({\frac {1+x}{1-x}}\right);\left|x\right|<1\\operatorname {arcoth} (x)&={\frac {1}{2}}\ln \left({\frac {x+1}{x-1}}\right);\left|x\right|>1\\operatorname {arsech} (x)&=\ln \left({\frac {1}{x}}+{\sqrt {{\frac {1}{x^{2}}}-1}}\right)=\ln \left({\frac {1+{\sqrt {1-x^{2}}}}{x}}\right);0<x\leq 1\\operatorname {arcsch} (x)&=\ln \left({\frac {1}{x}}+{\sqrt {{\frac {1}{x^{2}}}+1}}\right)=\ln \left({\frac {1+{\sqrt {x^{2}+1}}}{x}}\right);x\neq 0\end{aligned}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\sinh x=\cosh x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\cosh x=\sinh x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\tanh x=1-\tanh ^{2}x=\operatorname {sech} ^{2}x=1/\cosh ^{2}x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\coth x=1-\coth ^{2}x=-\operatorname {csch} ^{2}x=-1/\sinh ^{2}x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\ \operatorname {sech} \,x=-\tanh x\ \operatorname {sech} \,x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\ \operatorname {csch} \,x=-\coth x\ \operatorname {csch} \,x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\,\operatorname {arsinh} \,x={\frac {1}{\sqrt {x^{2}+1}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { {\frac {d}{dx}}\,\operatorname {arcosh} \,x={\frac {1}{\sqrt {x^{2}-1}}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\,\operatorname {artanh} \,x={\frac {1}{1-x^{2}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\,\operatorname {arcoth} \,x={\frac {1}{1-x^{2}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d}{dx}}\,\operatorname {arsech} \,x=-{\frac {1}{x{\sqrt {1-x^{2}}}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 { {\frac {d}{dx}}\,\operatorname {arcsch} \,x=-{\frac {1}{|x|{\sqrt {1+x^{2}}}}}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d^{2}}{dx^{2}}}\sinh x=\sinh x\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {d^{2}}{dx^{2}}}\cosh x=\cosh x\,.
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 e^{x}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 e^{-x}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 f(x)=0
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\int \sinh(ax)\,dx&=a^{-1}\cosh(ax)+C\\int \cosh(ax)\,dx&=a^{-1}\sinh(ax)+C\\int \tanh(ax)\,dx&=a^{-1}\ln(\cosh(ax))+C\\int \coth(ax)\,dx&=a^{-1}\ln(\sinh(ax))+C\\int \operatorname {sech} (ax)\,dx&=a^{-1}\arctan(\sinh(ax))+C\\int \operatorname {csch} (ax)\,dx&=a^{-1}\ln \left(\tanh \left({\frac {ax}{2}}\right)\right)+C&=a^{-1}\ln \left|\operatorname {csch} (ax)-\coth(ax)\right|+C\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\int {{\frac {1}{\sqrt {a^{2}+u^{2}}}}\,du}&=\operatorname {arsinh} \left({\frac {u}{a}}\right)+C\\int {{\frac {1}{\sqrt {u^{2}-a^{2}}}}\,du}&=\operatorname {arcosh} \left({\frac {u}{a}}\right)+C\\int {\frac {1}{a^{2}-u^{2}}}\,du&=a^{-1}\operatorname {artanh} \left({\frac {u}{a}}\right)+C;u^{2}<a^{2}\\int {\frac {1}{a^{2}-u^{2}}}\,du&=a^{-1}\operatorname {arcoth} \left({\frac {u}{a}}\right)+C;u^{2}>a^{2}\\int {{\frac {1}{u{\sqrt {a^{2}-u^{2}}}}}\,du}&=-a^{-1}\operatorname {arsech} \left({\frac {u}{a}}\right)+C\\int {{\frac {1}{u{\sqrt {a^{2}+u^{2}}}}}\,du}&=-a^{-1}\operatorname {arcsch} \left|{\frac {u}{a}}\right|+C\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \sinh x=x+{\frac {x^{3}}{3!}}+{\frac {x^{5}}{5!}}+{\frac {x^{7}}{7!}}+\cdots =\sum _{n=0}^{\infty }{\frac {x^{2n+1}}{(2n+1)!}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \cosh x=1+{\frac {x^{2}}{2!}}+{\frac {x^{4}}{4!}}+{\frac {x^{6}}{6!}}+\cdots =\sum _{n=0}^{\infty }{\frac {x^{2n}}{(2n)!}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\tanh x&=x-{\frac {x^{3}}{3}}+{\frac {2x^{5}}{15}}-{\frac {17x^{7}}{315}}+\cdots =\sum _{n=1}^{\infty }{\frac {2^{2n}(2^{2n}-1)B_{2n}x^{2n-1}}{(2n)!}},\left|x\right|<{\frac {\pi }{2}}\\coth x&=x^{-1}+{\frac {x}{3}}-{\frac {x^{3}}{45}}+{\frac {2x^{5}}{945}}+\cdots =x^{-1}+\sum _{n=1}^{\infty }{\frac {2^{2n}B_{2n}x^{2n-1}}{(2n)!}},0<\left|x\right|<\pi \\operatorname {sech} \,x&=1-{\frac {x^{2}}{2}}+{\frac {5x^{4}}{24}}-{\frac {61x^{6}}{720}}+\cdots =\sum _{n=0}^{\infty }{\frac {E_{2n}x^{2n}}{(2n)!}},\left|x\right|<{\frac {\pi }{2}}\\operatorname {csch} \,x&=x^{-1}-{\frac {x}{6}}+{\frac {7x^{3}}{360}}-{\frac {31x^{5}}{15120}}+\cdots =x^{-1}+\sum _{n=1}^{\infty }{\frac {2(1-2^{2n-1})B_{2n}x^{2n-1}}{(2n)!}},0<\left|x\right|<\pi \end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 B_{n}\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 E_{n}\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\frac {r^{2}u}{2}},
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh(x+y)&=\sinh(x)\cosh(y)+\cosh(x)\sinh(y)\\cosh(x+y)&=\cosh(x)\cosh(y)+\sinh(x)\sinh(y)\\tanh(x+y)&={\frac {\tanh(x)+\tanh(y)}{1+\tanh(x)\tanh(y)}}\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\sinh(2x)&=2\sinh x\cosh x\\cosh(2x)&=\cosh ^{2}x+\sinh ^{2}x=2\cosh ^{2}x-1=2\sinh ^{2}x+1\\tanh(2x)&={\frac {2\tanh x}{1+\tanh ^{2}x}}\\sinh(2x)&={\frac {2\tanh x}{1-\tanh ^{2}x}}\\cosh(2x)&={\frac {1+\tanh ^{2}x}{1-\tanh ^{2}x}}\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \sinh {\frac {x}{2}}={\sqrt {{\frac {1}{2}}(\cosh x-1)}}\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \cosh {\frac {x}{2}}={\sqrt {{\frac {1}{2}}(\cosh x+1)}}\,
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \tanh {\frac {x}{2}}={\sqrt {\frac {\cosh x-1}{\cosh x+1}}}={\frac {\sinh x}{\cosh x+1}}={\frac {\cosh x-1}{\sinh x}}=\coth x-\operatorname {csch} x.
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \coth {\frac {x}{2}}=\coth x+\operatorname {csch} x.
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 e^{x}=\cosh x+\sinh x
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 e^{-x}=\cosh x-\sinh x
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}e^{ix}&=\cos x+i\;\sin x\e^{-ix}&=\cos x-i\;\sin x\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 {\begin{aligned}\cosh(ix)&={\frac {1}{2}}\left(e^{ix}+e^{-ix}\right)=\cos x\\sinh(ix)&={\frac {1}{2}}\left(e^{ix}-e^{-ix}\right)=i\sin x\\cosh(x+iy)&=\cosh(x)\cos(y)+i\sinh(x)\sin(y)\\sinh(x+iy)&=\sinh(x)\cos(y)+i\cosh(x)\sin(y)\\tanh(ix)&=i\tan x\\cosh x&=\cos(ix)\\sinh x&=-i\sin(ix)\\tanh x&=-i\tan(ix)\end{aligned}}
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 2\pi i
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \pi i
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {sinh} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {cosh} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {tanh} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {coth} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {sech} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 \operatorname {csch} (z)
+2 https://en.wikipedia.org/wiki/Hyperbolic_function
+1 A_{0}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 A_{1}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
+\begin{align}
+    A^*_0 & = \{(1, 0), (2, 0), (3, 0)\} \
+    A^*_1 & = \{(1, 1), (2, 1)\}
+\end{align}
+  
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
+    A_0 \sqcup A_1 = A^*_0 \cup A^*_1 = \{(1, 0), (2, 0), (3, 0), (1, 1), (2, 1)\}
+  
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
+    \bigsqcup_{i\in I}A_i = \bigcup_{i\in I}\{(x,i) : x \in A_i\}.
+  
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
+    A_i^* = \{(x,i) : x \in A_i\}.
+  
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
+    \bigsqcup_{i\in I}A_i = A \times I.
+  
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 
+    \sum_{i\in I}A_i
+  
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 \biguplus _{{i\in I}}A_{i}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 { \quad \cdot \!\!\!\!\!\bigcup _{i\in I}A_{i}}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 A_{i}^{*}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 A_{i}
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1 {\underset  {A\in C}{\,\,\bigcup \nolimits ^{{*}}\!}}A
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1  \coprod
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1  \bigsqcup
+2 https://en.wikipedia.org/wiki/Disjoint_union
+1  f(t)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  g(t)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {g}}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  t
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \omega 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \omega 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 g(t)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f:\mathbb {R} \rightarrow \mathbb {C} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { {\hat {f}}(\xi )=\int _{-\infty }^{+\infty }f(x)\ e^{-2\pi ix\xi }\,dx,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { f(x)=\int _{-\infty }^{+\infty }{\hat {f}}(\xi )\ e^{2\pi i\xi x}\,d\xi ,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 L^{2}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 L^{1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 L^{\infty }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 c_{n}={\frac {1}{T}}\int _{-T/2}^{T/2}f(x)\ e^{-2\pi i(n/T)x}\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 c_{n}=(1/T){\hat {f}}(n/T)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)=\sum _{n=-\infty }^{\infty }c_{n}\ e^{2\pi i(n/T)x}=\sum _{n=-\infty }^{\infty }{\hat {f}}(\xi _{n})\ e^{2\pi i\xi _{n}x}\Delta \xi ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(3)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(5)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{-\infty }^{\infty }|f(x)|\,dx<\infty .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {g}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )=a\cdot {\hat {f}}(\xi )+b\cdot {\hat {g}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)=f(x-x_{0}),
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )=e^{-i\,2\pi \,x_{0}\,\xi }{\hat {f}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)=e^{i\,2\pi \,x\,\xi _{0}}f(x),
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\hat {f}}(\xi -\xi _{0}).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { h(x)=f(ax)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\frac {1}{|a|}}{\hat {f}}\left({\frac {\xi }{a}}\right).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\hat {f}}(-\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)={\overline {f(x)}},
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\overline {{\hat {f}}(-\xi )}}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(-\xi )={\overline {{\hat {f}}(\xi )}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(-\xi )=-{\overline {{\hat {f}}(\xi )}}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi =0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(0)=\int _{-\infty }^{\infty }f(x)\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}},
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}(f):={\hat {f}},
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}^{2}(f)(x)=f(-x),
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}^{4}(f)=f,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}^{3}({\hat {f}})=f.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {P}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {P}}[f]\colon t\mapsto f(-t),
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}^{0}=\mathrm {Id} ,\qquad {\mathcal {F}}^{1}={\mathcal {F}},\qquad {\mathcal {F}}^{2}={\mathcal {P}},\qquad {\mathcal {F}}^{4}=\mathrm {Id} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}^{3}={\mathcal {F}}^{-1}={\mathcal {P}}\circ {\mathcal {F}}={\mathcal {F}}\circ {\mathcal {P}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 t
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\pi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \omega =2\pi \xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {x}}_{1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {x}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {x}}_{1}(\omega )={\hat {x}}\left({\omega  \over 2\pi }\right)=\int _{-\infty }^{\infty }x(t)e^{-i\omega t}\,dt
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 x(t)={1 \over {2\pi }}\int _{-\infty }^{\infty }{\hat {x}}_{1}(\omega )e^{it\omega }\,d\omega .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\sqrt {2\pi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {x}}_{2}(\omega )={\frac {1}{\sqrt {2\pi }}}\int _{-\infty }^{\infty }x(t)e^{-i\omega t}\,dt,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 x(t)={1 \over {\sqrt {2\pi }}}\int _{-\infty }^{\infty }{\hat {x}}_{2}(\omega )e^{it\omega }\,d\omega .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 i
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 -i
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \phi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 X
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 x
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \phi (\lambda )=\int _{-\infty }^{\infty }f(x)e^{i\lambda x}\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \|{\hat {f}}\|_{\infty }\leq \|f\|_{1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )\to 0{\text{ as }}|\xi |\to \infty .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)=\int _{-\infty }^{\infty }{\hat {f}}(\xi )e^{2i\pi x\xi }\,d\xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{-\infty }^{\infty }f(x){\overline {g(x)}}\,{\rm {d}}x=\int _{-\infty }^{\infty }{\hat {f}}(\xi ){\overline {{\hat {g}}(\xi )}}\,d\xi ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{-\infty }^{\infty }\left|f(x)\right|^{2}\,dx=\int _{-\infty }^{\infty }\left|{\hat {f}}(\xi )\right|^{2}\,d\xi .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \sum _{n}{\hat {f}}(n)=\sum _{n}f(n).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\widehat {f'\;}}(\xi )=2\pi i\xi {\hat {f}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\widehat {f^{(n)}}}(\xi )=(2\pi i\xi )^{n}{\hat {f}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 |\xi |\to \infty 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 |x|\to \infty 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)=(f*g)(x)=\int _{-\infty }^{\infty }f(y)g(x-y)\,dy,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\hat {f}}(\xi )\cdot {\hat {g}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {p}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {q}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)=(f\star g)(x)=\int _{-\infty }^{\infty }{\overline {f(y)}}\,g(x+y)\,dy
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\overline {{\hat {f}}(\xi )}}\,\cdot \,{\hat {g}}(\xi ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 h(x)=(f\star f)(x)=\int _{-\infty }^{\infty }{\overline {f(y)}}f(x+y)\,dy
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}(\xi )={\overline {{\hat {f}}(\xi )}}\,{\hat {f}}(\xi )=|{\hat {f}}(\xi )|^{2}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\psi }_{n}(x)={\frac {2^{1/4}}{\sqrt {n!}}}\,e^{-\pi x^{2}}\mathrm {He} _{n}(2x{\sqrt {\pi }}),
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \mathrm {He} _{n}(x)=(-1)^{n}e^{\frac {x^{2}}{2}}\left({\frac {d}{dx}}\right)^{n}e^{-{\frac {x^{2}}{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {\psi }}_{n}(\xi )=(-i)^{n}{\psi }_{n}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { L^{2}(\mathbb {R} )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (T_{y}f)(x)=f(x+y)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { e^{2\pi ix\xi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (M_{\xi }f)(x)=e^{2\pi ix\xi }f(x)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (M_{\xi }^{-1}T_{y}^{-1}M_{\xi }T_{y}f)(x)=e^{2\pi iy\xi }f(x)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { e^{2\pi iy\xi }\in U(1)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (x,\xi ,z)\in \mathbb {R} ^{2}\times U(1)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (x_{1},\xi _{1},t_{1}).(x_{2},\xi _{2},t_{2})=(x_{1}+x_{2},\xi _{1}+\xi _{2},t_{1}t_{2}e^{2\pi i(x_{1}\xi _{1}+x_{2}\xi _{2}+x_{1}\xi _{2}}).}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 H_{1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { \rho :H_{1}\to B(L^{2}(\mathbb {R} ))}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \mathbb {R} ^{2}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { J{\begin{pmatrix}x\\xi \end{pmatrix}}={\begin{pmatrix}-\xi \x\end{pmatrix}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 J^{2}=-I
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 J
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { j(x,\xi ,t)=(-\xi ,x,te^{-2\pi ix\xi }).}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \rho 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { \rho \circ j}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { W\in U(L^{2}(\mathbb {R} ))}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { \rho \circ j=W\rho W^{*}.}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 W^{2}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { (W^{2}f)(x)=f(-x)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=\int _{-\infty }^{\infty }e^{-2\pi i\xi t}f(t)\,dt
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi =\sigma +i\tau 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 n
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\sigma +i\tau )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a>0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 n\geq 0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \vert \xi ^{n}{\hat {f}}(\xi )\vert \leq Ce^{a\vert \tau \vert }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 C
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 [-a,a]
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \sigma 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \tau 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 n=0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 t\geq 0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \tau <0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 F(s)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 s
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \vert f(t)\vert <Ce^{a\vert t\vert }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 C,a\geq 0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(i\tau )=\int _{-\infty }^{\infty }e^{2\pi \tau t}f(t)\,dt,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\pi \tau <-a
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 F(s)=\int _{0}^{\infty }f(t)e^{-st}\,dt.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(i\tau )=F(-2\pi \tau ).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 s=2\pi i\xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a\leq \tau \leq b
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{-\infty }^{\infty }{\hat {f}}(\sigma +ia)e^{2\pi i\xi t}\,d\sigma =\int _{-\infty }^{\infty }{\hat {f}}(\sigma +ib)e^{2\pi i\xi t}\,d\sigma 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)=0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 t<0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 C,a>0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)=\int _{-\infty }^{\infty }{\hat {f}}(\sigma +i\tau )e^{2\pi i\xi t}\,d\sigma ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \tau <-{a \over 2\pi }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)={\frac {1}{2\pi i}}\int _{b-i\infty }^{b+i\infty }F(s)e^{st}ds
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b>a
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)e^{-at}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}({\boldsymbol {\xi }})={\mathcal {F}}(f)({\boldsymbol {\xi }})=\int _{\mathbb {R} ^{n}}f(\mathbf {x} )e^{-2\pi i\mathbf {x} \cdot {\boldsymbol {\xi }}}\,d\mathbf {x} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \left\langle \mathbf {x} ,{\boldsymbol {\xi }}\right\rangle 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{-\infty }^{\infty }|f(x)|^{2}\,dx=1.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 D_{0}(f)=\int _{-\infty }^{\infty }x^{2}|f(x)|^{2}\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 D_{0}(f)D_{0}({\hat {f}})\geq {\frac {1}{16\pi ^{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)=C_{1}\,e^{-\pi x^{2}/\sigma ^{2}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=\sigma C_{1}\,e^{-\pi \sigma ^{2}\xi ^{2}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 C_{1}={\sqrt[{4}]{2}}/{\sqrt {\sigma }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \left(\int _{-\infty }^{\infty }(x-x_{0})^{2}|f(x)|^{2}\,dx\right)\left(\int _{-\infty }^{\infty }(\xi -\xi _{0})^{2}|{\hat {f}}(\xi )|^{2}\,d\xi \right)\geq {\frac {1}{16\pi ^{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 H(|f|^{2})+H(|{\hat {f}}|^{2})\geq \log(e/2)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 H(p)=-\int _{-\infty }^{\infty }p(x)\log(p(x))\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \lambda 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)=\int _{0}^{\infty }\left[a(\lambda )\cos \left(2\pi \lambda t\right)+b(\lambda )\sin \left(2\pi \lambda t\right)\right]\,d\lambda .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a(\lambda )=2\int _{-\infty }^{\infty }f(t)\cos \left(2\pi \lambda t\right)\,dt
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b(\lambda )=2\int _{-\infty }^{\infty }f(t)\sin \left(2\pi \lambda t\right)\,dt.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(t)=2\int _{0}^{\infty }\int _{-\infty }^{\infty }f(\tau )\cos \left(2\pi \lambda (\tau -t)\right)\,d\tau \,d\lambda .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=i^{-k}f(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=F_{0}(|\xi |)P(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 F_{0}(r)=2\pi i^{-k}r^{-(n+2k-2)/2}\int _{0}^{\infty }f_{0}(s)J_{(n+2k-2)/2}(2\pi rs)s^{(n+2k)/2}\,ds.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f_{R}(x)=\int _{E_{R}}{\hat {f}}(\xi )e^{2\pi ix\cdot \xi }\,d\xi ,\quad x\in \mathbf {R} ^{n}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=\int _{\mathbf {R} ^{n}}f(x)e^{-2\pi i\xi \cdot x}\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \vert {\hat {f}}(\xi )\vert \leq \int _{\mathbf {R} ^{n}}\vert f(x)\vert \,dx,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=\lim _{R\to \infty }\int _{|x|\leq R}f(x)e^{-2\pi ix\cdot \xi }\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{\mathbf {R} ^{n}}f(x){\mathcal {F}}g(x)\,dx=\int _{\mathbf {R} ^{n}}{\mathcal {F}}f(x)g(x)\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 q=p/(p-1)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {g}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int _{\mathbf {R} ^{n}}{\hat {f}}(x)g(x)\,dx=\int _{\mathbf {R} ^{n}}f(x){\hat {g}}(x)\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 T_{f}(\varphi )=\int _{\mathbf {R} ^{n}}f(x)\varphi (x)\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {T}}_{f}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {T}}_{f}(\varphi )=T_{f}({\hat {\varphi }})
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { {\hat {\mu }}(\xi )=\int _{\mathbf {R} ^{n}}e^{-2\pi ix\cdot \xi }\,d\mu .}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {G}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=\int _{G}\xi (x)f(x)\,d\mu \qquad {\text{for any }}\xi \in {\hat {G}}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f^{*}(g)={\overline {f(g^{-1})}}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a\mapsto (\varphi \mapsto \varphi (a))
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \langle {\hat {\mu }}\xi ,\eta \rangle _{H_{\sigma }}=\int _{G}\langle {\overline {U}}_{g}^{(\sigma )}\xi ,\eta \rangle \,d\mu (g)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\overline {U}}^{(\sigma )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 d\mu =f\,d\lambda 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \mu \mapsto {\hat {\mu }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \|E\|=\sup _{\sigma \in \Sigma }\|E_{\sigma }\|
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f^{*}(g)={\overline {f(g^{-1})}},
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(g)=\sum _{\sigma \in \Sigma }d_{\sigma }\operatorname {tr} ({\hat {f}}(\sigma )U_{g}^{(\sigma )})
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\partial ^{2}y(x,t) \over \partial ^{2}x}={\partial y(x,t) \over \partial t}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\partial ^{2}y(x,t) \over \partial ^{2}x}={\partial ^{2}y(x,t) \over \partial ^{2}t}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { y(x,0)=f(x),{\partial y(x,0) \over \partial t}=g(x).}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 g
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 y
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {y}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \cos \left(2\pi \xi (x\pm t)\right){\mbox{ or }}\sin \left(2\pi \xi (x\pm t)\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { {\begin{aligned}y(x,t)=\int _{0}^{\infty }&a_{+}(\xi )\cos \left(2\pi \xi (x+t)\right)+a_{-}(\xi )\cos \left(2\pi \xi (x-t)\right)\+\ &b_{+}(\xi )\sin \left(2\pi \xi (x+t)\right)+b_{-}(\xi )\sin \left(2\pi \xi (x-t)\right)\,d\xi \end{aligned}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a_{+}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a_{-}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b_{+}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b_{-}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 a_{\pm }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 b_{\pm }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 t=0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\int _{-\infty }^{\infty }y(x,0)\cos \left(2\pi \xi x\right)\,dx=a_{+}+a_{-}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\int _{-\infty }^{\infty }y(x,0)\sin \left(2\pi \xi x\right)\,dx=b_{+}+b_{-}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\int _{-\infty }^{\infty }{\partial y(u,0) \over \partial t}\sin(2\pi \xi x)\,dx=(2\pi \xi )(-a_{+}+a_{-})
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\int _{-\infty }^{\infty }{\partial y(u,0) \over \partial t}\cos(2\pi \xi x)\,dx=(2\pi \xi )(b_{+}-b_{-}).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 y(x,t)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\pi i\xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\pi if
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi ^{2}{\hat {y}}(\xi ,f)=f^{2}{\hat {y}}(\xi ,f).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {y}}(\xi ,f)=0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi =\pm f
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}=\delta (\xi \pm f)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi ^{2}-f^{2}=0
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi =f
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \xi =-f
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \int \int {\hat {y}}\phi (\xi ,f)\,d\xi \,df=\int s_{+}\phi (\xi ,\xi )\,d\xi +\int s_{-}\phi (\xi ,-\xi )\,d\xi ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 s_{+}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 s_{-}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \phi (\xi ,f)=e^{2\pi i(x\xi +tf)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 y(x,0)=\int \{s_{+}(\xi )+s_{-}(\xi )\}e^{2\pi i\xi x+0}\,d\xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\partial y(x,0) \over \partial t}=\int \{s_{+}(\xi )-s_{-}(\xi )\}2\pi i\xi e^{2\pi i\xi x+0}\,d\xi .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 s_{\pm }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 q
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 p
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \phi (p)=\int \psi (q)e^{2\pi ipq \over h}dq.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\partial ^{2} \over \partial x^{2}}\psi (x,t)=i{\frac {h}{2\pi }}{\partial  \over \partial t}\psi (x,t).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 V(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\partial ^{2} \over \partial x^{2}}\psi (x,t)+V(x)\psi (x,t)=i{\frac {h}{2\pi }}{\partial  \over \partial t}\psi (x,t).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \psi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { \left({\partial ^{2} \over \partial x^{2}}+1\right)\psi (x,t)={\partial ^{2} \over \partial t^{2}}\psi (x,t).}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 R
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \mathbb {R} _{f}(\tau )=\lim _{T\rightarrow \infty }{1 \over 2T}\int _{-T}^{T}f(t)f(t+\tau )\,dt.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \tau =
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 P_{f}(\xi )=\int _{-\infty }^{\infty }R_{f}(\tau )e^{-2\pi i\xi \tau }\,d\tau .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 P
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\tilde {f}}(\xi ),\ {\tilde {f}}(\omega ),\ F(\xi ),\ {\mathcal {F}}\left(f\right)(\xi ),\ \left({\mathcal {F}}f\right)(\xi ),\ {\mathcal {F}}(f),\ {\mathcal {F}}(\omega ),\ F(\omega ),\ {\mathcal {F}}(j\omega ),\ {\mathcal {F}}\{f\},\ {\mathcal {F}}\left(f(t)\right),\ {\mathcal {F}}\{f(t)\}.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\xi )=A(\xi )e^{i\varphi (\xi )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 A(\xi )=|{\hat {f}}(\xi )|,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \varphi (\xi )=\arg {\big (}{\hat {f}}(\xi ){\big )},
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)=\int _{-\infty }^{\infty }A(\xi )\ e^{i(2\pi \xi x+\varphi (\xi ))}\,d\xi ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}(f)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}f
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}f(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 ({\mathcal {F}}f)(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}(f(x))
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}(\mathrm {rect} (x))=\mathrm {sinc} (\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\mathcal {F}}(f(x+x_{0}))={\mathcal {F}}(f(x))e^{2\pi i\xi x_{0}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \omega =2\pi \xi ,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\omega )=\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)={\frac {1}{(2\pi )^{n}}}\int _{\mathbf {R} ^{n}}{\hat {f}}(\omega )e^{i\omega \cdot x}\,d\omega .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {f}}(\omega )={\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 f(x)={\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}{\hat {f}}(\omega )e^{i\omega \cdot x}\,d\omega .
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}_{1}(\xi )\ {\stackrel {\mathrm {def} }{=}}\ \int _{\mathbf {R} ^{n}}f(x)e^{-2\pi ix\cdot \xi }\,dx={\hat {f}}_{2}(2\pi \xi )=(2\pi )^{n/2}{\hat {f}}_{3}(2\pi \xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)=\int _{\mathbf {R} ^{n}}{\hat {f}}_{1}(\xi )e^{2\pi ix\cdot \xi }\,d\xi 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}_{3}(\omega ){\stackrel {\mathrm {def} }{{}={}}}{\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx={\frac {1}{(2\pi )^{n/2}}}{\hat {f}}_{1}\!\left({\frac {\omega }{2\pi }}\right)={\frac {1}{(2\pi )^{n/2}}}{\hat {f}}_{2}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)={\frac {1}{(2\pi )^{n/2}}}\int _{\mathbf {R} ^{n}}{\hat {f}}_{3}(\omega )e^{i\omega \cdot x}\,d\omega 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}_{2}(\omega )\ {\stackrel {\mathrm {def} }{=}}\int _{\mathbf {R} ^{n}}f(x)e^{-i\omega \cdot x}\,dx={\hat {f}}_{1}\!\left({\frac {\omega }{2\pi }}\right)=(2\pi )^{n/2}{\hat {f}}_{3}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)={\frac {1}{(2\pi )^{n}}}\int _{\mathbf {R} ^{n}}{\hat {f}}_{2}(\omega )e^{i\omega \cdot x}\,d\omega 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 E(e^{it\cdot X})=\int e^{it\cdot x}\,d\mu _{X}(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\hat {h}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\xi )=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \int _{-\infty }^{\infty }f(x)e^{-2\pi ix\xi }\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\omega )=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi }}}\int _{-\infty }^{\infty }f(x)e^{-i\omega x}\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\nu )=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \int _{-\infty }^{\infty }f(x)e^{-i\nu x}\,dx
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  a\cdot f(x)+b\cdot g(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  a\cdot {\hat {f}}(\xi )+b\cdot {\hat {g}}(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  a\cdot {\hat {f}}(\omega )+b\cdot {\hat {g}}(\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  a\cdot {\hat {f}}(\nu )+b\cdot {\hat {g}}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x-a)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-2\pi ia\xi }{\hat {f}}(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-ia\omega }{\hat {f}}(\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-ia\nu }{\hat {f}}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  f(x)e^{iax}\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\hat {f}}\left(\xi -{\frac {a}{2\pi }}\right)\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\hat {f}}(\omega -a)\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\hat {f}}(\nu -a)\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(ax)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}{\hat {f}}\left({\frac {\xi }{a}}\right)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}{\hat {f}}\left({\frac {\omega }{a}}\right)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}{\hat {f}}\left({\frac {\nu }{a}}\right)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  |a|\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(-\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(-\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  2\pi f(-\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \nu 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {d^{n}f(x)}{dx^{n}}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  (2\pi i\xi )^{n}{\hat {f}}(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  (i\omega )^{n}{\hat {f}}(\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  (i\nu )^{n}{\hat {f}}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  x^{n}f(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \left({\frac {i}{2\pi }}\right)^{n}{\frac {d^{n}{\hat {f}}(\xi )}{d\xi ^{n}}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  i^{n}{\frac {d^{n}{\hat {f}}(\omega )}{d\omega ^{n}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  i^{n}{\frac {d^{n}{\hat {f}}(\nu )}{d\nu ^{n}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  (f*g)(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\xi ){\hat {g}}(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {2\pi }}{\hat {f}}(\omega ){\hat {g}}(\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\nu ){\hat {g}}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f*g\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)g(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  ({\hat {f}}*{\hat {g}})(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 { ({\hat {f}}*{\hat {g}})(\omega ) \over {\sqrt {2\pi }}\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{2\pi }}({\hat {f}}*{\hat {g}})(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(-\xi )={\overline {{\hat {f}}(\xi )}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(-\omega )={\overline {{\hat {f}}(\omega )}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(-\nu )={\overline {{\hat {f}}(\nu )}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\overline {z}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\nu )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\overline {f(x)}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\overline {{\hat {f}}(-\xi )}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\overline {{\hat {f}}(-\omega )}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\overline {{\hat {f}}(-\nu )}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  f(x)\cos(ax)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac { {\hat {f}}\left(\xi -{\frac {a}{2\pi }}\right)+{\hat {f}}\left(\xi +{\frac {a}{2\pi }}\right)}{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac {{\hat {f}}(\omega -a)+{\hat {f}}(\omega +a)}{2}}\,}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac {{\hat {f}}(\nu -a)+{\hat {f}}(\nu +a)}{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \cos(ax)=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 (e^{iax}+e^{-iax})/2.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  f(x)\sin(ax)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac { {\hat {f}}\left(\xi -{\frac {a}{2\pi }}\right)-{\hat {f}}\left(\xi +{\frac {a}{2\pi }}\right)}{2i}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac {{\hat {f}}(\omega -a)-{\hat {f}}(\omega +a)}{2i}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {  {\frac {{\hat {f}}(\nu -a)-{\hat {f}}(\nu +a)}{2i}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \sin(ax)=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 (e^{iax}-e^{-iax})/(2i).
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {rect} (ax)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {sinc} \left({\frac {\xi }{a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {sinc} \left({\frac {\omega }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {sinc} \left({\frac {\nu }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {sinc} (ax)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {rect} \left({\frac {\xi }{a}}\right)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {rect} \left({\frac {\omega }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {rect} \left({\frac {\nu }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {sinc} ^{2}(ax)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {tri} \left({\frac {\xi }{a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {tri} \left({\frac {\omega }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {tri} \left({\frac {\nu }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {tri} (ax)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {sinc} ^{2}\left({\frac {\xi }{a}}\right)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi a^{2}}}}\cdot \operatorname {sinc} ^{2}\left({\frac {\omega }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|a|}}\cdot \operatorname {sinc} ^{2}\left({\frac {\nu }{2\pi a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-ax}u(x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{a+2\pi i\xi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{{\sqrt {2\pi }}(a+i\omega )}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{a+i\nu }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-\alpha x^{2}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {\pi }{\alpha }}}\cdot e^{-{\frac {(\pi \xi )^{2}}{\alpha }}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\alpha }}}\cdot e^{-{\frac {\omega ^{2}}{4\alpha }}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {\pi }{\alpha }}}\cdot e^{-{\frac {\nu ^{2}}{4\alpha }}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {e} ^{-a|x|}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2a}{a^{2}+4\pi ^{2}\xi ^{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {2}{\pi }}}\cdot {\frac {a}{a^{2}+\omega ^{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2a}{a^{2}+\nu ^{2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {sech} (ax)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {\pi }{a}}\operatorname {sech} \left({\frac {\pi ^{2}}{a}}\xi \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{a}}{\sqrt {\frac {\pi }{2}}}\operatorname {sech} \left({\frac {\pi }{2a}}\omega \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {\pi }{a}}\operatorname {sech} \left({\frac {\pi }{2a}}\nu \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-{\frac {a^{2}x^{2}}{2}}}H_{n}(ax)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {{\sqrt {2\pi }}(-i)^{n}}{a}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \cdot e^{-{\frac {2\pi ^{2}\xi ^{2}}{a^{2}}}}H_{n}\left({\frac {2\pi \xi }{a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {(-i)^{n}}{a}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \cdot e^{-{\frac {\omega ^{2}}{2a^{2}}}}H_{n}\left({\frac {\omega }{a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {(-i)^{n}{\sqrt {2\pi }}}{a}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \cdot e^{-{\frac {\nu ^{2}}{2a^{2}}}}H_{n}\left({\frac {\nu }{a}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 H_{n}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  1
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \delta (\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {2\pi }}\cdot \delta (\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  2\pi \delta (\nu )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \delta (x)\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2\pi }}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{iax}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \delta \left(\xi -{\frac {a}{2\pi }}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {2\pi }}\cdot \delta (\omega -a)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  2\pi \delta (\nu -a)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \cos(ax)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac { \delta \left(\xi -{\frac {a}{2\pi }}\right)+\delta \left(\xi +{\frac {a}{2\pi }}\right)}{2}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {2\pi }}\cdot {\frac {\delta (\omega -a)+\delta (\omega +a)}{2}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \pi \left(\delta (\nu -a)+\delta (\nu +a)\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \sin(ax)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac { \delta \left(\xi -{\frac {a}{2\pi }}\right)-\delta \left(\xi +{\frac {a}{2\pi }}\right)}{2i}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {2\pi }}\cdot {\frac {\delta (\omega -a)-\delta (\omega +a)}{2i}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i\pi \left(\delta (\nu -a)-\delta (\nu +a)\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \cos(ax^{2})
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {\pi }{a}}}\cos \left({\frac {\pi ^{2}\xi ^{2}}{a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\sqrt {2a}}}\cos \left({\frac {\omega ^{2}}{4a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {\pi }{a}}}\cos \left({\frac {\pi ^{2}\nu ^{2}}{a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \sin(ax^{2})\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -{\sqrt {\frac {\pi }{a}}}\sin \left({\frac {\pi ^{2}\xi ^{2}}{a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {-1}{\sqrt {2a}}}\sin \left({\frac {\omega ^{2}}{4a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -{\sqrt {\frac {\pi }{a}}}\sin \left({\frac {\pi ^{2}\nu ^{2}}{a}}-{\frac {\pi }{4}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  x^{n}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \left({\frac {i}{2\pi }}\right)^{n}\delta ^{(n)}(\xi )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  i^{n}{\sqrt {2\pi }}\delta ^{(n)}(\omega )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  2\pi i^{n}\delta ^{(n)}(\nu )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \delta ^{(n)}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{x}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i\pi \operatorname {sgn}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i{\sqrt {\frac {\pi }{2}}}\operatorname {sgn}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i\pi \operatorname {sgn}(\nu )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{x^{n}}}:=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {(-1)^{n-1}}{(n-1)!}}{\frac {d^{n}}{dx^{n}}}\log |x|
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i\pi {\frac {(-2\pi i\xi )^{n-1}}{(n-1)!}}\operatorname {sgn}(\xi )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i{\sqrt {\frac {\pi }{2}}}\cdot {\frac {(-i\omega )^{n-1}}{(n-1)!}}\operatorname {sgn}(\omega )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -i\pi {\frac {(-i\nu )^{n-1}}{(n-1)!}}\operatorname {sgn}(\nu )
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  |x|^{\alpha }\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -2{\frac {\sin(\pi \alpha /2)\Gamma (\alpha +1)}{|2\pi \xi |^{\alpha +1}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {-2}{\sqrt {2\pi }}}{\frac {\sin(\pi \alpha /2)\Gamma (\alpha +1)}{|\omega |^{\alpha +1}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -2{\frac {\sin(\pi \alpha /2)\Gamma (\alpha +1)}{|\nu |^{\alpha +1}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 |x|^{\alpha }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \alpha \mapsto |x|^{\alpha }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\frac {1}{\sqrt {|x|}}}\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\frac {1}{\sqrt {|\xi |}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\frac {1}{\sqrt {|\omega |}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\frac {\sqrt {2\pi }}{\sqrt {|\nu |}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \operatorname {sgn}(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{i\pi \xi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {2}{\pi }}}{\frac {1}{i\omega }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2}{i\nu }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  u(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{2}}\left({\frac {1}{i\pi \xi }}+\delta (\xi )\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {\pi }{2}}}\left({\frac {1}{i\pi \omega }}+\delta (\omega )\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \pi \left({\frac {1}{i\pi \nu }}+\delta (\nu )\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \sum _{n=-\infty }^{\infty }\delta (x-nT)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{T}}\sum _{k=-\infty }^{\infty }\delta \left(\xi -{\frac {k}{T}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {\sqrt {2\pi }}{T}}\sum _{k=-\infty }^{\infty }\delta \left(\omega -{\frac {2\pi k}{T}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2\pi }{T}}\sum _{k=-\infty }^{\infty }\delta \left(\nu -{\frac {2\pi k}{T}}\right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \sum _{n=-\infty }^{\infty }e^{inx}=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 2\pi \sum _{k=-\infty }^{\infty }\delta (x+2\pi k)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  J_{0}(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2\,\operatorname {rect} (\pi \xi )}{\sqrt {1-4\pi ^{2}\xi ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {2}{\pi }}}\cdot {\frac {\operatorname {rect} \left( {\frac {\omega }{2}}\right)}{\sqrt {1-\omega ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2\,\operatorname {rect} \left( {\frac {\nu }{2}}\right)}{\sqrt {1-\nu ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  J_{n}(x)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2(-i)^{n}T_{n}(2\pi \xi )\operatorname {rect} (\pi \xi )}{\sqrt {1-4\pi ^{2}\xi ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\sqrt {\frac {2}{\pi }}}{\frac {(-i)^{n}T_{n}(\omega )\operatorname {rect} \left( {\frac {\omega }{2}}\right)}{\sqrt {1-\omega ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2(-i)^{n}T_{n}(\nu )\operatorname {rect} \left( {\frac {\nu }{2}}\right)}{\sqrt {1-\nu ^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \log \left|x\right|
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -{\frac {1}{2}}{\frac {1}{\left|\xi \right|}}-\gamma \delta \left(\xi \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -{\frac {\sqrt {\pi /2}}{\left|\omega \right|}}-{\sqrt {2\pi }}\gamma \delta \left(\omega \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  -{\frac {\pi }{\left|\nu \right|}}-2\pi \gamma \delta \left(\nu \right)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 \gamma 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \left(\mp ix\right)^{-\alpha }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {\left(2\pi \right)^{\alpha }}{\Gamma \left(\alpha \right)}}u\left(\pm \xi \right)\left(\pm \xi \right)^{\alpha -1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {\sqrt {2\pi }}{\Gamma \left(\alpha \right)}}u\left(\pm \omega \right)\left(\pm \omega \right)^{\alpha -1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2\pi }{\Gamma \left(\alpha \right)}}u\left(\pm \nu \right)\left(\pm \nu \right)^{\alpha -1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x,y)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\xi _{x},\xi _{y})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \iint f(x,y)e^{-2\pi i(\xi _{x}x+\xi _{y}y)}\,dx\,dy
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\omega _{x},\omega _{y})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{2\pi }}\iint f(x,y)e^{-i(\omega _{x}x+\omega _{y}y)}\,dx\,dy
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}(\nu _{x},\nu _{y})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \iint f(x,y)e^{-i(\nu _{x}x+\nu _{y}y)}\,dx\,dy
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-\pi \left(a^{2}x^{2}+b^{2}y^{2}\right)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|ab|}}e^{-\pi \left(\xi _{x}^{2}/a^{2}+\xi _{y}^{2}/b^{2}\right)}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{2\pi \cdot |ab|}}e^{\frac {-\left(\omega _{x}^{2}/a^{2}+\omega _{y}^{2}/b^{2}\right)}{4\pi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{|ab|}}e^{\frac {-\left(\nu _{x}^{2}/a^{2}+\nu _{y}^{2}/b^{2}\right)}{4\pi }}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \mathrm {circ} ({\sqrt {x^{2}+y^{2}}})
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {J_{1}\left(2\pi {\sqrt {\xi _{x}^{2}+\xi _{y}^{2}}}\right)}{\sqrt {\xi _{x}^{2}+\xi _{y}^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {J_{1}\left({\sqrt {\omega _{x}^{2}+\omega _{y}^{2}}}\right)}{\sqrt {\omega _{x}^{2}+\omega _{y}^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {2\pi J_{1}\left({\sqrt {\nu _{x}^{2}+\nu _{y}^{2}}}\right)}{\sqrt {\nu _{x}^{2}+\nu _{y}^{2}}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(\mathbf {x} )\,
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}({\boldsymbol {\xi }})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \int _{\mathbf {R} ^{n}}f(\mathbf {x} )e^{-2\pi i\mathbf {x} \cdot {\boldsymbol {\xi }}}\,d^{n}\mathbf {x} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}({\boldsymbol {\omega }})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{{(2\pi )}^{n/2}}}\int _{\mathbf {R} ^{n}}f(\mathbf {x} )e^{-i{\boldsymbol {\omega }}\cdot \mathbf {x} }\,d^{n}\mathbf {x} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\hat {f}}({\boldsymbol {\nu }})=
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \int _{\mathbf {R} ^{n}}f(\mathbf {x} )e^{-i\mathbf {x} \cdot {\boldsymbol {\nu }}}\,d^{n}\mathbf {x} 
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \chi _{[0,1]}(|\mathbf {x} |)(1-|\mathbf {x} |^{2})^{\delta }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \pi ^{-\delta }\Gamma (\delta +1)|{\boldsymbol {\xi }}|^{-n/2-\delta }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \times J_{n/2+\delta }(2\pi |{\boldsymbol {\xi }}|)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  2^{-\delta }\Gamma (\delta +1)\left|{\boldsymbol {\omega }}\right|^{-n/2-\delta }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \times J_{n/2+\delta }(|{\boldsymbol {\omega }}|)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \pi ^{-\delta }\Gamma (\delta +1)\left|{\frac {\boldsymbol {\nu }}{2\pi }}\right|^{-n/2-\delta }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  \times J_{n/2+\delta }(|{\boldsymbol {\nu }}|)
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  |\mathbf {x} |^{-\alpha },\quad 0<\operatorname {Re} \alpha <n.
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  c_{n-\alpha ,n}(2\pi )^{\alpha -n}|{\boldsymbol {\xi }}|^{-(n-\alpha )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  c_{n-\alpha ,n}(2\pi )^{-n/2}|{\boldsymbol {\omega }}|^{-(n-\alpha )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  c_{n-\alpha ,n}|{\boldsymbol {\nu }}|^{-(n-\alpha )}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  {\frac {1}{\left\|{\boldsymbol {\sigma }}\right\|\left(2\pi \right)^{n/2}}}e^{-{\frac {1}{2}}\mathbf {x} ^{\mathrm {T} }{\boldsymbol {\sigma }}^{-\mathrm {T} }{\boldsymbol {\sigma }}^{-1}\mathbf {x} }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-{\frac {1}{2}}{\boldsymbol {\nu }}^{\mathrm {T} }{\boldsymbol {\sigma }}{\boldsymbol {\sigma }}^{\mathrm {T} }{\boldsymbol {\nu }}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  e^{-2\pi \alpha |\mathbf {x} |}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 c_{n}{\frac {\alpha }{(\alpha ^{2}+|\xi |^{2})^{(n+1)/2}}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 c_{\alpha ,n}=\pi ^{n/2}2^{\alpha }{\frac {\Gamma (\alpha /2)}{\Gamma ((n-\alpha )/2)}}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\boldsymbol {\Sigma }}={\boldsymbol {\sigma }}{\boldsymbol {\sigma }}^{\mathrm {T} }
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 {\boldsymbol {\Sigma }}^{-1}={\boldsymbol {\sigma }}^{-\mathrm {T} }{\boldsymbol {\sigma }}^{-1}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1 c_{n}=\Gamma ((n+1)/2)/\pi ^{(n+1)/2}
+2 https://en.wikipedia.org/wiki/Fourier_transform
+1  f(x) = \int_{c}^{x} R \left(t, \sqrt{P(t)} \right) \, dt, 
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \cos \varphi = \textrm{cn} \; u, \qquad \textrm{and} \qquad \sqrt{1 - m \sin^2 \varphi} = \textrm{dn}\; u.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  F(\varphi,k) = F(\varphi \,|\, k^2) = F(\sin \varphi ; k) = \int_0^\varphi \frac {d\theta}{\sqrt{1 - k^2 \sin^2 \theta}}.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  t=\sin \theta, x=\sin \varphi 
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  F(x ; k) = \int_{0}^{x} \frac{dt}{\sqrt{(1 - t^2)(1 - k^2 t^2)}}.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  F(\varphi \setminus \alpha) = F(\varphi, \sin \alpha) = \int_0^\varphi \frac{d \theta}{\sqrt{1-(\sin \theta \sin \alpha)^2}}.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  F(\varphi, \sin \alpha) = F(\varphi \,|\, \sin^2 \alpha) = F(\varphi \setminus \alpha) = F(\sin \varphi ; \sin \alpha).
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 x = \operatorname{sn}(u,k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 F(x;k) = u;
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(m)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{\sqrt {1-m\sin ^{2}\theta }}}}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  E(\varphi,k) = E(\varphi \,|\,k^2) =
+E(\sin\varphi;k) = \int_0^\varphi \sqrt{1-k^2 \sin^2\theta}\, d\theta.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  t=\sin\theta \; \text{and}\; x=\sin\varphi 
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  E(x;k) = \int_0^x \frac{\sqrt{1-k^2 t^2} }{\sqrt{1-t^2}}\, dt.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  E(\varphi \setminus \alpha) = E(\varphi, \sin \alpha) = \int_0^\varphi \sqrt{1-(\sin \theta \sin \alpha)^2} \,d\theta.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 E(\mathrm{sn}(u ; k) ; k) = \int_0^u \mathrm{dn}^2 (w ; k) \, dw = u - k^2 \int_0^u \mathrm{sn}^2 (w ; k) \, dw = (1-k^2)u + k^2 \int_0^u \mathrm{cn}^2 (w ; k) \, dw.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \varphi \,\!
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 m(\varphi) = a\left(E(\varphi,e)+\frac{d^2}{d\varphi^2}E(\varphi,e)\right),
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  \Pi(n ; \varphi \setminus \alpha) = \int_0^\varphi  \frac{1}{1-n\sin^2 \theta}
+\frac {d\theta}{\sqrt{1-(\sin\theta\sin \alpha)^2}}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  \Pi(n ; \varphi \,|\,m) = \int_{0}^{\sin \varphi} \frac{1}{1-nt^2}
+\frac{dt}{\sqrt{(1-m t^2)(1-t^2) }}.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \Pi(1; \frac \pi 2 \,|\,m)\,\!
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \Pi (n;\,{\mathrm  {am}}(u;k);\,k)=\int _{0}^{u}{\frac  {dw}{1-n\,{\mathrm  {sn}}^{2}(w;k)}}.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 m(\varphi)=a(1-e^2)\Pi(e^2 ; \varphi \,|\,e^2).
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 K(k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{\sqrt {1-k^{2}\sin ^{2}\theta }}}=\int _{0}^{1}{\frac {dt}{\sqrt {(1-t^{2})(1-k^{2}t^{2})}}},}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)=F({\frac {\pi }{2}},k)=F({\frac {\pi }{2}}\,|\,k^{2})=F(1;k).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)={\frac {\pi }{2}}\sum _{n=0}^{\infty }\left[{\frac {(2n)!}{2^{2n}(n!)^{2}}}\right]^{2}k^{2n}={\frac {\pi }{2}}\sum _{n=0}^{\infty }[P_{2n}(0)]^{2}k^{2n},}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)={\frac {\pi }{2}}\left\{1+\left({\frac {1}{2}}\right)^{2}k^{2}+\left({\frac {1\cdot 3}{2\cdot 4}}\right)^{2}k^{4}+\cdots +\left[{\frac {\left(2n-1\right)!!}{\left(2n\right)!!}}\right]^{2}k^{2n}+\cdots \right\},}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)={\frac {\pi }{2}}\,{}_{2}F_{1}\left({\frac {1}{2}},{\frac {1}{2}};1;k^{2}\right).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)={\frac {\frac {\pi }{2}}{\mathrm {agm} (1,{\sqrt {1-k^{2}}})}}.}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k)={\frac {\pi }{2}}\theta _{3}^{2}(q),}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { q(k)=\exp \left(-\pi {\frac {K({\sqrt {1-k^{2}}})}{K(k)}}\right).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { K(k^{2})\approx {\frac {\pi }{2}}+{\frac {\pi }{8}}{\frac {k^{2}}{1-k^{2}}}-{\frac {\pi }{16}}{\frac {k^{4}}{1-k^{2}}}}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { {\frac {\mathrm {d} }{\mathrm {d} k}}\left[k(1-k^{2}){\frac {\mathrm {d} K(k)}{\mathrm {d} k}}\right]=kK(k)}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 K(\sqrt{1-k^2})
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { {\frac {\mathrm {d} }{\mathrm {d} k}}K(k)={\frac {E(k)}{k(1-k^{2})}}-{\frac {K(k)}{k}}}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 E(k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { E(k)=\int _{0}^{\frac {\pi }{2}}{\sqrt {1-k^{2}\sin ^{2}\theta }}\ d\theta =\int _{0}^{1}{\frac {\sqrt {1-k^{2}t^{2}}}{\sqrt {1-t^{2}}}}dt,}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  E(\phi,k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { E(k)=E\left({\frac {\pi }{2}},k\right)=E(1;k).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 a
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 b
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 e=\sqrt{1-b^2/a^2}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 E(e)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 c
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { c=4aE(e).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { E(k)={\frac {\pi }{2}}\sum _{n=0}^{\infty }\left[{\frac {(2n)!}{2^{2n}(n!)^{2}}}\right]^{2}{\frac {k^{2n}}{1-2n}},}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { E(k)={\frac {\pi }{2}}\left\{1-\left({\frac {1}{2}}\right)^{2}{\frac {k^{2}}{1}}-\left({\frac {1\cdot 3}{2\cdot 4}}\right)^{2}{\frac {k^{4}}{3}}-\cdots -\left[{\frac {(2n-1)!!}{(2n)!!}}\right]^{2}{\frac {k^{2n}}{2n-1}}-\cdots \right\}.}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { E(k)={\frac {\pi }{2}}\,{}_{2}F_{1}\left({\frac {1}{2}},-{\frac {1}{2}};1;k^{2}\right).}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \frac{\mathrm{d}E(k)}{\mathrm{d}k}=\frac{E(k)-K(k)}{k}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 (k^2-1) \frac {\mathrm{d}} {\mathrm{d}k} \left[ k \;\frac {\mathrm{d}E(k)} {\mathrm{d}k} \right] = k E(k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 E(\sqrt{1-k^2}) - K(\sqrt{1-k^2})
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 \Pi (n,k)
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 n
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { \Pi (n,k)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{(1-n\sin ^{2}\theta ){\sqrt {1-k^{2}\sin ^{2}\theta }}}}.}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { \Pi '(n,k)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{(1+n\sin ^{2}\theta ){\sqrt {1-k^{2}\sin ^{2}\theta }}}}.}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { {\frac {\partial \Pi (n,k)}{\partial n}}={\frac {1}{2(k^{2}-n)(n-1)}}\left(E(k)+{\frac {1}{n}}(k^{2}-n)K(k)+{\frac {1}{n}}(n^{2}-k^{2})\Pi (n,k)\right)}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 { {\frac {\partial \Pi (n,k)}{\partial k}}={\frac {k}{n-k^{2}}}\left({\frac {E(k)}{k^{2}-1}}+\Pi (n,k)\right)}
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1  K(k) E\left(\sqrt{1-k^2}\right) + E(k) K\left(\sqrt{1-k^2}\right) - K(k) K\left(\sqrt{1-k^2}\right) = \frac \pi 2.
+2 https://en.wikipedia.org/wiki/Elliptic_integral
+1 2^{{\aleph _{0}}}<2^{{\aleph _{1}}}
+2 https://en.wikipedia.org/wiki/Moore_space_%28topology%29
+1 P_{n}
+2 https://en.wikipedia.org/wiki/Path_graph
+1 \text{Quality} = \frac{\text{Results of work efforts}}{\text{Total costs}}
+2 https://en.wikipedia.org/wiki/W._Edwards_Deming
+1 P(event)={\frac  {{\text{number of outcomes in event}}}{{\text{number of outcomes in sample space}}}}
+2 https://en.wikipedia.org/wiki/Sample_space
+1 F(i)=\sum _{{j=1}}^{i}f(j).
+2 https://en.wikipedia.org/wiki/Pseudo-random_number_sampling
+1 f(n;b,c)\propto n^{{-b}}\exp(-c(\log n)^{2}),
+2 https://en.wikipedia.org/wiki/Parabolic_fractal_distribution
+1 {\sqrt {2}}
+2 https://en.wikipedia.org/wiki/Wallpaper_group
+1 N_{2}={\frac {4n}{2m+2n-mn}}
+2 https://en.wikipedia.org/wiki/Regular_polyhedron
+1 { \lambda =1-q}
+2 https://en.wikipedia.org/wiki/Tsallis_distribution
+1 z_{i}=\Phi ^{{-1}}\left({\frac  {i-a}{n+1-2a}}\right),
+2 https://en.wikipedia.org/wiki/Normal_probability_plot
+1 \varphi 
+2 https://en.wikipedia.org/wiki/Phidias
+1  \int_\mbox{this} \qquad \int_\text{this} 
+2 https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Mathematics/Why_you_should_never_use_%5Cmbox_within_Wikipedia
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Yecril
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Compsonheir
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Daviddaved
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:DrPhosphorus
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Pooh4913
+1 \wp 
+2 https://en.wikipedia.org/wiki/Weierstrass_p
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:CRGreathouse
+1 {\frac  {2^{n}-1}{2^{n}}}
+2 https://en.wikipedia.org/wiki/Quaver_rest
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:DavidCBryant
+1 t=s/c_{m}
+2 https://en.wikipedia.org/wiki/Network_performance
+1 {\frac  {\operatorname d^{2}R}{{\operatorname dQ}^{2}}}<{\frac  {\operatorname d^{2}C}{{\operatorname dQ}^{2}}}
+2 https://en.wikipedia.org/wiki/Profit_maximization
+1 \{x\in S(B)\mid b\in x\},
+2 https://en.wikipedia.org/wiki/Stone_space
+1 \Gamma _{0}
+2 https://en.wikipedia.org/wiki/Reverse_mathematics
+1 \pi \!\;\!\!\!\pi 
+2 https://en.wikipedia.org/wiki/Turn_%28geometry%29
+1 \stackrel{\delta\phi\pi\beta}{\Mu}
+2 https://en.wikipedia.org/wiki/Myriad
+1 {\frac  {n\cdot (n+1)\cdots (2n-4)}{(n-2)!}}
+2 https://en.wikipedia.org/wiki/Polygon_triangulation
+1 x={\sqrt {ab}}
+2 https://en.wikipedia.org/wiki/Quadrature_%28mathematics%29
+1 V-E+F=2,
+2 https://en.wikipedia.org/wiki/Vertex_%28geometry%29
+1 d={\sqrt {a^{2}+b^{2}+c^{2}}}.\ 
+2 https://en.wikipedia.org/wiki/Rectangular_prism
+1 {\dot  \gamma }(0)=V.
+2 https://en.wikipedia.org/wiki/Vector_flow
+1 e^{-}e^{+}\to \gamma \to q{\bar  q}
+2 https://en.wikipedia.org/wiki/Vector_meson
+1 { \mathrm {Wb} ={\frac {\mathrm {kg} \cdot \mathrm {m} ^{2}}{\mathrm {s} ^{2}\cdot \mathrm {A} }}=\mathrm {V} \cdot \mathrm {s} =\mathrm {H} \cdot \mathrm {A} =\mathrm {T} \cdot \mathrm {m} ^{2}={\frac {\mathrm {J} }{\mathrm {A} }}=10^{8}\mathrm {Mx} }
+2 https://en.wikipedia.org/wiki/Weber_%28unit%29
+1 T=A+B\cdot \left(\left(\delta {}^{{18}}{\text{O}}\right){\text{calcite}}-\left(\delta {}^{{18}}{\text{O}}\right){\text{water}}\right)
+2 https://en.wikipedia.org/wiki/Oxygen-18
+1 {\rm {1~Pa=1~{\frac {N}{m^{2}}}=1~{\frac {kg}{m\cdot s^{2}}}}}
+2 https://en.wikipedia.org/wiki/Pascal_%28unit%29
+1 { TE=\omega ={\sqrt {\operatorname {Var} (r_{p}-r_{b})}}={\sqrt {{E}[(r_{p}-r_{b})^{2}]-({E}[r_{p}-r_{b}])^{2}}}}
+2 https://en.wikipedia.org/wiki/Tracking_error
+1 H_{T}=\sum _{R}W_{R}\cdot D_{T,R}\ 
+2 https://en.wikipedia.org/wiki/Sievert
+1 N={\frac {120f}{P}}\,
+2 https://en.wikipedia.org/wiki/Utility_frequency
+1 h=\frac{P_a-P_o}{g \rho}
+2 https://en.wikipedia.org/wiki/Pressure_measurement
+1 { 1\ \mathrm {phot} =1\ {\frac {\mathrm {lumen} }{\mathrm {centimeter} ^{2}}}=10,000\ {\frac {\mathrm {lumens} }{\mathrm {meter} ^{2}}}=10,000\ \mathrm {lux} =10\ \mathrm {kilolux} }
+2 https://en.wikipedia.org/wiki/Phot
+1 {\frac  {G\hbar }{c^{3}}}
+2 https://en.wikipedia.org/wiki/Orders_of_magnitude_%28area%29
+1 \nu =\omega /{2\pi }
+2 https://en.wikipedia.org/wiki/Radian_per_second
+1 F_{g}=mg\,
+2 https://en.wikipedia.org/wiki/Weight
+1 \alpha =\pi D_{{\text{p}}}/\lambda ,
+2 https://en.wikipedia.org/wiki/Scattering
+1 \{ 1, 2, 3 \}
+2 https://en.wikipedia.org/wiki/Single-valued_function
+1 { 1+2r(r+1)}
+2 https://en.wikipedia.org/wiki/Von_Neumann_neighborhood
+1 (p\rightarrow q)\rightarrow p\Rightarrow {\overline {p\rightarrow q}}\lor p\Rightarrow {\overline {{\overline {p}}\lor q}}\lor p\Rightarrow (p\land {\overline {q}})\lor p\Rightarrow (p\land {\overline {q}})\lor (p\land 1)\Rightarrow p\land ({\overline {q}}\lor 1)\Rightarrow p\land 1\Rightarrow p.
+2 https://en.wikipedia.org/wiki/Peirce%27s_law
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Stochastic_interpretation
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Wheeler%27s_delayed_choice_experiment
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Objective_collapse_theory
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Doctormatt
+1 \left|\begin{matrix}
+A & B & C \
+a & b & c \
+X & Y & Z \end{matrix}
+\right|
+2 https://en.wikipedia.org/wiki/Pappian_plane
+1 { det(I+e^{A})}
+2 https://en.wikipedia.org/wiki/User_talk:Deeptrivia
+1  {\frac {\partial ^{2}\Psi }{\partial t^{2}}}=\nabla ^{2}\Psi 
+2 https://en.wikipedia.org/wiki/User:Dchmelik
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:ArkianNWM
+1 \mathbb {Q} 
+2 https://en.wikipedia.org/wiki/Q_%28disambiguation%29
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:GaborPete
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:AnnekeBart
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Arthur_Rubin
+1 \sum_{k=1}^{\infty}{x^k \over k!}
+2 https://en.wikipedia.org/wiki/User:Bharath628
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Transactional_interpretation
+1 \Box 
+2 https://en.wikipedia.org/wiki/Non-classical_logic
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Quantum_number
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Quantum_Bayesianism
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Scale_relativity
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Quantum_information_science
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Satyendra_Nath_Bose
+1 { {\begin{array}{l}{\ce {^{235}_{92}U->[\alpha ][7.038\times 10^{8}\ {\ce {y}}]_{90}^{231}Th->[\beta ^{-}][25.52\ {\ce {h}}]_{91}^{231}Pa->[\alpha ][3.276\times 10^{4}\ {\ce {y}}]_{89}^{227}Ac}}{\begin{Bmatrix}{\ce {->[98.62\%\beta ^{-}][21.773\ {\ce {y}}]_{90}^{227}Th->[\alpha ][18.718\ {\ce {d}}]}}\{\ce {->[1.38\%\alpha ][21.773\ y]_{87}^{223}Fr->[\beta ^{-}][21.8\ {\ce {min}}]}}\end{Bmatrix}}{\ce {^{223}_{88}Ra->[\alpha ][11,434\ {\ce {d}}]_{86}^{219}Rn}}\{\ce {^{219}_{86}Rn->[\alpha ][3.96\ {\ce {s}}]_{84}^{215}Po->[\alpha ][1.778\ {\ce {ms}}]_{82}^{211}Pb->[\beta ^{-}][36.1\ {\ce {min}}]_{83}^{211}Bi}}{\begin{Bmatrix}{\ce {->[99.73\%\alpha ][2,13\ {\ce {min}}]_{81}^{207}Tl->[\beta ^{-}][4,77\ {\ce {min}}]}}\{\ce {->[0,27\%\beta ^{-}][2,13\ {\ce {min}}]_{84}^{211}Po->[\alpha ][0,516\ {\ce {s}}]}}\end{Bmatrix}}{\ce {^{207}_{82}Pb_{(stable)}}}\end{array}}}
+2 https://en.wikipedia.org/wiki/Uranium-235
+1 R^{N}
+2 https://en.wikipedia.org/wiki/R._Tyrrell_Rockafellar
+1 {\frac  {x}{(\log x)^{2}}}+O\left({\frac  {x\log \log x}{(\log x)^{3}}}\right)
+2 https://en.wikipedia.org/wiki/Super-prime
+1  \in x_2 \in x_1 \in x_0. 
+2 https://en.wikipedia.org/wiki/Non-well-founded_set_theory
+1 { {\mathfrak {sl}}_{2}~}
+2 https://en.wikipedia.org/wiki/User:Harmonicmap
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Helohe
+1 0.\bar{9}=1
+2 https://en.wikipedia.org/wiki/User:Gantiganti
+1 0.{\bar {9}}
+2 https://en.wikipedia.org/wiki/User:Gilderien
+1 x-x=0
+2 https://en.wikipedia.org/wiki/Referential_transparency_%28computer_science%29
+1 { \pi ={\frac {\ln(-1)}{i}}}
+2 https://en.wikipedia.org/wiki/User_talk:Hypergeometric2F1%28a,b,c,x%29
+1 { gcd(F_{m},F_{n})=F_{gcd(m,n)}}
+2 https://en.wikipedia.org/wiki/User:Hv
+1 { {\overset {\color {Red}\delta +}{\ce {H}}}-{\overset {\color {Red}\delta -}{\ce {Cl}}}\cdots {\overset {\color {Red}\delta +}{\ce {H}}}-{\overset {\color {Red}\delta -}{\ce {Cl}}}}
+2 https://en.wikipedia.org/wiki/Non-covalent
+1 { \varphi _{X+Y}(t)=\varphi _{X}(t)\cdot \varphi _{Y}(t).\,}
+2 https://en.wikipedia.org/wiki/Subindependence
+1 a^{2}=b^{3}=(ab)^{13}=[a,b]^{5}=[a,bab]^{4}=(ababababab^{-1})^{6}=1,\,
+2 https://en.wikipedia.org/wiki/Tits_group
+1 { {\begin{vmatrix}x_{1}&x_{1}^{q}&x_{1}^{q^{2}}\x_{2}&x_{2}^{q}&x_{2}^{q^{2}}\x_{3}&x_{3}^{q}&x_{3}^{q^{2}}\end{vmatrix}}}
+2 https://en.wikipedia.org/wiki/Modular_invariant_of_a_group
+1 T_{\rm c}
+2 https://en.wikipedia.org/wiki/Philip_Warren_Anderson
+1 \chi _{\rho }^{{\lambda }}=\sum _{T}(-1)^{{ht(T)}}
+2 https://en.wikipedia.org/wiki/Murnaghan%E2%80%93Nakayama_rule
+1 { {\begin{aligned}{\text{1.}}\quad &q(a,(-1)a)=1,\{\text{2.}}\quad &q(a,b)=q(a,c)\Leftrightarrow q(a,bc)=1,\{\text{3.}}\quad &q(a,b)=q(c,d)\Rightarrow \exists x\mid q(a,b)=q(a,x),q(c,d)=q(c,x)\end{aligned}}.}
+2 https://en.wikipedia.org/wiki/Quaternionic_structure
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:JackSchmidt
+1 { {\mathcal {F}}\{w(t)\cdot \underbrace {\cos(2\pi 0t)} _{1}\}={\mathcal {F}}\{w(t)\}.}
+2 https://en.wikipedia.org/wiki/Spectral_leakage
+1 _{1}^{3}
+2 https://en.wikipedia.org/wiki/Power_chord
+1 \hat 1
+2 https://en.wikipedia.org/wiki/Roman_numeral_analysis
+1 (\sqrt [12]{2})^7
+2 https://en.wikipedia.org/wiki/Perfect_fifth
+1 o\left({\frac  {n}{\log ^{2}(n)}}\right)\,.
+2 https://en.wikipedia.org/wiki/Primitive_abundant_number
+1 o(X^{{\epsilon }})
+2 https://en.wikipedia.org/wiki/Multiply_perfect_number
+1 p+2b^{2}
+2 https://en.wikipedia.org/wiki/Stern_prime
+1 {\frac {10^{n}-1}{9}}
+2 https://en.wikipedia.org/wiki/Permutable_prime
+1 2 \cdot (1,416,461,893 + 10^{500}) + 1
+2 https://en.wikipedia.org/wiki/Safe_prime
+1 B_{4}=\left({\frac {1}{5}}+{\frac {1}{7}}+{\frac {1}{11}}+{\frac {1}{13}}\right)+\left({\frac {1}{11}}+{\frac {1}{13}}+{\frac {1}{17}}+{\frac {1}{19}}\right)+\left({\frac {1}{101}}+{\frac {1}{103}}+{\frac {1}{107}}+{\frac {1}{109}}\right)+\cdots 
+2 https://en.wikipedia.org/wiki/Prime_quadruplet
+1 p = 10^{999} + n,
+2 https://en.wikipedia.org/wiki/Titanic_prime
+1 { \mathbb {Z} /2^{N}\mathbb {Z} }
+2 https://en.wikipedia.org/wiki/Signed_number_representations
+1 \forall Q:(P\land {\sim }P)\rightarrow Q\;
+2 https://en.wikipedia.org/wiki/Reductio_ad_absurdum
+1  {\frac {64!}{32!{8!}^{2}{2!}^{6}}}
+2 https://en.wikipedia.org/wiki/Shannon_number
+1 d_{N}={\frac  {c_{1}+c_{2}+\cdots +c_{N}}N}.
+2 https://en.wikipedia.org/wiki/Tauberian_theorem
+1 O(x^{1/2+\varepsilon})
+2 https://en.wikipedia.org/wiki/Talk:Analytic_number_theory
+1 \Omega (n\log n)
+2 https://en.wikipedia.org/wiki/Quantum_sort
+1  O(n)
+2 https://en.wikipedia.org/wiki/Smoothsort
+1 O(\left|{V}\right|+\left|{E}\right|)
+2 https://en.wikipedia.org/wiki/Topological_sorting
+1 d(A)=\lim _{n\to \infty }{\frac {|A\cap \{1,\dots ,n\}|}{n}},
+2 https://en.wikipedia.org/wiki/Set_function
+1 S_{n}
+2 https://en.wikipedia.org/wiki/Talk:Symmetric_group
+1 L(R)=\{x\mid \exists yR(x,y)\}.\,
+2 https://en.wikipedia.org/wiki/Search_problem
+1 \binom{n}{k}\ge k!,
+2 https://en.wikipedia.org/wiki/Superpattern
+1 {\begin{pmatrix}1&2&3&\cdots &n\x_{1}&x_{2}&x_{3}&\cdots &x_{n}\\end{pmatrix}},
+2 https://en.wikipedia.org/wiki/Random_permutation
+1 { {\begin{array}{rll}x^{*}&=(x\cdot 1)^{*}&{\mbox{(by ring axioms)}}\&=x^{*}\cdot 1^{*}&{\mbox{(by second condition)}}\end{array}}}
+2 https://en.wikipedia.org/wiki/Talk:%2A-algebra
+1 A\angle \!\ \theta ,
+2 https://en.wikipedia.org/wiki/Phase_angle
+1 { f:X\hookrightarrow Y}
+2 https://en.wikipedia.org/wiki/Talk:Injective_function
+1 |G|=|Z(G)|+\sum _{{i=1\land [G:H_{i}]>1}}^{{i=|S|}}[G:H_{i}]
+2 https://en.wikipedia.org/wiki/Talk:Conjugacy_class
+1 { P^{-1}=P^{T}}
+2 https://en.wikipedia.org/wiki/Talk:Diagonalizable_matrix
+1 { RCA={\frac {E_{ij}/E_{it}}{E_{nj}/E_{nt}}}}
+2 https://en.wikipedia.org/wiki/Revealed_comparative_advantage
+1 { G(m,n,r)=\langle a,b|a^{n}=b^{m}=1,a^{b}=a^{r}\rangle }
+2 https://en.wikipedia.org/wiki/Z-group
+1 W^{{\perp }}
+2 https://en.wikipedia.org/wiki/Talk:Bilinear_form
+1 S_{4}
+2 https://en.wikipedia.org/wiki/Monomial_group
+1 \lim_{t\to 0^+}\frac{f(g(t))-f(x_0)}{t} = u(g'(0)).
+2 https://en.wikipedia.org/wiki/Quasi-derivative
+1 [_{S}\ [_{\mathit {NP}}\ John]\ [_{\mathit {VP}}\ [_{V}\ hit]\ [_{\mathit {NP}}\ the\ [_{N}\ ball]]]]
+2 https://en.wikipedia.org/wiki/Parse_graph
+1 V_{t}\approx pq\left(1-\exp \left\{-{\frac {t}{2N_{e}}}\right\}\right).
+2 https://en.wikipedia.org/wiki/Population_genetics
+1 E={\begin{cases}x<y\y>x\x\ngeq y\y\nleq x\end{cases}}
+2 https://en.wikipedia.org/wiki/Relational_operator
+1 { x+y-1\leq z<{\frac {1}{2}}\quad {\text{and hence}}\quad x+y<{\frac {3}{2}}.}
+2 https://en.wikipedia.org/wiki/Voting_paradox
+1 (P \rightarrow Q) \and (P \rightarrow \neg Q) \leftrightarrow \neg P 
+2 https://en.wikipedia.org/wiki/Negation_introduction
+1 O(2^{0.386n})
+2 https://en.wikipedia.org/wiki/SAT_solver
+1 P(target) = \frac{A(target)}{\pi (dy)^2} = \frac{a r(target)^2 v^2}{(tp)^2 d^4}
+2 https://en.wikipedia.org/wiki/Panspermia
+1 { A^{2}(b^{2}+c^{2}-a^{2})+B^{2}(a^{2}+c^{2}-b^{2})+C^{2}(a^{2}+b^{2}-c^{2})\geq 16Ff,\,}
+2 https://en.wikipedia.org/wiki/Pedoe%27s_inequality
+1 C<r\times B
+2 https://en.wikipedia.org/wiki/W._D._Hamilton
+1 { \langle x,y\mid x^{2^{n-1}}=1,x^{2^{n-2}}=y^{2},yxy^{-1}=x^{-1}\rangle }
+2 https://en.wikipedia.org/wiki/Talk:Quaternion_group
+1 p(t)=\det(tI_{n}-A)\,
+2 https://en.wikipedia.org/wiki/User_talk:Ryan_Reich
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:RobHar
+1  \frac{\pi}{4} = 4 \arctan \left(\frac{1}{5} \right) - \arctan \left(\frac{1}{239} \right) 
+2 https://en.wikipedia.org/wiki/William_Shanks
+1 {\begin{aligned}{\mbox{E2}}\left[0,90^{\circ }\right]&={\mbox{Integral}}'s{\mbox{ divided difference}};\Pr&=a\times {\mbox{E2}}\left[0,90^{\circ }\right]\quad ({\mbox{perimetric radius}});\c&=2\pi \times Pr.\end{aligned}}\,\!
+2 https://en.wikipedia.org/wiki/Talk:Circumference
+1 { na+{\frac {n(n-1)}{1\cdot 2}}\Delta a+{\frac {n(n-1)(n-2)}{1\cdot 2\cdot 3}}\Delta ^{2}a+\cdots ,}
+2 https://en.wikipedia.org/wiki/Pierre_Raymond_de_Montmort
+1 {\frac  {\pi }{4}}=\arctan {\frac  {1}{2}}+\arctan {\frac  {1}{5}}+\arctan {\frac  {1}{8}}.
+2 https://en.wikipedia.org/wiki/Zacharias_Dase
+1 e^{i\pi \ }
+2 https://en.wikipedia.org/wiki/User:Tcnuk
+1 \begin{array}{r}\zeta(s) = 0\ \Re(s) = \frac{1}{2}\end{array}
+2 https://en.wikipedia.org/wiki/User:Topology_Expert
+1 {\overline {A}}
+2 https://en.wikipedia.org/wiki/Null_%28disambiguation%29
+1 \varnothing 
+2 https://en.wikipedia.org/wiki/Talk:%C3%98_%28disambiguation%29
+1 { \Delta H_{\text{sublimation}}=-U_{\text{lattice energy}}-2RT}
+2 https://en.wikipedia.org/wiki/Sublimation_%28phase_transition%29
+1 { \ Q=PIt}
+2 https://en.wikipedia.org/wiki/Thermoelectric_cooler
+1 \theta _{f}\approx \lambda /d
+2 https://en.wikipedia.org/wiki/Young%27s_interference_experiment
+1 \mathrm{Points}\ \mathrm{percentage} = \frac{\mathrm{Points}}{\mathrm{Total \ possible \ points}}
+= \frac{ \mathrm{Overtime \ Losses + (2 \times Wins)}}{\mathrm{ 2 \times Games \ Played }}
+2 https://en.wikipedia.org/wiki/Winning_percentage
+1 \hbar 
+2 https://en.wikipedia.org/wiki/Quantization_%28physics%29
+1 { {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+2 https://en.wikipedia.org/wiki/Transformation_theory_%28quantum_mechanics%29
+1 A_{\Sigma }=8\pi \ell _{\text{PL}}^{2}\gamma \sum _{i}{\sqrt {j_{i}(j_{i}+1)}}
+2 https://en.wikipedia.org/wiki/Spin_networks
+1 \geq 
+2 https://en.wikipedia.org/wiki/Segment_addition_postulate
+1 f = \frac{1.875^2}{2\pi} \frac{a}{l^2} \sqrt \frac{E}{12 \rho}
+2 https://en.wikipedia.org/wiki/Quartz_clock
+1 AN^2+BL^2+CM^2=NB^2+LC^2+MA^2.
+2 https://en.wikipedia.org/wiki/Pedal_triangle
